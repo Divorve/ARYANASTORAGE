@@ -9,6 +9,8 @@
 ╭──────────────────────────────────╮
   Every 5M HP lost triggers a mechanic
   LR and VDK alternate taunts throughout
+  Don't forget that if the DPS is low
+  looping instead of alternating is better
 
   50M  --> Lock designated skills (see class guides below)
   45M  --> Invert Heal · Healers DO NOT heal
