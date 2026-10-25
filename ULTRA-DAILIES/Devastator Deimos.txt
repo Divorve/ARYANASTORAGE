@@ -84,5 +84,3 @@
 ╭──────────────────────────────────╮
   Loop: 4x Phlegethon's Flames  --> Decaying Howl
 ╰──────────────────────────────────╯
-
-Stats: official AQW Wiki
