@@ -58,5 +58,3 @@
      ↳ Chance to stun you (5 - 10s)
   Slash  --> 300 - 450 dmg
 ╰──────────────────────────────────╯
-
-Stats: official AQW Wiki
