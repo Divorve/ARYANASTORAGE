@@ -64,5 +64,3 @@
   Sucker  --> 500 - 820 dmg
      ↳ Sucker (30s): -60% Haste
 ╰──────────────────────────────────╯
-
-Stats: official AQW Wiki
