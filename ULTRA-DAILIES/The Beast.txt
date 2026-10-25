@@ -55,5 +55,3 @@
   Pound  --> 4 795 - 5 860 dmg
   Vortex  --> 4 795 - 5 860 dmg
 ╰──────────────────────────────────╯
-
-Stats: official AQW Wiki
