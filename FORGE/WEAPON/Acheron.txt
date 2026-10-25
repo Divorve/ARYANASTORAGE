@@ -1,44 +1,239 @@
-╔════════════════════════════════════╗
+╔══════════════════════════════════════╗
+║                                      ║
+║               ACHERON                ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-   ACHERON - killer was here
+  Weapon enhancement that supercharges your 3rd skill.
+  Reward ···········  2,000,000 Exp  (quest can only be done once)
 
-╚════════════════════════════════════╝
 
-╭──────────────────────────────────╮
-  Today I stand to speak against imperial colonialism, a system
-  built on theft, erasure, and the arrogant belief that power
-  grants moral superiority. For centuries, empires marched across
-  borders, claiming land they did not own, resources they did not
-  create, and lives they did not value. They called it civilization,
-  but it was violence. They called it progress, but it was plunder.
-  The scars of colonialism are not history; they are present in
-  broken economies, stolen cultures, and borders drawn with no
-  regard for human consequences.
-╰──────────────────────────────────╯
+╔══════════════════════════════════════╗
+║               EFFECT                 ║
+╚══════════════════════════════════════╝
 
-╭──────────────────────────────────╮
-  Imperial colonialism did not disappear. It changed its language.
-  Today, it wears the face of capitalism without limits, a system
-  that prioritizes profit over people and growth over dignity. We
-  are told this is freedom, yet billions are trapped in poverty so
-  a few can accumulate excess. We are told this is efficiency, yet
-  waste piles up while human needs go unmet. Capitalism, in its
-  most extreme form, rewards exploitation and calls it success.
-╰──────────────────────────────────╯
+  💡 Skill 3 ········  100% chance to activate (no cooldown)
+                       80% Magic Damage to up to 2 targets
+                       Always hits and crits
 
-╭──────────────────────────────────╮
-  We live in a world where labor is cheap, but life is expensive.
-  Where corporations have more rights than communities. Where the
-  Global South continues to feed the Global North, just as it did
-  under colonial rule, only now through debt, trade agreements, and
-  economic coercion. This is not accidental. This is design.
-╰──────────────────────────────────╯
+  🩸 Stygian ········  Gain 1 stack for every target struck
+                       Stacks to 30  ·  lasts 6 seconds
+                       Rapid DoT based on max health, grows
+                       with each stack (it drains your HP!)
+                       +30% Damage Boost
+                       +30% Hit Chance
+                       (Only the DoT scales, other effects don't stack)
 
-╭──────────────────────────────────╮
-  To hate imperial colonialism is to refuse amnesia. To critique
-  capitalism is to demand better imagination. We deserve systems
-  rooted in solidarity, not domination. In care, not extraction.
-  In justice, not endless accumulation. Another world is not naive.
-  It is necessary. And it begins when we name the lie, and choose
-  to build something more human in its place.
-╰──────────────────────────────────╯
+
+╔══════════════════════════════════════╗
+║         PRE-REQUIREMENTS             ║
+╚══════════════════════════════════════╝
+
+  Level 80
+  Rank 8 Blacksmithing
+  Completed the Avatar of Fire quest  (see Phase 1)
+  Void Lodestone in your inventory    (see Phase 3)
+
+  Quest is accepted and turned in at  /join Forge
+
+
+╔══════════════════════════════════════╗
+║          THE RED THREAD              ║
+╚══════════════════════════════════════╝
+
+  Quick order of operations:
+
+  1 · Complete Avatar of Fire
+  2 · Farm Dark Gems → Dark Box quest
+      (gives Dark Potion ×20 and ??? (Misc) (2))
+  3 · Collect the 3 keys → Open Ebony Chest → Arcane Lodestone
+  4 · Mercury Elixir → merge Void Lodestone
+  5 · The Power of Darkness (needs Void Lodestone)
+  6 · The Mortal Coil
+  7 · Turn in Acheron at /join Forge ✅
+
+
+╔══════════════════════════════════════╗
+║      PHASE 1 — AVATAR OF FIRE        ║
+║          (/join FireAvatar)          ║
+╚══════════════════════════════════════╝
+
+  Quests begun from Galanoth (NPC)
+  Requires: The Goddess of War questline
+            (long — check the separate Goddess of War guide)
+
+  Final quest · Avatar of Fire
+  ─────────────────────────────
+  → Avatar Tyndarius Defeated ×1  ·  Drops from Avatar Tyndarius
+  → Fire Orb Defeated ×2          ·  Drops from Fire Orb
+  Rewards: 50,000 Gold + 200,000 Exp
+
+
+╔══════════════════════════════════════╗
+║     PHASE 2 — DARK BOX & POTIONS     ║
+║            (/join battleon)          ║
+╚══════════════════════════════════════╝
+
+  Do this early — you need 20 Dark Potions anyway, and the
+  ??? (Misc) (2) you need for Phase 3 is a random reward here.
+
+  A · Get Dark Box + Dark Key  (one-time requirement, not used up)
+  ───────────────────────────────────────────────────────────────
+  Quest ·············  Open Treasure Chests!
+                        Twilly or Valencia  ·  /join battleon
+  Items required ····  Magic Treasure Chest Key ×1
+                        · 2 free each month
+                        · or buy from Twilly for 200 AC
+                       Treasure Chest (Misc) ×1
+                        · Global drop, 1% chance from any monster
+  Keep opening chests until you get Dark Box and Dark Key.
+
+  B · Dark Gem ×20  (one per turn-in)
+  ────────────────────────────────────
+  → /join DarkFortress  ·  Farm Dark Gems
+  ⚠️ Dark Gem stacks to 13 only — turn them in, then farm more
+
+  C · The Dark Box quest  (Twilly, /join battleon)
+  ──────────────────────────────────────────────────
+  Requirements ······  Dark Box + Dark Key in inventory
+  Items required ····  Dark Gem ×1 per turn-in
+  Every turn-in gives:
+  → Dark Potion  (what you need ×20)
+  → Class Boost (60 Min) ×3
+  → Random gold / XP boost bags
+  → ONE random item from a list, which includes ???
+    (the ??? (Misc) (2) item you need for Phase 3)
+
+  Repeat until you have Dark Potion ×20 AND ??? (Misc) (2) ✅
+
+
+╔══════════════════════════════════════╗
+║     PHASE 3 — THE VOID LODESTONE     ║
+╚══════════════════════════════════════╝
+
+  Void Lodestone = Arcane Lodestone ×1 + Mercury Elixir ×1
+  Merged at the Dark Loremaster's Shop  →  /join DoomWood
+
+  A · Arcane Lodestone
+  ─────────────────────
+  Map ··············  /join Dreadfire  (Dreadfire Keep)
+  Quest ············  Open Ebony Chest
+                        Click the Ebony Chest on Screen 6
+  Requirements ·····  ??? (Misc) (2) in your inventory
+  Items required ···  Golden Key (AC) ×1
+                       Silver Key ×1
+                       Bronze Key ×1
+  Reward ···········  Arcane Lodestone
+
+  ⚠️ Silver and Bronze Key are dropped DURING the quest,
+     so accept it first, then go kill for them.
+
+  → Silver Key ·····  /join Dreadfire  ·  Kill Living Brimstone
+  → Bronze Key ·····  /join Dreadfire  ·  Kill Stray Mana
+  → Golden Key (AC) ·  /join zazul  ·  Zazul Treasure Chest
+                       (see maze guide below)
+
+  🔑 Zazul's House — Golden Key
+  ──────────────────────────────
+  Screen 2 ·········  5 doors with a changing counter
+                       Enter a door when the counter says "3"
+                       → takes you to Screen 4
+                       (Counter "Z" sends you back to Battleon)
+  Screen 4 ·········  Invisible maze → chest at the end
+                       Maze guide: https://imgur.com/li3YkzX
+  The chest ········  4-digit passcode, 3 passwords
+                       Enter in this order, clicking "Open"
+                       after each one:
+                         1.  Z, Z, Z, Z
+                         2.  1, 1, 1, 3
+                         3.  1, Z, Z, 1
+                       3 wrong attempts sends you to Screen 5
+  Success opens the Zazul Treasure Chest shop → Golden Key (AC)
+
+  B · Mercury Elixir
+  ───────────────────
+  Map ··············  /join DoomWood  (Doomwood Forest)
+  NPC ··············  Dark LoreMaster
+                       ⚠️ Only visible with Arcane Lodestone in
+                       your inventory
+  Quest ············  Mercury Elixir
+  Items required ···  Mercury Elixir ×1  (temporary item)
+                       → /join BattleUnderB  ·  Kill The Lost
+  Reward ···········  Mercury Elixir
+
+  C · Merge the Void Lodestone
+  ─────────────────────────────
+  Dark Loremaster's Shop  →  /join DoomWood
+  → Arcane Lodestone ×1
+  → Mercury Elixir ×1
+
+
+╔══════════════════════════════════════╗
+║    PHASE 4 — THE POWER OF DARKNESS   ║
+║            (/join Nothing)           ║
+╚══════════════════════════════════════╝
+
+  Requires Void Lodestone to enter the map.
+
+  → Get The Power of Darkness from the Darkness shop
+
+
+╔══════════════════════════════════════╗
+║       PHASE 5 — THE MORTAL COIL      ║
+╚══════════════════════════════════════╝
+
+  Pick ONE method:
+
+  🅰️ Merge it
+  ─────────────
+  Nulgath's Merge Shop  →  /join UltraNulgath
+  → Roentgenium of Nulgath ×4
+
+  Roentgenium of Nulgath
+  → Same map: kill the Ultra boss (Void HighLord's Challenge)
+    → rewards Nulgath Insignia ×5
+  → Merge Nulgath Insignia ×5 for 2 Roentgenium
+  → You need ×4 Roentgenium = ×10 Insignia = 2 boss kills
+
+  🅱️ Drop
+  ─────────
+  → /join Tercessuinotlim  ·  Kill Nulgath (Level 100)
+
+
+╔══════════════════════════════════════╗
+║         FINAL — ACHERON              ║
+║            (/join Forge)             ║
+╚══════════════════════════════════════╝
+
+  Requirements ·····  Level 80
+                       Rank 8 Blacksmithing
+                       Avatar of Fire completed
+                       Void Lodestone in inventory
+  Items required ···  Dark Potion ×20
+                       The Power of Darkness
+                       The Mortal Coil
+  Reward ···········  Acheron ✅  (0 Gold + 2,000,000 Exp)
+
+
+╔══════════════════════════════════════╗
+║          TOTAL REQUIREMENTS          ║
+╚══════════════════════════════════════╝
+
+  Level 80  ·  Rank 8 Blacksmithing
+  Goddess of War + Avatar of Fire completed
+
+  🗝️ Magic Treasure Chest Key ·····  ×1 or more
+  📦 Treasure Chest (Misc) ········  ×1 or more
+  📦 Dark Box + Dark Key ··········  ×1 each
+  💎 Dark Gem ·····················  ×20
+  🧪 Dark Potion ··················  ×20
+  ❓ ??? (Misc) (2) ···············  ×1
+  🔑 Golden Key (AC) ··············  ×1
+  🔑 Silver Key ···················  ×1
+  🔑 Bronze Key ···················  ×1
+  🪨 Arcane Lodestone ·············  ×1
+  ⚗️ Mercury Elixir ···············  ×1
+  🪨 Void Lodestone ···············  ×1
+  🌑 The Power of Darkness ········  ×1
+  🌀 The Mortal Coil ··············  ×1
+     (or Roentgenium of Nulgath ×4 = Nulgath Insignia ×10)
