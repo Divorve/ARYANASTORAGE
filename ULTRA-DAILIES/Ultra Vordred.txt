@@ -44,5 +44,3 @@
   Shadow Slash  --> 241 - 295 dmg
   Shadow Strike  --> 241 - 295 dmg
 ╰──────────────────────────────────╯
-
-Stats: official AQW Wiki
