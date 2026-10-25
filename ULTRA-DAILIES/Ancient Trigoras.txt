@@ -1,0 +1,62 @@
+╔════════════════════════════════╗
+
+       ANCIENT TRIGORAS
+
+╚════════════════════════════════╝
+
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  K.E / CSS   (or any DPS below)
+  VDK         (or AF)
+  LR
+  LoO
+  
+  DPS:          K.E · CSS · Guardian
+                AP · GT · KA
+  Support DPS:  VDK · AF
+  Support:      LoO · AP · LH · LR · KA · AF
+  
+  Best: 2 DPS + 2 Supports
+╰──────────────────────────────────╯
+
+⚔️ ROLES
+╭──────────────────────────────────╮
+  K.E / CSS   --> Main DPS · focus the boss
+  VDK / AF    --> Support DPS · debuffs the boss
+                  and buffs the team
+  LR          --> Support · keep buffs up
+  LoO         --> Cycle 5 · spam buffs
+  
+  💡 Phase 2 has almost twice the HP,
+      keep buffs up through both phases
+╰──────────────────────────────────╯
+
+📍 LOCATION
+╭──────────────────────────────────╮
+  /join ancienttrigoras
+  Player limit: 6
+╰──────────────────────────────────╯
+
+🎯 USED FOR
+╭──────────────────────────────────╮
+  Void Aura (Glimpse Into The Dark quest)
+  Blood Ancient class (Ancient Vitae questline)
+╰──────────────────────────────────╯
+
+📊 STATS
+╭──────────────────────────────────╮
+  HP phase 1: 341 950
+  HP phase 2: 627 640
+  Cannot be stunned
+╰──────────────────────────────────╯
+
+💥 ATTACKS
+╭──────────────────────────────────╮
+  Acid Breath  --> 2 100 - 2 200 dmg
+  Fire Breath  --> 50 - 1 300 dmg
+  Ice Breath  --> 900 - 1 000 dmg
+     ↳ Chance to stun you (5 - 10s)
+  Slash  --> 300 - 450 dmg
+╰──────────────────────────────────╯
+
+Stats: official AQW Wiki

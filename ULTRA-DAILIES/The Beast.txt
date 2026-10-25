@@ -1,0 +1,59 @@
+╔════════════════════════════════╗
+
+          THE BEAST
+
+╚════════════════════════════════╝
+
+👥 COMPOSITION
+╭──────────────────────────────────╮
+  K.E / CSS   (or any DPS below)
+  VDK         (or AF)
+  LR
+  LoO
+  
+  DPS:          K.E · CSS · Guardian
+                AP · GT · KA
+  Support DPS:  VDK · AF
+  Support:      LoO · AP · LH · LR · KA · AF
+  
+  Best: 2 DPS + 2 Supports
+╰──────────────────────────────────╯
+
+⚔️ ROLES
+╭──────────────────────────────────╮
+  K.E / CSS   --> Main DPS · focus the boss
+  VDK / AF    --> Support DPS · debuffs the boss
+                  and buffs the team
+  LR          --> Support · keep buffs up
+  LoO         --> Cycle 5 · spam buffs
+  
+  💡 7 slots: fill the extra spots with DPS
+      to speed up the 1.6M HP
+╰──────────────────────────────────╯
+
+📍 LOCATION
+╭──────────────────────────────────╮
+  /join sevencircleswar
+  Player limit: 7
+╰──────────────────────────────────╯
+
+🎯 USED FOR
+╭──────────────────────────────────╮
+  Legion Tokens + Lineage of Devastation
+  (Daily Exercise 2: The Beast)
+  Head of the Legion Beast badge
+╰──────────────────────────────────╯
+
+📊 STATS
+╭──────────────────────────────────╮
+  HP: 1 666 666
+  Cannot be stunned
+╰──────────────────────────────────╯
+
+💥 ATTACKS
+╭──────────────────────────────────╮
+  Pound  --> 4 795 - 5 860 dmg
+  Vortex  --> 4 795 - 5 860 dmg
+╰──────────────────────────────────╯
+
+Stats: official AQW Wiki
