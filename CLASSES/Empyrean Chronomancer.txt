@@ -1,0 +1,104 @@
+╔══════════════════════════════════════╗
+║                                      ║
+║        EMPYREAN CHRONOMANCER         ║
+║                                      ║
+╚══════════════════════════════════════╝
+
+  Also known as:  Immortal Chronomancer · Eternal Chronomancer (ECM)
+
+  Worth Getting?
+  ──────────────
+  Yes, if you like it — not a meta chrono, but fun and
+  capable of big damage. Large nuke coefficient and a
+  decent nuke cooldown: great for deleting damage-sponge
+  mobs. Very good defenses for a chrono (30% damage
+  reduction + a decent HoT). Basic to use.
+
+  Best Used For:  💥 DPS  |  🧱 High-HP mobs
+
+  Where to Get:   /join curio  ·  6 000 AC
+                  (comes with the cosmetics plus Immortal
+                   and Empyrean Chronomancer)
+
+
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  ✅ Party DPS  (9/10)
+  ⚔️  Weapon ········  Valiance
+  🪖 Helm ··········  Anima
+  🧣 Cape ··········  Vainglory
+                       → Best in parties. No haste worries,
+                         just go all in on nukes
+
+  🔁 Solo DPS  (8/10)
+  ⚔️  Weapon ········  Dauntless
+  🪖 Helm ··········  Anima
+  🧣 Cape ··········  Lament  or  Vainglory
+                       → Fast cooldowns and steady crits,
+                         even when using The Fourth Dimension
+
+
+╔══════════════════════════════════════╗
+║               SKILLS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 1 ········  Time Strike
+                        100% Physical auto attack · 2s (1s)
+
+  💡 Skill 2 ········  Eternal Deadlock  (15 mana · never misses)
+                        60% Physical · 4s cooldown (2s max haste)
+                        Infinite Hit on target: −25% dodge for 5s
+                        +1 Deadlock (stacks to 8)
+                        At 8 → Enter Infinity: +20% crit for 3s
+                        (uses 7 stacks)
+
+  💡 Skill 3 ········  The Fourth Dimension  (15 mana · never misses)
+                        60% Physical · 4s cooldown (2s max haste)
+                        +1 Temporal Rift (stacks to 4)
+                        1st rift starts recording damage for the nuke
+                        +1 Deadlock (stacks to 8)
+                        At 8 → The Fourth Dimension: +20% Physical
+                        damage for 3s (uses 7 stacks)
+
+  💡 Skill 4 ········  Speed Abrasion  (the nuke · 35 mana)
+                        150% Physical · 16s cooldown (8s max haste)
+                        Scales with rifts + damage from the last 10s
+                        → Best at 4 rifts with Fourth Dimension or
+                          Enter Infinity active. 2–3 rifts is fine
+                          for a quick kill
+
+  💡 Skill 5 ········  Taking Eternity  (10 mana · 6 allies)
+                        4s cooldown (2s max haste) · lasts 15s
+                        +30% Damage Resistance
+                        +20% All Out and Crit Modifier
+                        With rifts up: adds a HoT (scales with rifts)
+                        → Use at the start, or mid-fight for healing
+
+  ℹ️  Rift multiplier   1 rift = 0.5  ·  2 = 0.7
+                        3 = 1.0  ·  4 or more = 1.5
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Two buffs ······  Enter Infinity (Skill 2 at 8 Deadlock)
+                        = consistent crits
+                        The Fourth Dimension (Skill 3 at 8 Deadlock)
+                        = maximum damage
+                        Have one of them up before you nuke
+
+  ✅ Party rotation ·  Start:  5 → 2
+                        Then:   3 → 2 → 3 → 2 → 3 → 2 → 5 → 2 → 3 → 4
+                        (The Fourth Dimension is up for the nuke)
+                        Best with LoO or LR buffing your haste + crit
+
+  ✅ Solo rotation ··  Start:  5 → 2
+                        Then:   3 → 2 → 3 → 2 → 3 → 2 → 3 → 2 → 4
+                        (Enter Infinity is up for the nuke)
+                        More consistent when solo
+
+  ℹ️  Note ···········  Both rotations are timed so the Deadlock
+                        buff lands right before you nuke

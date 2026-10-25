@@ -1,0 +1,92 @@
+╔══════════════════════════════════════╗
+║                                      ║
+║          CHRONOMANCER PRIME          ║
+║                                      ║
+╚══════════════════════════════════════╝
+
+  Worth Getting?
+  ──────────────
+  Yes — possibly the easiest chrono to use, with great
+  overall output. Short nuke cycles with high damage.
+  A great first pick chronomancer.
+
+  Best Used For:  💥 DPS  |  🌍 Most game content
+
+
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  ✅ Damage  (9/10)
+  ⚔️  Weapon ········  Dauntless
+  🪖 Helm ··········  Anima
+  🧣 Cape ··········  Vainglory
+                       → Fast haste. Use 5 so you don't miss,
+                         drop 3 (haste buff is already big)
+
+  🔁 Damage, alternative  (8/10)
+  ⚔️  Weapon ········  Lacerate
+  🪖 Helm ··········  Anima
+  🧣 Cape ··········  Vainglory
+                       → Lacerate lowers enemy dodge, so 5 is
+                         optional. Use 3 for the haste buff
+
+
+╔══════════════════════════════════════╗
+║               SKILLS                 ║
+╚══════════════════════════════════════╝
+
+  💡 Skill 2 ········  Temporal Strike
+                        60% Hybrid · 1.5s cooldown (0.75s max haste)
+                        Stacks Temporal Rift each hit
+                        1st rift starts recording your damage
+                        (last 10 seconds) for the nuke
+                        → Spam it to stack rifts fast
+
+  💡 Skill 3 ········  Rift Inversion
+                        70% Hybrid heal · always crits
+                        Heal scales with rifts (uses them up)
+                        +15% Haste for 6s
+                        12s cooldown (6s max haste)
+
+  💡 Skill 4 ········  Rift Collapse  (the nuke)
+                        Uses up your rifts · scales up to 4
+                        80% crit chance · 12s cooldown (6s)
+
+  💡 Skill 5 ········  Rift Burn
+                        Applies a DoT · −15% enemy dodge
+                        So your nuke doesn't miss
+                        12s cooldown (6s max haste)
+
+  ℹ️  Rift multiplier   1 rift = 0.5  ·  2 = 0.7
+                        3 = 1.0  ·  4 or more = 1.5
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Dauntless / with supports
+                        5 → 2 → 2 → 2 → 2 → 4
+                        Skip 3, you already have a haste buff
+
+  ✅ Lacerate ·······  (5) → 3 → 2 → 2 → 2 → 2 → 4
+                        5 is optional, adds some DoT
+
+  💡 Fewer 2s ·······  Low HP enemies don't need 4 rifts,
+                        use fewer 2s before nuking
+
+  💡 Max stacks ·····  You can stack up to 7 rifts before
+                        the nuke's 10s recording runs out
+
+
+╔══════════════════════════════════════╗
+║           EXTRA INFORMATION          ║
+╚══════════════════════════════════════╝
+
+  ℹ️  Coefficient ····  1
+
+  ℹ️  Nuke scales with  All Out · Magic Out · Physical Out
+                        Crit Modifier
+
+  ℹ️  Note ···········  Not tested in practice by the writer

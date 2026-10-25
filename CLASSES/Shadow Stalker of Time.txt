@@ -1,0 +1,158 @@
+╔══════════════════════════════════════╗
+║                                      ║
+║        SHADOW STALKER OF TIME        ║
+║                                      ║
+╚══════════════════════════════════════╝
+
+  Also covers:  Shadow Walker of Time (SWOT)  ·  Short name: SSOT
+
+  Worth Getting?
+  ──────────────
+  Yes — a versatile chrono with high DPS from an infinitely
+  scaling DoT nuke and average farming. Incredibly safe:
+  a great "dodge" support, and with the right timing your
+  team is basically invincible.
+
+  Best Used For:  💥 DPS  |  🛡️ Dodge support  |  🌾 Farming
+
+  Where to Get:   /join curio  ·  6 000 AC
+                  (SSOT + SWOT and their cosmetics)
+
+
+╔══════════════════════════════════════╗
+║            ENHANCEMENTS              ║
+╚══════════════════════════════════════╝
+
+  ✅ DPS soloing  (10/10)
+  ⚔️  Weapon ········  Dauntless
+  🪖 Helm ··········  Vim
+  🧣 Cape ··········  Vainglory
+                       → Probably best DPS. The haste buff
+                         helps keep nukes high
+
+  🔁 DPS soloing, alternative  (9/10)
+  ⚔️  Weapon ········  Smite
+  🪖 Helm ··········  Vim
+  🧣 Cape ··········  Vainglory
+                       → 2nd best DPS, but mana runs out.
+                         Suffers in long fights
+
+  🔁 Sustain soloing  (8/10)
+  ⚔️  Weapon ········  Elysium  or  Mana Vamp
+  🪖 Helm ··········  Vim
+  🧣 Cape ··········  Vainglory
+                       → Steadier DPS with mana regeneration
+
+
+╔══════════════════════════════════════╗
+║               SKILLS                 ║
+╚══════════════════════════════════════╝
+
+  ⏳ Skill 5 (Temporal Eclipse) changes what the other skills do.
+     Each skill below shows both versions.
+
+  💡 Skill 1 ········  Rift of Shadows  (auto attack)
+                        50% Physical · 1.2s (0.6s max haste)
+                        Adds a Chaos Rift (stacks to 5)
+                        −3% enemy hit chance per stack
+                        1st rift starts recording damage (last 10s)
+                        In 5: −3% enemy dodge and +3% your dodge
+                        per stack (to 5)
+                        → Stack 4 rifts before nuking
+
+  💡 Skill 2 ········  Exude  /  Devour  (15 mana · 2 targets)
+                        150% · 6s cooldown (3s max haste)
+                        Outside 5: Physical hit + light DoT
+                        In 5: Magical light HoT
+                        → Extra damage and healing
+
+  💡 Skill 3 ········  Vendetta  /  Umbral Stigma  (30 mana)
+                        6s cooldown (3s max haste)
+                        Outside 5: +20% All Out on the enemy
+                        → Needed to build bigger nukes
+                        In 5: uses all rifts for a delayed heavy
+                        DoT (the nuke), based on the last 10s
+                        → The delay carries damage into the
+                          next rotation
+
+  💡 Skill 4 ········  Silhouette  /  Shadow Warp  (0 mana · 2 targets)
+                        12s cooldown (6s max haste)
+                        Hits you for 380% attack power after 2s
+                        Outside 5: +300% dodge for 4s and taunts
+                        (Focus) for 4s → protects the party
+                        In 5: taunts for 4s, big DoT, +30 mana
+                        → Avoid in 5 vs hard hitters, you lose
+                          your dodge for the next rotation
+
+  ⏳ Skill 5 ········  Temporal Eclipse  (30 mana · 3 targets)
+                        15s cooldown (7.5s max haste)
+                        Max haste in almost every case
+                        (only 30% with no Chaos Rift)
+                        +80% crit chance · −30% enemy hit chance
+                        → Use right before your nuke
+
+  ℹ️  Rift multiplier   1 rift = 0.5  ·  2 = 0.7
+                        3 = 1.0  ·  4 or more = 1.5
+
+
+╔══════════════════════════════════════╗
+║               COMBOS                 ║
+╚══════════════════════════════════════╝
+
+  ✅ Main Rotation ··  4 → 2 → 3 → 5 → 2 → 3
+                        → wait for 5 to expire → repeat
+                        Dodge first, 2 + 3 for damage, then 5
+                        and 2 + 3 again for nuke + HoT
+
+  ✅ DPS (no dodge) ·  3 → 2 → 5 → 4 → 3 → 2
+
+  ✅ Azalith (Elysium)  5 → 3 → 4 → 2 → 3 → 2
+
+  ⚠️  Ultras ·········  Manage your 4: it taunts and costs HP.
+                        Not recommended in pubs
+
+  ✅ Chainkilling ···  4 2 3 5 2 3 2   (boss dies, 3s respawn)
+                        4 3 5 2 3 2     (skip the first 2 for respawn)
+                        4 2 3 5 2 3 2   (back to this if it survives)
+                        → Needs at least Potent Honor or Vainglory
+                        → Kill the boss with the DoT, or your
+                          damage may reset on the next kill
+                        → Stay within 10s between nukes
+
+
+╔══════════════════════════════════════╗
+║   EXTRA INFORMATION — INFINITE NUKE  ║
+╚══════════════════════════════════════╝
+
+  ℹ️  Most bosses ····  A LoO or LR as support is enough.
+                        Read on for hard bosses like Azalith.
+
+  ℹ️  Scales with ····  All Out / All In · Magic Out / Magic In
+                        DoT Out / DoT In
+
+  ℹ️  Passive ········  112% All Out  ·  DoT coefficient 0.2
+
+  ℹ️  Base modifier ··  1.5 (4 rifts) × 0.2 × 2.12 × 1 = 0.636
+
+  💡 The goal ·······  Reach 1.0 or more and the DoT grows
+                        forever. You need about +122% more
+                        from buffs and potions.
+
+  ✅ Buff sources ···  Potent Honor Potion ··  75%
+                        LoO ··················  30%
+                        LR ···················  30%
+                        LH ···················  25%
+                        Bard ·················  20%
+                        LC ···················  15%
+                        Vainglory ············  15%
+
+  ℹ️  Damage cap ·····  100 million. Over 122% just gets you
+                        there faster. Can one-shot ultras with
+                        a boss shield (takes a few minutes)
+
+  ℹ️  Defense debuffs   Arachno, VDK and similar raise the nuke,
+                        but aren't counted in the recording
+
+  ℹ️  Why not solo? ··  At 0.636 the recorded damage caps out,
+                        so it never grows. Above 1.0 every nuke
+                        is bigger than the last.
