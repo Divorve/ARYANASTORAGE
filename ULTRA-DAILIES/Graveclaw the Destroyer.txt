@@ -54,5 +54,3 @@
   Axe Smash  --> 6 388 - 7 808 dmg
   Venom Slash  --> 6 388 - 7 808 dmg
 ╰──────────────────────────────────╯
-
-Stats: official AQW Wiki
