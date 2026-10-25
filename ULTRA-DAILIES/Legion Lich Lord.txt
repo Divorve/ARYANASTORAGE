@@ -55,5 +55,3 @@
   Chain Tornado  --> 14 713 - 17 983 dmg
   Summon Gust  --> 14 713 - 17 983 dmg
 ╰──────────────────────────────────╯
-
-Stats: official AQW Wiki
