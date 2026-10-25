@@ -65,5 +65,3 @@
   Scythe Crosscut  --> 480 - 590 dmg
   Stab & Slash  --> 480 - 590 dmg
 ╰──────────────────────────────────╯
-
-Stats: official AQW Wiki
