@@ -1,36 +1,31 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║             RUSTBUCKET               ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Greatest class in the game. Insanely broken.
-  ...okay maybe not. But it's a decent early game pick.
+                           R U S T B U C K E T
 
-  Best Used For:  💥 Early Game DPS  |  ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:     /join crashsite  ·  Go to Room 3
-                  → Click the broken down armor pieces in the middle-left of the room
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Greatest class in the game. Insanely broken.
+                     ...okay maybe not. But it's a decent early game pick.
 
+  Best for --> 💥 Early Game DPS · ⚔️ Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  How to Get --> /join crashsite · Go to Room 3
+                 --> Click the broken down armor pieces in the middle-left of the room
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Valiance
+  Helm   --> Forge                  Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Valiance
-
-  🪖 Helm ··········  Forge
-
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  5 → 2 → 3 → 4
-                        Repeat skills as they come off cooldown
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ 5 → 2 → 3 → 4
+                    Repeat skills as they come off cooldown
+╰────────────────────────────────────────────────────────────────────────╯

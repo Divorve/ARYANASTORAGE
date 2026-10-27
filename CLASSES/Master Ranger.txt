@@ -1,29 +1,26 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           MASTER RANGER              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — if you're a low-to-mid level player who doesn't have ArchFiend.
+                        M A S T E R    R A N G E R
 
-  Best Used For:  🌾 Farming
-  Also OK For:    ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 10 Sandsea
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — if you're a low-to-mid level player who doesn't have ArchFiend.
 
-  How to Get:     Purchase from Zhoom's Reputation shop at /join sandsea  (50k Gold)
+  Best for    --> 🌾 Farming
+  Also OK For --> ⚔️ Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 10 Sandsea
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  How to Get --> Purchase from Zhoom's Reputation shop at /join sandsea (50k Gold)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Spiral Carve
-  
-  🪖 Helm ··········  Base Forge
-
-  🧣 Cape ··········  Lament
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Spiral Carve
+  Helm   --> Base Forge             Cape   --> Lament
+╰────────────────────────────────────────────────────────────────────────╯

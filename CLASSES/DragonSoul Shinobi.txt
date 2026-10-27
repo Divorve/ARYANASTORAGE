@@ -1,57 +1,48 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║         DRAGONSOUL SHINOBI           ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — if you are mid-level.
+                   D R A G O N S O U L    S H I N O B I
 
-  Best Used For:  ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Storyline: /shogunwar > /shinringrove > /greenshell > /heiwavalley > /shadowfortress
-                  Seasonal (Black Friday): Only /blackfridaywar needed
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — if you are mid-level.
 
-  ℹ️  Note ·······  DragonSoul Shinobi and Shadow Dragon Shinobi are duplicates of the
-                    Rare "Dragon Shinobi" class. If you own that, you don't need this class.
+  Best for --> ⚔️ Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Storyline: /shogunwar > /shinringrove > /greenshell > /heiwavalley > /shadowfortress
+                   Seasonal (Black Friday): Only /blackfridaywar needed
 
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
+  💡 DragonSoul Shinobi and Shadow Dragon Shinobi are duplicates of the
+     Rare "Dragon Shinobi" class. If you own that, you don't need this class.
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
   Obtain 300 Dragon Shinobi Tokens then trade at /join shadowfortress
   (or /join blackfridaywar for the Shadow variant in November)
 
-  "The 8 Heads of Orochi" (Non-Black Friday)
-  ─────────────────────────────────────────────
-  → Accept from Ai no Miko at /join shadowfortress
-  → Kill the 2nd and 3rd Heads of Orochi (or any screen with two)
-  → Requires storyline completion from Requirements above
+  [ "The 8 Heads of Orochi" (Non-Black Friday) ]
+  --> Accept from Ai no Miko at /join shadowfortress
+  --> Kill the 2nd and 3rd Heads of Orochi (or any screen with two)
+  --> Requires storyline completion from Requirements above
 
-  "Dragon Shinobi Tokens" (Black Friday only)
-  ─────────────────────────────────────────────
-  → Accept from Twilly at /join blackfridaywar
-  → Group: Farm BOGOdrone Prime + Executive Assistant Vordred
-  → Solo: Farm a room with Deal Bot 2.0 + Hypnotised Shopper
+  [ "Dragon Shinobi Tokens" (Black Friday only) ]
+  --> Accept from Twilly at /join blackfridaywar
+  --> Group: Farm BOGOdrone Prime + Executive Assistant Vordred
+  --> Solo: Farm a room with Deal Bot 2.0 + Hypnotised Shopper
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Weapon --> Valiance / Dauntless   Helm   --> Vim / Anima
+  Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
-
-  ⚔️  Weapon ········  Valiance
-                       Dauntless
-
-  🪖 Helm ··········  Vim
-                       Anima
-
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  5 → 2 → 2 → 5 → 2 → 2 → 3 → 4 → 5 → 2 → 2
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ 5 → 2 → 2 → 5 → 2 → 2 → 3 → 4 → 5 → 2 → 2
+╰────────────────────────────────────────────────────────────────────────╯

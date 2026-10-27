@@ -1,45 +1,40 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           INFINITY KNIGHT            ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                      I N F I N I T Y    K N I G H T
 
-  Best Used For:  💥 DPS
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:     6,000 AC  →  /join heromart  (2016 Calendar)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for --> 💥 DPS
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  How to Get --> 6,000 AC → /join heromart (2016 Calendar)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Wizard
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Wizard
+  Weapon --> Ravenous
+             Elysium
+             Acheron
+             Wizard
+             (Valiance as Ravenous alternative)
+  Helm   --> Base Forge / Pneuma / Wizard
+  Cape   --> Vainglory
+             Wizard
+             Absolution (for even higher healing)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Ravenous
-                       Elysium
-                       Acheron
-                       Wizard
-                       (Valiance as Ravenous alternative)
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 4 --> 💡 Massive damage — or hold stacks for massive healing
 
-  🪖 Helm ··········  Base Forge
-                       Pneuma
-                       Wizard
+  Opening --> ✅ 3 → 5 → 23 → 25
 
-  🧣 Cape ··········  Vainglory
-                       Wizard
-                       Absolution  (for even higher healing)
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 4 ········  Massive damage — or hold stacks for massive healing
-
-  ✅ Opening ········  3 → 5 → 23 → 25
-
-  ✅ Main Rotation ··  2 → 23  (×2)  →  use  4  when ready  →  repeat from opening
+  Main Rotation --> ✅ 2 → 23 (×2) → use 4 when ready → repeat from opening
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,71 +1,58 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║             KING'S ECHO              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                          K I N G ' S    E C H O
 
-  Best Used For:  💥 DPS
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Level 80
-                  Rank 10 Good  |  Rank 10 Swordhaven
-                  Completion of the Rumbling of Cold Thunder saga
-                  Alden's Liberation Armor
-                  Completion of "The Storm Queen" content
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
-  Starting Location: /join terminatemple  ·  Speak to Victoria (right side)
+  Best for --> 💥 DPS
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 80
+                   Rank 10 Good · Rank 10 Swordhaven
+                   Completion of the Rumbling of Cold Thunder saga
+                   Alden's Liberation Armor
+                   Completion of "The Storm Queen" content
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  Starting Location --> /join terminatemple · Speak to Victoria (right side)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Ravenous / Elysium / Valiance
+  Helm   --> Examen (mana problems) / Pneuma
+  Cape   --> Vainglory / Lament
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Ravenous
-                       Elysium
-                       Valiance
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Full Damage --> ✅ 2 → 3 (×8) → 5 → repeat
 
-  🪖 Helm ··········  Examen   (mana problems)
-                       Pneuma
+  Defensive --> ✅ 4 → 2 → 3 (×8) → 5 → repeat
 
-  🧣 Cape ··········  Vainglory
-                       Lament
+  Full Defense --> ✅ 4 → 2 → 3 (×2) → 4 → 2 → 3 (×2) → 5 → repeat
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ QUESTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 1 · Familial Blessing ]
+  --> Click on Tara on Screen 1 in /join terminatemple
 
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Full Damage ····  2 → 3 (×8) → 5  →  repeat
-
-  ✅ Defensive ······  4 → 2 → 3 (×8) → 5  →  repeat
-
-  ✅ Full Defense ···  4 → 2 → 3 (×2) → 4 → 2 → 3 (×2) → 5  →  repeat
-
-
-╔══════════════════════════════════════╗
-║               QUESTS                 ║
-╚══════════════════════════════════════╝
-
-  1 · Familial Blessing
-  ───────────────────────
-  → Click on Tara on Screen 1 in /join terminatemple
-
-  2 · Echo of the King
-  ──────────────────────
-  → Alteon's Reforged Armor ×1  ·  (Quest from Victoria)
-  → King Alteon's Crown ×1      ·  (Quest from Victoria)
-  → Royal Dragon Sword ×1       ·  (Quest from Victoria)
-  → Alden's Mace ×1             ·  /join castle  ·  Enter throne room → turn right → take from wall
+  [ 2 · Echo of the King ]
+  --> Alteon's Reforged Armor ×1  ·  (Quest from Victoria)
+  --> King Alteon's Crown ×1      ·  (Quest from Victoria)
+  --> Royal Dragon Sword ×1       ·  (Quest from Victoria)
+  --> Alden's Mace ×1             ·  /join castle  ·  Enter throne room → turn right → take from wall
                                    (No quest required)
 
-  3 · The Path to the King  (Sword Quest)
-  ─────────────────────────────────────────
-  → Location: /join portal
+  [ 3 · The Path to the King  (Sword Quest) ]
+  --> Location: /join portal
 
   Endured Against the Defiler      ×100  → /join infernalarena  ·  Kill Destructive Defiler (1 per kill)
                                            Member alt: /join gravechallenge  ·  Kill Graveclaw (10 per kill)
@@ -74,9 +61,8 @@
   Endured Against Chaos            ×113  → /join chaosboss  ·  Kill Ultra Chaos Warlord
   Endured Against the Great Dragon ×70   → /join naoisegrave  ·  Kill Final Dragon
 
-  4 · Purify the Crown  (Crown Quest)
-  ─────────────────────────────────────
-  → Location: /join cleric
+  [ 4 · Purify the Crown  (Crown Quest) ]
+  --> Location: /join cleric
 
   Trace of Chaos    ×13   → /join ultradrakath  ·  Kill Ultra Drakath (low drop rate)
                              OR merge 5× Drakath Insignia at /join championdrakath
@@ -85,8 +71,7 @@
   Calcified Tear    ×60   → /join transformation  ·  Kill Queen of Monsters (chance drop)
                              OR guaranteed at /join queenbattle
 
-  5 · The King's Armour
-  ───────────────────────
+  [ 5 · The King's Armour ]
   Gold Voucher 500k ×100  → /join sevencircleswar  (F2P)
                              OR /join lichwar  (Member)
                              OR Gold farming via Leery
@@ -94,3 +79,4 @@
   Atlas Gold        ×75   → /join atlasfalls  ·  Kill King Zedek  OR  Atlas Lions
   Skye Gold         ×50   → /join queeniona  ·  Kill Queen Iona (~25 kills)
   Camlan Gold       ×120  → /join camlan  ·  Kill two Elven Minibosses near end of map
+╰────────────────────────────────────────────────────────────────────────╯

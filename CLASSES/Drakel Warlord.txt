@@ -1,43 +1,33 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           DRAKEL WARLORD             ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                       D R A K E L    W A R L O R D
 
-  Best Used For:  🛡️  Tanking  |  🤝 Support
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:
-  ─────────────
-  → Merge: Death Pit Arena Medal ×500
-  → OR purchase for 2,000 AC
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
-  💡 Skill 2 Note ···  Reduces non-true damage by 40% — excellent for tanking
+  Best for --> 🛡️ Tanking · 🤝 Support
 
+  [ How to Get: ]
+  --> Merge: Death Pit Arena Medal ×500
+  --> OR purchase for 2,000 AC
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  Skill 2 Note --> 💡 Reduces non-true damage by 40% — excellent for tanking
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Dauntless
-                       Valiance
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Weapon --> Dauntless / Valiance   Helm   --> Vim / Forge
+  Cape   --> Vainglory / Penitence
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🪖 Helm ··········  Vim
-                       Forge
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 4 --> 💡 Guaranteed crit on next 2 autos — primary way to recover mana
+  Skill 2 --> 💡 Stack repeatedly for damage reduction buff
 
-  🧣 Cape ··········  Vainglory
-                       Penitence
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 4 ········  Guaranteed crit on next 2 autos — primary way to recover mana
-  💡 Skill 2 ········  Stack repeatedly for damage reduction buff
-
-  ✅ Main Rotation ··  5 → 3 → 4 → 2  (stack Skill 2)  →  repeat cycle
-                        Spam  4  every time it comes off cooldown
+  Main Rotation --> ✅ 5 → 3 → 4 → 2 (stack Skill 2) → repeat cycle
+                    Spam 4 every time it comes off cooldown
+╰────────────────────────────────────────────────────────────────────────╯

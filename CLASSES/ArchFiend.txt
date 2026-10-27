@@ -1,28 +1,29 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║             ARCHFIEND                ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                            A R C H F I E N D
 
-  Best Used For:  🌾 Farming  |  🤝 Secondary Support
-  Also OK For:    ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Level 50  |  Rank 10 Evil
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
-  ℹ️  Note ···  ArchFiend is a duplicate of the rare "Legendary ArchFiend" class.
-                If you are an older player who owns that, you do not need this class.
+  Best for    --> 🌾 Farming · 🤝 Secondary Support
+  Also OK For --> ⚔️ Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 50 · Rank 10 Evil
 
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
+  💡 ArchFiend is a duplicate of the rare "Legendary ArchFiend" class.
+     If you are an older player who owns that, you do not need this class.
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
   Complete "Void Promotion" from Oblivion at /join tercessuinotlim
-  → Trade the Abyssal Contract in the ArchFiend Merge shop
+  --> Trade the Abyssal Contract in the ArchFiend Merge shop
 
   Unidentified 13              ×3
   Pink Star Diamond of Nulgath ×1
@@ -44,36 +45,27 @@
 
   Dirtlicker Demoted           ×1   → /join fiendshard  ·  Kill Dirtlicker
     (Complete /originul > /fiendshard or /goto someone to access)
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Ravenous (Ultras)
+             Dauntless (Soloing + Farming)
+             Health Vamp (Farming)
+  Helm   --> Anima (Dage) / Vim / Base Forge
+  Cape   --> Vainglory / Lament (if you need the crit)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 4     --> 💡 Increases everyone's crit damage
+  Skill 2 & 5 --> 💡 Debuff the target
+  Skill 4 & 5 --> 💡 Require stacks from Skill 2
 
-  🧿 Class ·········  Luck
+  Main Rotation --> ✅ 3 → 4 → 5 → 3 → 2 (spam)
 
-  ⚔️  Weapon ········  Ravenous    (Ultras)
-                       Dauntless   (Soloing + Farming)
-                       Health Vamp (Farming)
-
-  🪖 Helm ··········  Anima  (Dage)
-                       Vim
-                       Base Forge
-
-  🧣 Cape ··········  Vainglory
-                       Lament  (if you need the crit)
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 4 ········  Increases everyone's crit damage
-  💡 Skill 2 & 5 ···  Debuff the target
-  💡 Skill 4 & 5 ···  Require stacks from Skill 2
-
-  ✅ Main Rotation ··  3 → 4 → 5 → 3 → 2  (spam)
-
-  ✅ Advanced ·······  Stack Skill 2 and 3 to 8 stacks
-                        → then press  5
-                        → spam  4  every time it's off cooldown
+  Advanced --> ✅ Stack Skill 2 and 3 to 8 stacks
+               --> then press 5
+               --> spam 4 every time it's off cooldown
+╰────────────────────────────────────────────────────────────────────────╯

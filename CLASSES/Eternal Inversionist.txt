@@ -1,38 +1,27 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║        ETERNAL INVERSIONIST          ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Absolutely yes — especially as an early to mid game player.
+                 E T E R N A L    I N V E R S I O N I S T
 
-  Best Used For:  🌾 Farming
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:
-  ─────────────
-  → 2,000 AC
-  → OR Rank 10 Eternal  →  /join fourdpyramid
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Absolutely yes — especially as an early to mid game player.
 
+  Best for --> 🌾 Farming
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  [ How to Get: ]
+  --> 2,000 AC
+  --> OR Rank 10 Eternal  →  /join fourdpyramid
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Dauntless / Valiance
+  Helm   --> Anima / Pneuma         Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Dauntless
-                       Valiance
-
-  🪖 Helm ··········  Anima
-                       Pneuma
-
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  Just spam
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ Just spam
+╰────────────────────────────────────────────────────────────────────────╯

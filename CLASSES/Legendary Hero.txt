@@ -1,38 +1,32 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           LEGENDARY HERO             ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                       L E G E N D A R Y    H E R O
 
-  Best Used For:  🤝 Support  |  💚 Heals over Time  |  📈 Buffing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Membership
-                  (Must have purchased membership at least once to access the Lorepedia badge shop)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for --> 🤝 Support · 💚 Heals over Time · 📈 Buffing
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Membership
+                   (Must have purchased membership at least once to access the Lorepedia badge shop)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Valiance
+  Helm   --> Base Forge             Cape   --> Lament / Absolution
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Valiance
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 3 --> 💡 Stack to 8 before using Skill 5 for maximum healing
 
-  🪖 Helm ··········  Base Forge
-
-  🧣 Cape ··········  Lament
-                       Absolution
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 3 ········  Stack to 8 before using Skill 5 for maximum healing
-
-  ✅ Main Rotation ··  Spam everything
-                        Use  5  when Skill 3 reaches 8 stacks
+  Main Rotation --> ✅ Spam everything
+                    Use 5 when Skill 3 reaches 8 stacks
+╰────────────────────────────────────────────────────────────────────────╯

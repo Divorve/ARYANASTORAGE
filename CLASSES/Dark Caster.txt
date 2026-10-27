@@ -1,31 +1,23 @@
-╔══════════════════════════════════════╗
-║                                     		      ║
-║  DARK CASTER / Immortal Dark Caster  	      	      ║
-║                                     	      	      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
+                    DARK CASTER / IMMORTAL DARK CASTER
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS          	              ║
-╚══════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-  🧿 Class ·········  Wizard
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Wizard                 Weapon --> Ravenous
+  Helm   --> Base Forge             Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Ravenous
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ 2 → 4 → 3 → 3 → 3 → 3 → 4 → spam 3
 
-  🪖 Helm ··········  Base Forge
+  🔄 Aura Refresh --> Reapply Soul Barrier → (2 → 4)
+                     Reapply soul conflate → (3 → 4)
 
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                	      	      ║
-╚══════════════════════════════════════╝
-  ✅ Main Rotation ··  2 → 4 → 3 → 3 → 3 → 3 → 4 → spam 3
-
-  🔄 Aura Refresh ···  Reapply Soul Barrier → (2 → 4)
-                      Reapply soul conflate → (3 → 4)
-
-  📝 Notes ··········  Do NOT interrupt combo to refresh auras early
-                      Skill 5 is optional — avoid using mid-rotation
-                      Focus on maintaining auras + spamming 3
+  📝 Notes --> Do NOT interrupt combo to refresh auras early
+              Skill 5 is optional — avoid using mid-rotation
+              Focus on maintaining auras + spamming 3
+╰────────────────────────────────────────────────────────────────────────╯

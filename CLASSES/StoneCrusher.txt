@@ -1,52 +1,45 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            STONECRUSHER              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                         S T O N E C R U S H E R
 
-  Best Used For:  🤝 Support
-  Also Good For:  👑 Ultra Bosses
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 10 Brightoak  |  Rank 10 Mythsong  |  Rank 10 Arcangrove
-                  Storyline: /rivensylth > /elfhame > /darkheart > /gaiazor
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
-  💡 Shortcut:    Spent $9.95+ on ACs or membership?
-                   → Claim the Infinity Titan Bonus Package from your account manager
-                   → Infinity Titan is a duplicate of StoneCrusher — no farming needed
+  Best for      --> 🤝 Support
+  Also Good For --> 👑 Ultra Bosses
 
-  How to Get:     /join gaiazor  ·  Speak to Ravinos Brightglade
-                  → Buy Earth's Song Token + Shaman armor (50k Gold each)
-                  → Merge both in the same shop
+  Shortcut --> 💡 Spent $9.95+ on ACs or membership?
+               --> Claim the Infinity Titan Bonus Package from your account manager
+               --> Infinity Titan is a duplicate of StoneCrusher — no farming needed
 
-  💊 Potions:
-  ─────────────
+  Heal --> Divine · Might · Phonor
+╰────────────────────────────────────────────────────────────────────────╯
+
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 10 Brightoak · Rank 10 Mythsong · Rank 10 Arcangrove
+                   Storyline: /rivensylth > /elfhame > /darkheart > /gaiazor
+
+  How to Get --> /join gaiazor · Speak to Ravinos Brightglade
+                 --> Buy Earth's Song Token + Shaman armor (50k Gold each)
+                 --> Merge both in the same shop
+
+  [ 💊 Potions: ]
   DMG  ·  Malevolent  |  Sage  |  Phonor
-  Heal ·  Divine  |  Might  |  Phonor
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Wizard (Damage) · Fighter (Heal)
+  Weapon --> Valiance / Arcana's Concerto / Awe Blast
+  Helm   --> Anima (Healing) / Pneuma (Damage)
+  Cape   --> Absolution (Healing) / Vainglory (Damage)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
-
-  🧿 Class ·········  Wizard  (Damage)  |  Fighter  (Heal)
-
-  ⚔️  Weapon ········  Valiance
-                       Arcana's Concerto
-                       Awe Blast
-
-  🪖 Helm ··········  Anima   (Healing)
-                       Pneuma  (Damage)
-
-  🧣 Cape ··········  Absolution  (Healing)
-                       Vainglory  (Damage)
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  Just spam
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ Just spam
+╰────────────────────────────────────────────────────────────────────────╯

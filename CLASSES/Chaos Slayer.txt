@@ -1,42 +1,31 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            CHAOS SLAYER              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — especially for low-to-mid level players who don't have ArchFiend.
+                         C H A O S    S L A Y E R
 
-  Best Used For:  🌾 Farming  |  ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:
-  ─────────────
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — especially for low-to-mid level players who don't have ArchFiend.
+
+  Best for --> 🌾 Farming · ⚔️ Soloing
+
+  [ How to Get: ]
   Non-Member  ·  Complete 13 Lords of Chaos story (Map → Story tab)
-                  → Farm Rank 10 Chaos → Purchase at /join mountdoomskull
+                  --> Farm Rank 10 Chaos → Purchase at /join mountdoomskull
 
-  Member  ······  Go to /join mountdoomskull → Farm Rank 10 Chaos
-                  → Press "Legend Skip" at Loremaster Maya → Purchase class
+  Member --> Go to /join mountdoomskull → Farm Rank 10 Chaos
+             --> Press "Legend Skip" at Loremaster Maya → Purchase class
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Valiance / Dauntless / Elysium
+  Helm   --> Anima                  Cape   --> Vainglory / Avarice
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
-
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Valiance
-                       Dauntless
-                       Elysium
-
-  🪖 Helm ··········  Anima
-
-  🧣 Cape ··········  Vainglory
-                       Avarice
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  3→3→5→2→3→2→3→2→3→5→2→3→2→3
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ 3→3→5→2→3→2→3→2→3→5→2→3→2→3
+╰────────────────────────────────────────────────────────────────────────╯

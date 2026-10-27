@@ -1,62 +1,53 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║        CHRONO SHADOWHUNTER           ║
-║                                      ║
-╚══════════════════════════════════════╝ - Lem was here
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Absolutely yes.
+                  C H R O N O    S H A D O W H U N T E R
 
-  Best Used For:  💥 S+++ Tier DPS  |  ⚔️  Soloing  |  🌾 Farming (2-person rooms)
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:     6,000 AC  →  /join heromart  (2024 Calendar)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Absolutely yes.
 
+  Best for --> 💥 S+++ Tier DPS · ⚔️ Soloing · 🌾 Farming (2-person rooms)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  How to Get --> 6,000 AC → /join heromart (2024 Calendar)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Valiance / Arcana's Concerto / Health Vamp (Ultradage)
+  Helm   --> Vim (faster rotations) / Pneuma
+  Cape   --> Vainglory / Lament
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️ Weapon ········  Valiance
-                       Arcana's Concerto
-                       Health Vamp  (Ultradage)
-
-  🪖 Helm ··········  Vim   (faster rotations)
-                       Pneuma
-
-  🧣 Cape ··········  Vainglory
-                       Lament
-
-
-╔══════════════════════════════════════╗
-║       GUNSLINGER MODE (ALT BUILD)     ║
-╚══════════════════════════════════════╝
-
+📘 GUNSLINGER MODE (ALT BUILD)
+╭────────────────────────────────────────────────────────────────────────╮
   Also viable if you're going for Gunslinger mode. Using this specific
   enhancement set grants 1 extra bullet for overall damage.
 
-  ⚔️ Weapon ········  Arcana's Concerto
-  🪖 Helm ··········  Examen
-  🧣 Cape ··········  Vainglory
+  Weapon --> Arcana's Concerto
+  Helm   --> Examen
+  Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 --> 💡 Reloads ammo and grants extra crit — always start with this
 
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
+  Full DPS --> ✅ 2 → 4→4→4→4→4→4 → 5 → repeat cycle
 
-  💡 Skill 2 ········  Reloads ammo and grants extra crit — always start with this
+  Soloing (Safe) --> ✅ 2 → 3→4→3→4→3→4 → 5 → repeat cycle
 
-  ✅ Full DPS ·······  2 → 4→4→4→4→4→4 → 5  →  repeat cycle
-
-  ✅ Soloing (Safe) ·  2 → 3→4→3→4→3→4 → 5  →  repeat cycle
-
-  ✅ Gunslinger ·····  (Only with the Gunslinger enhancement set above,
-                       for the extra bullet)
+  Gunslinger --> ✅ (Only with the Gunslinger enhancement set above,
+                 for the extra bullet)
 
                        2 → 4→4→4→4 → 2
-                       → spam 1→4→1→4→1→4 until you run out of bullets
-                       → 2
-                       → spam 1→4→1→4 until you run out of bullets
-                       → 5  →  repeat cycle
+                       --> spam 1→4→1→4→1→4 until you run out of bullets
+                       --> 2
+                       --> spam 1→4→1→4 until you run out of bullets
+                       --> 5  →  repeat cycle
+╰────────────────────────────────────────────────────────────────────────╯

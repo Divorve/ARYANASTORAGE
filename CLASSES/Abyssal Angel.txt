@@ -1,44 +1,31 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║          ABYSSAL ANGEL               ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
+                        A B Y S S A L    A N G E L
 
-DISCLAIMER!!: the more HP you have the less mana you get when hitting enemies, at least with some classes like that one.
-The class is very dodgy so you dont need to heal often, but if you do say goodbye to your mana
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Worth Getting?
-  ──────────────
-  Not really — better options exist.
-  Not worth 2,000 AC. But if you insist, go ahead bro/broette.
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ⚠️ the more HP you have the less mana you get when hitting enemies, at least with some classes like that one.
+  The class is very dodgy so you dont need to heal often, but if you do say goodbye to your mana
 
-  Best Used For:  🌾 Farming
+  Worth getting? --> Not really — better options exist.
+                     Not worth 2,000 AC. But if you insist, go ahead bro/broette.
 
+  Best for --> 🌾 Farming
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Valiance / Acheron / Dauntless / Spiral Carve
+  Helm   --> Examen / Anima         Cape   --> Lament / Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 --> ⚠️ Gives dodge but forces single target
+              ❌ Never use
 
-  ⚔️  Weapon ········  Valiance
-                       Acheron
-                       Dauntless
-                       Spiral Carve
-
-  🪖 Helm ··········  Examen
-                       Anima
-
-  🧣 Cape ··········  Lament
-                       Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ⚠️  Skill 2 ·······  Gives dodge but forces single target
-                        ❌ Never use
-
-  ✅ Main Rotation ··  3 → 4 → 5  (spam)
+  Main Rotation --> ✅ 3 → 4 → 5 (spam)
+╰────────────────────────────────────────────────────────────────────────╯

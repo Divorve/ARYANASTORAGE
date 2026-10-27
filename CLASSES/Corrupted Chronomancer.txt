@@ -1,77 +1,53 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║        CORRUPTED CHRONOMANCER        ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  Yes, top-tier chrono class.
-  Extremely high nuke damage with full dodge potential.
-  Requires good timing and awareness.
+               C O R R U P T E D    C H R O N O M A N C E R
 
-  Best Used For: Bossing (Solo & Group)
+╚════════════════════════════════════════════════════════════════════════╝
 
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes, top-tier chrono class.
+                     Extremely high nuke damage with full dodge potential.
+                     Requires good timing and awareness.
 
-╔══════════════════════════════════════╗
-║          PRE-REQUIREMENTS            ║
-╚══════════════════════════════════════╝
+  Best for --> Bossing (Solo & Group)
+╰────────────────────────────────────────────────────────────────────────╯
 
-   2019 Calendar / 6,000 Adventure Coins
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  2019 Calendar / 6,000 Adventure Coins
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Dauntless (solo) / Valiance (group / 100%+ crit)
+  Helm   --> Anima / Forge
+  Cape   --> Lament (solo) / Vainglory (group / 100%+ crit)
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  [ Awe Version ]
 
-   Class  Luck
+  Class  --> Luck
+  Weapon --> Lucky Health Vamp (solo) / Lucky Spiral Carve (group)
+  Helm   --> Luck                   Cape   --> Luck
+╰────────────────────────────────────────────────────────────────────────╯
 
-   Weapon  Dauntless (solo)
-            Valiance (group / 100%+ crit)
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  ⚠️ Requires timing — not a brainless spam class
 
-   Helm  Anima / Forge
+  [ Transience + Felicitous Philtre ]
+  Pre-Stack Dodge --> 4 → 4 → 3
+  Main Combo      --> 4 → 2 → 2 → 2 → 4 → 2 → 5 → Dodge → 3
 
-   Cape  Lament (solo)
-            Vainglory (group / 100%+ crit)
+  [ Transience + Infinite Corruption ]
+  Same combo as above
+  ✔ Safer, lower risk
 
+  [ Power + Felicitous Philtre ]
+  Main Combo --> 3 → 2 → 4 → 2 → 2 → 2 → 4 → 5
 
-  🔹 Awe Version 🔹
-
-   Class  Luck
-
-   Weapon  Lucky Health Vamp (solo)
-              Lucky Spiral Carve (group)
-
-   Helm  Luck
-
-   Cape  Luck
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ⚠️  Requires timing — not a brainless spam class
-
-
-
-   Transience + Felicitous Philtre
-
-   Pre-Stack Dodge  4 → 4 → 3
-   Main Combo  4 → 2 → 2 → 2 → 4 → 2 → 5 → Dodge → 3
-
-
-   Transience + Infinite Corruption
-
-   Same combo as above
-     ✔ Safer, lower risk
-
-
-   Power + Felicitous Philtre
-
-   Main Combo  3 → 2 → 4 → 2 → 2 → 2 → 4 → 5
-
-
-   Power + Infinite Corruption
-
-   Same combo as above
-     ✔ Safer version
+  [ Power + Infinite Corruption ]
+  Same combo as above
+  ✔ Safer version
+╰────────────────────────────────────────────────────────────────────────╯

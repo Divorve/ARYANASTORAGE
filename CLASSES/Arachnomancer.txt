@@ -1,43 +1,35 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           ARACHNOMANCER              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                        A R A C H N O M A N C E R
 
-  Best Used For:  🩸 DoT Class with Good Buffs
-  Also OK For:    ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 10 Ravenloss
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for    --> 🩸 DoT Class with Good Buffs
+  Also OK For --> ⚔️ Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 10 Ravenloss
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Ravenous / Dauntless
+  Helm   --> Base Forge / Anima / Vim
+  Cape   --> Vainglory / Penitence
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Ravenous
-                       Dauntless
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 & 3 --> 💡 Grant dodge (lasts ~1 second)
+  Skill 4     --> 💡 Increases DoT damage
+  Skill 5     --> 💡 Increases ALL damage
 
-  🪖 Helm ··········  Base Forge
-                       Anima
-                       Vim
-
-  🧣 Cape ··········  Vainglory
-                       Penitence
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 2 & 3 ···  Grant dodge (lasts ~1 second)
-  💡 Skill 4 ········  Increases DoT damage
-  💡 Skill 5 ········  Increases ALL damage
-
-  ✅ Main Rotation ··  Alternate  2 + 4  and  3 + 5
-                        for dodge and maximum damage
+  Main Rotation --> ✅ Alternate 2 + 4 and 3 + 5
+                    for dodge and maximum damage
+╰────────────────────────────────────────────────────────────────────────╯

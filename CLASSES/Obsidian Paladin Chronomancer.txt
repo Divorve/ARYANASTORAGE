@@ -1,38 +1,31 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║   OBSIDIAN PALADIN CHRONOMANCER      ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+       O B S I D I A N    P A L A D I N    C H R O N O M A N C E R
 
-  Best Used For:  🛡️  Tanking  |  💚 Heals over Time
-  ℹ️  Note ·······  Overpowered version of StoneCrusher
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:     6,000 AC  →  /join heromart  (2023 Calendar)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for --> 🛡️ Tanking · 💚 Heals over Time
+  💡 Overpowered version of StoneCrusher
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  How to Get --> 6,000 AC → /join heromart (2023 Calendar)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Fighter
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Fighter                Weapon --> Mana Vamp / Valiance
+  Helm   --> Healer / Hearty        Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Mana Vamp
-                       Valiance
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 --> 💡 Stack ×4 before nuking with Skill 5
 
-  🪖 Helm ··········  Healer
-                       Hearty
-
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 2 ········  Stack ×4 before nuking with Skill 5
-
-  ✅ Main Rotation ··  4 → 2 → 3  →  stack  2  four times  →  5
+  Main Rotation --> ✅ 4 → 2 → 3 → stack 2 four times → 5
+╰────────────────────────────────────────────────────────────────────────╯

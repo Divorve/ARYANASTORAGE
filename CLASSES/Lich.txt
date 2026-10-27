@@ -1,25 +1,24 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║                 LICH                 ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
+                                 L I C H
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
   Worth Getting?
-  ──────────────
 
-  Best Used For:  ⚔️  Soloing  |  🤝 Farming
+  Best for --> ⚔️ Soloing · 🤝 Farming
 
-  Requirements:   
+  Requirements:
 
-	- LVL 100
-	- Rank 10 Evil rep
-	- Rank 10 Grimskull Trolling rep
+    - LVL 100
+    - Rank 10 Evil rep
+    - Rank 10 Grimskull Trolling rep
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
-
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
   Klaatu's Necronomicon  ×1   → /join necroproject
     Bone Dust              ×6,666  → Kill boss in last room in the same map
     Shadow Lich            ×1      → /join shadowfall  ·  Evil Rep Shop  (Rank 10 Evil required)
@@ -34,25 +33,17 @@
     Grimskull's Favor      ×776    → /join lichwar  ·  Complete medals quests
     Noxus' Favor           ×776    → /join lichwar  ·  Complete medals quests
     Pristine Skull         ×66     → /join moreskulls  ·  Complete "We Will Rebuild (Quest)"
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Ravenous
+  Helm   --> Examen                 Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
-
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Ravenous
-
-  🪖 Helm ··········  Examen
-
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  5 → 4 → 2 → 3  →  LOOP
-                        Combo: 54 (prebuff) - 53 - 523 LOOP
-                        Buffs: Ex Mortis  |  Deathly Frenzy
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ 5 → 4 → 2 → 3 → LOOP
+                    Combo: 54 (prebuff) - 53 - 523 LOOP
+                    Buffs: Ex Mortis · Deathly Frenzy
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,55 +1,43 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║              ARCHMAGE                ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — one of the strongest classes in the game when mastered.
-  Versatile but requires effort to learn.
+                             A R C H M A G E
 
-  Best Used For:  🌾 Farming  |  ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — one of the strongest classes in the game when mastered.
+                     Versatile but requires effort to learn.
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  Best for --> 🌾 Farming · ⚔️ Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck  |  Wizard
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class         --> Luck · Wizard
+  Weapon        --> Valiance
+                    Elysium
+                    Acheron (Farming — fixes Elysium issues with high HP)
+                    Spiral Carve
+                    Awe Blast
+  Helm          --> Pneuma
+  Cape          --> Absolution / Penitence / Vainglory
+  Acheron Notes --> 💡 Less issues with high mana
+                    Massive damage on Skill 3
+                    May need Penitence cape
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Valiance
-                       Elysium
-                       Acheron    (Farming — fixes Elysium issues with high HP)
-                       Spiral Carve
-                       Awe Blast
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 --> 💡 Deals damage based on mana lost · Scales with attack power
+  Skill 3 --> 💡 Increases your damage · Recovers mana — use when low
+  Skill 4 --> 💡 Deals damage based on HP lost · Scales with attack power
 
-  🪖 Helm ··········  Pneuma
+  Main Rotation --> ✅ Spam 3 + 5 then 2 and 4
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧣 Cape ··········  Absolution
-                       Penitence
-                       Vainglory
-
-  💡 Acheron Notes ··  Less issues with high mana
-                        Massive damage on Skill 3
-                        May need Penitence cape
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 2 ········  Deals damage based on mana lost  |  Scales with attack power
-  💡 Skill 3 ········  Increases your damage  |  Recovers mana — use when low
-  💡 Skill 4 ········  Deals damage based on HP lost  |  Scales with attack power
-
-  ✅ Main Rotation ··  Spam  3 + 5  then  2  and  4
-
-
-╔══════════════════════════════════════╗
-║         PRE-REQUIREMENTS             ║
-╚══════════════════════════════════════╝
-
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
   Level 80
   Rank 10 Chaos        Rank 10 Spellcrafting
   Rank 10 Embersea     Rank 10 Etherstorm
@@ -59,118 +47,104 @@
   Completed /brightoak questline
   Completed /originul
   ⚠️  Team recommended for later quests
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║         PREREQUISITE QUESTS          ║
-╚══════════════════════════════════════╝
-
+⚔️ PREREQUISITE QUESTS
+╭────────────────────────────────────────────────────────────────────────╮
   Complete each of the following 5 times:
 
-  Tapping into the Arcane
-  ─────────────────────────
-  → Mythic Quills ×49       ·  Kill Slugfit at /join mobius  or  "Nulgath (Larvae)"
-  → Mythic Shards ×49       ·  Kill Astral Ephemerites at /join timespace
+  [ Tapping into the Arcane ]
+  --> Mythic Quills ×49       ·  Kill Slugfit at /join mobius  or  "Nulgath (Larvae)"
+  --> Mythic Shards ×49       ·  Kill Astral Ephemerites at /join timespace
                                 or Grief at /join underrealm (~50% drop)
-  → Semiramis Feather ×1    ·  /join guardiantree  ·  Accept "Take Down Terrane" → Kill Terrane
-  → Mythic Inc ×1           ·  /join deepchaos  ·  Kill Kathool
+  --> Semiramis Feather ×1    ·  /join guardiantree  ·  Accept "Take Down Terrane" → Kill Terrane
+  --> Mythic Inc ×1           ·  /join deepchaos  ·  Kill Kathool
 
-  Aethereal Flow
-  ────────────────
-  → Celestial Ether ×1  ·  /join celestialarena  ·  Kill Aranx  (~30%)
-  → Chaotic Ether ×1    ·  /join eternalchaos  ·  Kill Eternal Drakath (4th portal)  (~30%)
-  → Mortal Ether ×1     ·  /join shadowattack  ·  Kill Death  (~20%)
-  → Vital Ether ×1      ·  /join gaiazor  ·  Kill Gaiazor  (~20%)
-  → Infernal Ether ×1   ·  /join fiendshard  ·  Kill Nulgath's Fiend Shard  (~20%)
+  [ Aethereal Flow ]
+  --> Celestial Ether ×1  ·  /join celestialarena  ·  Kill Aranx  (~30%)
+  --> Chaotic Ether ×1    ·  /join eternalchaos  ·  Kill Eternal Drakath (4th portal)  (~30%)
+  --> Mortal Ether ×1     ·  /join shadowattack  ·  Kill Death  (~20%)
+  --> Vital Ether ×1      ·  /join gaiazor  ·  Kill Gaiazor  (~20%)
+  --> Infernal Ether ×1   ·  /join fiendshard  ·  Kill Nulgath's Fiend Shard  (~20%)
 
-  Tracing Ley Lines
-  ───────────────────
-  → Sky Locus ×1            ·  /join skytower  ·  Kill Moonstone/Sunstone/Star Sapphire (2%) or Aspect of Good/Evil (25%)
-  → Sea Locus ×1            ·  /join chaoskraken  ·  Kill Chaos Kraken (100%) or Anglerfish/Merdraconian (2%)
-  → Earth Locus ×1          ·  /join ectocave  ·  Kill Ektorax  (~50%)
-  → Fire Locus ×1           ·  /join drakonnan  ·  Kill Drakonnan (30%) or Ultra Drakonnan (50%)
-  → Prime Locus Attunement ×30 · /join elemental  ·  Kill Mana Golem (100%) or any mob (20%)
+  [ Tracing Ley Lines ]
+  --> Sky Locus ×1            ·  /join skytower  ·  Kill Moonstone/Sunstone/Star Sapphire (2%) or Aspect of Good/Evil (25%)
+  --> Sea Locus ×1            ·  /join chaoskraken  ·  Kill Chaos Kraken (100%) or Anglerfish/Merdraconian (2%)
+  --> Earth Locus ×1          ·  /join ectocave  ·  Kill Ektorax  (~50%)
+  --> Fire Locus ×1           ·  /join drakonnan  ·  Kill Drakonnan (30%) or Ultra Drakonnan (50%)
+  --> Prime Locus Attunement ×30 · /join elemental  ·  Kill Mana Golem (100%) or any mob (20%)
 
-  Thaumaturgy
-  ─────────────
-  → Dragon Runestone ×30    ·  /join alchemyacademy  (100k Gold each)
-  → Exalted Paladin Seal ×1 ·  /join darkthronehub  (500k Gold)
-  → Forsaken Doom Seal ×1   ·  /join shadowfall  (500k Gold)
-  → Arcane Lotus ×1
-  → Prismatic Ether ×1
-  → Mystic Scribing Kit ×1
+  [ Thaumaturgy ]
+  --> Dragon Runestone ×30    ·  /join alchemyacademy  (100k Gold each)
+  --> Exalted Paladin Seal ×1 ·  /join darkthronehub  (500k Gold)
+  --> Forsaken Doom Seal ×1   ·  /join shadowfall  (500k Gold)
+  --> Arcane Lotus ×1
+  --> Prismatic Ether ×1
+  --> Mystic Scribing Kit ×1
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║           CLASS QUESTS               ║
-╚══════════════════════════════════════╝
-
-  📖 Book of Magus: Incantation
-  ───────────────────────────────
-  → Brilliant Aura ×200      ·  /join necropolis  ·  "Finding Fragments with Blinding Mace"
-  → Scroll of Mystify ×50    ·  /join spellcraft  ·  Buy Archmage Ink
+⚔️ CLASS QUESTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 📖 Book of Magus: Incantation ]
+  --> Brilliant Aura ×200      ·  /join necropolis  ·  "Finding Fragments with Blinding Mace"
+  --> Scroll of Mystify ×50    ·  /join spellcraft  ·  Buy Archmage Ink
                                   Combo: 1st green top, 2nd grey ×2 middle, 1st red bottom-left, 3rd red bottom-right
-  → Prismatic Seams ×250     ·  /join streamwar  ·  "Mega Timestream Medals" + "Timestream Medals"
-  → Unbound Tome ×1
-  → Celestial Magia ×50      ·  /join timeinn  ·  Kill Ezrajal, Engineer, or Warden  (~30%)
-  → Mortal Essence ×100      ·  /join noxustower or /join lightguardwar  ·  Kill Sigrid Sunshield (100%) or Lightguard Casters (10%)
-  → Orthogonal Energy ×150   ·  /join portalmazec  ·  Kill Pactagonal Knight
+  --> Prismatic Seams ×250     ·  /join streamwar  ·  "Mega Timestream Medals" + "Timestream Medals"
+  --> Unbound Tome ×1
+  --> Celestial Magia ×50      ·  /join timeinn  ·  Kill Ezrajal, Engineer, or Warden  (~30%)
+  --> Mortal Essence ×100      ·  /join noxustower or /join lightguardwar  ·  Kill Sigrid Sunshield (100%) or Lightguard Casters (10%)
+  --> Orthogonal Energy ×150   ·  /join portalmazec  ·  Kill Pactagonal Knight
 
-  🔥 Book of Fire: Immolation
-  ─────────────────────────────
-  → Scroll of Fire Storm ×50 ·  /join spellcraft  ·  Buy Archmage Ink
+  [ 🔥 Book of Fire: Immolation ]
+  --> Scroll of Fire Storm ×50 ·  /join spellcraft  ·  Buy Archmage Ink
                                   Combo: 2nd green top, 2nd red ×2 middle, 1st grey bottom-left, 2nd grey bottom-right
-  → Unbound Tome ×1
-  → ShadowFire Wisps ×200    ·  /join fireavatar  ·  Kill any enemy (100% from Avatar Tyndarius, 10% others)
-  → Spark of Life ×200       ·  /join fotia  ·  Kill Femme Cult Worshiper
-  → Emblazoned Basalt ×200   ·  /join mafic  ·  Kill Scoria Serpent, Living Fire, Volcanic Maggot (10%) or Mafic Dragon (50%)
-  → Dense Dragon Crystal ×200 · /join underlair  ·  Kill Void Draconians
+  --> Unbound Tome ×1
+  --> ShadowFire Wisps ×200    ·  /join fireavatar  ·  Kill any enemy (100% from Avatar Tyndarius, 10% others)
+  --> Spark of Life ×200       ·  /join fotia  ·  Kill Femme Cult Worshiper
+  --> Emblazoned Basalt ×200   ·  /join mafic  ·  Kill Scoria Serpent, Living Fire, Volcanic Maggot (10%) or Mafic Dragon (50%)
+  --> Dense Dragon Crystal ×200 · /join underlair  ·  Kill Void Draconians
 
-  🧊 Book of Ice: Glacial Impact
-  ───────────────────────────────
-  → Scroll of Frostbite ×50  ·  /join spellcraft  ·  Buy Elemental Ink
+  [ 🧊 Book of Ice: Glacial Impact ]
+  --> Scroll of Frostbite ×50  ·  /join spellcraft  ·  Buy Elemental Ink
                                   Combo: Fill every slot with 2nd red rune
-  → Ice Diamond ×100         ·  /join kingcoal  ·  Trade with King Coal
-  → Unbound Tome ×1
-  → Rimeblossom ×100         ·  /join icestormarena  ·  Kill Warlord Icewing (100%) or /join icepike Chained Kezeroth (30%)
-  → Temporal Floe ×100       ·  /join icestormarena  ·  Kill Warlord Icewing  or  /join icedungeon Shade of Kyanos
-  → Starlit Frost ×100       ·  /join icestormarena  ·  Kill Warlord Icewing (100%) or /join icepike Karok the Fallen (30%)
+  --> Ice Diamond ×100         ·  /join kingcoal  ·  Trade with King Coal
+  --> Unbound Tome ×1
+  --> Rimeblossom ×100         ·  /join icestormarena  ·  Kill Warlord Icewing (100%) or /join icepike Chained Kezeroth (30%)
+  --> Temporal Floe ×100       ·  /join icestormarena  ·  Kill Warlord Icewing  or  /join icedungeon Shade of Kyanos
+  --> Starlit Frost ×100       ·  /join icestormarena  ·  Kill Warlord Icewing (100%) or /join icepike Karok the Fallen (30%)
 
-  🌌 Book of Aether: Supernova  ⚠️ Team recommended
-  ────────────────────────────────
-  → Scroll of Eclipse ×50    ·  /join spellcraft  ·  Buy Fading Ink
+  [ 🌌 Book of Aether: Supernova  ⚠️ Team recommended ]
+  --> Scroll of Eclipse ×50    ·  /join spellcraft  ·  Buy Fading Ink
                                   Combo: 3rd red rune in slot 1, 1st red rune in all other slots
-  → Unbound Tome ×1
-  → Void Essentia ×1         ·  /join voidflibbi  ·  Kill Flibbitiestgibbet (4%)
+  --> Unbound Tome ×1
+  --> Void Essentia ×1         ·  /join voidflibbi  ·  Kill Flibbitiestgibbet (4%)
                                   OR merge: Void Essence ×25 + Void Aura ×75 + 750k Gold at /join thevoid
-  → A Fragment of the Beginning ×1 · /join streamwar  ·  Kill Second Speaker (2%)
+  --> A Fragment of the Beginning ×1 · /join streamwar  ·  Kill Second Speaker (2%)
                                   OR merge: Prismatic Seams ×250 + Unbound Thread ×10 + 750k Gold
-  → Vital Exanima ×1         ·  /join dage  ·  Kill Dage the Evil (1%)
+  --> Vital Exanima ×1         ·  /join dage  ·  Kill Dage the Evil (1%)
                                   OR merge: Dage the Evil Insignia ×10 + 750k Gold
-  → Everlight Flame ×1       ·  /join fireavatar  ·  Kill Avatar Tyndarius (1%)
+  --> Everlight Flame ×1       ·  /join fireavatar  ·  Kill Avatar Tyndarius (1%)
                                   OR merge: Avatar Tyndarius Insignia ×5 + 750k Gold
 
-  ✨ Book of Arcana: Arcane Sigil  ⚠️ Team recommended
-  ─────────────────────────────────────
-  → Scroll of Ethereal Curse ×50 · /join spellcraft  ·  Buy Archmage Ink
+  [ ✨ Book of Arcana: Arcane Sigil  ⚠️ Team recommended ]
+  --> Scroll of Ethereal Curse ×50 · /join spellcraft  ·  Buy Archmage Ink
                                   Combo: 1st grey top, 3rd grey ×2 middle, 2nd grey ×2 bottom
-  → The Mortal Coil ×1       ·  /join tercessuinotlim  ·  Kill Nulgath  or  merge Roentgenium of Nulgath ×4
-  → The Divine Will ×1       ·  /join celestialpath  ·  Kill Azalith
-  → Unbound Tome ×1
-  → Insatiable Hunger ×1     ·  /join voidnightbane  ·  Kill Nightbane  (~20%)
-  → Undying Resolve ×1       ·  /join theworld  ·  Kill Encore Darkon (1%)
+  --> The Mortal Coil ×1       ·  /join tercessuinotlim  ·  Kill Nulgath  or  merge Roentgenium of Nulgath ×4
+  --> The Divine Will ×1       ·  /join celestialpath  ·  Kill Azalith
+  --> Unbound Tome ×1
+  --> Insatiable Hunger ×1     ·  /join voidnightbane  ·  Kill Nightbane  (~20%)
+  --> Undying Resolve ×1       ·  /join theworld  ·  Kill Encore Darkon (1%)
                                   OR merge: Darkon Insignia ×5 + 750k Gold at /join ultradarkon
-  → Calamitous Ruin ×1       ·  /join darkcarnax  ·  Kill Nightmare Carnax (7%)
+  --> Calamitous Ruin ×1       ·  /join darkcarnax  ·  Kill Nightmare Carnax (7%)
                                   OR merge: Synthetic Viscera ×25 + 750k Gold
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║          ARCHMAGE'S ASCENSION        ║
-╚══════════════════════════════════════╝
-
+📘 ARCHMAGE'S ASCENSION
+╭────────────────────────────────────────────────────────────────────────╮
   Book of Magus         ×1
   Book of Fire          ×1
   Book of Ice           ×1
   Book of Aether        ×1
   Book of Arcana        ×1
   Elemental Binding     ×250  →  /join archmage  ·  Kill Prismata
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,56 +1,44 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║          SCARLET SORCERESS           ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — if you're a low-to-mid level player who doesn't have ArchFiend or Blaze Binder.
+                    S C A R L E T    S O R C E R E S S
 
-  Best Used For:  🌾 Farming
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Level 50
-                  Storyline: /hedgemaze > /towerofmirrors
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — if you're a low-to-mid level player who doesn't have ArchFiend or Blaze Binder.
 
+  Best for --> 🌾 Farming
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 50
+                   Storyline: /hedgemaze > /towerofmirrors
+╰────────────────────────────────────────────────────────────────────────╯
 
-  Step 1 — Blood Sorceress
-  ──────────────────────────
-  → /join towerofmirrors  ·  Defeat Scarletta
-  → Path from start: left → up → up → up → right → down
-  → Alt: /goto someone at the boss if storyline incomplete
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
+  [ Step 1 — Blood Sorceress ]
+  --> /join towerofmirrors  ·  Defeat Scarletta
+  --> Path from start: left → up → up → up → right → down
+  --> Alt: /goto someone at the boss if storyline incomplete
 
-  Step 2 — Scarlet Sorceress
-  ────────────────────────────
-  → Equip Blood Sorceress → Defeat one enemy
-  → Turn in Thief of Hearts' quest "Blood Sorceress to Scarlet Sorceress"
+  [ Step 2 — Scarlet Sorceress ]
+  --> Equip Blood Sorceress → Defeat one enemy
+  --> Turn in Thief of Hearts' quest "Blood Sorceress to Scarlet Sorceress"
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Wizard · Luck
+  Weapon --> Elysium / Valiance / Ravenous
+  Helm   --> Pneuma / Luck          Cape   --> Vainglory / Luck
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 5 --> 💡 Stack ×5 first · Lasts 18 seconds — no need to refresh every cooldown
 
-  🧿 Class ·········  Wizard  |  Luck
-
-  ⚔️  Weapon ········  Elysium
-                       Valiance
-                       Ravenous
-
-  🪖 Helm ··········  Pneuma
-                       Luck
-
-  🧣 Cape ··········  Vainglory
-                       Luck
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 5 ········  Stack ×5 first  |  Lasts 18 seconds — no need to refresh every cooldown
-
-  ✅ Main Rotation ··  Stack  5  five times  →  use  2, 3, 4  as they come off cooldown
+  Main Rotation --> ✅ Stack 5 five times → use 2, 3, 4 as they come off cooldown
+╰────────────────────────────────────────────────────────────────────────╯

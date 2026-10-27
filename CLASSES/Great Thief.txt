@@ -1,83 +1,68 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║             GREAT THIEF              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — flexible class that can go Full DPS or Defensive,
-  with setups ready for most ultras.
-  Rewards low ping and fast Auto Attack spamming.
+                          G R E A T    T H I E F
 
-  Best Used For:  ⚔️ Full DPS  |  🛡️ Defensive
+╚════════════════════════════════════════════════════════════════════════╝
+
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — flexible class that can go Full DPS or Defensive,
+                     with setups ready for most ultras.
+                     Rewards low ping and fast Auto Attack spamming.
+
+  Best for --> ⚔️ Full DPS · 🛡️ Defensive
   (Post Ravenous change)
+╰────────────────────────────────────────────────────────────────────────╯
 
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ ⚔️ Full DPS ]
+  Before fight --> Use Skill 4 first
 
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
+  Rotation --> ✅ Spam Auto Attack + 2 → 5
+               Use 5 when Hidden Blade is active
+               Use 4 whenever it is off cooldown
 
-  ⚔️ Full DPS
-  ───────────
-  Before fight ····  Use Skill 4 first
+  [ 🛡️ Defensive ]
+  Before fight --> Use Skill 3 & 4 first
 
-  ✅ Rotation ·····  Spam Auto Attack + 2 → 5
-                      Use 5 when Hidden Blade is active
-                      Use 4 whenever it is off cooldown
+  Rotation --> ✅ Spam Auto Attack + 2 → 5
+               Use 5 when Hidden Blade is active
+               Use 3 and 4 whenever off cooldown
 
-  🛡️ Defensive
-  ─────────────
-  Before fight ····  Use Skill 3 & 4 first
+  [ ⚠️ Notes ]
+  1. Using the Dauntless enchantment? You do
+     NOT need to use Skill 4
+  2. Great Thief is at its best with low ping,
+     which means faster Auto Attack spamming
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ✅ Rotation ·····  Spam Auto Attack + 2 → 5
-                      Use 5 when Hidden Blade is active
-                      Use 3 and 4 whenever off cooldown
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  🎆 Awe          --> Full Luck
+                     + Health Vampire
+  🔨 Forge        --> Luck Class
+                     + Arcana's Concerto / Praxis / Dauntless
+                     + Base Forge / Anima / Vim
+                     + Lament / Vainglory
+  🌍 General/Solo --> Luck Class
+                     + Arcana's Concerto / Praxis / Dauntless
+                     + Base Forge / Anima / Vim
+                     + Lament / Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚠️ Notes
-  ─────────
-  1 · Using the Dauntless enchantment? You do
-      NOT need to use Skill 4
-  2 · Great Thief is at its best with low ping,
-      which means faster Auto Attack spamming
+🧪 TONICS & POTIONS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 🍖 Tonics & Elixirs ]
+  Solo & Parties --> Fate / Unstable Fate Tonic
+                     + Potent / Unstable Battle Elixir
 
+  [ 🧪 Potions ]
+  DPS --> Felicitous Philtre
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
-
-  🎆 Awe ··········  Full Luck
-                       + Health Vampire
-
-  🔨 Forge ········  Luck Class
-                       + Arcana's Concerto / Praxis / Dauntless
-                       + Base Forge / Anima / Vim
-                       + Lament / Vainglory
-
-  🌍 General/Solo ·  Luck Class
-                       + Arcana's Concerto / Praxis / Dauntless
-                       + Base Forge / Anima / Vim
-                       + Lament / Vainglory
-
-
-╔══════════════════════════════════════╗
-║         TONICS & POTIONS             ║
-╚══════════════════════════════════════╝
-
-  🍖 Tonics & Elixirs
-  ───────────────────
-  Solo & Parties ··  Fate / Unstable Fate Tonic
-                       + Potent / Unstable Battle Elixir
-
-  🧪 Potions
-  ───────────
-  DPS ·············  Felicitous Philtre
-
-
-╔══════════════════════════════════════╗
-║               ULTRAS                 ║
-╚══════════════════════════════════════╝
-
+👥 ULTRAS
+╭────────────────────────────────────────────────────────────────────────╮
   All setups below use:
   Luck Class + Base Forge / Anima Helm
 
@@ -91,25 +76,22 @@
 
   🐉 Dauntless + Vainglory
      Dage
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║            HOW TO GET IT             ║
-╚══════════════════════════════════════╝
-
+⚔️ HOW TO GET IT
+╭────────────────────────────────────────────────────────────────────────╮
   ❗ Currently there is only 1 method.
 
-  Requirements
-  ─────────────
-  HeroPoints ·······  ×10
-  Cost per point ···  ≈ $5 USD
-  Total ············  ≈ $50 USD
+  [ Requirements ]
+  HeroPoints     --> ×10
+  Cost per point --> ≈ $5 USD
+  Total          --> ≈ $50 USD
 
-  Steps
-  ──────
-  1 · Go to the website  →  https://heromart.com/
-  2 · Select HeroPoints
-  3 · Buy items until you reach 10 HeroPoints
-  4 · Log in to AQWorlds  →  /heromart
-  5 · Talk to Stryche  →  open the Merge Shop
-  6 · Select and obtain Great Thief ✅
+  [ Steps ]
+  1. Go to the website  →  https://heromart.com/
+  2. Select HeroPoints
+  3. Buy items until you reach 10 HeroPoints
+  4. Log in to AQWorlds  →  /heromart
+  5. Talk to Stryche  →  open the Merge Shop
+  6. Select and obtain Great Thief ✅
+╰────────────────────────────────────────────────────────────────────────╯

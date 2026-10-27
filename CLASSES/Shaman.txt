@@ -1,45 +1,35 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║               SHAMAN                 ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                               S H A M A N
 
-  Best Used For:  🌾 Farming  |  ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 10 Arcangrove
-  How to Get:     /join arcangrove  ·  Open merge shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for --> 🌾 Farming · ⚔️ Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 10 Arcangrove
+  How to Get   --> /join arcangrove · Open merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Wizard  |  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Wizard · Luck          Weapon --> Elysium / Ravenous
+  Helm   --> Examen / Wizard / Base Forge
+  Cape   --> Wizard / Absolution / Penitence / Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Elysium
-                       Ravenous
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 4 --> 💡 Use sparingly
 
-  🪖 Helm ··········  Examen
-                       Wizard
-                       Base Forge
+  Soloing --> ✅ 5 → cycle 2 → 3 (×3) i.e. 2·3·2·3·2·3
+              --> repeat cycle
 
-  🧣 Cape ··········  Wizard
-                       Absolution
-                       Penitence
-                       Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 4 ········  Use sparingly
-
-  ✅ Soloing ········  5  →  cycle  2 → 3  (×3)  i.e.  2·3·2·3·2·3
-                        → repeat cycle
-
-  ✅ Farming ········  Spam  2 → 3
+  Farming --> ✅ Spam 2 → 3
+╰────────────────────────────────────────────────────────────────────────╯

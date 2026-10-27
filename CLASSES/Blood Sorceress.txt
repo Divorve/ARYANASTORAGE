@@ -1,42 +1,34 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           BLOOD SORCERESS            ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                      B L O O D    S O R C E R E S S
 
-  Best Used For:  🌾 Farming  (Early–Mid Game)
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:     /join towerofmirrors  ·  Kill Scarletta  (Level 50)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for --> 🌾 Farming (Early–Mid Game)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  How to Get --> /join towerofmirrors · Kill Scarletta (Level 50)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Wizard  |  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Wizard · Luck
+  Weapon --> Elysium / Valiance / Ravenous
+  Helm   --> Pneuma / Luck          Cape   --> Vainglory / Luck
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Elysium
-                       Valiance
-                       Ravenous
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 5 --> 💡 Use to activate then fall into rotation below
+  Skill 4 --> 💡 Use only in dire need of health — costs you HP unnecessarily
 
-  🪖 Helm ··········  Pneuma
-                       Luck
-
-  🧣 Cape ··········  Vainglory
-                       Luck
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 5 ········  Use to activate then fall into rotation below
-  💡 Skill 4 ········  Use only in dire need of health — costs you HP unnecessarily
-
-  ✅ Main Rotation ··  Spam  3  then  2
-                        Use  3  first to deal damage
-                        Use  2  after if the monster attacks you to recover HP
+  Main Rotation --> ✅ Spam 3 then 2
+                    Use 3 first to deal damage
+                    Use 2 after if the monster attacks you to recover HP
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,146 +1,128 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            LORD OF ORDER             ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                       L O R D    O F    O R D E R
 
-  Best Used For:  🤝 Support
-  Also OK For:    ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 7 Fishing  |  Level 85
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
-  Recommended:    13 Lords of Chaos storyline (Map → Story)
-                  /watchtower  |  /citadel > /citadelruins  |  /ravenscar
-                  /spookeasy > /dreammaster  |  /shadowgates
+  Best for    --> 🤝 Support
+  Also OK For --> ⚔️ Soloing
+
+  Recommended --> 13 Lords of Chaos storyline (Map → Story)
+                  /watchtower · /citadel > /citadelruins · /ravenscar
+                  /spookeasy > /dreammaster · /shadowgates
                   /rivensylth > /elfhame > /darkheart > /gaiazor
-                  /livingdungeon  |  /andre  |  /bloodmoon
+                  /livingdungeon · /andre · /bloodmoon
                   /firewar > /northmountain > /charredplains
-                  /doomvault > /doomvaultb  |  /yasaris
-                  Chaorrupter Unlocked  (drops from High Chaos Knight at /chaoswar)
+                  /doomvault > /doomvaultb · /yasaris
+                  Chaorrupter Unlocked (drops from High Chaos Knight at /chaoswar)
 
-  💡 Shortcut:    Own the 11th Anniversary Collection Chest?
-                   → Claim Lord of Order directly — no quests needed
+  Shortcut --> 💡 Own the 11th Anniversary Collection Chest?
+               --> Claim Lord of Order directly — no quests needed
 
-  → Head to /join battleoff  ·  Complete Mirror Drakath's quests (1 per day)
+  --> Head to /join battleoff  ·  Complete Mirror Drakath's quests (1 per day)
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 7 Fishing · Level 85
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Awe Blast / Health Vamp (Ultradage)
+  Helm   --> Base Forge             Cape   --> Penitence / Absolution
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ Just spam
 
-  ⚔️  Weapon ········  Awe Blast
-                       Health Vamp  (Ultradage)
+  Skill 5 --> 💡 Time it to survive specific boss attacks
+              (e.g. Ultradarkon, Ultraspeaker)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🪖 Helm ··········  Base Forge
+⚔️ QUESTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 1 · Heart of Servitude ]
+  --> Pristine Blades of Order  ·  /join watchtower  ·  Kill Chaorrupted Knights
+  --> Dreadrock Donation Receipt ·  /join dreadrock  ·  Buy from Deathgore's shop (1m Gold)
+  --> Deadmoor Spirits Helped   ·  /join deadmoor  ·  Kill Banshee Mallora
+  --> Mage's Gratitude          ·  /join citadelruins  ·  Complete Polish's "Defeat Enn'tropy" quest
+  --> Ravenscar's Truth         ·  /join ravenscar  ·  Buy from Mina's Ghost's shop
 
-  🧣 Cape ··········  Penitence
-                       Absolution
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  Just spam
-
-  💡 Skill 5 ·······  Time it to survive specific boss attacks
-                        (e.g. Ultradarkon, Ultraspeaker)
-
-
-╔══════════════════════════════════════╗
-║               QUESTS                 ║
-╚══════════════════════════════════════╝
-
-  1 · Heart of Servitude
-  ────────────────────────
-  → Pristine Blades of Order  ·  /join watchtower  ·  Kill Chaorrupted Knights
-  → Dreadrock Donation Receipt ·  /join dreadrock  ·  Buy from Deathgore's shop (1m Gold)
-  → Deadmoor Spirits Helped   ·  /join deadmoor  ·  Kill Banshee Mallora
-  → Mage's Gratitude          ·  /join citadelruins  ·  Complete Polish's "Defeat Enn'tropy" quest
-  → Ravenscar's Truth         ·  /join ravenscar  ·  Buy from Mina's Ghost's shop
-
-  2 · Spirit of Justice
-  ───────────────────────
-  → Warden Elfis Detained      ·  /join dwarfprison  ·  Kill Warden Elfis
-  → Piggy Drake Punished       ·  /join prison  ·  Kill Piggy Drake
-  → Mysterious Stranger Foiled ·  /join mysteriousdungeon  ·  Kill Mysterious Stranger (walk right)
+  [ 2 · Spirit of Justice ]
+  --> Warden Elfis Detained      ·  /join dwarfprison  ·  Kill Warden Elfis
+  --> Piggy Drake Punished       ·  /join prison  ·  Kill Piggy Drake
+  --> Mysterious Stranger Foiled ·  /join mysteriousdungeon  ·  Kill Mysterious Stranger (walk right)
                                    💡 If stuck: click cake → loose brick → pencil → rock → cell door
-  → Calico Cobby Crushed       ·  /join dreammaster  ·  Kill Calico Cobby
+  --> Calico Cobby Crushed       ·  /join dreammaster  ·  Kill Calico Cobby
 
-  3 · Purification of Chaos
-  ───────────────────────────
-  → Chaoroot ×15               ·  /join ledgermayne  ·  Kill Ledgermayne (also get Supreme Arcane Staff)
+  [ 3 · Purification of Chaos ]
+  --> Chaoroot ×15               ·  /join ledgermayne  ·  Kill Ledgermayne (also get Supreme Arcane Staff)
                                    💡 Low level: run to safe zone during Mana Discharge
                                    Alt: /join tercessuinotlim  ·  Trade Receipt of Swindle (300k) for 10
-  → Chaotic War Essence ×15    ·  /join chaosboss  ·  Kill Ultra Chaos Warlord
-  → Chaorrupted Particles ×15  ·  /join shadowgates  ·  Kill Chaorruption
-  → Purified Raindrop ×45      ·  /join stormtemple  ·  Kill Chaos Lord Lionfang
+  --> Chaotic War Essence ×15    ·  /join chaosboss  ·  Kill Ultra Chaos Warlord
+  --> Chaorrupted Particles ×15  ·  /join shadowgates  ·  Kill Chaorruption
+  --> Purified Raindrop ×45      ·  /join stormtemple  ·  Kill Chaos Lord Lionfang
 
-  4 · Steadfast Will
-  ────────────────────
-  → Gaiazor's Cornerstone      ·  /join gaiazor  ·  Kill Gaiazor
-  → Dakka's Crystal            ·  /join treetitanbattle  ·  Kill Dakka the Dire Dragon
-  → Andre's Necklace Fragment  ·  /join andre  ·  Kill Giant Necklace
-  → Desolich Skull             ·  /join desolich  ·  Kill Desolich  ⚠️ Group recommended
+  [ 4 · Steadfast Will ]
+  --> Gaiazor's Cornerstone      ·  /join gaiazor  ·  Kill Gaiazor
+  --> Dakka's Crystal            ·  /join treetitanbattle  ·  Kill Dakka the Dire Dragon
+  --> Andre's Necklace Fragment  ·  /join andre  ·  Kill Giant Necklace
+  --> Desolich Skull             ·  /join desolich  ·  Kill Desolich  ⚠️ Group recommended
 
-  5 · Strike of Order
-  ─────────────────────
-  → Hanzamune Dragon Koi Blade ·  /join kitsune  ·  Kill Kitsune
+  [ 5 · Strike of Order ]
+  --> Hanzamune Dragon Koi Blade ·  /join kitsune  ·  Kill Kitsune
                                    ⚠️ Invulnerable in fox form
-  → The Supreme Arcane Staff   ·  /join ledgermayne  ·  Kill Ledgermayne (should have from Quest 3)
-  → Dragonoid of Hours         ·  /join mqlesson  ·  Kill Dragonoid
+  --> The Supreme Arcane Staff   ·  /join ledgermayne  ·  Kill Ledgermayne (should have from Quest 3)
+  --> Dragonoid of Hours         ·  /join mqlesson  ·  Kill Dragonoid
                                    💡 Negates Iadoa's Astral Shift — just keep in inventory
-  → Safiria's Spirit Orb       ·  /join maxius  ·  Click "Take The Spirit Orb" from Safiria
-  → Ice Katana                 ·  /join drakonnan  ·  Complete Yulgar's + Warlic's quests
+  --> Safiria's Spirit Orb       ·  /join maxius  ·  Click "Take The Spirit Orb" from Safiria
+  --> Ice Katana                 ·  /join drakonnan  ·  Complete Yulgar's + Warlic's quests
                                    Rewarded upon completing "Inferno Heart"
 
-  6 · Harmony
-  ─────────────
-  → Unity of Life              ·  /join elemental  ·  Kill Tree of Destiny
-  → Harmony of Solace          ·  /join orchestra  ·  Kill Faust
-  → Teamwork Observed          ·  /join cathedral  ·  Kill Pactagonal Knights
-  → Scroll of Enchantment      ·  /join goose  ·  Kill Queen's Archsage
+  [ 6 · Harmony ]
+  --> Unity of Life              ·  /join elemental  ·  Kill Tree of Destiny
+  --> Harmony of Solace          ·  /join orchestra  ·  Kill Faust
+  --> Teamwork Observed          ·  /join cathedral  ·  Kill Pactagonal Knights
+  --> Scroll of Enchantment      ·  /join goose  ·  Kill Queen's Archsage
                                    Path from first Sage: down → right ×3 → up → right
 
-  7 · Ordinance
-  ───────────────
-  → Acolyte's Braille          ·  /join newfinale  ·  Kill Chaos Healer (Willow Creek section)
-  → Suppressed Drows ×50       ·  /join wardwarf  ·  Kill Drow Assassins
-  → Suppressed Undead ×50      ·  /join warundead  ·  Kill enemies
-  → Suppressed Horcs ×50       ·  /join warhorc  ·  Kill Horc Warriors
-  → Suppressed Weavers ×50     ·  /join weaverwar  ·  Kill Weaver Queen Hounds (Swordhaven section)
-  → Strength of Resilience     ·  /join thevoid  ·  Kill Xyfrag (walk through rooms right and back)
+  [ 7 · Ordinance ]
+  --> Acolyte's Braille          ·  /join newfinale  ·  Kill Chaos Healer (Willow Creek section)
+  --> Suppressed Drows ×50       ·  /join wardwarf  ·  Kill Drow Assassins
+  --> Suppressed Undead ×50      ·  /join warundead  ·  Kill enemies
+  --> Suppressed Horcs ×50       ·  /join warhorc  ·  Kill Horc Warriors
+  --> Suppressed Weavers ×50     ·  /join weaverwar  ·  Kill Weaver Queen Hounds (Swordhaven section)
+  --> Strength of Resilience     ·  /join thevoid  ·  Kill Xyfrag (walk through rooms right and back)
 
-  8 · Axiom
-  ───────────
-  → Law of Nature              ·  /join elfhame  ·  Kill Guardian Spirit
-  → Law of Time                ·  /join deepchaos  ·  Kill Kathool
-  → Law of Gravity             ·  /join necrocavern  ·  Kill Shadowstone Support
+  [ 8 · Axiom ]
+  --> Law of Nature              ·  /join elfhame  ·  Kill Guardian Spirit
+  --> Law of Time                ·  /join deepchaos  ·  Kill Kathool
+  --> Law of Gravity             ·  /join necrocavern  ·  Kill Shadowstone Support
                                    (Select Necrocavern from Braeus' Fast Travel → walk down and right)
-  → Law of Relativity          ·  /join blackholesun  ·  Kill Reflecteract
-  → Law of Conservation of Energy · /join thunderfang  ·  Kill Tonitru
-  → Law of Low Drop Rates ×100 ·  /join lair  ·  Kill Red Dragon (exit left from /underlair)
+  --> Law of Relativity          ·  /join blackholesun  ·  Kill Reflecteract
+  --> Law of Conservation of Energy · /join thunderfang  ·  Kill Tonitru
+  --> Law of Low Drop Rates ×100 ·  /join lair  ·  Kill Red Dragon (exit left from /underlair)
 
-  9 · Blessing of Order
-  ───────────────────────
-  → Weapon Imprint ×15         ·  /join doomvaultb  ·  Kill Undead Raxgore
+  [ 9 · Blessing of Order ]
+  --> Weapon Imprint ×15         ·  /join doomvaultb  ·  Kill Undead Raxgore
                                    ⚠️ Must have completed /doomvault + /doomvaultb quests (/goto does NOT work)
                                    Fast access: /join museum → Valencia → Armour of Awe → Helm Boss
                                    ⚠️ Can lock abilities + Counter Attack — press ESC to avoid reflect
-  → Lure of Order ×1           ·  /join greenguardwest  ·  Faith's Fishin' Gear shop
+  --> Lure of Order ×1           ·  /join greenguardwest  ·  Faith's Fishin' Gear shop
                                    (Map top-right → select Faith near bottom)
                                    Requires Rank 7 Fishing
-  → Quixotic Mana Essence ×1   ·  /join mirrorportal  ·  Kill Ultra Xiang
+  --> Quixotic Mana Essence ×1   ·  /join mirrorportal  ·  Kill Ultra Xiang
                                    💡 Use Sentinel, Dragon of Time, or Healer (HP-based damage)
                                    ⚠️ Group recommended
-  → Inversion Infusion ×1      ·  /join yasaris  ·  Kill Serepthys
+  --> Inversion Infusion ×1      ·  /join yasaris  ·  Kill Serepthys
 
-  10 · The Final Challenge
-  ──────────────────────────
-  → Champion of Chaos Confronted ×1  ·  /join ultradrakath  ·  Kill Champion of Chaos (Drakath)
+  [ 10 · The Final Challenge ]
+  --> Champion of Chaos Confronted ×1  ·  /join ultradrakath  ·  Kill Champion of Chaos (Drakath)
+╰────────────────────────────────────────────────────────────────────────╯

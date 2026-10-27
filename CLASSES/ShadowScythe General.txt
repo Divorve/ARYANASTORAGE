@@ -1,38 +1,29 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║        SHADOWSCYTHE GENERAL          ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — great for 5+ monster farms.
+                 S H A D O W S C Y T H E    G E N E R A L
 
-  Best Used For:  🌾 Farming
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:
-  ─────────────
-  → /join lightguardwar  ·  Kill "Sigrid Sunshield"  ·  Collect 100 Shadow Shield
-  → /join shadowfall  ·  Speak to Gravelyn
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — great for 5+ monster farms.
 
+  Best for --> 🌾 Farming
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  [ How to Get: ]
+  --> /join lightguardwar  ·  Kill "Sigrid Sunshield"  ·  Collect 100 Shadow Shield
+  --> /join shadowfall  ·  Speak to Gravelyn
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Smite
+  Helm   --> Forge                  Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Smite
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 5 --> 💡 Use depending on how aggressive the fight allows
 
-  🪖 Helm ··········  Forge
-
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 5 ········  Use depending on how aggressive the fight allows
-
-  ✅ Main Rotation ··  2 → 3 → 4  (spam)
+  Main Rotation --> ✅ 2 → 3 → 4 (spam)
+╰────────────────────────────────────────────────────────────────────────╯

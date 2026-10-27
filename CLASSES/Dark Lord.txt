@@ -1,28 +1,29 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║              DARK LORD               ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                            D A R K    L O R D
 
-  Best Used For:  🌾 Farming
-  Also OK For:    ⚔️  Soloing  |  🤝 Secondary Support (Debuff/Stun)
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Storyline: /murdermoon > /zorbaspalace
-  ⚠️  Seasonal:   Only available during the May the 4th event
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
-  ℹ️  Note ·······  If you own the Rare Darkside class, select the book at /join curio
-                    to purchase this class and its cosmetics for free
+  Best for    --> 🌾 Farming
+  Also OK For --> ⚔️ Soloing · 🤝 Secondary Support (Debuff/Stun)
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Storyline: /murdermoon > /zorbaspalace
+  Seasonal     --> ⚠️ Only available during the May the 4th event
 
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
+  💡 If you own the Rare Darkside class, select the book at /join curio
+     to purchase this class and its cosmetics for free
+╰────────────────────────────────────────────────────────────────────────╯
 
-  → Merge at Hammer Wateru's Merge Shop at /join murdermoon
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
+  --> Merge at Hammer Wateru's Merge Shop at /join murdermoon
 
   Cyber Ring Crystal       ×66   → /join murdermoon  ·  Complete "Too Dangerous to be Left Alive!"
                                     Defeat Tempest Soldiers
@@ -31,26 +32,16 @@
   Dark Helmet              ×1    → /join zorbaspalace ·  Defeat Zorba the Bakk
   Dotty                    ×15   → /join zorbaspalace ·  Defeat Zorba the Bakk
   Gold Voucher 25k         ×4    → /join murdermoon  ·  Purchase from shop
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Valiance
+  Helm   --> Pneuma / Vim / Base Forge
+  Cape   --> Lament / Avarice (glass cannon)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
-
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Valiance
-
-  🪖 Helm ··········  Pneuma
-                       Vim
-                       Base Forge
-
-  🧣 Cape ··········  Lament
-                       Avarice  (glass cannon)
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  2 → 3 → 4 → 5  →  repeat cycle
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ 2 → 3 → 4 → 5 → repeat cycle
+╰────────────────────────────────────────────────────────────────────────╯

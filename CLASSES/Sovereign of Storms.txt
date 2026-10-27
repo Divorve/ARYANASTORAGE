@@ -1,69 +1,62 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║       SOVEREIGN OF STORMS            ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes & No (Not meta but somewhat convenient)
+                 S O V E R E I G N    O F    S T O R M S
 
-  Best Used For:  Farming
-  Also Good For:  👑 Ultra Bosses 
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 10 Skye | Rank 10 ThunderForge
-                  Storyline: /balemorale > /castleeblana > /loughshine > /naoisegrave > /liatarahill > /castlegaheris
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes & No (Not meta but somewhat convenient)
 
+  Best for      --> Farming
+  Also Good For --> 👑 Ultra Bosses
+╰────────────────────────────────────────────────────────────────────────╯
 
-  How to Get:     Get these materials
-- 10x Lothian Lightning (/queeniona daily quest, can be obtained 10 in a day for Members)
-- StormKing's Storm Bolt (Needs Rank 10 ThunderForge)
-- Skye Warden of the East (150 Liquid Gold Solution + 25 Salvaged Skye Armament in /castleeblana)
-- Skye Warden of the West (36 Solid Gold Alloy + 25 Salvaged Skye Armament in /loughshine)
-- Skye Warden of the South (60 Golden Catalyst + 25 Salvaged Skye Armament in /liatarhill)
-- Queen Iona's Royal Attire  (60 Skye Lightning in /coldthunder)
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 10 Skye · Rank 10 ThunderForge
+                   Storyline: /balemorale > /castleeblana > /loughshine > /naoisegrave > /liatarahill > /castlegaheris
 
-  💊 Potions:
-  ─────────────
-  DMG  ·  Destruction  |  Fate  |  Phonor
+  How to Get --> Get these materials:
+  - 10x Lothian Lightning (/queeniona daily quest, can be obtained 10 in a day for Members)
+  - StormKing's Storm Bolt (Needs Rank 10 ThunderForge)
+  - Skye Warden of the East (150 Liquid Gold Solution + 25 Salvaged Skye Armament in /castleeblana)
+  - Skye Warden of the West (36 Solid Gold Alloy + 25 Salvaged Skye Armament in /loughshine)
+  - Skye Warden of the South (60 Golden Catalyst + 25 Salvaged Skye Armament in /liatarhill)
+  - Queen Iona's Royal Attire (60 Skye Lightning in /coldthunder)
+╰────────────────────────────────────────────────────────────────────────╯
 
+🧪 POTIONS
+╭────────────────────────────────────────────────────────────────────────╮
+  DMG --> Destruction · Fate · Phonor
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║        ENHANCEMENTS                  ║
-╚══════════════════════════════════════╝
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Wizard
+  Weapon --> Valiance/Wizard AweBlast
+  Helm   --> Pneuma/Wizard
+  Cape   --> Penitence (Defense) / Vainglory (Damage)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Wizard
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main combo --> 4 → 2 (5x-20x depending on mana) → 5
+  Self-heal  --> 3 → 2 (as many times as needed for self-heal) → 5
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Valiance/Wizard AweBlast
+⚖️ PROS & CONS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ ✅ Pros ]
+  - Always hits and crits
+  - Can work around Silence since skill 2 needs no mana
+  - Strong in Sustained damage and Self-healing
 
-
-
-  🪖 Helm ··········  Pneuma/Wizard
-
-  🧣 Cape ··········  Penitence (Defense)
-                       Vainglory  (Damage)
-
-
-╔══════════════════════════════════════╗
-║        COMBOS                        ║
-╚══════════════════════════════════════╝
-
-  4 - 2(5x-20x depending on mana) - 5
-  3 - 2(as many times as needed for self-heal) - 5 
-
-╔══════════════════════════════════════╗
-║       PROS & CONS      	           ║
-╚══════════════════════════════════════╝
-
-Pros
-Always hits and crits
-Can work around Silence since skill 2 needs no mana
-Strong in Sustained damage and Self-healing
-
-Cons : 
-Mid-High Tier DPS (Slightly weaker than Chaos Avenger)
-Needs to sacrifice damage to sustain/constantly swap between healing/dealing damage
-Low damage resistance (20%, 40% if use Penitence)
-Cannot withstand burst attacks
-Cannot nuke/burst
-Cannot proc with Ravenous or Elysium due to fairly long skill 3 CD
+  [ ❌ Cons ]
+  - Mid-High Tier DPS (Slightly weaker than Chaos Avenger)
+  - Needs to sacrifice damage to sustain/constantly swap between healing/dealing damage
+  - Low damage resistance (20%, 40% if use Penitence)
+  - Cannot withstand burst attacks
+  - Cannot nuke/burst
+  - Cannot proc with Ravenous or Elysium due to fairly long skill 3 CD
+╰────────────────────────────────────────────────────────────────────────╯

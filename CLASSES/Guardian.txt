@@ -1,38 +1,33 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║              GUARDIAN                ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                             G U A R D I A N
 
-  Best Used For:  🤝 DPS Support
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:     /join tower  ·  Guardian Shop
-                  ⚠️  Account must be verified with an AQ Guardian account
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for --> 🤝 DPS Support
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  How to Get --> /join tower · Guardian Shop
+                 ⚠️ Account must be verified with an AQ Guardian account
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Ravenous (Group + Ultras + Solo)
+             Spiral Carve (if no Ravenous)
+  Helm   --> Vim                    Cape   --> Vainglory / Penitence
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Ravenous      (Group + Ultras + Solo)
-                       Spiral Carve  (if no Ravenous)
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ 2 → 3 → 2 → 5 → repeat cycle
 
-  🪖 Helm ··········  Vim
-
-  🧣 Cape ··········  Vainglory
-                       Penitence
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  2 → 3 → 2 → 5  →  repeat cycle
-
-  💡 Skill 4 ········  Use only if you really need mana
+  Skill 4 --> 💡 Use only if you really need mana
+╰────────────────────────────────────────────────────────────────────────╯

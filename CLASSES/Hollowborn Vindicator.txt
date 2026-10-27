@@ -1,25 +1,27 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║        HOLLOWBORN VINDICATOR         ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — though better options exist.
-  Essentially Exalted Soul Cleaver with different animations.
+                H O L L O W B O R N    V I N D I C A T O R
 
-  Best Used For:  💥 DPS  (Semi-Tanky)
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:     Start at /join ultragramielhub
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — though better options exist.
+                     Essentially Exalted Soul Cleaver with different animations.
 
-  💊 Potions ·······  Fate Tonic  |  Battle Elixir  |  Felicitous Philtre
+  Best for --> 💥 DPS (Semi-Tanky)
 
+  💊 Potions --> Fate Tonic · Battle Elixir · Felicitous Philtre
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║      OPTION 1 — EASY (Weekly)        ║
-║  "Echoes of a Forgotten Fate"        ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  How to Get --> Start at /join ultragramielhub
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚔️ OPTION 1 — EASY (WEEKLY)
+╭────────────────────────────────────────────────────────────────────────╮
+  "Echoes of a Forgotten Fate"
 
   Death's Power          ×4    → /join shadowattack  ·  Kill Death (Monster)
   Hollow Soul            ×300  → /join hbchallenge   ·  Kill The Darkdweller (with party)
@@ -30,12 +32,11 @@
   Vindicator's Crest     ×20   → /join neotower  ·  Accept "Mutual Friends" quest from Lae NPC
   Gramiel the Graceful's Insignia ×20 → /join ultragramiel
                                   Accept "Resuscitated Hope" quest from Lae NPC → Kill boss
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║      OPTION 2 — HARD (Weekly)        ║
-║   "Trials of the Vessel"             ║
-╚══════════════════════════════════════╝
+⚔️ OPTION 2 — HARD (WEEKLY)
+╭────────────────────────────────────────────────────────────────────────╮
+  "Trials of the Vessel"
 
   Death's Power          ×4    → /join shadowattack  ·  Kill Death (Monster)
   Hollow Soul            ×6,000 → /join hbchallenge  ·  Kill The Darkdweller (with party)
@@ -44,27 +45,19 @@
   Grace Orb              ×1,600 → /join neofortress  ·  Accept "Grace Extraction" quest from Lae NPC
   Gramiel's Emblem       ×1,200 → /join dawnsanctum  ·  Kill Celestial Gramiel in Room 10
   Vindicator's Crest     ×400  → /join neotower  ·  Accept "Mutual Friends" quest from Lae NPC
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Dauntless / Praxis (Ultras)
+  Helm   --> Base Forge
+  Cape   --> Vainglory / Lament (if you need crit)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Opening --> ✅ 4 → 2 → 3 → 5
 
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Dauntless
-                       Praxis  (Ultras)
-
-  🪖 Helm ··········  Base Forge
-
-  🧣 Cape ··········  Vainglory
-                       Lament  (if you need crit)
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Opening ········  4 → 2 → 3 → 5
-
-  ✅ Main Rotation ··  2 → 4  (spam)  +  occasional  5
+  Main Rotation --> ✅ 2 → 4 (spam) + occasional 5
+╰────────────────────────────────────────────────────────────────────────╯

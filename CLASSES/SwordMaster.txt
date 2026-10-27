@@ -1,32 +1,28 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            SWORDMASTER               ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — if you want a dodge-based soloing class and don't have Yami no Ronin.
+                          S W O R D M A S T E R
 
-  Best Used For:  ⚔️  Soloing  (Dodge)
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Legion Member
-  How to Get:     Purchase for 2,000 Legion Tokens at /join underworld
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — if you want a dodge-based soloing class and don't have Yami no Ronin.
 
-  ℹ️  Note ·······  SwordMaster is a duplicate of the Rare "BladeMaster" class.
-                    If you own that, you don't need this class.
+  Best for --> ⚔️ Soloing (Dodge)
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Legion Member
+  How to Get   --> Purchase for 2,000 Legion Tokens at /join underworld
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  💡 SwordMaster is a duplicate of the Rare "BladeMaster" class.
+     If you own that, you don't need this class.
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck  (Offensive)
-                       Thief  (Defensive)
-
-  ⚔️  Weapon ········  Spiral Carve
- 
-  🪖 Helm ··········  Base Forge
-
-  🧣 Cape ··········  Lament
-                       Absolution
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck (Offensive) / Thief (Defensive)
+  Weapon --> Spiral Carve           Helm   --> Base Forge
+  Cape   --> Lament / Absolution
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,39 +1,29 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║      ALPHA OMEGA / ALPHA DOOMega     ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  No — there are better options.
+        A L P H A    O M E G A    /    A L P H A    D O O M E G A
 
+╚════════════════════════════════════════════════════════════════════════╝
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> No — there are better options.
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Valiance / Dauntless / Spiral Carve
+  Helm   --> Vim / Anima            Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Valiance
-                       Dauntless
-                       Spiral Carve
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 3 --> ⚠️ Mostly useless — waste of mana
+              (Most bosses cannot be stunned)
+              ✅ Exception: Prevents targets from healing
 
-  🪖 Helm ··········  Vim
-                       Anima
+  Main Rotation --> ✅ Spam 2 and 5
 
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ⚠️  Skill 3 ·······  Mostly useless — waste of mana
-                        (Most bosses cannot be stunned)
-                        ✅ Exception: Prevents targets from healing
-
-  ✅ Main Rotation ··  Spam  2  and  5
-
-  💡 Skill 4 ········  Save for when needed
-                        Keep its buff active at all times
+  Skill 4 --> 💡 Save for when needed
+              Keep its buff active at all times
+╰────────────────────────────────────────────────────────────────────────╯

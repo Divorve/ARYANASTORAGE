@@ -1,245 +1,205 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           ARCANA INVOKER             ║  -- Ynnead was here
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — one of the strongest classes in the game when mastered.
+                       A R C A N A    I N V O K E R
 
-  Best Used For:  🌾 Farming  |  ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — one of the strongest classes in the game when mastered.
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  Best for --> 🌾 Farming · ⚔️ Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class     --> Luck
+  Weapon    --> Valiance / Ravenous ← Best / Elysium / Spiral Carve
+  Helm      --> Base Forge (with Ravenous)
+                Pneuma
+                Vim
+                Examen (mana problems)
+  Cape      --> Vainglory / Lament / Absolution
+  💊 Potions --> Fate Tonic / Battle Elixir / Felicitous Philtre
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Valiance
-                       Ravenous  ← Best
-                       Elysium
-                       Spiral Carve
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 --> 💡 Starts stacking — use to begin cycle
+              Press again after empowered mode to nuke stacks and restart
 
-  🪖 Helm ··········  Base Forge  (with Ravenous)
-                       Pneuma
-                       Vim
-                       Examen  (mana problems)
+  Skill 3 --> 💡 Increases in damage with each use
+              Recovers mana — use when low
 
-  🧣 Cape ··········  Vainglory
-                       Lament
-                       Absolution
+  Skill 4 & 5 --> 💡 Spam until animation plays from Skill 4
 
-  💊 Potions ·······  Fate Tonic
-                       Battle Elixir
-                       Felicitous Philtre
+  Main Rotation --> ✅ 2 → spam 3 · 4 · 5
+                    --> wait for animation → press 2 → repeat
 
+  ⚡ Empowered Mode --> Lasts 2 minutes
+                       Grants massive Crit, Dodge, Hit, and Haste
 
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
+  Full Dodge --> 💡 Requires full potions + World's End buff active
 
-  💡 Skill 2 ········  Starts stacking — use to begin cycle
-                        Press again after empowered mode to nuke stacks and restart
+  💡 "Hybrid" skills deal physical damage
+╰────────────────────────────────────────────────────────────────────────╯
 
-  💡 Skill 3 ········  Increases in damage with each use
-                        Recovers mana — use when low
-
-  💡 Skill 4 & 5 ···  Spam until animation plays from Skill 4
-
-  ✅ Main Rotation ··  2  →  spam  3 · 4 · 5
-                        → wait for animation → press  2  → repeat
-
-  ⚡ Empowered Mode ·  Lasts 2 minutes
-                        Grants massive Crit, Dodge, Hit, and Haste
-
-  💡 Full Dodge ·····  Requires full potions + World's End buff active
-
-  ℹ️  Note ···········  "Hybrid" skills deal physical damage
-
-
-╔══════════════════════════════════════╗
-║         PRE-REQUIREMENTS             ║
-╚══════════════════════════════════════╝
-
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
   Rank 10 Good
   Rank 10 Chaos
   Rank 10 Arcangrove
   Rank 10 Doomwood
   Rank 10 Swordhaven
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ PHASE 1 — EARLY ITEMS
+╭────────────────────────────────────────────────────────────────────────╮
+  (The Fool → Wheel)
 
-╔══════════════════════════════════════╗
-║       PHASE 1 — EARLY ITEMS          ║
-║         (The Fool → Wheel)           ║
-╚══════════════════════════════════════╝
+  [ 0 · The Fool's Humble Beginnings ]
+  --> /join oaklore  ·  Kill Undead Infantry
 
-  0 · The Fool's Humble Beginnings
-  ─────────────────────────────────
-  → /join oaklore  ·  Kill Undead Infantry
+  [ 1 · The Magician's Desire ]
+  --> /join escherion      ·  Kill Staff of Inversion
+  --> /join castle         ·  Buy BattleMage Armor (Rank 10 Good shop)
+  --> /join aqw3d          ·  Kill Nightlocke Staff for Nightlocke War Staff
+  --> /join ruinedcrown    ·  Kill Calamitous Warlic for his Tome
 
-  1 · The Magician's Desire
-  ──────────────────────────
-  → /join escherion      ·  Kill Staff of Inversion
-  → /join castle         ·  Buy BattleMage Armor (Rank 10 Good shop)
-  → /join aqw3d          ·  Kill Nightlocke Staff for Nightlocke War Staff
-  → /join ruinedcrown    ·  Kill Calamitous Warlic for his Tome
+  [ 2 · The High Priestess' Intuition ]
+  --> /join cleric             ·  Kill Chaos Dragon for Dishpan Cleric Costume
+  --> /join newfinale          ·  Buy Chaotic Healer (Rank 10 Chaos shop)
+  --> /join fotia              ·  Kill Amia the Cult Leader for Amia's Cult Secret ×2
+  --> /join terminatemple      ·  Merge Battle Cleric of the Dragon (Termina Sigils)
 
-  2 · The High Priestess' Intuition
-  ───────────────────────────────────
-  → /join cleric             ·  Kill Chaos Dragon for Dishpan Cleric Costume
-  → /join newfinale          ·  Buy Chaotic Healer (Rank 10 Chaos shop)
-  → /join fotia              ·  Kill Amia the Cult Leader for Amia's Cult Secret ×2
-  → /join terminatemple      ·  Merge Battle Cleric of the Dragon (Termina Sigils)
+  [ 3 · The Empress' Initiative ]
+  --> /join goose              ·  Merge Queen's Sage Scythe (200 Cysero's Cookies)
+  --> /join brightforest       ·  Merge ShadowFlame Empress
+  --> /join transformation     ·  Kill Queen of Monsters → Fragment of the Queen ×10
+  --> /join firstobservatory   ·  Kill Empress' Finger → Ring ×3
 
-  3 · The Empress' Initiative
-  ─────────────────────────────
-  → /join goose              ·  Merge Queen's Sage Scythe (200 Cysero's Cookies)
-  → /join brightforest       ·  Merge ShadowFlame Empress
-  → /join transformation     ·  Kill Queen of Monsters → Fragment of the Queen ×10
-  → /join firstobservatory   ·  Kill Empress' Finger → Ring ×3
+  [ 4 · The Emperor's Authority ]
+  --> /join evilwarnul         ·  Kill Legion Fenrir → King Klunk's Crown
+  --> /join infernalarena      ·  Complete questline → Crowned Skull of Na'al
+  --> /join thorngarde         ·  Merge Zealous Crown (Zealous Badges)
+  --> /join warundead          ·  Kill Lich Emperor → Catalyst ×4
 
-  4 · The Emperor's Authority
-  ─────────────────────────────
-  → /join evilwarnul         ·  Kill Legion Fenrir → King Klunk's Crown
-  → /join infernalarena      ·  Complete questline → Crowned Skull of Na'al
-  → /join thorngarde         ·  Merge Zealous Crown (Zealous Badges)
-  → /join warundead          ·  Kill Lich Emperor → Catalyst ×4
+  [ 5 · The Hierophant's Servitude ]
+  --> /join celestialarena     ·  Merge Blessed Abezeth (100 Lumin Badges)
+  --> /join lightguardwar      ·  Merge Inquisitor of the Light
+  --> /join poisonforest       ·  Kill Xavier Lionfang → Divine Elixir ×55
+  --> /join chaosweb           ·  Kill ChaosWeaver Cleric → Doctrine ×5
 
-  5 · The Hierophant's Servitude
-  ───────────────────────────────
-  → /join celestialarena     ·  Merge Blessed Abezeth (100 Lumin Badges)
-  → /join lightguardwar      ·  Merge Inquisitor of the Light
-  → /join poisonforest       ·  Kill Xavier Lionfang → Divine Elixir ×55
-  → /join chaosweb           ·  Kill ChaosWeaver Cleric → Doctrine ×5
+  [ 6 · The Lovers' Embrace ]
+  --> /join battlewedding      ·  Kill any mob → Love Token ×666
+  --> /join portalmaze         ·  Kill Vorefax → Time Heart ×166
+  --> /join pride              ·  Kill Valsarian → Storm Heart ×6
+  --> /join mercutio           ·  Kill Mercutio → his Heart ×66
 
-  6 · The Lovers' Embrace
-  ─────────────────────────
-  → /join battlewedding      ·  Kill any mob → Love Token ×666
-  → /join portalmaze         ·  Kill Vorefax → Time Heart ×166
-  → /join pride              ·  Kill Valsarian → Storm Heart ×6
-  → /join mercutio           ·  Kill Mercutio → his Heart ×66
+  [ 7 · The Chariot's Triumph ]
+  --> /join table              ·  Complete Roach Rage mini-game → Racing Trophy ×300
+  --> /join crocriver          ·  Merge Sphinx Sentinel
+  --> /join deadmoor           ·  Kill Lucid Nightmare → Dread Deadmoor BattleAxe
+  --> /join ultrabrutalcorn    ·  Kill SMU Brutalcorn → Horn ×77
 
-  7 · The Chariot's Triumph
-  ───────────────────────────
-  → /join table              ·  Complete Roach Rage mini-game → Racing Trophy ×300
-  → /join crocriver          ·  Merge Sphinx Sentinel
-  → /join deadmoor           ·  Kill Lucid Nightmare → Dread Deadmoor BattleAxe
-  → /join ultrabrutalcorn    ·  Kill SMU Brutalcorn → Horn ×77
+  [ 8 · Justice's Righteousness ]
+  --> /join camlan             ·  Complete "Cocooned Gold" → Ouroboros Scale ×88
+  --> /join lightoviacave      ·  Kill Imbalanced Knight → Libran Scales
+  --> /join gravestrike        ·  Kill Ultra Akriloth → Akriloth's Scale ×888
+  --> /join underlair          ·  Kill Archfiend DragonKnight → Scale ×8
 
-  8 · Justice's Righteousness
-  ─────────────────────────────
-  → /join camlan             ·  Complete "Cocooned Gold" → Ouroboros Scale ×88
-  → /join lightoviacave      ·  Kill Imbalanced Knight → Libran Scales
-  → /join gravestrike        ·  Kill Ultra Akriloth → Akriloth's Scale ×888
-  → /join underlair          ·  Kill Archfiend DragonKnight → Scale ×8
+  [ 9 · The Hermit's Solitude ]
+  --> /join garden             ·  Kill Fa → Fa's Gamer Fuel ×99
+  --> /join mverse             ·  Kill Major Mushroom → ARTX 3090 Controller
+  --> /join marsh2             ·  Kill Soulseeker → Soulseeker's Grim Hood
+  --> /join pocketdimension    ·  Kill Nothing → Nothing's Solus ×999
 
-  9 · The Hermit's Solitude
-  ───────────────────────────
-  → /join garden             ·  Kill Fa → Fa's Gamer Fuel ×99
-  → /join mverse             ·  Kill Major Mushroom → ARTX 3090 Controller
-  → /join marsh2             ·  Kill Soulseeker → Soulseeker's Grim Hood
-  → /join pocketdimension    ·  Kill Nothing → Nothing's Solus ×999
+  [ 10 · Wheel of Fortune's Destiny ]
+  --> /join pilgrimage         ·  Kill Lucky → Lucky Pet
+  --> /join onsen              ·  Complete "I heard you like Gacha" → Second Chance Coin ×10
+  --> Global Drop              ·  Collect 250 Treasure Chests from any monster
+  --> /join ultralob           ·  Kill Ultra Lobthulhu → Fortune ×100
+╰────────────────────────────────────────────────────────────────────────╯
 
-  10 · Wheel of Fortune's Destiny
-  ─────────────────────────────────
-  → /join pilgrimage         ·  Kill Lucky → Lucky Pet
-  → /join onsen              ·  Complete "I heard you like Gacha" → Second Chance Coin ×10
-  → Global Drop              ·  Collect 250 Treasure Chests from any monster
-  → /join ultralob           ·  Kill Ultra Lobthulhu → Fortune ×100
+⚔️ PHASE 2 — DARKON SAGA ITEMS
+╭────────────────────────────────────────────────────────────────────────╮
+  (Strength → The World)
 
-
-╔══════════════════════════════════════╗
-║     PHASE 2 — DARKON SAGA ITEMS      ║
-║         (Strength → The World)       ║
-╚══════════════════════════════════════╝
-
-  11 · Strength's Fortitude
-  ───────────────────────────
-  → /join superslayin        ·  Merge Enchanted Martial Artist's Gi
+  [ 11 · Strength's Fortitude ]
+  --> /join superslayin        ·  Merge Enchanted Martial Artist's Gi
                                   Requires: Martial Artist's Gi (Ryoku at /dragonkoi)
                                   + Fatal Lily ×25 + Pockey Ball ×25 + Dragon Orb ×10
-  → /join dreampalace        ·  Merge Strong Axe of Golmoth
+  --> /join dreampalace        ·  Merge Strong Axe of Golmoth
                                   Requires: Axe of Golmoth (drop) + Scales of Golmoth ×15 + Token of Fire ×20
-  → /join alchemyacademy     ·  Create Fortitude Tonic ×11 (Necrot + Roc Tongue)
-  → /join dracocon           ·  Kill Strong Drag → Strong Drag's Intact Wing ×11
+  --> /join alchemyacademy     ·  Create Fortitude Tonic ×11 (Necrot + Roc Tongue)
+  --> /join dracocon           ·  Kill Strong Drag → Strong Drag's Intact Wing ×11
 
-  12 · The Hanged Man's Discernment
-  ────────────────────────────────────
-  → /join archportal         ·  Kill High Legion Inquisitor → Chained Rune Bonebreakers
-  → /join necrodungeon       ·  Kill 5 Headed Dracolich (5th Head) → Noble Sacrifice
-  → /join battlefowl         ·  Kill Zeuster Projection → The Answer
-  → /join fortressdelve      ·  Kill Astero → Astero's Insight ×12
+  [ 12 · The Hanged Man's Discernment ]
+  --> /join archportal         ·  Kill High Legion Inquisitor → Chained Rune Bonebreakers
+  --> /join necrodungeon       ·  Kill 5 Headed Dracolich (5th Head) → Noble Sacrifice
+  --> /join battlefowl         ·  Kill Zeuster Projection → The Answer
+  --> /join fortressdelve      ·  Kill Astero → Astero's Insight ×12
 
-  13 · Death's Mortality
-  ───────────────────────
-  → /join bonecastle         ·  Merge Enchanted DeathKnight (Rank 10 Doomwood + 35k Gold)
-  → /join deathpit           ·  Kill any mob → Death Pit Arena Medal ×250
-  → /join shadowattack       ·  Kill Death → Death's Oversight ×10
-  → /join superdeath         ·  Kill Super Death → Super Death's Scythe Fragment ×13  ⚠️ Low drop rate
+  [ 13 · Death's Mortality ]
+  --> /join bonecastle         ·  Merge Enchanted DeathKnight (Rank 10 Doomwood + 35k Gold)
+  --> /join deathpit           ·  Kill any mob → Death Pit Arena Medal ×250
+  --> /join shadowattack       ·  Kill Death → Death's Oversight ×10
+  --> /join superdeath         ·  Kill Super Death → Super Death's Scythe Fragment ×13  ⚠️ Low drop rate
 
-  14 · Temperance's Frugality
-  ─────────────────────────────
-  → /join celestialrealm     ·  Merge Celestial Wings of Guiding (100 Infernal Tokens from /lostruinswar)
-  → /join lightguard         ·  Complete "Holy Roast" quest from Ol' SPice → Blessed Coffee Cup
-  → /join snowmore           ·  Kill Jon S'Nooooooo → Northern Crown ×10
-  → /join infernalspire      ·  Kill Azkorath → Azkorath's Wing ×14
+  [ 14 · Temperance's Frugality ]
+  --> /join celestialrealm     ·  Merge Celestial Wings of Guiding (100 Infernal Tokens from /lostruinswar)
+  --> /join lightguard         ·  Complete "Holy Roast" quest from Ol' SPice → Blessed Coffee Cup
+  --> /join snowmore           ·  Kill Jon S'Nooooooo → Northern Crown ×10
+  --> /join infernalspire      ·  Kill Azkorath → Azkorath's Wing ×14
 
-  15 · Devilish Temptation
-  ──────────────────────────
-  → /join fiendpast          ·  Kill Dage The Lich → Fiendish Outlaw drop
-  → /join voidrefuge         ·  Complete "Carnage Delenda Est" quest → Fiendish Remains ×50
-  → /join ashfallcamp        ·  Kill Blackrawk → Glass Horns
-  → /join originul           ·  Kill Fiend Champion → Fiend Champion's Spike ×15
+  [ 15 · Devilish Temptation ]
+  --> /join fiendpast          ·  Kill Dage The Lich → Fiendish Outlaw drop
+  --> /join voidrefuge         ·  Complete "Carnage Delenda Est" quest → Fiendish Remains ×50
+  --> /join ashfallcamp        ·  Kill Blackrawk → Glass Horns
+  --> /join originul           ·  Kill Fiend Champion → Fiend Champion's Spike ×15
 
-  16 · The Tower's Upheaval
-  ───────────────────────────
-  → /join buyhouse           ·  Purchase Arcangrove Tower House (200k Gold, Rank 10 Arcangrove)
-  → /join fableforest        ·  Complete "Back to your Roots" → Earth Stone ×500
-  → /join alchemyacademy     ·  Buy Dragon Runestone ×20 (100k Gold each = 2m Gold total)
-  → /join gaiazor            ·  Kill Nevanna → Nevanna's Revelation ×16
+  [ 16 · The Tower's Upheaval ]
+  --> /join buyhouse           ·  Purchase Arcangrove Tower House (200k Gold, Rank 10 Arcangrove)
+  --> /join fableforest        ·  Complete "Back to your Roots" → Earth Stone ×500
+  --> /join alchemyacademy     ·  Buy Dragon Runestone ×20 (100k Gold each = 2m Gold total)
+  --> /join gaiazor            ·  Kill Nevanna → Nevanna's Revelation ×16
 
-  17 · The Star's Hope
-  ──────────────────────
-  → /join starsinc           ·  Kill Star Sprites or Living Stars → Star Scrap ×500
-  → /join herolobby          ·  Kill Training Partner → Rising Star Token ×116
-  → /join deadlines          ·  Kill Eternal Dragon → Dark Stars
-  → /join skytower           ·  Kill Star Sapphire → Star Sapphire Fragment ×17
+  [ 17 · The Star's Hope ]
+  --> /join starsinc           ·  Kill Star Sprites or Living Stars → Star Scrap ×500
+  --> /join herolobby          ·  Kill Training Partner → Rising Star Token ×116
+  --> /join deadlines          ·  Kill Eternal Dragon → Dark Stars
+  --> /join skytower           ·  Kill Star Sapphire → Star Sapphire Fragment ×17
 
-  18 · The Moon's Illusion
-  ──────────────────────────
-  → /join lunacove           ·  Kill all enemies (except beach balls) → Moon Rock Fragments ×300
-  → /join marchosiasfight    ·  Kill Marchosias → Blood Moon Warrior
-  → /join cruxshadows        ·  Complete CruxShadows event questline → Celestial Khopesh
-  → /join astravia           ·  Kill The Moon → The Moon's Reflection ×18
+  [ 18 · The Moon's Illusion ]
+  --> /join lunacove           ·  Kill all enemies (except beach balls) → Moon Rock Fragments ×300
+  --> /join marchosiasfight    ·  Kill Marchosias → Blood Moon Warrior
+  --> /join cruxshadows        ·  Complete CruxShadows event questline → Celestial Khopesh
+  --> /join astravia           ·  Kill The Moon → The Moon's Reflection ×18
 
-  19 · The Sun's Optimism
-  ─────────────────────────
-  → /join titanattack        ·  Kill Titanic Paladin → Golden Sun Seal ×190
-  → /join sunlightzone       ·  Kill mobs → Sun Zone Chit ×190
-  → /join thirdspell         ·  Merge Armor of the Sun (60 Thirdspell Tokens)
-  → /join astraviacastle     ·  Kill The Sun → The Sun's Enlightenment ×19
+  [ 19 · The Sun's Optimism ]
+  --> /join titanattack        ·  Kill Titanic Paladin → Golden Sun Seal ×190
+  --> /join sunlightzone       ·  Kill mobs → Sun Zone Chit ×190
+  --> /join thirdspell         ·  Merge Armor of the Sun (60 Thirdspell Tokens)
+  --> /join astraviacastle     ·  Kill The Sun → The Sun's Enlightenment ×19
 
-  20 · Judgement's Absolution
-  ─────────────────────────────
-  → /join astraviajudge      ·  Kill Trumpeter → Trumpet
-  → /join alchemyacademy     ·  Create Judgment Tonic ×20 (Dragon Scale + Moglin Tears)
-  → /join shadowbattleon     ·  Merge Enchanted Lance of Doom Reborn
+  [ 20 · Judgement's Absolution ]
+  --> /join astraviajudge      ·  Kill Trumpeter → Trumpet
+  --> /join alchemyacademy     ·  Create Judgment Tonic ×20 (Dragon Scale + Moglin Tears)
+  --> /join shadowbattleon     ·  Merge Enchanted Lance of Doom Reborn
                                   Requires: Lance of Doom Reborn + A Whisper ×30
-  → /join judgement          ·  Kill Minos → Minos' Sentence ×20
+  --> /join judgement          ·  Kill Minos → Minos' Sentence ×20
 
-  21 · The World's Voyage
-  ─────────────────────────
+  [ 21 · The World's Voyage ]
   Collect ×22 of each from the Darkon saga quests:
 
-  → /join garden             ·  Darkon's Receipt ×22
-  → /join eridani            ·  Teeth ×22
-  → /join astravia           ·  La's Gratitude ×22
-  → /join astraviacastle     ·  Astravian Medal ×22
-  → /join astraviajudge      ·  A Melody ×22
-  → /join eridanipast        ·  Bandit's Correspondence ×22
-  → /join astraviapast       ·  Suki's Prestige ×22
-  → /join firstobservatory   ·  Ancient Remnant ×22
-  → /join genesisgarden      ·  Mourning Flower ×22
-  → /join theworld           ·  Kill The World → Unfinished Musical Score ×22
+  --> /join garden             ·  Darkon's Receipt ×22
+  --> /join eridani            ·  Teeth ×22
+  --> /join astravia           ·  La's Gratitude ×22
+  --> /join astraviacastle     ·  Astravian Medal ×22
+  --> /join astraviajudge      ·  A Melody ×22
+  --> /join eridanipast        ·  Bandit's Correspondence ×22
+  --> /join astraviapast       ·  Suki's Prestige ×22
+  --> /join firstobservatory   ·  Ancient Remnant ×22
+  --> /join genesisgarden      ·  Mourning Flower ×22
+  --> /join theworld           ·  Kill The World → Unfinished Musical Score ×22
+╰────────────────────────────────────────────────────────────────────────╯

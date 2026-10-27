@@ -1,14 +1,14 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            ARCHPALADIN               ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                          A R C H P A L A D I N
 
-  Best Used For:  ⚔️  Soloing  |  🤝 Support
+╚════════════════════════════════════════════════════════════════════════╝
+
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
+
+  Best for --> ⚔️ Soloing · 🤝 Support
 
   Requirements:
   Rank 10 Good  |  Rank 8 SpellCrafting
@@ -25,129 +25,107 @@
   /frozentower > /frozenruins > /northstar
   Warlic's and Cysero's quests at /battleontown > /downward
 
-  Members also need:  Rank 10 Healer  |  Rank 10 Warrior
-  → Get from /trainers and rank up (see XP guide)
+  💊 Potions --> Fate Tonic · Battle Elixir · Felicitous Philtre
+╰────────────────────────────────────────────────────────────────────────╯
 
-  💊 Potions ·······  Fate Tonic  |  Battle Elixir  |  Felicitous Philtre
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Members also need --> Rank 10 Healer · Rank 10 Warrior
+  --> Get from /trainers and rank up (see XP guide)
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Valiance / Praxis / Awe Blast / Arcana's Concerto
+  Helm   --> Forge
+  Cape   --> Lament / Vainglory / Penitence (Tanking)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ Spam 2 and 3
 
-  🧿 Class ·········  Luck
+  Skill 5   --> 💡 Use when Skill 4 is almost ending
+  All Buffs --> 💡 Keep all buffs and debuffs active at all times
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Valiance
-                       Praxis
-                       Awe Blast
-                       Arcana's Concerto
+⚔️ NON-MEMBER QUESTS (DARKTHRONEHUB)
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 1 · A Strong Base ]
+  --> Stone Paladin Armour     ·  /join temple  ·  Complete all levels
+                                --> "Galvanize the Guardian" quest from Stone Paladin at the top
+                                --> Buy Scroll of Cure Petrification (drops from Shelletons, Level 1)
+                                --> Buy Stone Paladin Armour from Temple shop
+  --> Exalted Paladin Seal     ·  /join darkthronehub  ·  Artix's Rep shop  (500k Gold)
 
-  🪖 Helm ··········  Forge
-
-  🧣 Cape ··········  Lament
-                       Vainglory
-                       Penitence  (Tanking)
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  Spam  2  and  3
-
-  💡 Skill 5 ········  Use when Skill 4 is almost ending
-  💡 All Buffs ·······  Keep all buffs and debuffs active at all times
-
-
-╔══════════════════════════════════════╗
-║     NON-MEMBER QUESTS (darkthronehub)║
-╚══════════════════════════════════════╝
-
-  1 · A Strong Base
-  ───────────────────
-  → Stone Paladin Armour     ·  /join temple  ·  Complete all levels
-                                → "Galvanize the Guardian" quest from Stone Paladin at the top
-                                → Buy Scroll of Cure Petrification (drops from Shelletons, Level 1)
-                                → Buy Stone Paladin Armour from Temple shop
-  → Exalted Paladin Seal     ·  /join darkthronehub  ·  Artix's Rep shop  (500k Gold)
-
-  2 · Proof of Valor
-  ────────────────────
-  → Undead Energy ×1,000     ·  /join battleunderb  (complete Step 1 of BLoD first)
-  → Binky's Uni-horn          ·  /join doomvault  ·  Kill Binky  ⚠️ Group highly recommended
-                                → Access via /join museum → Valencia → Artifact Quests → Armour of Awe → Cape Boss
+  [ 2 · Proof of Valor ]
+  --> Undead Energy ×1,000     ·  /join battleunderb  (complete Step 1 of BLoD first)
+  --> Binky's Uni-horn          ·  /join doomvault  ·  Kill Binky  ⚠️ Group highly recommended
+                                --> Access via /join museum → Valencia → Artifact Quests → Armour of Awe → Cape Boss
                                 ⚠️ Binky can stun 5-21s, Skill Lock, and Prophetic Vision (press ESC to avoid reflect)
-  → Desterrat Moya Tentacle  ·  /join banished  ·  Kill Desterrat Moya
-  → Dreadhaven Helm          ·  /join dreadhaven  ·  Kill Dreadhaven General
-  → DoomKitten Claw          ·  /join doomkitten  ·  Kill DoomKitten
+  --> Desterrat Moya Tentacle  ·  /join banished  ·  Kill Desterrat Moya
+  --> Dreadhaven Helm          ·  /join dreadhaven  ·  Kill Dreadhaven General
+  --> DoomKitten Claw          ·  /join doomkitten  ·  Kill DoomKitten
                                 ⚠️ Use DoT classes — crits heal DoomKitten
-  → Vordred's Skull          ·  /join vordredboss  ·  Click Continue in the middle
+  --> Vordred's Skull          ·  /join vordredboss  ·  Click Continue in the middle
 
-  3 · Mastering the Arcane
-  ──────────────────────────
-  → Pyromancer Artifact       ·  /join xantown  ·  Kill Xan  (~3%)
-  → Zephyrus Manifesto        ·  /join dragonheart  ·  Kill Proto-Air Dracolich
-  → Karok's Glaceran Gem      ·  /join northstar  ·  Kill Karok the Fallen
-  → Nightmare Kibble ×200     ·  /join thirdspell  ·  Kill any enemy
-  → Condensed Energy          ·  /join thunderfang  ·  Kill Lightning Ball
-  → Crystallised Mana Catalyst · /join downward  ·  Kill Crystal Mana Construct
-  → Just the Perfect Stick    ·  /join farm  ·  Kill Treeant
+  [ 3 · Mastering the Arcane ]
+  --> Pyromancer Artifact       ·  /join xantown  ·  Kill Xan  (~3%)
+  --> Zephyrus Manifesto        ·  /join dragonheart  ·  Kill Proto-Air Dracolich
+  --> Karok's Glaceran Gem      ·  /join northstar  ·  Kill Karok the Fallen
+  --> Nightmare Kibble ×200     ·  /join thirdspell  ·  Kill any enemy
+  --> Condensed Energy          ·  /join thunderfang  ·  Kill Lightning Ball
+  --> Crystallised Mana Catalyst · /join downward  ·  Kill Crystal Mana Construct
+  --> Just the Perfect Stick    ·  /join farm  ·  Kill Treeant
 
-  4 · For Those Who Have Fallen
-  ───────────────────────────────
-  → Holy Hand Grenade         ·  /join castle  ·  Good Reputation shop
-  → Feather of Paradise ×20   ·  /join manor  ·  Kill Bird of Paradise
-  → Shoelace of a Fallen Paladin ×77 · /join doomwood  ·  Kill enemies in top-left kill-counter room
-  → Eternity Flame            ·  /join fotia  ·  Kill Amia the Cult Leader (end of map)
+  [ 4 · For Those Who Have Fallen ]
+  --> Holy Hand Grenade         ·  /join castle  ·  Good Reputation shop
+  --> Feather of Paradise ×20   ·  /join manor  ·  Kill Bird of Paradise
+  --> Shoelace of a Fallen Paladin ×77 · /join doomwood  ·  Kill enemies in top-left kill-counter room
+  --> Eternity Flame            ·  /join fotia  ·  Kill Amia the Cult Leader (end of map)
 
-  5 · Commandment
-  ─────────────────
-  → Skill Observed            ·  /join brightfall  ·  Kill Painadin Overlord
-  → Spirit of Vindication     ·  /join citadel  ·  Kill Grand Inquisitor
-  → Radiant Blade Enhancement ·  /join alliance  ·  Kill the Good Lieutenant
+  [ 5 · Commandment ]
+  --> Skill Observed            ·  /join brightfall  ·  Kill Painadin Overlord
+  --> Spirit of Vindication     ·  /join citadel  ·  Kill Grand Inquisitor
+  --> Radiant Blade Enhancement ·  /join alliance  ·  Kill the Good Lieutenant
 
-  6 · Hymn of Light
-  ───────────────────
-  → Divine Elixir             ·  /join poisonforest  ·  Kill Xavier Lionfang
-  → Prayer of Salvation       ·  /join ultraalteon  ·  Kill Ultra Alteon
+  [ 6 · Hymn of Light ]
+  --> Divine Elixir             ·  /join poisonforest  ·  Kill Xavier Lionfang
+  --> Prayer of Salvation       ·  /join ultraalteon  ·  Kill Ultra Alteon
                                 ⚠️ Group recommended — Do NOT attack during damage meter phase
-  → Acolyte's Braille         ·  /join newfinale  ·  Kill Chaos Healer (select Willow Creek from War Map)
-  → Innocence ×25             ·  /join skytower  ·  Kill Doves
+  --> Acolyte's Braille         ·  /join newfinale  ·  Kill Chaos Healer (select Willow Creek from War Map)
+  --> Innocence ×25             ·  /join skytower  ·  Kill Doves
 
-  7 · Righteous Seal
-  ────────────────────
-  → Fists of Fire             ·  /join xancave  ·  Kill Shurpu Ring Guardian
-  → Scroll of Ethereal Slumber · Use Archmage Ink (see SpellCrafting guide)
-  → Holy Magic Attunement     ·  /join onslaughttower  ·  Kill Golden Caster
-                                → Complete Archlich Xollen's "The Local Locale" to pass the gaseous bridge
-  → Ring of Mana Transposition · /join palace  ·  Kill Pettivox
+  [ 7 · Righteous Seal ]
+  --> Fists of Fire             ·  /join xancave  ·  Kill Shurpu Ring Guardian
+  --> Scroll of Ethereal Slumber · Use Archmage Ink (see SpellCrafting guide)
+  --> Holy Magic Attunement     ·  /join onslaughttower  ·  Kill Golden Caster
+                                --> Complete Archlich Xollen's "The Local Locale" to pass the gaseous bridge
+  --> Ring of Mana Transposition · /join palace  ·  Kill Pettivox
 
-  8 · Sacred Magic: Eden
-  ────────────────────────
-  → Sacred Tome               ·  /join seraph  ·  Kill Adventus
-  → Paladaffodil ×25          ·  /join marsh  ·  Kill Marsh Trees
-  → Spirit Lotus ×25          ·  /join wanders  ·  Kill Lotus Spiders
-  → Radiant Magnolia ×25      ·  /join bloodtusk  ·  Kill Trollola Plants
-  → Cyanoblossom ×25          ·  /join gaiazor  ·  Kill Wisterrora
-  → BrightOak Forest Sapling  ·  /join gaiazor  ·  Kill Nevanna
-  → Forbidden Demon Seal      ·  /join infernalspire  ·  Kill Malxas
+  [ 8 · Sacred Magic: Eden ]
+  --> Sacred Tome               ·  /join seraph  ·  Kill Adventus
+  --> Paladaffodil ×25          ·  /join marsh  ·  Kill Marsh Trees
+  --> Spirit Lotus ×25          ·  /join wanders  ·  Kill Lotus Spiders
+  --> Radiant Magnolia ×25      ·  /join bloodtusk  ·  Kill Trollola Plants
+  --> Cyanoblossom ×25          ·  /join gaiazor  ·  Kill Wisterrora
+  --> BrightOak Forest Sapling  ·  /join gaiazor  ·  Kill Nevanna
+  --> Forbidden Demon Seal      ·  /join infernalspire  ·  Kill Malxas
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ MEMBER QUESTS (DARKTHRONEHUB)
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 1–3 · Legendary Paladin's Vow / Oath / Pledge ]
+  --> Purchase Paladin from Artix at /join necropolis
+  --> Turn in each quest as you accept them
 
-╔══════════════════════════════════════╗
-║       MEMBER QUESTS (darkthronehub)  ║
-╚══════════════════════════════════════╝
-
-  1–3 · Legendary Paladin's Vow / Oath / Pledge
-  ────────────────────────────────────────────────
-  → Purchase Paladin from Artix at /join necropolis
-  → Turn in each quest as you accept them
-
-  4 · Aptitude Test
-  ───────────────────
-  → Primarch's Hilt          ·  /join bosschallenge  ·  Kill Colossal Primarch  ⚠️ Group recommended
+  [ 4 · Aptitude Test ]
+  --> Primarch's Hilt          ·  /join bosschallenge  ·  Kill Colossal Primarch  ⚠️ Group recommended
                                 (Collect 3 total if farming Necrotic Sword of Doom too)
-  → Exalted Paladin Seal     ·  /join darkthronehub  ·  Artix's Rep shop  (500k Gold)
-  → Condensed Mana           ·  /join timevoid  ·  Kill Unending Avatar
+  --> Exalted Paladin Seal     ·  /join darkthronehub  ·  Artix's Rep shop  (500k Gold)
+  --> Condensed Mana           ·  /join timevoid  ·  Kill Unending Avatar
                                 (Access via Braeus' Fast Travel at /join shadowfall)
 
   5–8  · Same as Non-Member Quests 5–8 above
+╰────────────────────────────────────────────────────────────────────────╯

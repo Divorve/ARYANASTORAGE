@@ -1,33 +1,32 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║             LIGHTCASTER              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Generally no — better options at Level 80 that cost less or nothing.
-  Good choice if you don't want to farm much (only 1,000 AC).
+                          L I G H T C A S T E R
 
-  Best Used For:  ⚔️  Soloing  |  🤝 Support
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Level 80  |  1,000 AC
-                  Storyline: /celestialrealm > /lostruins > /lostruinswar > /celestialarena
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Generally no — better options at Level 80 that cost less or nothing.
+                     Good choice if you don't want to farm much (only 1,000 AC).
 
+  Best for --> ⚔️ Soloing · 🤝 Support
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 80 · 1,000 AC
+                   Storyline: /celestialrealm > /lostruins > /lostruinswar > /celestialarena
+╰────────────────────────────────────────────────────────────────────────╯
 
-  Step 1 — LightMage
-  ────────────────────
-  → /join celestialrealm  ·  Purchase Evolved LightCaster armour from Aranx (1,000 AC — cannot be sold)
-  → Open LightMage Class Token A Shop → Purchase Token A
-  → Merge LightMage using Token A
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
+  [ Step 1 — LightMage ]
+  --> /join celestialrealm  ·  Purchase Evolved LightCaster armour from Aranx (1,000 AC — cannot be sold)
+  --> Open LightMage Class Token A Shop → Purchase Token A
+  --> Merge LightMage using Token A
 
-  Step 2 — LightCaster
-  ──────────────────────
-  → Accept "LightCaster Class" quest from Aranx at /join celestialrealm
+  [ Step 2 — LightCaster ]
+  --> Accept "LightCaster Class" quest from Aranx at /join celestialrealm
 
   Burning Blade               ×1   → /join lostruinswar  ·  Kill Diabolical Warlord  (~1%)
   Burning Blade of Azebeth    ×1   → /join celestialarena  ·  Kill Aranx  (~5%)
@@ -35,30 +34,19 @@
   Avatar of Death's Scythe    ×1   → Complete Aranx's quest  ·  Kill 500 Underworld Hounds
   Spear of Time               ×1   → Complete Aranx's quest  ·  Kill 500 Infernal Imps
   Aranx's Pure Light          ×1   → /join celestialarena  ·  Kill Aranx  (~10%)
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Valiance / Praxis
+  Helm   --> Base Forge / Pneuma / Wizard
+  Cape   --> Vainglory / Lament
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 4 --> 💡 Acts as both a buff AND a heal — reuse when Illuminate fades
 
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Valiance
-                       Praxis
-
-  🪖 Helm ··········  Base Forge
-                       Pneuma
-                       Wizard
-
-  🧣 Cape ··········  Vainglory
-                       Lament
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 4 ········  Acts as both a buff AND a heal — reuse when Illuminate fades
-
-  ✅ Main Rotation ··  4 → 5 → 2 → 3  →  spam skills as they come off cooldown
-                        Reapply  4  whenever Illuminate expires
+  Main Rotation --> ✅ 4 → 5 → 2 → 3 → spam skills as they come off cooldown
+                    Reapply 4 whenever Illuminate expires
+╰────────────────────────────────────────────────────────────────────────╯

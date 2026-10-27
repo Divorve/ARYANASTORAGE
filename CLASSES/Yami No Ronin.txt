@@ -1,87 +1,75 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           YAMI NO RONIN              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — best dodge-based soloing class.
+                       Y A M I    N O    R O N I N
 
-  Best Used For:  ⚔️  Soloing
-  Also Good For:  🌾 Short-Range Farming
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 10 Yokai
-                  Storyline: /darkally — complete all quests including "Defeat the Underfiend"
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — best dodge-based soloing class.
 
-  Recommended:    Legion Member  (makes LT farming much faster)
-                  Paragon Pet  (farm Legion Tokens)
-                  Blinding Light of Destiny  (most enemies are Undead-tagged)
+  Best for      --> ⚔️ Soloing
+  Also Good For --> 🌾 Short-Range Farming
+
+  Recommended --> Legion Member (makes LT farming much faster)
+                  Paragon Pet (farm Legion Tokens)
+                  Blinding Light of Destiny (most enemies are Undead-tagged)
                   Chaorrupter Unlocked or Empowered Chaos Avenger's Greatsword
                   (Orochi Heads at /shadowfortress are Chaos-tagged)
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 10 Yokai
+                   Storyline: /darkally — complete all quests including "Defeat the Underfiend"
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Dauntless / Valiance
+  Helm   --> Anima / Vim            Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Dauntless
-                       Valiance
-
-  🪖 Helm ··········  Anima
-                       Vim
-
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
   ─────────────── DODGE PLAYSTYLE ───────────────
 
   💡 Dodge Threshold  86–87% dodge = no monster can hit you
-  💡 Flash Stacks ···  You gain 3 stacks between each Skill 5 reset
-                        Need 21% dodge buffer minimum to stay above threshold
-                        Aim for 108% total dodge = 33% shown in char stat panel (press C)
+  Flash Stacks --> 💡 You gain 3 stacks between each Skill 5 reset
+                   Need 21% dodge buffer minimum to stay above threshold
+                   Aim for 108% total dodge = 33% shown in char stat panel (press C)
 
-  ✅ Dodge Rotation ·  Press  5  every time it comes off cooldown
-                        If you miss the nuke, press  T  to stop attacking (preserves dodge)
-                        Spam  2  for extra damage  |  Use  3  if you have mana
-                        ❌ Never use  4  — you should never need the heal
+  Dodge Rotation --> ✅ Press 5 every time it comes off cooldown
+                     If you miss the nuke, press T to stop attacking (preserves dodge)
+                     Spam 2 for extra damage · Use 3 if you have mana
+                     ❌ Never use 4 — you should never need the heal
 
   ─────────────── OFFENSIVE ROTATION ────────────
 
-  💡 Skill 4 ········  Use as much as possible to generate flash stacks faster (= more damage)
-  💡 Skill 3 ········  After using it, wait 3–4 seconds before stacking Skill 2
-                        (This is why most combos go 3→4→4→2 — two Skill 4s bridge the timing)
-  💡 DoT Ticks ······  5 total ticks  |  1 second between the 5th tick and the effect fading
-                        Time your nuke (Skill 5) for that window
+  Skill 4   --> 💡 Use as much as possible to generate flash stacks faster (= more damage)
+  Skill 3   --> 💡 After using it, wait 3–4 seconds before stacking Skill 2
+                (This is why most combos go 3→4→4→2 — two Skill 4s bridge the timing)
+  DoT Ticks --> 💡 5 total ticks · 1 second between the 5th tick and the effect fading
+                Time your nuke (Skill 5) for that window
 
-  ✅ Offensive ······  3 → 4 → 4 → 2  →  spam  2  and  4  to build stacks
-                        → Nuke with  5  after the 5th DoT tick
-                        ⚠️ Watch global cooldown — better to nuke on time than rush and lose damage
+  Offensive --> ✅ 3 → 4 → 4 → 2 → spam 2 and 4 to build stacks
+                --> Nuke with 5 after the 5th DoT tick
+                ⚠️ Watch global cooldown — better to nuke on time than rush and lose damage
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║         STEP 1 — SHADOW KATANA BLADE ║
-╚══════════════════════════════════════╝
-
-  Part 1 — SoulForge Hammer
-  ───────────────────────────
-  → /join underworld  ·  Go to Dage (right + down) → Click the SoulForge → Accept quest
+⚔️ STEP 1 — SHADOW KATANA BLADE
+╭────────────────────────────────────────────────────────────────────────╮
+  [ Part 1 — SoulForge Hammer ]
+  --> /join underworld  ·  Go to Dage (right + down) → Click the SoulForge → Accept quest
 
   Zardman's StoneHammer  ×1  → /join forest  ·  Kill Zardman Grunts (walk right — 3 spawn)
   Iron Hammer            ×1  → /join greenguardeast  ·  Buy from Loremaster Sara's shop
   Elemental Rock Hammer  ×1  → /join bludrut  ·  Kill Rock Elemental (exit up ladder from /bludrut2)
 
-  → Turn in quest → SoulForge Hammer now in inventory → clicking SoulForge opens merge shop
+  --> Turn in quest → SoulForge Hammer now in inventory → clicking SoulForge opens merge shop
 
-  Part 2 — Shadow Katana Blade
-  ──────────────────────────────
-  → Merge in the SoulForge merge shop
+  [ Part 2 — Shadow Katana Blade ]
+  --> Merge in the SoulForge merge shop
 
   Platinum Paragon Medal ×15   → Buy for 1m Gold each from Dage's merge shop
   Yami ×10                     → /join darkally  ·  Complete Dage's "Embracing Darkness" quest
@@ -108,37 +96,32 @@
                                   (Used in Part 3 — efficient to grab now)
                                   Requires: /shogunwar > /shinringrove > /greenshell > /heiwavalley > /shadowfortress
 
-  Part 3 — Yokai Sword Scroll
-  ─────────────────────────────
-  → Complete "The Edge of an Era" from /join darkally → rewards Yokai Sword Scroll
+  [ Part 3 — Yokai Sword Scroll ]
+  --> Complete "The Edge of an Era" from /join darkally → rewards Yokai Sword Scroll
 
   Perfect Orochi Scales ×888   → /join shadowfortress  ·  Kill any Head of Orochi
   Oni Skull Charm ×1           → /join akiba  ·  Mitsu Bishi's Rep shop (Room 1)  — Rank 10 Yokai required
   Darkened Essence ×600        → /join shadowrealmpast  ·  Kill enemies
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║    STEP 2 — BLADEMASTER SWORD SCROLL ║
-╚══════════════════════════════════════╝
-
+⚔️ STEP 2 — BLADEMASTER SWORD SCROLL
+╭────────────────────────────────────────────────────────────────────────╮
   Choose one option:
 
-  ✅ OPTION 1 — Legion Member  (Faster, costs ACs)
-  ──────────────────────────────────────────────────
-  → Complete "The Path to Power" from /join darkally
+  [ ✅ OPTION 1 — Legion Member  (Faster, costs ACs) ]
+  --> Complete "The Path to Power" from /join darkally
 
   Meditation             ×1   → Own BladeMaster class (or buy SwordMaster at /underworld for 2k LTs)
                                   Level it to Rank 10 (see XP guide)
-                                  → Complete "Meditation, Inflection" at /join darkally
+                                  --> Complete "Meditation, Inflection" at /join darkally
   Legion Tokens          ×17,500 → (Refer to Legion Token Guide in Library server)
   Sapphire Orb           ×13  → /join frozenlair  ·  Kill Legion Lich Lord  ⚠️ Group highly recommended
   Aeacus Empowered       ×50  → /join revenant or /join judgement  ·  Kill Ultra Aeacus
                                   (Need Dark Caster class to join /revenant — buy Infinite Legion DC for 2k LTs)
 
-  ✅ OPTION 2 — No Legion  (Slower, free)
-  ────────────────────────────────────────
-  → Complete "Legion Sword Training" from /join darkally
-  → Enter a private /join dagepvp
+  [ ✅ OPTION 2 — No Legion  (Slower, free) ]
+  --> Complete "Legion Sword Training" from /join darkally
+  --> Enter a private /join dagepvp
 
   Sword Scroll Fragment  ×1,000  → /join dagepvp  ·  Kill 4 Blade Masters (walk right → exit cave → up + right)
   Legion Combat Trophy   ×400    → /join dagepvp  ·  Kill 6 Legion Guards while walking right + kill Dage if time allows
@@ -150,11 +133,10 @@
   Shadow Dragonlord's Shroud ×250 → /join shadowgrove  ·  Kill Titan Shadow Dragonlord
                                     (Complete Galanoth's + Warlic's quests — boss at top inside tower)
   Discipline ×1                → /join underworld  ·  Kill Blade Masters
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║      STEP 3 — CLAIM YOUR CLASS       ║
-╚══════════════════════════════════════╝
-
-  → Turn in "Yami no Ronin" quest to Dage at /join darkally
-  → Both Yokai Sword Scroll and Blademaster Sword Scroll must be in your inventory
+⚔️ STEP 3 — CLAIM YOUR CLASS
+╭────────────────────────────────────────────────────────────────────────╮
+  --> Turn in "Yami no Ronin" quest to Dage at /join darkally
+  --> Both Yokai Sword Scroll and Blademaster Sword Scroll must be in your inventory
+╰────────────────────────────────────────────────────────────────────────╯

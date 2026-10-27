@@ -1,45 +1,37 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            VAMPIRE LORD              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                         V A M P I R E    L O R D
 
-  Best Used For:  🌾 Farming
+╚════════════════════════════════════════════════════════════════════════╝
 
-  ⚠️  Seasonal:   October  (Mogloween event)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
-  ℹ️  Note ·······  Duplicate of the Rare "Enchanted Vampire Lord", "Royal Vampire Lord",
-                    and "Vampire" classes. If you own any of them, you don't need this.
+  Best for --> 🌾 Farming
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Seasonal --> ⚠️ October (Mogloween event)
 
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
+  💡 Duplicate of the Rare "Enchanted Vampire Lord", "Royal Vampire Lord",
+     and "Vampire" classes. If you own any of them, you don't need this.
+╰────────────────────────────────────────────────────────────────────────╯
 
-  → /join mogloween  ·  Accept Barnabus' "Blood Moon Token" quest
-  → Members: complete the member version for more tokens
-  → Merge the class with 300 Blood Moon Tokens
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
+  --> /join mogloween  ·  Accept Barnabus' "Blood Moon Token" quest
+  --> Members: complete the member version for more tokens
+  --> Merge the class with 300 Blood Moon Tokens
 
-  Blood Moon Token ×300
-  ──────────────────────
-  → /join bloodmoon  ·  Kill Black Unicorn + Lycan Guard (drops stack to 100 each)
-  → Can /goto someone at those enemies — storyline not required
+  [ Blood Moon Token ×300 ]
+  --> /join bloodmoon  ·  Kill Black Unicorn + Lycan Guard (drops stack to 100 each)
+  --> Can /goto someone at those enemies — storyline not required
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
-
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Health Vamp
-
-  🪖 Helm ··········  Luck
-		       Base Forge
-
-  🧣 Cape ··········  Lament
-                       Absolution
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Health Vamp
+  Helm   --> Luck / Base Forge      Cape   --> Lament / Absolution
+╰────────────────────────────────────────────────────────────────────────╯

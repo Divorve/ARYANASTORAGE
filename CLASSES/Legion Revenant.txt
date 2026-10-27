@@ -1,69 +1,59 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           LEGION REVENANT            ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — meta support/farming class.
-  Note: Dragon of Time and ArchFiend are also great options requiring less time.
+                      L E G I O N    R E V E N A N T
 
-  Best Used For:  🌾 Farming  |  🤝 Support
-  Also Good For:  ⚔️  Soloing
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Level 80  |  Rank 10 Evil  |  Legion Member
-                  Dark Caster Class (to enter the map)
-                  → If missing: buy Infinite Legion Dark Caster at /join underworld (2k LTs)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — meta support/farming class.
+  💡 Dragon of Time and ArchFiend are also great options requiring less time.
 
-  Non-Member also needs: 50 Bone Dust (from /join battleunderb)
+  Best for      --> 🌾 Farming · 🤝 Support
+  Also Good For --> ⚔️ Soloing
 
-  Recommended:    Paragon Pet (farm LTs in Fealty 3)
+  Recommended --> Paragon Pet (farm LTs in Fealty 3)
                   Undead damage-boosting item (e.g. BLoD) — most enemies are Undead-tagged
 
-  💡 Shortcut:    Trade 1 Dage the Evil Insignia at /join ultradage
-                   → 1 Revenant's Spellscroll (Fealty 1 + 3)
-                   → 2 Conquest Wreaths (Fealty 2)
-                   → 1 Exalted Crown (Fealty 3)
-                  Best used on Fealty 1 and 3 — longest and most tedious
+  Shortcut --> 💡 Trade 1 Dage the Evil Insignia at /join ultradage
+               --> 1 Revenant's Spellscroll (Fealty 1 + 3)
+               --> 2 Conquest Wreaths (Fealty 2)
+               --> 1 Exalted Crown (Fealty 3)
+               Best used on Fealty 1 and 3 — longest and most tedious
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 80 · Rank 10 Evil · Legion Member
+                   Dark Caster Class (to enter the map)
+                   --> If missing: buy Infinite Legion Dark Caster at /join underworld (2k LTs)
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  Non-Member also needs --> 50 Bone Dust (from /join battleunderb)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Arcana's Concerto
+             Valiance (Farming)
+             Praxis
+             Ravenous
+  Helm   --> Pneuma / Wizard / Base Forge (with Ravenous)
+  Cape   --> Avarice (Farming) / Lament / Penitence / Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Arcana's Concerto
-                       Valiance        (Farming)
-                       Praxis
-                       Ravenous
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 --> 💡 Applies Decay — time it when boss/monster has a healing aspect
 
-  🪖 Helm ··········  Pneuma
-                       Wizard
-                       Base Forge      (with Ravenous)
+  Main Rotation --> ✅ Just spam
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧣 Cape ··········  Avarice         (Farming)
-                       Lament
-                       Penitence
-                       Vainglory
+⚔️ FEALTY 1
+╭────────────────────────────────────────────────────────────────────────╮
+  Complete quest ×20
 
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 2 ········  Applies Decay — time it when boss/monster has a healing aspect
-
-  ✅ Main Rotation ··  Just spam
-
-
-╔══════════════════════════════════════╗
-║             FEALTY 1                 ║
-║   Complete quest ×20                 ║
-╚══════════════════════════════════════╝
-
-  → /join revenant  ·  Accept "Legion Fealty 1"
+  --> /join revenant  ·  Accept "Legion Fealty 1"
 
   Aeacus Empowered     ×50    → /join revenant  ·  Kill Ultra Aeacus
                                  Alt: /join judgement (population limit: 6) — needs strong solo class
@@ -73,16 +63,15 @@
   Darkened Essence     ×500   → /join shadowrealmpast  ·  Kill enemies (untagged)
   Dracolich Contract   ×1,000 → /join necrodungeon  ·  Kill 5 Headed Dracolich
                                  Directions: elevator → right → elevator → right door → right → elevator
-                                 → right door → right → doom crawler → up into train → right → elevator → right door → right
+                                 --> right door → right → doom crawler → up into train → right → elevator → right door → right
                                  ⚠️ Use Undead damage-boosting item
 
-  Total: ~37,000 kills
+  Total --> ~37,000 kills
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║             FEALTY 2                 ║
-║   Complete quest ×6                  ║
-╚══════════════════════════════════════╝
+⚔️ FEALTY 2
+╭────────────────────────────────────────────────────────────────────────╮
+  Complete quest ×6
 
   💡 Use Undead damage-boosting item for all locations below (each stack to 500):
 
@@ -97,13 +86,12 @@
   Dragon     → /join dragonbone      ·  Use Dragon damage-boosting item here
   Doomwood   → /join doomwood        ·  Walk left → up → left
 
-  Total: ~30,000 kills
+  Total --> ~30,000 kills
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║             FEALTY 3                 ║
-║   Complete quest ×10                 ║
-╚══════════════════════════════════════╝
+⚔️ FEALTY 3
+╭────────────────────────────────────────────────────────────────────────╮
+  Complete quest ×10
 
   Hooded Legion Cowl         ×1      → /join underworld  ·  Dage's Legion Shop  (500k Gold)
   Legion Tokens              ×4,000  → (Refer to Legion Token Guide in Library server)
@@ -128,12 +116,11 @@
                                         💡 Use Human damage-boosting item
                                         Requires completing Laken's quests at /join worldsoul
 
-  Total: 5m Gold  |  40k LTs  |  3k Dage's Favour  |  10 Emblems of Dage
-          300 Diamond Tokens  |  1,000 Dark Tokens
+  Total --> 5m Gold · 40k LTs · 3k Dage's Favour · 10 Emblems of Dage
+            300 Diamond Tokens · 1,000 Dark Tokens
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║             FEALTY 4                 ║
-╚══════════════════════════════════════╝
-
-  → Turn in all Spellscrolls, Wreaths, and Crowns collected from previous Fealties
+⚔️ FEALTY 4
+╭────────────────────────────────────────────────────────────────────────╮
+  --> Turn in all Spellscrolls, Wreaths, and Crowns collected from previous Fealties
+╰────────────────────────────────────────────────────────────────────────╯

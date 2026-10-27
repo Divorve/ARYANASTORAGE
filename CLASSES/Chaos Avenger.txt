@@ -1,94 +1,78 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           CHAOS AVENGER              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — but not needed if you already have Void Highlord
-  (except for Ultra Bosses).
+                        C H A O S    A V E N G E R
 
-  Best Used For:  ⚔️  Soloing  |  🛡️  Defensive Support
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Level 80  |  13 Lords of Chaos Story Completion
-                  (Open Map → Story tab to complete)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — but not needed if you already have Void Highlord
+                     (except for Ultra Bosses).
 
-  Recommended:    High-tier Support/Soloing Class
+  Best for --> ⚔️ Soloing · 🛡️ Defensive Support
+
+  Recommended --> High-tier Support/Soloing Class
                   (Void Highlord, Lord of Order, ArchPaladin, StoneCrusher)
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 80 · 13 Lords of Chaos Story Completion
+                   (Open Map → Story tab to complete)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Dauntless / Valiance
+  Helm   --> Anima / Base Forge     Cape   --> Vainglory / Lament
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  💡 Buffs last a long time — prioritise maximising DPS
 
-  ⚔️  Weapon ········  Dauntless
-                       Valiance
+  Offensive --> ✅ 5 → 3 → 2 → 4
+  Defensive --> ✅ 5 → 4 → 2 → 3
 
-  🪖 Helm ··········  Anima
-                       Base Forge
+  Mana Tip --> 💡 Weave auto-attacks between skills to restack mana
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧣 Cape ··········  Vainglory
-                       Lament
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Note ············  Buffs last a long time — prioritise maximising DPS
-
-  ✅ Offensive ······  5 → 3 → 2 → 4
-  ✅ Defensive ······  5 → 4 → 2 → 3
-
-  💡 Mana Tip ·······  Weave auto-attacks between skills to restack mana
-
-
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
-
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
   Complete "Chaos Avenger Class" from your NPC self at /join championdrakath
 
-  Parallel Chaos Amulet ×1
-  ──────────────────────────
-  → Merge 20 Champion Drakath Insignias at /join championdrakath
-  → Earn 5 Insignias per week from "Drakath, Champion of Chaos" quest
-  → Resets Fridays 12:01am EST — takes at least 4 weeks
+  [ Parallel Chaos Amulet ×1 ]
+  --> Merge 20 Champion Drakath Insignias at /join championdrakath
+  --> Earn 5 Insignias per week from "Drakath, Champion of Chaos" quest
+  --> Resets Fridays 12:01am EST — takes at least 4 weeks
 
-  Fragment of the Dragon ×1
-  ──────────────────────────
-  → /join chaoslord  ·  Kill the enemy version of yourself
+  [ Fragment of the Dragon ×1 ]
+  --> /join chaoslord  ·  Kill the enemy version of yourself
 
-  Fragment of Mount Doomskull ×1,300
-  ────────────────────────────────────
-  → /join mountdoomskull  ·  Kill enemies
-  → Most efficient: screen with 2 Chaos Drows + 2 Chaorrupted Rogues (very low HP)
-  → If Rank 10 Chaos not yet earned: farm "Embrace Your Chaos" from Loremaster Maya here
+  [ Fragment of Mount Doomskull ×1,300 ]
+  --> /join mountdoomskull  ·  Kill enemies
+  --> Most efficient: screen with 2 Chaos Drows + 2 Chaorrupted Rogues (very low HP)
+  --> If Rank 10 Chaos not yet earned: farm "Embrace Your Chaos" from Loremaster Maya here
 
-  Fragments of the Lords A
-  ──────────────────────────
-  → Escherion's Robe          ·  /join escherion
-  → Vath's Chaotic Dragonlord ·  /join stalagbite
-  → Chaos Shogun Armour       ·  /join kitsune
-  → Wolfwing Armour           ·  /join wolfwing
-  → Discordia Armour          ·  /join palooza
-  → Ledgermayne (Armour)      ·  /join ledgermayne
+  [ Fragments of the Lords A ]
+  --> Escherion's Robe          ·  /join escherion
+  --> Vath's Chaotic Dragonlord ·  /join stalagbite
+  --> Chaos Shogun Armour       ·  /join kitsune
+  --> Wolfwing Armour           ·  /join wolfwing
+  --> Discordia Armour          ·  /join palooza
+  --> Ledgermayne (Armour)      ·  /join ledgermayne
 
-  Fragments of the Lords B
-  ──────────────────────────
-  → Tibicenas (Armour)        ·  /join djinn
-  → Soul of Chaos Armour      ·  /join dreamnexus  ·  Kill Khasaanda
-  → Iadoa (Armour)            ·  /join timespace
+  [ Fragments of the Lords B ]
+  --> Tibicenas (Armour)        ·  /join djinn
+  --> Soul of Chaos Armour      ·  /join dreamnexus  ·  Kill Khasaanda
+  --> Iadoa (Armour)            ·  /join timespace
                                   💡 Get Dragonoid of Hours from /join mqlesson — disables Astral Shift
-  → Chaos Lionfang Armour     ·  /join stormtemple
-  → Chaos Lord Alteon (Armour) · /join swordhavenfalls
-  → Xiang Chaos               ·  /join mirrorportal
+  --> Chaos Lionfang Armour     ·  /join stormtemple
+  --> Chaos Lord Alteon (Armour) · /join swordhavenfalls
+  --> Xiang Chaos               ·  /join mirrorportal
                                   💡 Use Sentinel, Dragon of Time, or Healer — they deal HP-based damage
 
-  Fragment of the Queen ×13
-  ───────────────────────────
-  → /join transformation  ·  Kill The Queen of Monsters
-  → Complete /forestreach > /deepforest > /transformation storyline first
+  [ Fragment of the Queen ×13 ]
+  --> /join transformation  ·  Kill The Queen of Monsters
+  --> Complete /forestreach > /deepforest > /transformation storyline first
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,94 +1,75 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           DRAGON OF TIME             ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
+                      D R A G O N    O F    T I M E
 
+╚════════════════════════════════════════════════════════════════════════╝
 
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ⚠️ Mysterious Egg (Pet) is available to be bought back through Manage Account option.
+  ⚠️ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious Egg when farming the other.
 
-DISCLAIMER: 
+  Worth getting? --> Yes — but only if you don't already own both Void Highlord and Legion Revenant.
 
-Mysterious Egg (Pet) is available to be bought back through Manage Account option.
+  Best for --> 🌾 Farming · ⚔️ Soloing
 
-Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious Egg when farming the other.
-
-  Worth Getting?
-  ──────────────
-  Yes — but only if you don't already own both Void Highlord and Legion Revenant.
-
-  Best Used For:  🌾 Farming  |  ⚔️  Soloing
-
-  Requirements:   Level 75  |  Rank 4 Loremaster  |  Blade of Awe
-                  13 Lords of Chaos Story Completion (Map → Story tab)
-
-  Recommended:    Damage-boosting items vs Undead, Dragon, and Chaos
+  Recommended --> Damage-boosting items vs Undead, Dragon, and Chaos
                   (e.g. BLoD, Chaorrupter Unlocked)
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 75 · Rank 4 Loremaster · Blade of Awe
+                   13 Lords of Chaos Story Completion (Map → Story tab)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Healer                 Weapon --> Elysium / Valiance
+  Helm   --> Healer / Pneuma / Wizard
+  Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Healer
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Single Target --> ✅ 3 → 2 → 3 → 5 → 4
 
-  ⚔️  Weapon ········  Elysium
-                       Valiance
+  Survival --> ✅ 3 → 2 → 3 → 5 → 3 → 4
 
-  🪖 Helm ··········  Healer
-                       Pneuma
-                       Wizard
+  Multi Target --> ✅ 3 → 2 → 3 → 5 → 4 → 3 → 5
+                   (50% haste variant: 3→2→3→5→3→4→3→5 — eats mana fast)
 
-  🧣 Cape ··········  Vainglory
+  Elysium ST --> ✅ 2 → 3 → 5 → 3 → 4 → 3
+                 OR 4 → 3 → 2 → 3 → 5 → 3
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ QUESTS
+╭────────────────────────────────────────────────────────────────────────╮
+  --> Head to /join timeinn  ·  Complete quests from Kro'nar in order
 
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Single Target ··  3 → 2 → 3 → 5 → 4
-
-  ✅ Survival ·······  3 → 2 → 3 → 5 → 3 → 4
-
-  ✅ Multi Target ···  3 → 2 → 3 → 5 → 4 → 3 → 5
-                        (50% haste variant: 3→2→3→5→3→4→3→5 — eats mana fast)
-
-  ✅ Elysium ST ·····  2 → 3 → 5 → 3 → 4 → 3
-                        OR  4 → 3 → 2 → 3 → 5 → 3
-
-
-╔══════════════════════════════════════╗
-║               QUESTS                 ║
-╚══════════════════════════════════════╝
-
-  → Head to /join timeinn  ·  Complete quests from Kro'nar in order
-
-  1 · Acquiring Ancient Secrets
-  ───────────────────────────────
-  → Lost Hieroglyphic ×30    ·  /join mummies  ·  Kill Mummies
+  [ 1 · Acquiring Ancient Secrets ]
+  --> Lost Hieroglyphic ×30    ·  /join mummies  ·  Kill Mummies
                                 (Requires Act 1-4 + Clara's quests at /cruxship up to "Apephyrx Rises")
                                 Alternative: /join cruxship if storyline incomplete
-  → Myths of Lore ×1         ·  /join librarium  ·  Purchase from Maya
-  → Historia Page ×100       ·  /join timelibrary
+  --> Myths of Lore ×1         ·  /join librarium  ·  Purchase from Maya
+  --> Historia Page ×100       ·  /join timelibrary
                                 Best room: 2 Undead Knights + 1 Moglin Ghost
                                 (From Warlic: right ×2 → up ×1)
-  → Frost King's Story ×1    ·  /join kingcoal  ·  Kill Frost King
-  → Your Own Memories ×1     ·  /join baconcatyou  ·  Kill the enemy version of yourself
+  --> Frost King's Story ×1    ·  /join kingcoal  ·  Kill Frost King
+  --> Your Own Memories ×1     ·  /join baconcatyou  ·  Kill the enemy version of yourself
 
-  2 · Time to Train Yourself
-  ────────────────────────────
-  → Desoloth's Destructive Aura ×1  ·  /join dragonchallenge  ·  Kill Desoloth the Final
-  → Nythera's Patience ×1    ·  /join blindingsnow  ·  Kill Nythera
+  [ 2 · Time to Train Yourself ]
+  --> Desoloth's Destructive Aura ×1  ·  /join dragonchallenge  ·  Kill Desoloth the Final
+  --> Nythera's Patience ×1    ·  /join blindingsnow  ·  Kill Nythera
                                 Complete first: /northlands > /kingcoal > /swallowed > /blindingsnow
-  → Goregold's Luck ×1       ·  /join greed  ·  Kill Goregold (Complete Galanoth's quests first)
+  --> Goregold's Luck ×1       ·  /join greed  ·  Kill Goregold (Complete Galanoth's quests first)
                                 💡 Chest 3rd from left  |  Watch for traps near slimes
                                 💡 Bottom key: far left  |  Top key: just left of centre
-  → Victorious' Dignity ×1   ·  /join darkplane  ·  Kill Victorious
-  → Trigoras' Tenacity ×3    ·  /join trigoras  ·  Kill Trigoras (Take path to the right)
+  --> Victorious' Dignity ×1   ·  /join darkplane  ·  Kill Victorious
+  --> Trigoras' Tenacity ×3    ·  /join trigoras  ·  Kill Trigoras (Take path to the right)
 
-  3 · Do You Have the Time?
-  ───────────────────────────
-  → Golden Blade of Fate (Sword) ×1
+  [ 3 · Do You Have the Time? ]
+  --> Golden Blade of Fate (Sword) ×1
     Complete Mysterious Stranger's quests at:
     /join tutor        ·  Kill Horc Tutor Trainer
     /join prison       ·  Kill Piggy Drake
@@ -102,102 +83,96 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
     /join sepulchure   ·  Kill Dark Sepulchure
     /join yulgar       ·  Go up to the attic
 
-  → Pink Blade of Destruction ×1  ·  /join techfortress  ·  Sellaria's "Forging a Friendship" quest
+  --> Pink Blade of Destruction ×1  ·  /join techfortress  ·  Sellaria's "Forging a Friendship" quest
     (Complete /thorngarde > /stonewood > /techdungeon > /stonewooddeep > /techfortress first)
     Fuchsia Dye ×50    ·  /join tower  ·  Speak to Beleen (walk left → up)
       Non-Member: "Pink-a-licious-Prowl" — /join natatorium + /join ancienttemple (walk all the way left)
       Member: "Dyeing for Gemstones" — Gargoyles at /join cornelis + Lich at /join darkoviaforest
     Spirit Orb ×500    ·  /join necropolis  ·  "Bust some Dust" + "Essential Essences" (see BLoD guide)
     Zealous Badge ×5   ·  /join techdungeon  ·  Sellaria's "A Solemn Favour" — Kill DoomBorg Guards + Kalron
-    Unicorn Essence ×5 ·  /join undergroundlabb  ·  Kill Ultra Brutalcorn (walk left)
+  Unicorn Essence ×5 --> /join undergroundlabb · Kill Ultra Brutalcorn (walk left)
     Gem Power ×5       ·  /join undergroundlabb  ·  Kill Ultra Battle Gems alongside Ultra Brutalcorn
-  → Cross-Era Stabiliser ×1  ·  /join underworld  ·  Kill Laken
-  → Chronomancer's Codex ×1  ·  /join timespace  ·  Kill Iadoa
+  --> Cross-Era Stabiliser ×1  ·  /join underworld  ·  Kill Laken
+  --> Chronomancer's Codex ×1  ·  /join timespace  ·  Kill Iadoa
                                 💡 Get Dragonoid of Hours at /join mqlesson — disables Astral Shift
-  → Timestream String ×100   ·  /join arena  ·  Kill Timestream Rider (walk right)
+  --> Timestream String ×100   ·  /join arena  ·  Kill Timestream Rider (walk right)
 
-  4 · Through the Wormhole
-  ──────────────────────────
-  → Time Loop Broken ×1      ·  /join cathedral  ·  Kill Incarnation of Time
+  [ 4 · Through the Wormhole ]
+  --> Time Loop Broken ×1      ·  /join cathedral  ·  Kill Incarnation of Time
                                 (Talk to Adaleaz + complete info station quests to access)
-  → Anomaly Silenced ×100    ·  /join portalwar  ·  Kill enemies
+  --> Anomaly Silenced ×100    ·  /join portalwar  ·  Kill enemies
                                 Best screen: left of fountain (Tempus Larva + Chronorysa + Time Wraith)
-  → Chronolord Stopped ×50   ·  /join portalmaze  ·  Kill Chronolords (near end of map)
-  → Is This a Wormhole? ×1   ·  /join ubear  ·  Kill Cornholio (/goto someone or complete Cysero's quests)
+  --> Chronolord Stopped ×50   ·  /join portalmaze  ·  Kill Chronolords (near end of map)
+  --> Is This a Wormhole? ×1   ·  /join ubear  ·  Kill Cornholio (/goto someone or complete Cysero's quests)
 
-  5 · Rend
-  ──────────
-  → Dimensional Dragon Portal ×2  ·  /join lairdefend  ·  Kill Dragon Summoner
-  → Brutal Slash Studied ×1       ·  /join bosschallenge  ·  Kill Grievous Inbunche
+  [ 5 · Rend ]
+  --> Dimensional Dragon Portal ×2  ·  /join lairdefend  ·  Kill Dragon Summoner
+  --> Brutal Slash Studied ×1       ·  /join bosschallenge  ·  Kill Grievous Inbunche
                                      ⚠️ Group or dodge class recommended (Chrono Assassin, Yami no Ronin)
-  → Epic Hydra Fang ×125          ·  /join hydrachallenge  ·  Kill Hydra Head 90s (talk to fairy)
+  --> Epic Hydra Fang ×125          ·  /join hydrachallenge  ·  Kill Hydra Head 90s (talk to fairy)
                                      ⚠️ Group + dodge class highly recommended
                                      💡 Good combos: Lord of Order + ShadowWeaver of Time / Legion Revenant / Chaos Slayer / Scarlet Sorceress
                                      💡 Use Relics of Chaos drops for "Supplies to spin The Wheel of Chance"
 
-  6 · Confluence of Fates
-  ─────────────────────────
-  → Sword of Voids ×1             ·  /join ivoliss  ·  Kill Ivoliss
-  → Darkon's Receipt ×100
-    Easiest (Longest):  "First Errand" from /join garden
-      Solo: /join portalmaze Screen 8 — Kill Jurassic Monkeys (1 Banana, stacks to 222)
-      Group: /join towerofdoom7 — Kill Dread Gorillphants (1-3 Bananas)
-    Harder (Shorter): "Second Errand" from /join garden
-      /join doomvault — Kill Binky (up to 10 Ingredients, stacks to 222)
-      ⚠️ Group required to be efficient
-      💡 Bait Skill Lock with auto-attack (Mana Vamp awe enhancement recommended)
-      💡 Avoid Counter Attack — press ESC to prevent damage reflection
-      💡 Access via /join museum → Valencia → Armour of Awe → Cape Boss
-    Shortest (Hardest): "Third Errand" from /join garden
-      /join tercessuinotlim — Kill Nulgath (20% drop, stacks to 222)
-      ⚠️ Group highly recommended
-      💡 Don't use Thief of Hours or Chrono Assassin (reflected kills don't drop loot)
-      💡 Best group: Legion Revenant + LightCaster + Chaos Avenger + supports
-  → Semiramis Feather ×1          ·  /join guardiantree  ·  Complete all of Aria's quests → "Take Down Terrane"
-  → Cross Dimensional Weapons ×300 · /join aqw3d  ·  Kill Nightlocke Weapons (Yulgar's Inn → upstairs)
-  → Starlight Singularity ×1      ·  /join whitehole  ·  Complete all of The Wanderer's quests → "Serpent of the Stars"
-  → Collectible Collector ×1      ·  /join collection  ·  Super Fan Token Shop
+  [ 6 · Confluence of Fates ]
+  --> Sword of Voids ×1             ·  /join ivoliss  ·  Kill Ivoliss
+  --> Darkon's Receipt ×100
+  Easiest (Longest)  --> "First Errand" from /join garden
+                         Solo: /join portalmaze Screen 8 — Kill Jurassic Monkeys (1 Banana, stacks to 222)
+                         Group: /join towerofdoom7 — Kill Dread Gorillphants (1-3 Bananas)
+  Harder (Shorter)   --> "Second Errand" from /join garden
+                         /join doomvault — Kill Binky (up to 10 Ingredients, stacks to 222)
+                         ⚠️ Group required to be efficient
+                         💡 Bait Skill Lock with auto-attack (Mana Vamp awe enhancement recommended)
+                         💡 Avoid Counter Attack — press ESC to prevent damage reflection
+                         💡 Access via /join museum → Valencia → Armour of Awe → Cape Boss
+  Shortest (Hardest) --> "Third Errand" from /join garden
+                         /join tercessuinotlim — Kill Nulgath (20% drop, stacks to 222)
+                         ⚠️ Group highly recommended
+                         💡 Don't use Thief of Hours or Chrono Assassin (reflected kills don't drop loot)
+                         💡 Best group: Legion Revenant + LightCaster + Chaos Avenger + supports
+  --> Semiramis Feather ×1          ·  /join guardiantree  ·  Complete all of Aria's quests → "Take Down Terrane"
+  --> Cross Dimensional Weapons ×300 · /join aqw3d  ·  Kill Nightlocke Weapons (Yulgar's Inn → upstairs)
+  --> Starlight Singularity ×1      ·  /join whitehole  ·  Complete all of The Wanderer's quests → "Serpent of the Stars"
+  --> Collectible Collector ×1      ·  /join collection  ·  Super Fan Token Shop
                                      (Complete Drakath Kid's quests up to "Catapult Climb" + Will and Fred's quests at /prehistoric + /future)
 
-  7 · Dragon's Will  ⚠️ Group recommended
-  ──────────────────────────────────────────
-  → Unyielding Slime ×300         ·  /join moonlab  ·  Kill Slime Molds (complete mice's quests to exit cage first)
-  → Omnipotent Cells ×20          ·  /join bosschallenge  ·  Kill Mutated Void Dragon
-  → Dragon's Plasma ×20           ·  /join underlair  ·  Kill ArchFiend Dragonlord
-  → Chaotic Invertebrae ×20       ·  /join chaoskraken  ·  Kill Chaos Kraken
-  → Cryostatic Essence ×20        ·  /join towerofdoom9  ·  Kill Dread Fang (start at /towerofdoom if new)
-  → Salvaged Chaos Dragon Biomass ×20  ·  /join castleroof  ·  Kill Ultra Chaos Dragon
+  [ 7 · Dragon's Will  ⚠️ Group recommended ]
+  --> Unyielding Slime ×300         ·  /join moonlab  ·  Kill Slime Molds (complete mice's quests to exit cage first)
+  --> Omnipotent Cells ×20          ·  /join bosschallenge  ·  Kill Mutated Void Dragon
+  --> Dragon's Plasma ×20           ·  /join underlair  ·  Kill ArchFiend Dragonlord
+  --> Chaotic Invertebrae ×20       ·  /join chaoskraken  ·  Kill Chaos Kraken
+  --> Cryostatic Essence ×20        ·  /join towerofdoom9  ·  Kill Dread Fang (start at /towerofdoom if new)
+  --> Salvaged Chaos Dragon Biomass ×20  ·  /join castleroof  ·  Kill Ultra Chaos Dragon
 
-  8 · Burning Fates
-  ───────────────────
-  → Fire Essence ×3,000           ·  /join volcano  ·  Kill enemies (best: screen with 3 Fire Imps)
-  → Akriloth's Flametongue ×100   ·  /join charredplains  ·  Kill Akriloth  ⚠️ Group — very high HP
-  → Immortal Embers ×50           ·  /join ultraphedra  ·  Kill Ultra Phedra
-  → Ashes from the Void Realm ×50 ·  /join thevoid  ·  Kill Reaper
+  [ 8 · Burning Fates ]
+  --> Fire Essence ×3,000           ·  /join volcano  ·  Kill enemies (best: screen with 3 Fire Imps)
+  --> Akriloth's Flametongue ×100   ·  /join charredplains  ·  Kill Akriloth  ⚠️ Group — very high HP
+  --> Immortal Embers ×50           ·  /join ultraphedra  ·  Kill Ultra Phedra
+  --> Ashes from the Void Realm ×50 ·  /join thevoid  ·  Kill Reaper
                                      (Select "Fight Me!" from The Reaper NPC at start of map)
                                      ⚠️ Group recommended  |  💡 May drop PvP Amulet (boosts HP in PvP zones)
 
-  9 · Hero's Heartbeat
-  ──────────────────────
-  → Mysterious Egg (Pet) ×1       ·  /join ashfallcamp  ·  Complete "Mysterious Chest" quest
+  [ 9 · Hero's Heartbeat ]
+  --> Mysterious Egg (Pet) ×1       ·  /join ashfallcamp  ·  Complete "Mysterious Chest" quest
                                      Requires all 7 Keys from 7DD story (Map → Story)
                                      Each key from the Dragon at end of each chapter map
                                      (Envy key: /join maloth)
-  → Conquered Past ×1             ·  /join chaoslord  ·  Kill the enemy version of yourself
-  → Slugbutter Trophy ×100        ·  /join towerofdoom10  ·  Kill Slugbutter  ⚠️ Group
-  → Icewing's Laurel ×30          ·  /join icestormarena  ·  Kill Warlord Icewing  ⚠️ Group
+  --> Conquered Past ×1             ·  /join chaoslord  ·  Kill the enemy version of yourself
+  --> Slugbutter Trophy ×100        ·  /join towerofdoom10  ·  Kill Slugbutter  ⚠️ Group
+  --> Icewing's Laurel ×30          ·  /join icestormarena  ·  Kill Warlord Icewing  ⚠️ Group
                                      💡 If not max level: also complete "Warlord Icewing!" from the NPC at start
                                      + "Warlord Icewing! (Member)" from King Rimescar behind the boss
 
-  10 · Optional: I'm Loving It My Way  (Cosmetics + Badge)
-  ──────────────────────────────────────────────────────────
-  → Complete Yulgar's quests from /join borgars
-    Path: /join extinction > /battlefowl > /freakitiki > /mountainpath > /pirates > /arcangrove
-  → "A Weird Gourmet" from Reens at /join arcangrove → talk to Bulbug at /join thespan
+  [ 10 · Optional: I'm Loving It My Way  (Cosmetics + Badge) ]
+  --> Complete Yulgar's quests from /join borgars
+  Path --> /join extinction > /battlefowl > /freakitiki > /mountainpath > /pirates > /arcangrove
+  --> "A Weird Gourmet" from Reens at /join arcangrove → talk to Bulbug at /join thespan
     (From Warlic: left ×3 → up ×2)
-  → Bulbug's "Piece of Cake" → get "Slice of Cake" from Cake NPC at /join portalmaze (kill Time Wraiths)
-  → Bulbug's "A Health Nut" → talk to Granola Twig at /join brightfortress
-  → Granola Twig's "The Importance of Staying Healthy" → kill enemies at same map
-  → "An Aspiring Burgermonger" → talk to Yulgar at /join borgars
-  → "Burglinster's Revenge" → kill Burglinster (just right of Yulgar) ← rewards character page badge
-  → Obtain 5 Burger Buns → trade in Yulgar's merge shop → hand Borgar weapon to Kro'nar at /join timeinn
+  --> Bulbug's "Piece of Cake" → get "Slice of Cake" from Cake NPC at /join portalmaze (kill Time Wraiths)
+  --> Bulbug's "A Health Nut" → talk to Granola Twig at /join brightfortress
+  --> Granola Twig's "The Importance of Staying Healthy" → kill enemies at same map
+  --> "An Aspiring Burgermonger" → talk to Yulgar at /join borgars
+  --> "Burglinster's Revenge" → kill Burglinster (just right of Yulgar) ← rewards character page badge
+  --> Obtain 5 Burger Buns → trade in Yulgar's merge shop → hand Borgar weapon to Kro'nar at /join timeinn
+╰────────────────────────────────────────────────────────────────────────╯

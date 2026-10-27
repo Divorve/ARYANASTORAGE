@@ -1,80 +1,69 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            KATHOOL ADEPT             ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — fast-ramping farm class that can also buff the whole team.
-  Hits up to 3 targets and reaches Rank 10 in seconds.
+                        K A T H O O L    A D E P T
 
-  Best Used For:  🌾 Farming  |  🛡️ Support
+╚════════════════════════════════════════════════════════════════════════╝
 
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — fast-ramping farm class that can also buff the whole team.
+                     Hits up to 3 targets and reaches Rank 10 in seconds.
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  Best for --> 🌾 Farming · 🛡️ Support
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class     --> Luck
+  Weapon    --> Elysium
+                Acheron (Farming)
+                Arcana's Concerto (Supporting)
+                Valiance
+                Ravenous
+                Praxis
+  Helm      --> Pneuma / Wizard
+  Cape      --> Vainglory
+                Lament (class has low Crit Chance)
+                Wizard
+  💊 Potions --> Sage Tonic (counters Lament's effect)
+                Malevolence Elixir / Potent Battle Elixir
+                Felicitous Philtre / Potent Honor Potion
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Elysium
-                       Acheron  (Farming)
-                       Arcana's Concerto  (Supporting)
-                       Valiance
-                       Ravenous
-                       Praxis
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 1 --> 💡 Nightmare Gaze — applies Madness to your target
+              (stacks to 50, lowers their Crit and Dodge)
 
-  🪖 Helm ··········  Pneuma
-                       Wizard
+  Skill 2 --> 💡 Tentacle Slam — gives you Feeding (stacks to 10)
+              At 5 Feeding you gain Writhe (+25% resistances & healing)
 
-  🧣 Cape ··········  Vainglory
-                       Lament  (class has low Crit Chance)
-                       Wizard
+  Skill 3 --> 💡 Tidal — crit hit + Red Tide
+              (lowers target's Damage Resistance, more per Madness stack)
 
-  💊 Potions ·······  Sage Tonic  (counters Lament's effect)
-                       Malevolence Elixir / Potent Battle Elixir
-                       Felicitous Philtre / Potent Honor Potion
+  Skill 4 --> 💡 Frenzied Feast — needs 5+ Feeding stacks
+              +100% Crit Damage and Skill 2 damage
+              Skill 1 adds an extra Madness stack
+              ⚠️ Used with 1–4 Feeding = −200% Crit Damage for 3s
 
+  Skill 5 --> 💡 Call of Kathool! — unavoidable crit, effect depends on Madness:
+              5 · −25% Physical & Magical Resistance
+              20 · −50% Outgoing Damage and Haste
+              50 · DoT + −100% Hit Chance
+              Effects last 15 seconds
 
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
+  Main Rotation --> ✅ 4 → 2 → 3 → 2 → 2 → 4 → 5 → 3 → repeat
 
-  💡 Skill 1 ········  Nightmare Gaze — applies Madness to your target
-                        (stacks to 50, lowers their Crit and Dodge)
+  👥 Buffing Team --> Stack Feeding to 10 first (spam 2 before using 4)
+                     At 10 Feeding, Skill 4 shares Writhe with your allies
 
-  💡 Skill 2 ········  Tentacle Slam — gives you Feeding (stacks to 10)
-                        At 5 Feeding you gain Writhe (+25% resistances & healing)
-
-  💡 Skill 3 ········  Tidal — crit hit + Red Tide
-                        (lowers target's Damage Resistance, more per Madness stack)
-
-  💡 Skill 4 ········  Frenzied Feast — needs 5+ Feeding stacks
-                        +100% Crit Damage and Skill 2 damage
-                        Skill 1 adds an extra Madness stack
-                        ⚠️ Used with 1–4 Feeding = −200% Crit Damage for 3s
-
-  💡 Skill 5 ········  Call of Kathool! — unavoidable crit, effect depends on Madness:
-                         5  · −25% Physical & Magical Resistance
-                        20  · −50% Outgoing Damage and Haste
-                        50  · DoT + −100% Hit Chance
-                        Effects last 15 seconds
-
-  ✅ Main Rotation ··  4 → 2 → 3 → 2 → 2 → 4 → 5 → 3  → repeat
-
-  👥 Buffing Team ···  Stack Feeding to 10 first (spam 2 before using 4)
-                        At 10 Feeding, Skill 4 shares Writhe with your allies
-
-  💡 Multiple Mobs ··  With more than 1 enemy, you can use 4 earlier
+  Multiple Mobs --> 💡 With more than 1 enemy, you can use 4 earlier
 
   ⚠️ Don't use 4 below 5 Feeding stacks unless you're still stacking
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║         PRE-REQUIREMENTS             ║
-╚══════════════════════════════════════╝
-
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
   Level 80
   Completed the Voice in the Sea saga
 
@@ -83,110 +72,93 @@
   Rank 10 Somnia
 
   All quests are at  /join CallOfKathool
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║         HOW THE QUESTS WORK          ║
-╚══════════════════════════════════════╝
-
+⚔️ HOW THE QUESTS WORK
+╭────────────────────────────────────────────────────────────────────────╮
   Complete EITHER Bottom Feeder OR Top of the Food Chain.
   Either one unlocks  Call of Kathool  →  rewards Kathool Adept ✅
 
-  🅰️ Route A — Bottom Feeder
-  ───────────────────────────
-  To accept ········  Rank 10 Somnia + Rank 10 Fishing
-                       + all armors from Steps 1–6, Midnight Glaucus Sage
-                       and Kathool Acolyte in your inventory
-  Items required ···  Johnnyfish ×1
-                       Kultist's Morsel ×75
+  [ 🅰️ Route A — Bottom Feeder ]
+  To accept      --> Rank 10 Somnia + Rank 10 Fishing
+                     + all armors from Steps 1–6, Midnight Glaucus Sage
+                     and Kathool Acolyte in your inventory
+  Items required --> Johnnyfish ×1
+                     Kultist's Morsel ×75
 
-  🅱️ Route B — Top of the Food Chain
-  ────────────────────────────────────
-  To accept ········  Adeptus Kathooli armor in your inventory
-                       (merged from the same armors + Remnant of the Deep ×7)
-  Items required ···  None
+  [ 🅱️ Route B — Top of the Food Chain ]
+  To accept      --> Adeptus Kathooli armor in your inventory
+                     (merged from the same armors + Remnant of the Deep ×7)
+  Items required --> None
 
-  🏁 Final — Call of Kathool
-  ───────────────────────────
+  [ 🏁 Final — Call of Kathool ]
   Unlocks after Route A or B
-  Items required ···  Kathool's Morsel Consumed ×1
-  Reward ···········  Kathool Adept (Class)
+  Items required --> Kathool's Morsel Consumed ×1
+  Reward         --> Kathool Adept (Class)
+╰────────────────────────────────────────────────────────────────────────╯
 
+📘 GOLD VOUCHERS & DROPS
+╭────────────────────────────────────────────────────────────────────────╮
+  💰 Gold Voucher 25k --> Sold in every zone merge shop for 25,000 Gold
+                         You need ×36 (900,000 Gold total)
 
+  📦 Treasure Chest (Misc) --> Global drop — most monsters on these maps
+                             drop it while you farm the other items
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║        GOLD VOUCHERS & DROPS         ║
-╚══════════════════════════════════════╝
-
-  💰 Gold Voucher 25k ··  Sold in every zone merge shop for 25,000 Gold
-                           You need ×36  (900,000 Gold total)
-
-  📦 Treasure Chest (Misc) ··  Global drop — most monsters on these maps
-                                drop it while you farm the other items
-
-
-╔══════════════════════════════════════╗
-║       PHASE 1 — SEA BASE ARMORS      ║
-╚══════════════════════════════════════╝
-
-  1 · Ashray Villager
-  ─────────────────────
+⚔️ PHASE 1 — SEA BASE ARMORS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 1 · Ashray Villager ]
   Merge at Seaview Souvenirs  →  /join ashray
-  → Gold Voucher 25k ×4
-  → Treasure Chest (Misc) ×30   ·  Global drop
-  → Sur-gion Token ×50          ·  /join ashray
+  --> Gold Voucher 25k ×4
+  --> Treasure Chest (Misc) ×30   ·  Global drop
+  --> Sur-gion Token ×50          ·  /join ashray
                                    Kill Ashray Fisherman, Ghostly Eel,
                                    Kitefin Shark Bait, Seafoam Elemental
                                    or Stagnant Water
 
-  2 · Undine Defence Director
-  ─────────────────────────────
+  [ 2 · Undine Defence Director ]
   Merge at Undine Commissary  →  /join sunlightzone
-  → Gold Voucher 25k ×4
-  → Undine Base Scrip ×10       ·  Drops from all mobs in the sea zones
-  → Sun Zone Chit ×200          ·  /join sunlightzone
+  --> Gold Voucher 25k ×4
+  --> Undine Base Scrip ×10       ·  Drops from all mobs in the sea zones
+  --> Sun Zone Chit ×200          ·  /join sunlightzone
                                    Turn in "Suckers for Supper"
                                    (gives 1, 3, 5 or 7 at random)
 
-  3 · Evacuation Protocol Suit
-  ──────────────────────────────
+  [ 3 · Evacuation Protocol Suit ]
   Merge at Twilight Zone Merge (Mi Calistege)  →  /join twilightzone
-  → Gold Voucher 25k ×4
-  → Undine Visitor Badge ×12    ·  /join sunlightzone or /join midnightzone
+  --> Gold Voucher 25k ×4
+  --> Undine Visitor Badge ×12    ·  /join sunlightzone or /join midnightzone
                                    Drops from all mobs
-  → Sundered Tentacle ×100      ·  /join twilightzone  ·  Kill Whale Louse
+  --> Sundered Tentacle ×100      ·  /join twilightzone  ·  Kill Whale Louse
 
-  4 · Ashray Elf Warden
-  ───────────────────────
+  [ 4 · Ashray Elf Warden ]
   Merge at Abyssal Zone Merge (Dr. Song Rivale)  →  /join abyssalzone
-  → Gold Voucher 25k ×4
-  → Undine Base Scrip ×10
-  → Water Elf Antler ×200       ·  /join abyssalzone
+  --> Gold Voucher 25k ×4
+  --> Undine Base Scrip ×10
+  --> Water Elf Antler ×200       ·  /join abyssalzone
                                    Turn in "Burial at Sea"
                                    (×1 Antler each, random Scrip bonus)
 
-  5 · Elven Heritage Guardian
-  ─────────────────────────────
+  [ 5 · Elven Heritage Guardian ]
   Merge at Midnight Zone Merge  →  /join midnightzone
-  → Gold Voucher 25k ×4
-  → Undine Base Scrip ×14
-  → Water Elf Pearl ×40         ·  /join midnightzone  ·  Drops from all mobs
+  --> Gold Voucher 25k ×4
+  --> Undine Base Scrip ×14
+  --> Water Elf Pearl ×40         ·  /join midnightzone  ·  Drops from all mobs
 
-  6 · DeepWater Drow
-  ────────────────────
+  [ 6 · DeepWater Drow ]
   Merge at Trench Observe Merge  →  /join trenchobserve
-  → Gold Voucher 25k ×4
-  → Undine Base Scrip ×10
-  → Dark Elf Pearl ×30          ·  /join trenchobserve
+  --> Gold Voucher 25k ×4
+  --> Undine Base Scrip ×10
+  --> Dark Elf Pearl ×30          ·  /join trenchobserve
                                    Turn in "Undine's Dredge"
                                    (×1 Pearl each, random Scrip bonus)
-  → Ashray Elf Warden ×1        ·  From Step 4
+  --> Ashray Elf Warden ×1        ·  From Step 4
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║      PHASE 2 — GLAUCUS CHAIN         ║
-║            (/join seavoice)          ║
-╚══════════════════════════════════════╝
+⚔️ PHASE 2 — GLAUCUS CHAIN
+╭────────────────────────────────────────────────────────────────────────╮
+  (/join seavoice)
 
   All three merge at Sea Voice Merge  →  /join seavoice
   Each step uses up the armor from the step before.
@@ -194,103 +166,88 @@
   Bioluminessence  ·  Turn in "Dry Spell" or "Blooming Sea" (10 Algal Bloom each)
   Algal Bloom      ·  Kill Voice in the Sea  (drops ×1–20)
 
-  7a · Glaucus Mystic
-  ─────────────────────
-  → Kill Voice in the Sea  (drop)
+  [ 7a · Glaucus Mystic ]
+  --> Kill Voice in the Sea  (drop)
     or random reward from "Blooming Sea"
 
-  7b · Glaucus Sage
-  ───────────────────
-  → Gold Voucher 25k ×4
-  → Bioluminessence ×30
-  → Water Elf Pearl ×20
-  → Glaucus Mystic ×1
+  [ 7b · Glaucus Sage ]
+  --> Gold Voucher 25k ×4
+  --> Bioluminessence ×30
+  --> Water Elf Pearl ×20
+  --> Glaucus Mystic ×1
 
-  7c · Midnight Glaucus Mystic
-  ──────────────────────────────
-  → Gold Voucher 25k ×4
-  → Bioluminessence ×30
-  → Dark Elf Pearl ×12
-  → Glaucus Sage ×1
+  [ 7c · Midnight Glaucus Mystic ]
+  --> Gold Voucher 25k ×4
+  --> Bioluminessence ×30
+  --> Dark Elf Pearl ×12
+  --> Glaucus Sage ×1
 
-  7d · Midnight Glaucus Sage
-  ────────────────────────────
-  → Gold Voucher 25k ×4
-  → Bioluminessence ×30
-  → Dark Elf Pearl ×12
-  → Midnight Glaucus Mystic ×1
+  [ 7d · Midnight Glaucus Sage ]
+  --> Gold Voucher 25k ×4
+  --> Bioluminessence ×30
+  --> Dark Elf Pearl ×12
+  --> Midnight Glaucus Mystic ×1
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ PHASE 3 — GOD OF THE DEPTHS
+╭────────────────────────────────────────────────────────────────────────╮
+  (/join kathooldepths)
 
-╔══════════════════════════════════════╗
-║      PHASE 3 — GOD OF THE DEPTHS     ║
-║          (/join kathooldepths)       ║
-╚══════════════════════════════════════╝
+  [ 8 · Kathool Acolyte  (both routes) ]
+  --> /join kathooldepths   ·  Kill God of the Depths
+  --> /join deepchaos       ·  Kill Kathool (Level 41)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  8 · Kathool Acolyte  (both routes)
-  ────────────────────────────────────
-  → /join kathooldepths   ·  Kill God of the Depths
-  → /join deepchaos       ·  Kill Kathool (Level 41)
-
-
-╔══════════════════════════════════════╗
-║     ROUTE A — BOTTOM FEEDER ITEMS    ║
-╚══════════════════════════════════════╝
-
-  9 · Johnnyfish ×1
-  ───────────────────
-  → /join greenguardwest  ·  Talk to Faith → Fishing Gear shop
+⚔️ ROUTE A — BOTTOM FEEDER ITEMS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 9 · Johnnyfish ×1 ]
+  --> /join greenguardwest  ·  Talk to Faith → Fishing Gear shop
                              (needs Rank 10 Fishing)
 
-  10 · Kultist's Morsel ×75
-  ───────────────────────────
-  → /join CallOfKathool   ·  Kill Kathool Kultist
+  [ 10 · Kultist's Morsel ×75 ]
+  --> /join CallOfKathool   ·  Kill Kathool Kultist
 
   Turn in Bottom Feeder → then do Call of Kathool → Kathool Adept ✅
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ ROUTE B — TOP OF THE FOOD CHAIN
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 9 · Remnant of the Deep ×7 ]
+  --> /join kathooldepths   ·  Kill God of the Depths
 
-╔══════════════════════════════════════╗
-║  ROUTE B — TOP OF THE FOOD CHAIN     ║
-╚══════════════════════════════════════╝
-
-  9 · Remnant of the Deep ×7
-  ────────────────────────────
-  → /join kathooldepths   ·  Kill God of the Depths
-
-  10 · Adeptus Kathooli
-  ───────────────────────
+  [ 10 · Adeptus Kathooli ]
   Merge at Kathool's Chest  →  /join kathooldepths
-  → Ashray Villager ×1
-  → Undine Defence Director ×1
-  → Evacuation Protocol Suit ×1
-  → Ashray Elf Warden ×1
-  → Elven Heritage Guardian ×1
-  → DeepWater Drow ×1
-  → Midnight Glaucus Sage ×1
-  → Kathool Acolyte ×1
-  → Remnant of the Deep ×7
+  --> Ashray Villager ×1
+  --> Undine Defence Director ×1
+  --> Evacuation Protocol Suit ×1
+  --> Ashray Elf Warden ×1
+  --> Elven Heritage Guardian ×1
+  --> DeepWater Drow ×1
+  --> Midnight Glaucus Sage ×1
+  --> Kathool Acolyte ×1
+  --> Remnant of the Deep ×7
 
   Accept Top of the Food Chain at /join CallOfKathool
-  → then do Call of Kathool → Kathool Adept ✅
+  --> then do Call of Kathool → Kathool Adept ✅
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 TOTAL REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  💰 Gold Voucher 25k     --> ×36 (900,000 Gold)
+  📦 Treasure Chest (Misc) --> ×30
+  🪙 Sur-gion Token       --> ×50
+  📜 Undine Base Scrip    --> ×44
+  ☀️  Sun Zone Chit      --> ×200
+  🎫 Undine Visitor Badge --> ×12
+  🐙 Sundered Tentacle    --> ×100
+  🦌 Water Elf Antler     --> ×200
+  ⚪ Water Elf Pearl      --> ×60
+  ⚫ Dark Elf Pearl       --> ×54
+  ✨ Bioluminessence      --> ×90
+  Glaucus Mystic         --> ×1
+  🐚 Kathool Acolyte      --> ×1
 
-╔══════════════════════════════════════╗
-║          TOTAL REQUIREMENTS          ║
-╚══════════════════════════════════════╝
-
-  💰 Gold Voucher 25k ·········  ×36  (900,000 Gold)
-  📦 Treasure Chest (Misc) ····  ×30
-  🪙 Sur-gion Token ···········  ×50
-  📜 Undine Base Scrip ········  ×44
-  ☀️  Sun Zone Chit ············  ×200
-  🎫 Undine Visitor Badge ·····  ×12
-  🐙 Sundered Tentacle ········  ×100
-  🦌 Water Elf Antler ·········  ×200
-  ⚪ Water Elf Pearl ··········  ×60
-  ⚫ Dark Elf Pearl ···········  ×54
-  ✨ Bioluminessence ··········  ×90
-  🧿 Glaucus Mystic ···········  ×1
-  🐚 Kathool Acolyte ··········  ×1
-
-  Route A also:  Rank 10 Fishing + Rank 10 Somnia
-                 Johnnyfish ×1 + Kultist's Morsel ×75
-  Route B also:  Remnant of the Deep ×7
+  Route A also --> Rank 10 Fishing + Rank 10 Somnia
+                   Johnnyfish ×1 + Kultist's Morsel ×75
+  Route B also --> Remnant of the Deep ×7
+╰────────────────────────────────────────────────────────────────────────╯

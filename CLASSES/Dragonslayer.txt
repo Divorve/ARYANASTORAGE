@@ -1,35 +1,30 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            DRAGONSLAYER              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                         D R A G O N S L A Y E R
 
-  Best Used For:  ⚔️  Decent DPS
-  Also Good For:  🤝 Party Comps (with haste + crit damage supports)
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Complete the "Dragonslayer Marshal" quest
-                  → /join lair  ·  Speak to "Galanoth (NPC)"
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for      --> ⚔️ Decent DPS
+  Also Good For --> 🤝 Party Comps (with haste + crit damage supports)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Complete the "Dragonslayer Marshal" quest
+                   --> /join lair · Speak to "Galanoth (NPC)"
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Valiance
-                       Dauntless
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Weapon --> Valiance / Dauntless   Helm   --> Vim / Anima
+  Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🪖 Helm ··········  Vim
-                       Anima
-
-  🧣 Cape ··········  Vainglory
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Main Rotation ··  5 → 2 → 4 → 5 → 2  →  repeat cycle
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main Rotation --> ✅ 5 → 2 → 4 → 5 → 2 → repeat cycle
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,45 +1,39 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║         EXALTED HARBINGER            ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                    E X A L T E D    H A R B I N G E R
 
-  Best Used For:  💥 DPS
+╚════════════════════════════════════════════════════════════════════════╝
 
-  How to Get:     Seasonal — Dage's Birthday (March)
-                  → Merge: Legion Token ×5,000
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for --> 💥 DPS
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  How to Get --> Seasonal — Dage's Birthday (March)
+                 --> Merge: Legion Token ×5,000
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Dauntless / Ravenous
+  Helm   --> Anima                  Cape   --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Dauntless
-                       Ravenous
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 4 --> 💡 Miss — causes enemy to miss attacks
+  Skill 5 --> 💡 Siphon — drains enemy stats
+  Skill 2 --> 💡 Crit — deals bonus damage
+  Skill 3 --> 💡 Heal — restores your HP
 
-  🪖 Helm ··········  Anima
+  Main Rotation --> ✅ 5 → 4 → 2 → 2 → 3
 
-  🧣 Cape ··········  Vainglory
+  Low Health --> ✅ 4 → 3 → 3
+                 Risk taker: 4 → 2 → 2 → 3
 
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 4 ········  Miss — causes enemy to miss attacks
-  💡 Skill 5 ········  Siphon — drains enemy stats
-  💡 Skill 2 ········  Crit — deals bonus damage
-  💡 Skill 3 ········  Heal — restores your HP
-
-  ✅ Main Rotation ··  5 → 4 → 2 → 2 → 3
-
-  ✅ Low Health ·····  4 → 3 → 3
-                        Risk taker: 4 → 2 → 2 → 3
-
-  ✅ Mid Health ·····  5 → 4 → 2  (repeat)
+  Mid Health --> ✅ 5 → 4 → 2 (repeat)
+╰────────────────────────────────────────────────────────────────────────╯

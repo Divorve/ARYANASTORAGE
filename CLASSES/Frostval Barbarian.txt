@@ -1,23 +1,24 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║         FROSTVAL BARBARIAN           ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Absolutely yes — great in 7-man boss fights.
+                   F R O S T V A L    B A R B A R I A N
 
-  Best Used For:  🤝 Support
+╚════════════════════════════════════════════════════════════════════════╝
 
-  ⚠️  Seasonal:   December – January
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Absolutely yes — great in 7-man boss fights.
 
+  Best for --> 🤝 Support
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║               QUEST                  ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Seasonal --> ⚠️ December – January
+╰────────────────────────────────────────────────────────────────────────╯
 
-  → /join Frostvale  ·  Speak to "Robina (NPC)"  ·  Accept "Unleash the Frostvale Barbarian"
+⚔️ QUEST
+╭────────────────────────────────────────────────────────────────────────╮
+  --> /join Frostvale  ·  Speak to "Robina (NPC)"  ·  Accept "Unleash the Frostvale Barbarian"
 
   Sword of Hope          ×1   → /join frostdeep
   Sassafras              ×1   → /join battlefield
@@ -29,32 +30,23 @@
     Crypto Token         ×5   → /join curio  ·  Reward from "Odd's 'n' Ends" quest
                                   ⚠️ Daily quest
                                   Metal Ore ×1 → /join boxes  ·  Kill Sneevil
+╰────────────────────────────────────────────────────────────────────────╯
 
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Fighter
+  Weapon --> Arcana's Concerto / Awe Blast
+  Helm   --> Fighter                Cape   --> Absolution / Penitence
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+🔢 SKILL BREAKDOWN & COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 --> 💡 Strong HoT OR 30% damage reduction
+  Skill 3 --> 💡 Reduces enemy haste by 20% (stacks ×4)
+  Skill 4 --> 💡 Reduces mana cost 15% · Crit chance +10% · Crit damage +20%
+              All effects stack ×4
+  Skill 5 --> 💡 Applies Focus for 10s to 3 targets
 
-  🧿 Class ·········  Fighter
-
-  ⚔️  Weapon ········  Arcana's Concerto
-                       Awe Blast
-
-  🪖 Helm ··········  Fighter
-
-  🧣 Cape ··········  Absolution
-                       Penitence
-
-
-╔══════════════════════════════════════╗
-║     SKILL BREAKDOWN & COMBOS         ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 2 ········  Strong HoT  OR  30% damage reduction
-  💡 Skill 3 ········  Reduces enemy haste by 20%  (stacks ×4)
-  💡 Skill 4 ········  Reduces mana cost 15%  |  Crit chance +10%  |  Crit damage +20%
-                        All effects stack ×4
-  💡 Skill 5 ········  Applies Focus for 10s to 3 targets
-
-  ✅ Main Rotation ··  5 → 4 → 2 → 3  →  repeat cycle
-                        Prioritise  5  and  4  to keep taunt and party damage buff active
+  Main Rotation --> ✅ 5 → 4 → 2 → 3 → repeat cycle
+                    Prioritise 5 and 4 to keep taunt and party damage buff active
+╰────────────────────────────────────────────────────────────────────────╯

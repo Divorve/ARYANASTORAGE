@@ -1,55 +1,55 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   CRYOMANCER
+                         C R Y O M A N C E R
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📋 OVERVIEW
-╭──────────────────────────────────╮
-  Worth Getting?  Yes — good mid-level soloing class
-
-  Good For:       Soloing
-╰──────────────────────────────────╯
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — good mid-level soloing class
+  Good For       --> Soloing
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
-  Level 50
+╭────────────────────────────────────────────────────────────────────────╮
+  Level --> 50
 
   Storyline Completion:
   --> /join frozentower > /join frozenruins > /join northstar
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🛒 MERGE
-╭──────── Syrrus @ /join frozentower or /join frozenruins ────────╮
-  Glacera Ice Token             ×84
+╭──────────────── Syrrus @ /join frozentower or /join frozenruins ───────╮
+  Glacera Ice Token ×84
 
   --> Complete Syrrus' daily quest "Glacera Ice Token"
       Defeat a Frost Invader — best done @ /join frozenruins
       (one right outside Syrrus' room)
+
   ⏱️ Takes 7 days (non-member) or 5 days (member — extra token quest available)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚙️ ENHANCEMENTS
-╭──────────────────────────────────╮
-  Class    Luck
-  Weapon   Valiance | Elysium | Awe Blast
-  Helm     Pneuma | Base Forge | Luck
-  Cape     Vainglory | Base Forge | Luck
-╰──────────────────────────────────╯
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Valiance / Elysium / Awe Blast
+  Helm   --> Pneuma / Base Forge / Luck
+  Cape   --> Vainglory / Base Forge / Luck
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ COMBOS
-╭──────────────────────────────────╮
-  Main rotation:  2 → 5 → 3 → 4
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Main rotation --> 2 → 5 → 3 → 4
 
-  · 2 first — applies Frozen
-  · 5 next — sets up PV for 3's crit chance buff
-  · 4 last — applies HoT
+  - 2 first — applies Frozen
+  - 5 next — sets up PV for 3's crit chance buff
+  - 4 last — applies HoT
 
-  ──────── Skill Usage Notes ────────
-  · 2, 3, and 5 should be used off cooldown
+  [ Skill Usage Notes ]
+  - 2, 3, and 5 should be used off cooldown
     (always lead 3 with 2; lead with 5 too if you need damage)
-  · Use 5 before 4 if you need heals
+  - Use 5 before 4 if you need heals
     (reduces damage taken and increases the HoT)
-  · Use 4 whenever the HoT expires (~14s) or when you need
+  - Use 4 whenever the HoT expires (~14s) or when you need
     the defense/heal buff from 5
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

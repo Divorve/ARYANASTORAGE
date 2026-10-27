@@ -1,38 +1,32 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║            BEASTMASTER               ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes.
+                          B E A S T M A S T E R
 
-  Best Used For:  ⚔️  Soloing  (Early–Mid Game)
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 10 BeastMaster
-                  (Refer to BeastMaster reputation farming in Library server)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes.
 
+  Best for --> ⚔️ Soloing (Early–Mid Game)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 10 BeastMaster
+                   (Refer to BeastMaster reputation farming in Library server)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Ravenous / Smite
+  Helm   --> Anima                  Cape   --> Lament
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Ravenous
-                       Smite
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 2 --> 💡 Heals you — use to recover HP
 
-  🪖 Helm ··········  Anima
-
-  🧣 Cape ··········  Lament
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  💡 Skill 2 ········  Heals you — use to recover HP
-
-  ✅ Main Rotation ··  2 → 5 → 4 → 3
-                        Keep all buffs active at all times
+  Main Rotation --> ✅ 2 → 5 → 4 → 3
+                    Keep all buffs active at all times
+╰────────────────────────────────────────────────────────────────────────╯

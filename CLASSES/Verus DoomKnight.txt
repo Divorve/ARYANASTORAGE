@@ -1,117 +1,102 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║          VERUS DOOMKNIGHT            ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — endgame class worth the grind.
+                     V E R U S    D O O M K N I G H T
 
-  Best Used For:  💥 DPS
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Level 40 minimum  |  Level 80 by final quest
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — endgame class worth the grind.
 
+  Best for --> 💥 DPS
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 40 minimum · Level 80 by final quest
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Ravenous / Dauntless (Ultradage)
+  Helm   --> Anima
+  Cape   --> Vainglory / Lament (if no Vainglory)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ⚔️  Weapon ········  Ravenous
-                       Dauntless  (Ultradage)
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Skill 5    --> 💡 Use at 10 Doom stacks → triggers Unleashed Doom
+  Darkness 1 --> 💡 Gained when Skill 5 used with 10 Doom stacks → use on Skill 2
+  Darkness 2 --> 💡 Gained when Skill 5 used during Unleashed Doom → use on Skill 4
 
-  🪖 Helm ··········  Anima
+  Main Rotation --> ✅ 2→3→4→5→2→3→4→2→3→4→5→2→3→4→2→3→5→4→2→3→4
+                    --> repeat cycle
 
-  🧣 Cape ··········  Vainglory
-                       Lament  (if no Vainglory)
+  Simplified --> ✅ Press 5 → spam 2·3·4 until 10 Doom stacks
+                 --> Press 5 again → spam during Unleashed Doom
+                 --> repeat after enhanced form ends
 
+  Dauntless tip --> 💡 Can skip Skill 3 during Unleashed Doom for more damage
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
+⚔️ QUESTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ Quest 1 · Body, Soul and Domination  (Requires Level 40) ]
+  --> /join underrealm    ·  Kill Fear → Fear's Bones ×13
+  --> /join brainmeat     ·  Kill Brain Matter → drops
+  --> /join titanattack   ·  Kill Titanic Doomknight
+  --> /join valleyofdoom  ·  Kill Doomknight Armour → plating
 
-  💡 Skill 5 ········  Use at 10 Doom stacks → triggers Unleashed Doom
-  💡 Darkness 1 ·····  Gained when Skill 5 used with 10 Doom stacks → use on Skill 2
-  💡 Darkness 2 ·····  Gained when Skill 5 used during Unleashed Doom → use on Skill 4
+  [ Quest 2 · Of the Same Cloak  (Requires Level 50) ]
+  --> /join necrodungeon  ·  Kill 4th Head of 5 Headed Dracolich
+  --> /join lumafortress  ·  Kill Corrupted Luma → Doom Worshippers Blade of Doom
+  --> /join innershadows  ·  Kill Krahen → Empress' Shadowcloak
+  --> /join techfortress  ·  Kill Mecha Vortrix → Cybernetic Doom Blade
+  --> /join stonewooddeep ·  Kill Sir Kut → Asherion Armour
 
-  ✅ Main Rotation ··  2→3→4→5→2→3→4→2→3→4→5→2→3→4→2→3→5→4→2→3→4
-                        → repeat cycle
+  [ Quest 3 · Refracted Light  (Requires Level 60) ]
+  --> /join shadowoff     ·  Kill Shadowflame Paladin → spikes
+  --> /join fiendshard    ·  Kill Paladin Fiend → horns
+  --> /join legionarena   ·  Kill Dark Legion Paladin
+  --> /join noxustower    ·  Kill General Goldhammer → hammer chips
+  --> /join chaoslab      ·  Kill Chaos Artix → shimmering tentacle
 
-  ✅ Simplified ·····  Press  5  → spam  2·3·4  until 10 Doom stacks
-                        → Press  5  again → spam during Unleashed Doom
-                        → repeat after enhanced form ends
+  [ Quest 4 · Life Carve  (Requires Level 70 + Rank 10 Evil) ]
+  --> /join wanders       ·  Kill Sek-Duat → Trace of Light
+  --> /join lightguardwar ·  Kill Extreme Noxus → Trace of Dark
+  --> /join eternalchaos  ·  Kill Bandit Drakath → Trace of Wind
+  --> /join quibblehunt   ·  Kill Entropy Dragon → Trace of Earth
+  --> /join crashsite     ·  Kill Protosartorium → Trace of Energy
+  --> /join northlands    ·  Kill Aisha's Drake → Trace of Ice
+  --> /join deepchaos     ·  Kill Kathool → Trace of Water
+  --> /join drakonnan     ·  Kill Ultra Drakonnan → Trace of Water
+  --> /join battlefowl    ·  Kill Zeuster Projection → Trace of Bacon
 
-  💡 Dauntless tip ··  Can skip Skill 3 during Unleashed Doom for more damage
+  [ Quest 5 · Soul Fracture  (Requires Level 80) ]
+  --> /join ultraalteon   ·  Kill Alteon
+  --> /join ebondungeon   ·  Kill Dethrix
+  --> /join shadowstrike  ·  Kill Sepulchuroth
+  --> /join ultradrakath  ·  Kill Drakath
+  --> /join ebilcorphq    ·  Kill Gravelyn
+  --> /join shadowvoid    ·  Kill Fragment of Doom
 
+  [ Quest 6 · Doom Spikes ]
+  --> Xyfrag's Slimy Tooth ×5   ·  Kill Xyfrag (void farming or direct)
+  --> Nerfkitten's Fang ×5      ·  Kill Nerfkitten (void farming or direct)
+  --> /join doomkitten           ·  Kill Doomkitten ×20
+  --> /join seavoice             ·  Kill Voice of the Sea ×10
+  --> /join infernalarena        ·  Kill Deadly Duo
 
-╔══════════════════════════════════════╗
-║               QUESTS                 ║
-╚══════════════════════════════════════╝
+  [ Quest 7 · Necrotic Blade ]
+  --> Create Shadow Reaper of Doom
+  Merge --> 300 Mirror Realm Tokens + 1 Undead Paladin Token
+  --> Refer to: Sepulchure's Helm guide  |  ArchDoomKnight guide
+  --> Merge items at /join terminatemple and /join doompirate
 
-  Quest 1 · Body, Soul and Domination  (Requires Level 40)
-  ──────────────────────────────────────────────────────────
-  → /join underrealm    ·  Kill Fear → Fear's Bones ×13
-  → /join brainmeat     ·  Kill Brain Matter → drops
-  → /join titanattack   ·  Kill Titanic Doomknight
-  → /join valleyofdoom  ·  Kill Doomknight Armour → plating
-
-  Quest 2 · Of the Same Cloak  (Requires Level 50)
-  ──────────────────────────────────────────────────
-  → /join necrodungeon  ·  Kill 4th Head of 5 Headed Dracolich
-  → /join lumafortress  ·  Kill Corrupted Luma → Doom Worshippers Blade of Doom
-  → /join innershadows  ·  Kill Krahen → Empress' Shadowcloak
-  → /join techfortress  ·  Kill Mecha Vortrix → Cybernetic Doom Blade
-  → /join stonewooddeep ·  Kill Sir Kut → Asherion Armour
-
-  Quest 3 · Refracted Light  (Requires Level 60)
-  ────────────────────────────────────────────────
-  → /join shadowoff     ·  Kill Shadowflame Paladin → spikes
-  → /join fiendshard    ·  Kill Paladin Fiend → horns
-  → /join legionarena   ·  Kill Dark Legion Paladin
-  → /join noxustower    ·  Kill General Goldhammer → hammer chips
-  → /join chaoslab      ·  Kill Chaos Artix → shimmering tentacle
-
-  Quest 4 · Life Carve  (Requires Level 70 + Rank 10 Evil)
-  ──────────────────────────────────────────────────────────
-  → /join wanders       ·  Kill Sek-Duat → Trace of Light
-  → /join lightguardwar ·  Kill Extreme Noxus → Trace of Dark
-  → /join eternalchaos  ·  Kill Bandit Drakath → Trace of Wind
-  → /join quibblehunt   ·  Kill Entropy Dragon → Trace of Earth
-  → /join crashsite     ·  Kill Protosartorium → Trace of Energy
-  → /join northlands    ·  Kill Aisha's Drake → Trace of Ice
-  → /join deepchaos     ·  Kill Kathool → Trace of Water
-  → /join drakonnan     ·  Kill Ultra Drakonnan → Trace of Water
-  → /join battlefowl    ·  Kill Zeuster Projection → Trace of Bacon
-
-  Quest 5 · Soul Fracture  (Requires Level 80)
-  ───────────────────────────────────────────────
-  → /join ultraalteon   ·  Kill Alteon
-  → /join ebondungeon   ·  Kill Dethrix
-  → /join shadowstrike  ·  Kill Sepulchuroth
-  → /join ultradrakath  ·  Kill Drakath
-  → /join ebilcorphq    ·  Kill Gravelyn
-  → /join shadowvoid    ·  Kill Fragment of Doom
-
-  Quest 6 · Doom Spikes
-  ───────────────────────
-  → Xyfrag's Slimy Tooth ×5   ·  Kill Xyfrag (void farming or direct)
-  → Nerfkitten's Fang ×5      ·  Kill Nerfkitten (void farming or direct)
-  → /join doomkitten           ·  Kill Doomkitten ×20
-  → /join seavoice             ·  Kill Voice of the Sea ×10
-  → /join infernalarena        ·  Kill Deadly Duo
-
-  Quest 7 · Necrotic Blade
-  ──────────────────────────
-  → Create Shadow Reaper of Doom
-    Merge: 300 Mirror Realm Tokens + 1 Undead Paladin Token
-  → Refer to: Sepulchure's Helm guide  |  ArchDoomKnight guide
-  → Merge items at /join terminatemple and /join doompirate
-
-  Quest 8 · Unleashed Doom
-  ──────────────────────────
-  → /join citadel      ·  Kill Inquisitors
-  → /join deltavcore   ·  Kill Robots
-  → /join etherwardes  ·  Kill Dragons
-  → /join necrocavern  ·  Kill Chaos Vordred
+  [ Quest 8 · Unleashed Doom ]
+  --> /join citadel      ·  Kill Inquisitors
+  --> /join deltavcore   ·  Kill Robots
+  --> /join etherwardes  ·  Kill Dragons
+  --> /join necrocavern  ·  Kill Chaos Vordred
+╰────────────────────────────────────────────────────────────────────────╯

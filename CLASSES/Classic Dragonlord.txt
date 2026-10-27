@@ -1,30 +1,22 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║          CLASSIC DRAGONLORD          ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+                   C L A S S I C    D R A G O N L O R D
 
-  🧿 Class ·········  Luck
+╚════════════════════════════════════════════════════════════════════════╝
 
-  ⚔️  Weapon ········  Valiance
-                       Praxis  (Tanking)
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Valiance / Praxis (Tanking)
+  Helm   --> Forge
+  Cape   --> Vainglory / Penitence (Tanking)
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🪖 Helm ··········  Forge
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Opening --> ✅ 4 → 2 → 4 → 5 → 3
 
-  🧣 Cape ··········  Vainglory
-                       Penitence  (Tanking)
-
-
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Opening ········  4 → 2 → 4 → 5 → 3
-
-  ✅ Damage Buff ····  4 → 2 → 4 → 2 → 4 → 5 → 3
-                        Use this rotation when your Skill 3 is preventing
-                        you from getting the damage buff
+  Damage Buff --> ✅ 4 → 2 → 4 → 2 → 4 → 5 → 3
+                  Use this rotation when your Skill 3 is preventing
+                  you from getting the damage buff
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,66 +1,55 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║           VOID HIGHLORD              ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — best non-chronomancer soloing class if you have the time.
+                        V O I D    H I G H L O R D
 
-  Best Used For:  ⚔️  Soloing  |  🌾 Short-Range Farming
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Level 80
-                  15+ spare inventory slots  (buy more for 200 AC each — needed for turn-ins)
-                  Hadean Onyx of Nulgath in inventory  (required to accept main farming quest)
-                  Voucher of Nulgath (non-mem) in inventory  (required to accept main farming quest)
-                  (Refer to Reagent Library for both items)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — best non-chronomancer soloing class if you have the time.
 
-  Recommended:    A good farming class — Blaze Binder, Chaos Slayer, Vampire Lord,
+  Best for --> ⚔️ Soloing · 🌾 Short-Range Farming
+
+  Recommended --> A good farming class — Blaze Binder, Chaos Slayer, Vampire Lord,
                   ArchFiend, Dragon of Time, or Legion Revenant
+╰────────────────────────────────────────────────────────────────────────╯
 
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Level 80
+                   15+ spare inventory slots (buy more for 200 AC each — needed for turn-ins)
+                   Hadean Onyx of Nulgath in inventory (required to accept main farming quest)
+                   Voucher of Nulgath (non-mem) in inventory (required to accept main farming quest)
+                   (Refer to Reagent Library for both items)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
-
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Dauntless
-                       Ravenous
-                       Valiance
-
-  🪖 Helm ··········  Base Forge
-                       Vim
-                       Anima
-
-  🧣 Cape ··········  Lament
-                       Vainglory
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck
+  Weapon --> Dauntless / Ravenous / Valiance
+  Helm   --> Base Forge / Vim / Anima
+  Cape   --> Lament / Vainglory
 
   💡 Best Solo Combo  Vim + Ravenous
+╰────────────────────────────────────────────────────────────────────────╯
 
+🔢 COMBOS
+╭────────────────────────────────────────────────────────────────────────╮
+  Step 1 --> ✅ 4 → 5 → 3 → 2
+  Step 2 --> ✅ 4 → 3 → 2
+  Step 3 --> ✅ Repeat Step 2 until Skill 5 comes off cooldown → repeat from Step 1
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔══════════════════════════════════════╗
-║               COMBOS                 ║
-╚══════════════════════════════════════╝
-
-  ✅ Step 1 ·········  4 → 5 → 3 → 2
-  ✅ Step 2 ·········  4 → 3 → 2
-  ✅ Step 3 ·········  Repeat Step 2 until Skill 5 comes off cooldown → repeat from Step 1
-
-
-╔══════════════════════════════════════╗
-║       STEP 1 — ROENTGENIUM FARM      ║
-╚══════════════════════════════════════╝
-
+⚔️ STEP 1 — ROENTGENIUM FARM
+╭────────────────────────────────────────────────────────────────────────╮
   💡 Farm 15 Roentgeniums BEFORE doing Void Crystals — you will passively collect
      Void Crystal reagents as you do so (more efficient)
 
-  → /join tercessuinotlim  ·  Find Void Highlord NPC
-  → Accept "Void Highlord's Challenge" quest
-  → Complete ×15 (1 Roentgenium of Nulgath per completion)
+  --> /join tercessuinotlim  ·  Find Void Highlord NPC
+  --> Accept "Void Highlord's Challenge" quest
+  --> Complete ×15 (1 Roentgenium of Nulgath per completion)
 
-  ⚠️ NOTE: Refer to NULGATH MATERIALS channel for all items below
+  💡 Refer to NULGATH MATERIALS channel for all items below
   (Total amounts required for all 15 runs in parentheses)
 
   Aelita's Emerald           ×1    (×15 total)
@@ -74,31 +63,26 @@
   Nulgath Shaped Chocolate   ×1    (×15 total = 30m Gold)
   Tainted Gem                ×100  (×1,700 total — includes Void Crystal A)
   Unidentified 13            ×1    (×15 total)
+╰────────────────────────────────────────────────────────────────────────╯
 
+⚔️ STEP 2 — VOID CRYSTALS
+╭────────────────────────────────────────────────────────────────────────╮
+  --> Merge at Void Highlord NPC's shop  (1 of each required)
 
-╔══════════════════════════════════════╗
-║       STEP 2 — VOID CRYSTALS         ║
-╚══════════════════════════════════════╝
-
-  → Merge at Void Highlord NPC's shop  (1 of each required)
-
-  🔷 Void Crystal A
-  ───────────────────
+  [ 🔷 Void Crystal A ]
   Dark Crystal Shard   ×200
   Gem of Nulgath       ×150
   Tainted Gem          ×200
   Unidentified 10      ×200
 
-  🔷 Void Crystal B
-  ───────────────────
+  [ 🔷 Void Crystal B ]
   Blood Gem of the ArchFiend  ×30
   Diamond of Nulgath          ×200
   Elders' Blood               ×2
   Totem of Nulgath            ×15
+╰────────────────────────────────────────────────────────────────────────╯
 
-
-╔══════════════════════════════════════╗
-║       STEP 3 — MERGE THE CLASS       ║
-╚══════════════════════════════════════╝
-
-  → Merge Void Highlord at the Void Highlord NPC's shop
+⚔️ STEP 3 — MERGE THE CLASS
+╭────────────────────────────────────────────────────────────────────────╮
+  --> Merge Void Highlord at the Void Highlord NPC's shop
+╰────────────────────────────────────────────────────────────────────────╯

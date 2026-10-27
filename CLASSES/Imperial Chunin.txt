@@ -1,29 +1,29 @@
-╔══════════════════════════════════════╗
-║                                      ║
-║          IMPERIAL CHUNIN             ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-  Worth Getting?
-  ──────────────
-  Yes — if you are low-level or want a debuffing support class.
+                      I M P E R I A L    C H U N I N
 
-  Best Used For:  🤝 Secondary Support (Debuff)
-  Also OK For:    🌾 Farming
+╚════════════════════════════════════════════════════════════════════════╝
 
-  Requirements:   Rank 10 Yokai
-                  Storyline: /yokaiboat > /akiba > /dragonkoi
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Worth getting? --> Yes — if you are low-level or want a debuffing support class.
 
-  How to Get:     Purchase from Announcer Guy at /join dragonkoiz for 100k Gold
+  Best for    --> 🤝 Secondary Support (Debuff)
+  Also OK For --> 🌾 Farming
+╰────────────────────────────────────────────────────────────────────────╯
 
-  ℹ️  Note ·······  Imperial Chunin is a duplicate of the Rare "Chunin" class.
-                    If you own that, you don't need this class.
+📦 REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requirements --> Rank 10 Yokai
+                   Storyline: /yokaiboat > /akiba > /dragonkoi
 
+  How to Get --> Purchase from Announcer Guy at /join dragonkoiz for 100k Gold
 
-╔══════════════════════════════════════╗
-║            ENHANCEMENTS              ║
-╚══════════════════════════════════════╝
+  💡 Imperial Chunin is a duplicate of the Rare "Chunin" class.
+     If you own that, you don't need this class.
+╰────────────────────────────────────────────────────────────────────────╯
 
-  🧿 Class ·········  Luck
-
-  ⚔️  Weapon ········  Spiral Carve
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Class  --> Luck                   Weapon --> Spiral Carve
+╰────────────────────────────────────────────────────────────────────────╯
