@@ -1,11 +1,11 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   GOLDEN HANZO VOID
+                   G O L D E N    H A N Z O    V O I D
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚔️ MERGE REQUIREMENTS
-╭──────── Merged @ Diligas' Diamond shop in /join evilwarnul ────────╮
+╭────────── Merged @ Diligas' Diamond shop in /join evilwarnul ──────────╮
   ArchFiend's Favour            ×200
   Diamond of Nulgath            ×50
   Tainted Gem                   ×30
@@ -14,4 +14,4 @@
   Voucher of Nulgath (non-mem)  ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

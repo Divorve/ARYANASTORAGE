@@ -1,19 +1,19 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   GEMSTONE OF NULGATH
+                 G E M S T O N E    O F    N U L G A T H
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 45
   Rank 10 Vampire
   ⚠️ This pet's quests are member-only
      Only farm as a non-member if you plan to get membership later
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ STEP 1 — Obtain the Pet
-╭──────────────────────────────────╮
+⚔️ STEP 1 — OBTAIN THE PET
+╭────────────────────────────────────────────────────────────────────────╮
   1. Complete Valencia's quests @ /join crashsite until you have DwaToken III
   2. Head to /join crashruins and complete Valencia's quests until DwaToken X
      --> Keep DwaToken X in your inventory
@@ -27,10 +27,10 @@
      --> Room right: 2 Unlucky Explorers
      --> Room down: 1 Spacetime Anomaly
   💡 Use a class that handles high-HP enemies to avoid swapping
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ STEP 2 — Earn the Gemstone Receipt
-╭──────── "Demanding Approval from Nulgath" (pet quest) ────────╮
+⚔️ STEP 2 — EARN THE GEMSTONE RECEIPT
+╭──────────── "Demanding Approval from Nulgath" (pet quest) ─────────────╮
   Complete to obtain the Gemstone Receipt of Nulgath
 
   Unidentified 13               ×4     --> Get 4; 1 needed again in Step 3
@@ -59,10 +59,10 @@
       Dwobo Coin                 ×10 --> See Step 1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ STEP 3 — Farm Gemstone Quests
-╭──────── "Forge ___ for Nulgath" (pet quest) ────────╮
+⚔️ STEP 3 — FARM GEMSTONE QUESTS
+╭───────────────── "Forge ___ for Nulgath" (pet quest) ──────────────────╮
   Requires Gemstone Receipt of Nulgath to accept any forge quest
   Also needed for every quest:
 
@@ -73,7 +73,7 @@
   Unidentified 13               ×1     --> Reagent Library
   Hadean Onyx of Nulgath        ×1     --> Reagent Library
 
-  ──────── "Forge Gemstones for Nulgath" ────────
+  [ "Forge Gemstones for Nulgath" ]
   Balor's Cruelty               ×1  --> Defeat Abaddon @ /join twilight
   Yara's Sword                  ×1
   --> Complete Yara's "The Search for the Sword" @ /join battleundera
@@ -90,4 +90,4 @@
   --> Use it for "Carve the Unidentified Gemstones"
       Also requires The Secret 1 (Reagent Library)
       Choose whichever reward you need
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

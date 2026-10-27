@@ -1,11 +1,11 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   VOID SHOGUN
+                          V O I D    S H O G U N
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Rank 10 Yokai
 
   Voucher of Nulgath (non-mem)  --> Reagent Library
@@ -19,10 +19,11 @@
 
   Recommended: Crag & Bamboozle
   --> Many Uni 13s required — this pet is the best source
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST
-╭──────── "Void Shogun Farming Quest" from Void Shogun NPC @ /join heiwavalley ────────╮
+╭────────────────────────────────────────────────────────────────────────╮
+  [ "Void Shogun Farming Quest" from Void Shogun NPC @ /join heiwavalley ]
   DaiTengu Blade of Wind        ×1
   Unidentified 13               ×1
   Unidentified 24               ×1
@@ -33,4 +34,4 @@
   💡 Turn in this quest 11 times to obtain every item
      Stack as many reagents as possible before starting
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

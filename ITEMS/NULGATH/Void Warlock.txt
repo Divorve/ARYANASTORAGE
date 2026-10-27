@@ -1,16 +1,16 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   VOID WARLOCK
+                         V O I D    W A R L O C K
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Enchanted Nulgath Nation House (required)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ QUEST 1 — Armour, Weapons, Pet, Helm
-╭──────── "Tools For the Job" from ENNH ────────╮
+⚔️ QUEST 1 — ARMOUR, WEAPONS, PET, HELM
+╭──────────────────── "Tools For the Job" from ENNH ─────────────────────╮
   Tainted Gem                   ×100
   Unidentified 13               ×2
   Blood Gem of the ArchFiend    ×90
@@ -18,10 +18,10 @@
   Brittney's Winter Diamond     ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ QUEST 2 — Helms, Capes
-╭──────── "Corrupted Touch" from ENNH ────────╮
+⚔️ QUEST 2 — HELMS, CAPES
+╭───────────────────── "Corrupted Touch" from ENNH ──────────────────────╮
   Unidentified 13               ×1
   Tainted Gem                   ×75
   Gem of Nulgath                ×100
@@ -31,4 +31,4 @@
   Brittney's Winter Diamond     ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

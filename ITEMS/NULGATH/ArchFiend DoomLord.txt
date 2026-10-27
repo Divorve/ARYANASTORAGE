@@ -1,18 +1,18 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   ARCHFIEND DOOMLORD
+                   A R C H F I E N D    D O O M L O R D
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Rank 10 Evil
   Rank 7 Arcangrove
   Unidentified 13  --> Required to accept each quest (Reagent Library)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ STEP 1 — Farm Unidentified 34s
-╭──────── "Willpower Extraction" @ /join tercessuinotlim ────────╮
+⚔️ STEP 1 — FARM UNIDENTIFIED 34S
+╭──────────── "Willpower Extraction" @ /join tercessuinotlim ────────────╮
   Accept from Oblivion. Complete until you have 44 Unidentified 34s
   --> Rewards 2, 4, 6, or 10 Uni 34s at equal rate
 
@@ -30,10 +30,10 @@
   Totem of Nulgath              ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ STEP 2 — Obtain Unidentified 35
-╭──────── "Nulgath Demands Work" @ /join tercessuinotlim ────────╮
+⚔️ STEP 2 — OBTAIN UNIDENTIFIED 35
+╭──────────── "Nulgath Demands Work" @ /join tercessuinotlim ────────────╮
   Accept from Oblivion. Complete 4 times
   --> Unidentified 35 has a 30% drop chance
   --> If not obtained in 4 tries: need 10 more Uni 34s per extra attempt
@@ -53,9 +53,9 @@
   Golden Hanzo Void             ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 3 — Final Merge
+✅ STEP 3 — FINAL MERGE
 ╭──────── "Enough DOOM for an ArchFiend" @ /join tercessuinotlim ────────╮
   Accept from Oblivion. Requires Uni 35, all 4 cosmetics from Step 2,
   and a Nulgath's Approval (drops from /join evilwarnul) in your inventory
@@ -74,4 +74,4 @@
   Aelita's Emerald              ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

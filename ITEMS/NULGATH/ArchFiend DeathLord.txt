@@ -1,17 +1,17 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   ARCHFIEND DEATHLORD
+                  A R C H F I E N D    D E A T H L O R D
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Storyline Completion:
   --> /join originul > /join fiendshard
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ ARMOUR / WEAPONS
-╭──────── "It Calls to You" @ /join fiendshard ────────╮
+╭───────────────── "It Calls to You" @ /join fiendshard ─────────────────╮
   All rewards give a 40% damage boost vs tagged enemies (Undead, Chaos, etc.)
   Exception: the armour gives 30%, but it's still the best choice
   --> Stack it with a weapon that boosts damage to All enemies
@@ -25,10 +25,10 @@
   Unidentified 34               ×10
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ HELMS / CAPES
-╭──────── "The Swirling Abyss Gathers" @ /join fiendshard ────────╮
+╭─────────── "The Swirling Abyss Gathers" @ /join fiendshard ────────────╮
   All rewards give a 20% damage boost vs tagged enemies
   ⚠️ Optional — the armour from "It Calls to You" is better (30%)
      Only do this quest if you specifically want the helms/capes
@@ -41,4 +41,4 @@
   Voucher of Nulgath            ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

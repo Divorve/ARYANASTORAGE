@@ -1,19 +1,19 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   VOID SPARTAN
+                         V O I D    S P A R T A N
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 20
 
   Recommended: Crag & Bamboozle
   --> Many Uni 13s required — this pet is the best source
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST
-╭──────── "Void Spartan" from Zee @ /join tercessuinotlim ────────╮
+╭─────────── "Void Spartan" from Zee @ /join tercessuinotlim ────────────╮
   Unidentified 13               ×1
   Zee's Red Jasper              ×1
   Gem of Nulgath                ×10
@@ -23,4 +23,4 @@
   💡 Turn in this quest 11 times to obtain every item
      Stack as many reagents as possible before starting
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

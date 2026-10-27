@@ -1,18 +1,18 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   TARO'S PRISMATIC MANSLAYER
+          T A R O ' S    P R I S M A T I C    M A N S L A Y E R
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Membership
   Level 80
   Rank 10 Good
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ STEP 1 — Obtain Taro's Manslayer
-╭──────────────────────────────────╮
+⚔️ STEP 1 — OBTAIN TARO'S MANSLAYER
+╭────────────────────────────────────────────────────────────────────────╮
   Option A — Farm Taro Blademaster directly
   --> /join tercessuinotlim (200,000 HP — requires strong solo class or group)
 
@@ -25,10 +25,10 @@
       Gem of Nulgath                ×10    --> Reagent Library
       Dark Makai Rune               ×1     --> Drops from Dark Makai
   --> Choose Taro's Manslayer as the reward
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ STEP 2 — Upgrade to Prismatic Manslayer
-╭──────── "A Test of Temptation" from Taro @ /join tercessuinotlim ────────╮
+⚔️ STEP 2 — UPGRADE TO PRISMATIC MANSLAYER
+╭─────── "A Test of Temptation" from Taro @ /join tercessuinotlim ───────╮
   Requires Taro's Manslayer in your inventory
 
   Tainted Gem                   ×200
@@ -39,4 +39,4 @@
 
   💡 Use the Reagent Library for farming details on all items above
   💡 Choose either the single or dual version as your reward
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,19 +1,19 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   DRAGON BLADE OF NULGATH
+             D R A G O N    B L A D E    O F    N U L G A T H
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Membership (required)
 
   Recommended: Sword of Nulgath pet
   --> Don't have one? See options below
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 SWORD OF NULGATH PET — ALTERNATIVES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Option 1 (Free):
   --> Complete "Nulgath (Larvae)" for the 8th Betrayal Blade of Nulgath
       Equip it or activate its quests from your inventory
@@ -29,10 +29,10 @@
       Voucher of Nulgath (non-mem)  ×1
       Dark Crystal pet from /join ariapet
       Dark Makai Rune from Makai @ /join nulgath
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST
-╭──────── "Demanding Items of Nulgath" ────────╮
+╭───────────────────── "Demanding Items of Nulgath" ─────────────────────╮
   Accept from your Sword of Nulgath pet
   or from Nulgath @ /join tercessuinotlim
 
@@ -46,11 +46,11 @@
 
   💡 In total: ~12 Totems of Nulgath and 1,200 Combat Trophies
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✅ UPGRADE
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   After obtaining the Dragon Blade of Nulgath:
   --> Merge the Legion Dragon Blade of Nulgath (stable version)
   ⚠️ Requires Legion membership
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

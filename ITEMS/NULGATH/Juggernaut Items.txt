@@ -1,17 +1,17 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   JUGGERNAUT ITEMS OF NULGATH
+         J U G G E R N A U T    I T E M S    O F    N U L G A T H
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 30
   Unidentified 13  --> Use the Reagent Library
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST
-╭──────── "Juggernaut Items of Nulgath" @ /join tercessuinotlim ────────╮
+╭──────── "Juggernaut Items of Nulgath" @ /join tercessuinotlim ─────────╮
   Accept from Nulgath. Choose your desired reward at the end
 
   Diamond of Nulgath            ×13
@@ -24,4 +24,4 @@
 
   💡 Use the Reagent Library for farming details on all items above
   💡 Some available rewards can be found in the item preview below
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

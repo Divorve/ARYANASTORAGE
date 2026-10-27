@@ -1,16 +1,16 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   PET QUESTS — READ ME!
+              P E T    Q U E S T S    —    R E A D    M E !
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🎂 NULGATH'S BIRTHDAY GIFT
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Worth getting, but skip if you already own Crag & Bamboozle
   (unless you want maximum efficiency)
   --> Available for 1,500 ACs during Nulgath's birthday event (Jan–Feb)
 
-  ──────── "New Worlds, New Opportunities" ────────
+  [ "New Worlds, New Opportunities" ]
   Slugfit and Fire Imps   --> /join mobius
   Big Bad Boar            --> /join greenguardwest (exit down from /mobius)
   Cyclops Warlord         --> /join faerie (end of map, far right)
@@ -21,10 +21,10 @@
      Crimson Hanzo Orb, Bounty Hunter Blade, Ceremonial Void Knight Sword
      All treated as "Nulgath's Birthday Gift" for simplicity
      Enemy locations may vary slightly per pet
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🐛 NULGATH LARVAE
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Best overall farming quest for free players
   ⚠️ Not worth doing if you have Nulgath's Birthday Gift or Crag & Bamboozle
 
@@ -36,13 +36,13 @@
       Otherwise try /yulgar, /battleon, or /battleontown
   --> Also accessible via ENNH
 
-  ──────── "Nulgath (Larvae)" ────────
+  [ "Nulgath (Larvae)" ]
   Mana Golem              --> /join elemental (stacks to 13)
   Mana Imps + Falcon      --> /join elemental (screen with 2 Imps + 1 Falcon)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🤝 DRUDGEN THE ASSISTANT
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Generally not worth buying — most quests are accessible without owning it
   Exception: "Contract Exchange" (requires Crag & Bamboozle to be useful)
   --> Buy for 5,000 ACs from Nulgath @ /join tercessuinotlim if desired
@@ -54,7 +54,7 @@
   --> Accessible via Drudgen preview in Nulgath's shop or ENNH
   --> Swindle Bilk @ /tercessuinotlim also offers some quests
 
-  ──────── Important Quests ────────
+  [ Important Quests ]
 
   "Contract Exchange"
   --> Trade Unidentified 13 + Blade Master Rune (from Shadow of Nulgath)
@@ -82,15 +82,15 @@
   --> Used as substitute for "Supplies..." in most cases
       In some cases it's the better method (superior drop chance or
       exclusive drops not available from "Supplies...")
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 💎 CRAG & BAMBOOZLE
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Worth buying at 5,000 ACs if you're farming many Nation items
   Similar quests to Drudgen but faster — usable by you only
   --> Buy from Nulgath
 
-  ──────── Important Quests ────────
+  [ Important Quests ]
 
   "Diamond Exchange"
   --> Trade 15 Diamonds of Nulgath + 1 Dark Makai Sigil for 1 Unidentified 13
@@ -133,15 +133,15 @@
   --> Max-stack everything except Voucher of Nulgath (non-mem)
       Also keep Elders' Blood for Void Highlord or Unidentified 19 for ArchFiend DoomLord
   --> Daily-locked by Sparrow's Blood (get from Reens' quest @ /join arcangrove)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ OBLIVION BLADE OF NULGATH
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Similar to Crag & Bamboozle — makes getting Escherion Helms very easy
   💡 If you have both pets, run their quests simultaneously
   ⚠️ Rare item — only obtainable via IoDA now
 
-  ──────── Important Quests ────────
+  [ Important Quests ]
 
   "The Dark Deal"
   --> Defeat Tainted Elemental @ /join evilmarsh or /join nulgath (member)
@@ -157,32 +157,32 @@
   --> Requires OBoN to accept
   --> Max-stack everything except Blood Gems, Vouchers, Totems, and Uni 19
   --> Tendurrr also has a Crag & Bamboozle quest for Voucher of Nulgath (non-mem)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🌟 NULGATH CHALLENGE PET
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   ⚠️ Rare item
   --> Offers one quick daily quest: choose Blood Gems, Dark Crystal Shards,
       or Tainted Gems as the reward
   --> Second quest is not worth doing
   💡 Works very well combined with Crag & Bamboozle
 
-  ──────── "Tenacity Challenge" (daily) ────────
+  [ "Tenacity Challenge" (daily) ]
   Ghastly Darkbloods  --> /join deathpits (walk down a few floors)
   Bloodfiends         --> /join underworld (go left until you can go directly
                           down, then go right to find 3)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 💠 GEMSTONE OF NULGATH
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Recently buffed (15 Jan 2022)
   --> Great quests for members farming Blood Gems of the ArchFiend
       and Dark Crystal Shards
   --> See the Gemstone of Nulgath guide for full farming details
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ SWORD OF NULGATH
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Replica versions with identical quests:
 
   8th Betrayal Blade of Nulgath
@@ -201,4 +201,4 @@
 
   💡 All versions share the same quests
   💡 Best quest: "The Leery Contract" for Gold farming — see the Gold guide
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

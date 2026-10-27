@@ -1,11 +1,11 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   VOID PALADIN
+                         V O I D    P A L A D I N
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-⚔️ QUEST 1 — Helms, Capes, Katanas
-╭──────── "A Dark Temptation" from Oblivion @ /join tercessuinotlim ────────╮
+⚔️ QUEST 1 — HELMS, CAPES, KATANAS
+╭────── "A Dark Temptation" from Oblivion @ /join tercessuinotlim ───────╮
   Dark Crystal Shard            ×25
   Diamond of Nulgath            ×13
   Emblem of Nulgath             ×2
@@ -15,10 +15,11 @@
   Unidentified 13               ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ QUEST 2 — Armour
-╭──────── "Deeper and Deeper into Darkness" from Oblivion @ /join tercessuinotlim ────────╮
+⚔️ QUEST 2 — ARMOUR
+╭────────────────────────────────────────────────────────────────────────╮
+  [ "Deeper and Deeper into Darkness" from Oblivion @ /join tercessuinotlim ]
   Diamond of Nulgath            ×25
   Tainted Gem                   ×40
   Voucher of Nulgath (non-mem)  ×1
@@ -29,10 +30,11 @@
   Void Aura                     ×2
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ QUEST 3 — Axe
-╭──────── "Sacrifice (BLoD or ALoD Version)" from Oblivion @ /join tercessuinotlim ────────╮
+⚔️ QUEST 3 — AXE
+╭────────────────────────────────────────────────────────────────────────╮
+  [ "Sacrifice (BLoD or ALoD Version)" from Oblivion @ /join tercessuinotlim ]
   ⚠️ Requires owning the Blinding Light of Destiny
      or the Ascended version (made with Original Drakath's Armour)
 
@@ -45,12 +47,12 @@
   Void Aura                     ×6
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ QUEST 4 — Cyber Set
-╭──────── "Cyber Void Paladin Set" from Oblivion @ /join tercessuinotlim ────────╮
+✅ QUEST 4 — CYBER SET
+╭──── "Cyber Void Paladin Set" from Oblivion @ /join tercessuinotlim ────╮
   ⚠️ Must have the Void Paladin armour, axe, helm, katana,
      and katana cape in your inventory to accept
 
   --> Defeat Undead Space Warriors @ /join dreadspace
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

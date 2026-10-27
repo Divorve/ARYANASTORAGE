@@ -1,16 +1,16 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   VOID AVENGER SCYTHE
+                 V O I D    A V E N G E R    S C Y T H E
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Rank 10 Evil
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST
-╭──────── "Eternal Rest" from Skew @ /join tercessuinotlim ────────╮
+╭─────────── "Eternal Rest" from Skew @ /join tercessuinotlim ───────────╮
   Batwing Scythe                ×1
   Dark Crystal Shard            ×200
   Death Scythe of Nulgath       ×1
@@ -25,4 +25,4 @@
 
   💡 This quest also rewards 5 Blood Gems of the ArchFiend upon completion
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

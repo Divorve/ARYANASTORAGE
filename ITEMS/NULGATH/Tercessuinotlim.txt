@@ -1,18 +1,18 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   TERCESSUINOTLIM
+                      T E R C E S S U I N O T L I M
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 INTRODUCTION
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Cannot be accessed via /join command directly
   Required item: 50 Bone Dust (drops from enemies @ /join battleunderb)
   ⚠️ Old guides may list Escherion's Chain — this is no longer needed
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 HOW TO ACCESS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Option A — Via Citadel (standard)
   --> /join citadel > enter cave on the right
       Path: middle > right ×3 > enter portal
@@ -23,10 +23,10 @@
 
   💡 To create a private /tercessuinotlim:
      Reach the portal room of /join citadel where /join is enabled
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗺️ NPC / ENEMY LOCATIONS
-╭──────── All paths from the starting room ────────╮
+╭─────────────────── All paths from the starting room ───────────────────╮
   Oblivion, Death's Head         starting room
 
   Dark Makai                     left
@@ -48,4 +48,4 @@
   Jadzia                         left > top-right > top-middle > right > right > right > right
 
   💡 Polish and Bamboozle can also be found @ /join cragglerock
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

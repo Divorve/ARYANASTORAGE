@@ -1,11 +1,11 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   SHADOW LEGACY OF NULGATH
+            S H A D O W    L E G A C Y    O F    N U L G A T H
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚔️ MERGE REQUIREMENTS
-╭──────── Merged @ Dirtlicker's shop in /join archportal ────────╮
+╭──────────── Merged @ Dirtlicker's shop in /join archportal ────────────╮
   Hadean Onyx of Nulgath        ×1
   Voucher of Nulgath (non-mem)  ×1
   Essence of Nulgath            ×100
@@ -13,4 +13,4 @@
   Letter from Asuka and Tendou  ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

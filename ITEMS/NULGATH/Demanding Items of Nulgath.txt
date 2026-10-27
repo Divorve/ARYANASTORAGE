@@ -1,21 +1,21 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   DEMANDING ITEMS OF NULGATH
+          D E M A N D I N G    I T E M S    O F    N U L G A T H
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 HOW TO ACCESS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   /join tercessuinotlim
   --> Navigate to NULGATH (NPC)
   --> Press Quests > Reward Quests
   --> Accept "Demanding Items of Nulgath"
 
   💡 See the Tercessuinotlim guide for navigation paths
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST REQUIREMENTS
-╭──────── "Demanding Items of Nulgath" ────────╮
+╭───────────────────── "Demanding Items of Nulgath" ─────────────────────╮
   DragonFire of Nulgath         ×1
   Crimson Plate of Nulgath      ×1
   Crimson Face Plate of Nulgath ×1
@@ -25,4 +25,4 @@
   Legion Fenrir Rune            ×1
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

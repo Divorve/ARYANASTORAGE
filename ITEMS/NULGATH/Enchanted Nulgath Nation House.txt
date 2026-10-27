@@ -1,21 +1,21 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   ENCHANTED NULGATH NATION HOUSE
+      E N C H A N T E D    N U L G A T H    N A T I O N    H O U S E
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   15+ Inventory Slots
   Rank 2 Chaos
   Rank 10 DoomWood
 
   NUE Necronomicon
   --> Obtain from Lady Speedstyk's Rep shop @ /join lightguard
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ STEP 1 — Build the Base House
-╭──────── "Terraforming" @ /join tercessuinotlim ────────╮
+⚔️ STEP 1 — BUILD THE BASE HOUSE
+╭──────────────── "Terraforming" @ /join tercessuinotlim ────────────────╮
   Accept from Nulgath. Requires NUE Necronomicon to accept
 
   Unidentified 10               ×400
@@ -32,10 +32,10 @@
   Blood Gem of the ArchFiend    ×100
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 2 — Enchant the House
-╭──────── Merged @ Dirtlicker's shop in /join archportal ────────╮
+✅ STEP 2 — ENCHANT THE HOUSE
+╭──────────── Merged @ Dirtlicker's shop in /join archportal ────────────╮
   After obtaining the regular Nulgath Nation House, enchant it
   --> This step is quick
 
@@ -43,4 +43,4 @@
   Musgravite of Nulgath         ×2
 
   💡 Use the Reagent Library for farming details on all items above
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
