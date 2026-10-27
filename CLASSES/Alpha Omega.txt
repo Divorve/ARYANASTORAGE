@@ -13,7 +13,8 @@
 ╭────────────────────────────────────────────────────────────────────────╮
   Class  --> Luck
   Weapon --> Valiance / Dauntless / Spiral Carve
-  Helm   --> Vim / Anima            Cape   --> Vainglory
+  Helm   --> Vim / Anima            
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
