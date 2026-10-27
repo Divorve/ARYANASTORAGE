@@ -18,19 +18,17 @@
 ✅ STEP 1 — OBTAIN ITEMS
 ╭────────────────────────────────────────────────────────────────────────╮
   Slimed Sigil  --> /join therift --> Kill Plague Spreader (room 9)
-
-  ✅ STEP 2 — Merge: Ascended Paladin
 ╰────────────────────────────────────────────────────────────────────────╯
 
+✅ STEP 2 — MERGE: ASCENDED PALADIN
 ╭────────────────────────────────────────────────────────────────────────╮
   Exchange in /join therift merge shop:
   Gold          ×25,000
   Slimed Sigil  ×50
   --> Produces Ascended Paladin
-
-  ✅ STEP 3 — Merge: Ascended Paladin Sword
 ╰────────────────────────────────────────────────────────────────────────╯
 
+✅ STEP 3 — MERGE: ASCENDED PALADIN SWORD
 ╭────────────────────────────────────────────────────────────────────────╮
   Exchange in /join therift merge shop:
   Gold          ×100,000
