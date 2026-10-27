@@ -1,18 +1,18 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   ELYSIUM -- Purgeyboi was here
+                              E L Y S I U M
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📋 REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Must be Level 100               --> Refer to XP Guide
   Must have Rank 10 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
   Must have completed "Awe-scention" quest --> Refer to Awe-scention Guide
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 1 — Obtain Items
-╭──────────────────────────────────╮
+✅ STEP 1 — OBTAIN ITEMS
+╭────────────────────────────────────────────────────────────────────────╮
   Bones from the Void Realm  ×15  --> /join shadowfall --> NSoD Shop
                                       --> Merge 750 Bone Dust + 750 Void Aura
 
@@ -25,4 +25,4 @@
                                       --> Accept "Nulgath Demands Work" from Oblivion (NPC) in Room 1
 
   The Divine Will            ×1   --> /join celestialpast --> Kill Azalith
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

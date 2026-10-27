@@ -1,21 +1,21 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   ARCANA'S CONCERTO -  Zarrage was here
+                    A R C A N A ' S    C O N C E R T O
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📋 REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Must be Level 100                          --> Refer to XP Guide
   Must have Rank 10 Blacksmithing            --> Refer to Blacksmithing Reputation Guide
   Must have completed "Darkon, the Conductor" quest
   Must have the following in your inventory:
     · Prince Darkon's Poleaxe                --> Refer to Items/Other Guide
     · Darkon's Debris 2 (Reconstructed)      --> Refer to Items/Other Guide
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 1 — Obtain Items
-╭──────────────────────────────────╮
+✅ STEP 1 — OBTAIN ITEMS
+╭────────────────────────────────────────────────────────────────────────╮
   King Drago Insignia  --> /join ultradrago
   Darkon Insignia      --> /join ultradarkon
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

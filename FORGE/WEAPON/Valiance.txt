@@ -1,11 +1,11 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   VALIANCE
+                             V A L I A N C E
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📋 REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Must be Level 100               --> Refer to XP Guide
   Must have Rank 10 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
   Must have completed "The Final Challenge" quest
@@ -15,10 +15,10 @@
     · Dragon of Time (Class)
     · Drakath the Eternal
     · Eternity Blade
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 1 — Obtain Items
-╭──────── All quests start at /join darkthronehub ────────╮
+✅ STEP 1 — OBTAIN ITEMS
+╭─────────────── All quests start at /join darkthronehub ────────────────╮
   ArchPaladin Armor          --> /join darkthronehub (direct)
 
   Gravelyn's DoomFire Token  --> Accept "The Summoning" Quest
@@ -39,4 +39,4 @@
 
   Painful Memory Bubble      --> Accept "Find me some Doom" Quest
                                  --> /join swordhavenfalls --> Kill Chaos Lord Alteon
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

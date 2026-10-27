@@ -1,19 +1,19 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   FORGE (WEAPON)
+                       F O R G E    ( W E A P O N )
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📋 REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Must be Level 30               --> Refer to XP Guide
   Must have Rank 4 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 1 — Obtain Items
-╭──────────────────────────────────╮
+✅ STEP 1 — OBTAIN ITEMS
+╭────────────────────────────────────────────────────────────────────────╮
   1st Lord of Chaos Staff      --> /join escherion  --> Kill Staff of Inversion
   Chaos Dragonlord Axe         --> /join stalagbite --> Kill Wath
   Hanzamune Dragon Koi Blade   --> /join kitsune    --> Kill Kitsune
   Wrath of the Werepyre        --> /join wolfwing   --> Kill Wolfwing
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

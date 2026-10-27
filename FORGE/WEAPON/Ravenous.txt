@@ -1,24 +1,24 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   RAVENOUS
+                             R A V E N O U S
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📋 REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Must be Level 100
   Must have Rank 10 Evil
   Must have Void Highlord (Class) in your inventory
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 HOW TO START
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   /join voidchasm --> Open merge shop --> Buy Prime Fiend Shard
   --> Place it in your house --> Click it --> Begin questing
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ QUEST 1 — Feed the Fiend Shard
-╭──────────────────────────────────╮
+✅ QUEST 1 — FEED THE FIEND SHARD
+╭────────────────────────────────────────────────────────────────────────╮
   Dual Dragonbone Axe of Nulgath  ×1
     --> /join tercessuinotlim --> Speak to Nulgath (NPC)
     --> Reward from "Combat Style: Dragonbone Axe" quest
@@ -40,10 +40,10 @@
     --> Merge: Tainted Gem ×20 | Dark Crystal Shard ×10 | Diamond of Nulgath ×40
               | Gold Voucher 25k ×4 | Doomed Extract ×22
               | Void Nation Ritualist ×1 (/join templedelve --> Kill Doomed Fiend)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ QUEST 2 — Grow the Fiend Shard
-╭──────────────────────────────────╮
+✅ QUEST 2 — GROW THE FIEND SHARD
+╭────────────────────────────────────────────────────────────────────────╮
   Essence of Nulgath  ×40
     --> /join tercessuinotlim or /join nulgath --> Kill Dark Makai
 
@@ -63,10 +63,10 @@
     --> /join evilwarnul --> Speak to Dilligas (NPC) --> Nulgath Diamond shop
     --> Merge: Tainted Gem ×50 | Dark Crystal Shard ×30 | Diamond of Nulgath ×80
               | Gem of Nulgath ×15 | Blood Gem of the Archfiend ×5
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ QUEST 3 — Evolve the Fiend Shard
-╭──────────────────────────────────╮
+✅ QUEST 3 — EVOLVE THE FIEND SHARD
+╭────────────────────────────────────────────────────────────────────────╮
   Essence of Nulgath  ×60
     --> /join tercessuinotlim or /join nulgath --> Kill Dark Makai
 
@@ -88,10 +88,10 @@
               > 2023 Hunts > Fang Blade > Repair Blade)
               | Unidentified 13 ×1 | Tainted Gem ×100 | Dark Crystal Shard ×40
               | Diamond of Nulgath ×150
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ QUEST 4 — The Fiend Shard's Demand
-╭──────────────────────────────────╮
+✅ QUEST 4 — THE FIEND SHARD'S DEMAND
+╭────────────────────────────────────────────────────────────────────────╮
   Void Avenger Scythe  ×1
     --> /join tercessuinotlim --> Speak to Skew (NPC)
     --> Reward from "Eternal Rest" quest
@@ -109,10 +109,10 @@
 
   Ancient Shogun Armor  ×1
     --> /join evilwarnul --> Dilligas' Merge Shop
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ QUEST 5 — The Fiend Shard's Finale
-╭──────────────────────────────────╮
+✅ QUEST 5 — THE FIEND SHARD'S FINALE
+╭────────────────────────────────────────────────────────────────────────╮
   Unidentified 13      ×13    (via "The Contract of Nulgath")
   Tainted Gem          ×750
   Dark Crystal Shard   ×400
@@ -121,10 +121,10 @@
   Gem of Nulgath       ×300
   Blood Gem of Archfiend ×100
   Roentgenium of Nulgath ×10
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ FINAL STEP — Obtain Ravenous
-╭──────────────────────────────────╮
+✅ FINAL STEP — OBTAIN RAVENOUS
+╭────────────────────────────────────────────────────────────────────────╮
   Gluttonous Maw  ×1  --> /join fiendshard --> Shop (unlocked after all quests)
   --> Turn in to Cysero to receive Ravenous
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
