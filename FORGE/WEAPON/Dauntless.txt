@@ -14,18 +14,16 @@
     · Malgor's ShadowFlame Blade
     · Malgor the ShadowLord
     · ShadowLord's Helm
-
-  ✅ STEP 1 — Obtain: Infernal Flame Pyromancer
 ╰────────────────────────────────────────────────────────────────────────╯
 
+✅ STEP 1 — OBTAIN: INFERNAL FLAME PYROMANCER
 ╭──────────────────── Merge at /join ultratyndarius ─────────────────────╮
   Avatar Tyndarius Insignia  ×20  --> /join ultratyndarius --> Kill Ultra Tyndarius (4 daily kills)
   Fire Avatar's Favor        ×75  --> /join fireavatar     --> Accept "Avatar's Rage" Quest
   --> Produces Infernal Flame Pyromancer
-
-  ✅ STEP 2 — Obtain: Malgor's ShadowFlame Blade
 ╰────────────────────────────────────────────────────────────────────────╯
 
+✅ STEP 2 — OBTAIN: MALGOR'S SHADOWFLAME BLADE
 ╭─────────────────── Merge shop at /join ultraspeaker ───────────────────╮
   Malgor Insignia        ×20  --> /join ultraspeaker --> Weekly quest
   ShadowFlame Dragon Blade×1  --> /join manacradle  --> Kill Malgor
