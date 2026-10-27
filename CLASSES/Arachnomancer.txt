@@ -19,7 +19,8 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Ravenous / Dauntless
+  Class  --> Luck                   
+  Weapon --> Ravenous / Dauntless
   Helm   --> Base Forge / Anima / Vim
   Cape   --> Vainglory / Penitence
 ╰────────────────────────────────────────────────────────────────────────╯
