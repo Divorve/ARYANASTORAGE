@@ -1,19 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-     WAR BLADE OF POWER
+                  W A R    B L A D E    O F    P O W E R
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  DragonSlayer Class Rank 10
 
-DragonSlayer Class Rank 10
-
-➡️ Head to /join ultraspeaker --> Open Ultraspeaker Merge shop
+  ➡️ Head to /join ultraspeaker --> Open Ultraspeaker Merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚡ WAR BLADE OF POWER
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Malgor Insignia  ×7   --> /join ultraspeaker (Complete the weekly quest there)
   Enchanted Scale  ×250 --> /join dragontown (Reward from "DragonSlayer General Class" quest)
   Dragon Scale (1) ×30  --> /join lair (Kill any Draconian there)
   Acquiescence     ×10  --> /join worldscore (Reward from "Tranquil Mediocrity" quest)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,14 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
- ULTIMATE BLINDING LIGHT
-       OF DESTINY
+                    ULTIMATE BLINDING LIGHT OF DESTINY
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join techfortress --> Techfortress War Merge
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join techfortress --> Techfortress War Merge
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ ULTIMATE BLINDING LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Overwhelmed Axe                ×1 --> /join techfortress (Techfortress War Merge)
     Merge using:
     Spirit Orb (Misc) ×250
@@ -17,4 +19,4 @@
     Blinding Aura     ×1
   Shard of An Orb                ×5 --> /join techfortress (Reward from "This Little Light Of Mine" quest)
   Purified Undead Dragon Essence ×1 --> /join techfortress (Reward from "I'm Gonna Let It Shine" quest)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

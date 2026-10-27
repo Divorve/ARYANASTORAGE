@@ -1,17 +1,17 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  POLISHED BLINDING LIGHT
-       OF DESTINY
+                    POLISHED BLINDING LIGHT OF DESTINY
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
-
-Polished Blinding Light of Destiny ×1
-(Complete the Blinding Light of Destiny farm first)
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Polished Blinding Light of Destiny ×1
+  (Complete the Blinding Light of Destiny farm first)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ POLISHED BLINDING LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Undead Energy              ×3,000 --> /join necrodungeon (Go Down --> Right --> Kill Doom Overlord)
   Bright Tonic               ×10    --> /join alchemyacademy (Jera shop)
   Purification Orb           ×10    --> /join doomwood (Kill Undead Paladin)
@@ -20,4 +20,4 @@ Polished Blinding Light of Destiny ×1
   Medal of Justice           ×150   --> /join lightguardwar
                                         Reward from "Darken the Light" or "Get the Powder" quests
                                         OR Dropped by Sigrid Sunshield (Monster)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

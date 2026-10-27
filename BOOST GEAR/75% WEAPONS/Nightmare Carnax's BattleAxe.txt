@@ -1,16 +1,18 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  NIGHTMARE CARNAX'S
-      BATTLEAXE
+        N I G H T M A R E    C A R N A X ' S    B A T T L E A X E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join darkcarnax --> Open Nightmare Carnax Merge Shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join darkcarnax --> Open Nightmare Carnax Merge Shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 🪓 NIGHTMARE CARNAX'S BATTLEAXE
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Synthetic Viscera           ×200 --> /join darkcarnax (Reward from "The Last Stand" quest)
   Overwhelmed Axe             ×1   --> /join techfortress (Techfortress War Merge)
                                        aqwwiki.wikidot.com/overwhelmed-axe
   Carnax Devotee's BattleAxe  ×1   --> /join darkcarnax (Nightmare Carnax Merge)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

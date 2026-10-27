@@ -1,14 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
- ULTIMATE DRAGONSTAFF
-       OF DESTINY
+     U L T I M A T E    D R A G O N S T A F F    O F    D E S T I N Y
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join techfortress --> Techfortress War Merge
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join techfortress --> Techfortress War Merge
+╰────────────────────────────────────────────────────────────────────────╯
 
 🐉 ULTIMATE DRAGONSTAFF OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Overwhelmed Axe                ×1 --> /join techfortress (Techfortress War Merge)
     Merge using:
     Spirit Orb (Misc) ×250
@@ -17,4 +19,4 @@
     Blinding Aura     ×1
   Shard of An Orb                ×5 --> /join techfortress (Reward from "This Little Light Of Mine" quest)
   Purified Undead Dragon Essence ×1 --> /join techfortress (Reward from "I'm Gonna Let It Shine" quest)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

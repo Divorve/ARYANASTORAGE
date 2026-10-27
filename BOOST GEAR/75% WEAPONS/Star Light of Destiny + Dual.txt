@@ -1,25 +1,25 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   STAR LIGHT OF DESTINY
-         + DUAL
+       S T A R    L I G H T    O F    D E S T I N Y    +    D U A L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must have completed the entire Chaos Saga
+  Rank 10 Mysterious Dungeon
+  Must have the following items in inventory:
+    Blinding Light of Destiny
+    Blinding Blade of Destiny
+    Blinding Scythe of Destiny
+    Blinding Bow of Destiny
+    Blinding Mace of Destiny
 
-Must have completed the entire Chaos Saga
-Rank 10 Mysterious Dungeon
-Must have the following items in inventory:
-  Blinding Light of Destiny
-  Blinding Blade of Destiny
-  Blinding Scythe of Destiny
-  Blinding Bow of Destiny
-  Blinding Mace of Destiny
-
-➡️ Head to /join Astralshrine --> Open merge shop
+  ➡️ Head to /join Astralshrine --> Open merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⭐ STAR LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Star Piece                         ×100 --> /join starfield (Kill any mob there)
   Star of the Empyrean               ×14  --> /join Astralshrine (Complete "Asterism's Toll" quest)
   DragonBlade of Nulgath             ×1   --> (Refer to BOOST % / 75 WEAPONS channel in Library server)
@@ -45,10 +45,10 @@ Must have the following items in inventory:
   Obsidian Light of Destiny          ×1   --> (See OBSIDIAN LIGHT OF DESTINY section below)
 
   Sanctified Light of Destiny        ×1   --> (See SANCTIFIED LIGHT OF DESTINY section below)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 💀 VOID LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Requires Ascended or Blinding Light of Destiny (Refer to BOOST % / 75 WEAPONS channel)
   Requires "Contract With the Abyss" quest (Begun from Nulgath NPC at /join tercessuinotlim)
 
@@ -62,10 +62,10 @@ Must have the following items in inventory:
   Gem of Nulgath      ×20
   Void Aura           ×6
   Emblem of Nulgath   ×3
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ POLISHED BLINDING LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join necropolis --> Artix merge shop
 
   Undead Energy               ×3,000 --> /join necrodungeon (Go Down --> Right --> Kill Doom Overlord)
@@ -76,10 +76,10 @@ Must have the following items in inventory:
   Medal of Justice            ×150   --> /join lightguardwar
                                         Reward from "Darken the Light" or "Get the Powder" quests
                                         OR Dropped by Sigrid Sunshield (Monster)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ OBSIDIAN LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Must have Blinding Edge of Obsidian (Non-AC) in inventory
   --> /join darkthronehub --> Mysterious Dungeon Rep shop --> Buy Blinding Edge of Obsidian (Non-AC)
   --> /join techfortress --> Speak to "Stellaria (NPC)" --> Accept "The Edge of Destiny" quest
@@ -98,10 +98,10 @@ Must have the following items in inventory:
     Loyal Spirit Orb  ×100
     Brilliant Aura    ×10
     Blinding Aura     ×1
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ SANCTIFIED LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join necropolis --> Artix merge shop
 
   Bone Dust                  ×300 --> /join necrodungeon (Go Down --> Right --> Kill Doom Overlord)
@@ -109,13 +109,13 @@ Must have the following items in inventory:
   Glorious Gold of Destiny   ×1   --> /join dwarfholdkeep (Reward from "Glorious Gold of Destiny" quest)
   Pious Platinum of Destiny  ×1   --> /join dwarfholdkeep (Reward from "Pious Platinum of Destiny" quest)
   Refined Metal              ×5   --> /join Extinction (Kill Cyworg)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ DUAL VERSION
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join Astralshrine --> Open merge shop
 
   Star Light of Destiny  ×1
   Star of the Empyrean   ×7   --> /join Astralshrine (7 more daily quests)
   Star Piece             ×50  --> /join Starfield (Kill any mob there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

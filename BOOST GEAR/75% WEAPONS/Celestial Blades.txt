@@ -1,26 +1,23 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       CELESTIAL BLADES
+                     C E L E S T I A L    B L A D E S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must be Level 100
+  Must have Void Highlord (Class) in inventory
+  Rank 10 Evil
 
-Must be Level 100
-Must have Void Highlord (Class) in inventory
-Rank 10 Evil
+  ➡️ /join voidchasm --> Open merge shop --> Buy Prime Fiend Shard
+  --> Place it in your house --> Click it --> Begin questing
 
-➡️ /join voidchasm --> Open merge shop --> Buy Prime Fiend Shard
---> Place it in your house --> Click it --> Begin questing
+  ⚠️ Refer to NULGATH ITEMS / MATERIALS channel in Library Server for all Nulgath materials
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚠️ NOTE: Refer to NULGATH ITEMS / MATERIALS channel in Library Server for all Nulgath materials
-
-╔════════════════════════════════╗
-     QUEST 1: FEED THE FIEND SHARD
-╚════════════════════════════════╝
-
-⚔️ FEED THE FIEND SHARD
-╭──────── MERGE REQUIREMENTS ────────╮
+⚔️ QUEST 1: FEED THE FIEND SHARD
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Dual Dragonbone Axe of Nulgath ×1 --> /join tercessuinotlim (Speak to Nulgath NPC --> Reward from "Combat Style: Dragonbone Axe" quest)
   Essence of Nulgath             ×20 --> /join Tercessuinotlim or /join nulgath (Kill Dark Makai)
 
@@ -45,14 +42,10 @@ Rank 10 Evil
     Gold Voucher 25k     ×4
     Doomed Extract       ×22
     Void Nation Ritualist ×1 --> /join Templedelve (Kill Doomed Fiend)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-     QUEST 2: GROW THE FIEND SHARD
-╚════════════════════════════════╝
-
-⚔️ GROW THE FIEND SHARD
-╭──────── MERGE REQUIREMENTS ────────╮
+⚔️ QUEST 2: GROW THE FIEND SHARD
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Essence of Nulgath  ×40  --> /join Tercessuinotlim or /join nulgath (Kill Dark Makai)
 
   Abyssal Priest of Nulgath ×1 --> /join evilwarnul (Speak to Dilligas NPC --> Nulgath Diamond shop)
@@ -73,14 +66,10 @@ Rank 10 Evil
     Diamond of Nulgath       ×80
     Gem of Nulgath           ×15
     Blood Gem of the Archfiend ×5
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-    QUEST 3: EVOLVE THE FIEND SHARD
-╚════════════════════════════════╝
-
-⚔️ EVOLVE THE FIEND SHARD
-╭──────── MERGE REQUIREMENTS ────────╮
+⚔️ QUEST 3: EVOLVE THE FIEND SHARD
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Essence of Nulgath  ×60
 
   ArchFiend Enchanted Orbs ×1 --> /join tercessuinotlim (Speak to Lae NPC)
@@ -107,14 +96,10 @@ Rank 10 Evil
     Tainted Gem          ×100
     Dark Crystal Shard   ×40
     Diamond of Nulgath   ×150
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-   QUEST 4: THE FIEND SHARD'S DEMAND
-╚════════════════════════════════╝
-
-⚔️ THE FIEND SHARD'S DEMAND
-╭──────── MERGE REQUIREMENTS ────────╮
+⚔️ QUEST 4: THE FIEND SHARD'S DEMAND
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Void Avenger Scythe  ×1  --> /join tercessuinotlim (Speak to Skew NPC --> Reward from "Eternal Rest" quest)
                                aqwwiki.wikidot.com/skew-s-quests
   Doomblade of Destruction ×1 --> /join tercessuinotlim (Speak to Nulgath NPC --> Reward from "Nulgath Demands Work" quest)
@@ -124,14 +109,10 @@ Rank 10 Evil
                                aqwwiki.wikidot.com/wrath-of-nulgath
   Ancient Shogun Armor ×1  --> /join evilwarnul (Dilligas' Merge Shop)
                                aqwwiki.wikidot.com/ancient-shogun-armor
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-   QUEST 5: THE FIEND SHARD'S FINALE
-╚════════════════════════════════╝
-
-⚔️ THE FIEND SHARD'S FINALE
-╭──────── MERGE REQUIREMENTS ────────╮
+⚔️ QUEST 5: THE FIEND SHARD'S FINALE
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Unidentified 13 ("The Contract of Nulgath") ×13
   Tainted Gem                ×750
   Dark Crystal Shard         ×400
@@ -140,14 +121,15 @@ Rank 10 Evil
   Gem of Nulgath             ×300
   Blood Gem of the Archfiend ×100
   Roentgenium of Nulgath     ×10
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🏆 FINAL STEP - OBTAINING CELESTIAL BLADES
+╭────────────────────────────────────────────────────────────────────────╮
+  Place the final form of Prime Fiend Shard in your house
+  --> Open the shop --> Purchase all four blades:
 
-Place the final form of Prime Fiend Shard in your house
---> Open the shop --> Purchase all four blades:
-
-  • Celestial Abyss Blade
-  • Celestial Blade of Judgement
-  • Infernal Abyss Blade
-  • Infernal Blade of Judgement
+    • Celestial Abyss Blade
+    • Celestial Blade of Judgement
+    • Infernal Abyss Blade
+    • Infernal Blade of Judgement
+╰────────────────────────────────────────────────────────────────────────╯

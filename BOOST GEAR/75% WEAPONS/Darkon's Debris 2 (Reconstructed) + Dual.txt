@@ -1,18 +1,18 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  DARKON'S DEBRIS 2
-  (RECONSTRUCTED) + DUAL
+                 DARKON'S DEBRIS 2 (RECONSTRUCTED) + DUAL
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must have completed the Darkon Storyline
 
-Must have completed the Darkon Storyline
-
-➡️ Head to /join Ultradarkon --> Open Darkon Ultra Merge shop
+  ➡️ Head to /join Ultradarkon --> Open Darkon Ultra Merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ DARKON'S DEBRIS 2 (RECONSTRUCTED)
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Darkon's Debris 2 (Recovered) ×1  --> /join Theworld (The World Merge)
                                          aqwwiki.wikidot.com/darkon-s-debris-2-recovered
   Bandit's Correspondence        ×22 --> /join eridanipast (Reward from "Pastorela" quest)
@@ -20,10 +20,10 @@ Must have completed the Darkon Storyline
   Ancient Remnant                ×22 --> /join firstobservatory (Reward from "Taurus Gugalanna" quest)
   Mourning Flower                ×22 --> /join genesisgarden (Reward from "Wheel of Fortune" quest)
   Darkon Insignia                ×20 --> /join ultradarkon (Complete the weekly quest 4 times)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ DUAL VERSION
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Darkon's Debris 2 (Reconstructed) ×1
   Darkon Insignia                    ×10 --> /join ultradarkon (Complete the weekly quest 2 more times)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,24 +1,25 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  CYBER VOID LIGHT OF DESTINY
+        C Y B E R    V O I D    L I G H T    O F    D E S T I N Y
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must have completed the "Contract With the Abyss" quest
+  Must have the following items in inventory:
 
-Must have completed the "Contract With the Abyss" quest
-Must have the following items in inventory:
+    Void Paladin            --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
+    Void Paladin Helm       --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
+    Void Paladin Katana Cape --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
+    Void Paladin Katana     --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
+    Void Light of Destiny   --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
+    aqwwiki.wikidot.com/oblivion-s-quests#2
 
-  Void Paladin            --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
-  Void Paladin Helm       --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
-  Void Paladin Katana Cape --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
-  Void Paladin Katana     --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
-  Void Light of Destiny   --> /join tercessuinotlim (Speak to Oblivion NPC --> Complete "A Dark Temptation" quest)
-  aqwwiki.wikidot.com/oblivion-s-quests#2
-
-➡️ /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Accept "Cyber Void Paladin Set" quest
+  ➡️ /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Accept "Cyber Void Paladin Set" quest
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ CYBER VOID LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Powerpack  ×5  --> /join dreadspace (Kill Undead Space Warrior)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

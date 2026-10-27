@@ -1,17 +1,18 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   PRINCE DARKON'S POLEAXE
+             P R I N C E    D A R K O N ' S    P O L E A X E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must have completed the Darkon Storyline
 
-Must have completed the Darkon Storyline
-
-➡️ Head to /join ultradrago --> Open Ultra Drago Merge shop
+  ➡️ Head to /join ultradrago --> Open Ultra Drago Merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ PRINCE DARKON'S POLEAXE
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Algie's Bow              ×1  --> /join ultradrago (Ultra Drago Merge)
   Dene's Axe               ×1  --> /join ultradrago (Ultra Drago Merge)
   King Drago Insignia      ×10 --> /join ultradrago (Complete the weekly quest there)
@@ -21,4 +22,4 @@ Must have completed the Darkon Storyline
   La's Gratitude           ×22 --> /join astravia (Reward from "Let Sleeping Dogs Lie" quest)
   Astravian Medal          ×22 --> /join astraviacastle (Reward from "Vanity Project" quest)
   A Melody                 ×22 --> /join astraviajudgement (Reward from "A Storied Vow" quest)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

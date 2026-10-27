@@ -1,14 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  DARK DRAGON SLAYER'S
-        HALBERD
+        D A R K    D R A G O N    S L A Y E R ' S    H A L B E R D
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join streamwar --> Open merge shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join streamwar --> Open merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ DARK DRAGON SLAYER'S HALBERD
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Green Dragon Slayer's Halberd ×1
     Merge using:
     Prismatic Seams   ×250
@@ -19,13 +21,13 @@
   Willpower          ×70    --> /join ruinedcrown (Complete "Em-pathetic Connection" quest)
   Garish Remnant     ×70    --> /join timekeep (Complete "Janitorial Duties" quest)
   Gold Voucher 500k  ×20    (= 10,000,000 Gold)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📋 TOTAL MATERIALS SUMMARY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Green Dragon Slayer's Halberd ×1
   Prismatic Seams    ×1,250
   Willpower          ×70
   Garish Remnant     ×70
   Gold Voucher 500k  ×24   (= 12,000,000 Gold)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

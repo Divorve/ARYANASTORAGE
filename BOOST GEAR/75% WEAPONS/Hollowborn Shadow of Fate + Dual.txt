@@ -1,18 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  HOLLOWBORN SHADOW OF
-      FATE + DUAL
+                     HOLLOWBORN SHADOW OF FATE + DUAL
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-⚠️ NOTE: Refer to ITEMS / HOLLOWBORN guides (Classic Hollowborn File)
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ⚠️ Refer to ITEMS / HOLLOWBORN guides (Classic Hollowborn File)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ HOLLOWBORN SHADOW OF FATE (SINGULAR)
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Complete the Classic Hollowborn guide up to "THE DARK SACRIFICE"
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ HOLLOWBORN SHADOW OF FATE (DUAL)
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Complete the Classic Hollowborn guide up to "THE POST SUMMONING"
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,18 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-     CROWNSLAYER BANANACH
+                 C R O W N S L A Y E R    B A N A N A C H
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Rank 10 Skye
 
-Rank 10 Skye
-
-➡️ Head to /join queeniona --> Open Lothian Treasury shop
+  ➡️ Head to /join queeniona --> Open Lothian Treasury shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ CROWNSLAYER BANANACH
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Lothian's Lightning       ×7  --> /join queeniona (Complete the daily quest - repeatable for Members)
   Skye's Lightning          ×40 --> /join coldthunder (Reward from "Eilean a' Cheò" quest)
   Priestess Eire's Cletiné  ×1  --> /join Coldthunder (Kill Cold Thunder Avatar)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

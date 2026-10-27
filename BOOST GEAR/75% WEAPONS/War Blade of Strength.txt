@@ -1,15 +1,18 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-    WAR BLADE OF STRENGTH
+               W A R    B L A D E    O F    S T R E N G T H
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join ultraspeaker --> Open Ultra Speaker Merge shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join ultraspeaker --> Open Ultra Speaker Merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 💪 WAR BLADE OF STRENGTH
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Malgor Insignia      ×7  --> /join ultraspeaker (Complete the weekly quest there)
   Elemental Core       ×25 --> /join manacradle (Reward from "Once Upon Another Time" quest)
   Fire Avatar's Favor  ×25 --> /join fireavatar (Reward from "Avatar's Rage" quest)
   Acquiescence         ×10 --> /join worldscore (Reward from "Tranquil Mediocrity" quest)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

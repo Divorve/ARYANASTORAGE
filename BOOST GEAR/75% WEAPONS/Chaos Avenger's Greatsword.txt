@@ -1,18 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  CHAOS AVENGER'S GREATSWORD
+          C H A O S    A V E N G E R ' S    G R E A T S W O R D
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
-
-Must have completed "Chaos Avenger Class" quest
---> (Refer to CLASSES / CLASSES GUIDE channel in Library server)
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must have completed "Chaos Avenger Class" quest
+  --> (Refer to CLASSES / CLASSES GUIDE channel in Library server)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ CHAOS AVENGER'S GREATSWORD
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join championdrakath --> Open Chaos Avenger Class shop
   --> Buy Chaos Avenger Greatsword
   --> Complete the weekly quest --> Accept 5x Champion Drakath Insignias
   --> Open merge shop in the same map --> Merge the Empowered version
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

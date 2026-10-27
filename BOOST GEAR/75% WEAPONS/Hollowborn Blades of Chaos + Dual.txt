@@ -1,47 +1,47 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  HOLLOWBORN BLADES OF
-     CHAOS + DUAL
+                    HOLLOWBORN BLADES OF CHAOS + DUAL
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
-
-Lae's Hardcore Contract
-Level 95
-Must have completed the entire Chaos Saga
-Ascended Face of Chaos
-Drakath Wings (Free Player)
-Supreme Arcane Staff of Chaos
-Titan Drakath (Armor)
-Drakath the Eternal
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Lae's Hardcore Contract
+  Level 95
+  Must have completed the entire Chaos Saga
+  Ascended Face of Chaos
+  Drakath Wings (Free Player)
+  Supreme Arcane Staff of Chaos
+  Titan Drakath (Armor)
+  Drakath the Eternal
+╰────────────────────────────────────────────────────────────────────────╯
 
 🛡️ ASCENDED FACE OF CHAOS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Must have "Original Drakath Armor" in inventory (Refer to guide in The Library Discord)
   --> /join mountdoomskull --> Accept "Ascended Drakath Gear" quest
   Holy Wasabi  ×1  --> /join towerofdoom4 (Dropped by Dread Stranglerfish)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🛡️ DRAKATH WINGS (FREE PLAYER)
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join Ultradrakath or /join Finalbattle --> Kill boss
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🛡️ SUPREME ARCANE STAFF OF CHAOS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   The Supreme Arcane Staff  ×1      --> /join Ledgermayne (Kill Ledgermayne)
   Gold Voucher 500k         ×4      = 2,000,000 Gold
   --> /join Deepforest --> Open merge shop --> Merge
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🛡️ TITAN DRAKATH (ARMOR)
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join titanstrike --> Titan Strike gear shop --> Merge
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🛡️ DRAKATH THE ETERNAL
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join Eternalchaos --> Complete questline --> Accept "Eternal Drakath Set" quest
 
   Spirit Orb (Misc)      ×2,000 --> /join necropolis (Complete "Finding Fragments with Blinding Broadsword" quest)
@@ -50,14 +50,10 @@ Drakath the Eternal
   Star Fragment          ×33    --> /join starsinc (Speak to Prime NPC --> Complete "Become one with the Universe" quest)
   Death's Oversight      ×5     --> /join Shadowattack (Kill Death - if already killed, speak to Death's Dealer NPC --> "Battle Death Again")
   Reality Shard          ×200   --> /join Eternalchaos (Complete "What Could Have Been" quest until finished)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-     HOLLOWBORN BLADES QUESTS
-╚════════════════════════════════╝
-
-⚔️ STEP 1 - STIRRING DISCORD
-╭──────── MERGE REQUIREMENTS ────────╮
+⚔️ HOLLOWBORN BLADES QUESTS  ·  STEP 1 - STIRRING DISCORD
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Chaotic Draconian Wings  ×1   --> /join uppercity (Kill Chaotic Draconian)
   Shard of Chaos           ×100 --> /join northlands (Kill Chaos Gemrald or Chaorrupted Wolf)
   Chaotic Knight Helm      ×1   --> /join crownsreach (Requires Rank 5 Chaos Militia)
@@ -66,10 +62,10 @@ Drakath the Eternal
   Chaotic War Essence      ×15  --> /join chaosboss (Kill the Ultra boss)
   Chaos Pirate Crew        ×1   --> /join Lagunabeach (Kill Heart of Chaos)
   Maledictus Magum         ×1   --> /join blackroom (Kill Book Wyrm)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP 2 - IN THE BEAST'S SHADOW
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Hydra Armor              ×1   --> /join hydrachallenge (Speak to Dew Drop NPC --> "Looking for a challenge?")
   Mini Rock Roc            ×1   --> /join roc (Kill Rock Roc - drop item)
   O-dokuro on Your Back    ×1   --> /join odokuro (Kill O-dokuro - drop item)
@@ -78,10 +74,10 @@ Drakath the Eternal
   Mana Golem (Pet)         ×1   --> /join elemental (Kill Mana Golem)
   Fragment of Mount Doomskull ×1,000 --> /join Mountdoomskull (Kill any mob)
   Relic of Chaos           ×13  --> /join ultraalteon (Kill Alteon)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP 3 - UNIQUE QUARRY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Chaos Sphinx (Pet)       ×1   --> /join sandcastle (Kill Chaos Sphinx - drop item)
   Chaoroot                 ×30  --> /join tercessuinotlim (Merge 10 Chaoroots per Receipt of Swindle)
                                     OR /join stalagbite (Kill Vath)
@@ -92,19 +88,19 @@ Drakath the Eternal
   Chaos Dragon Slayer      ×1   --> /join Castleroof (Kill Chaos Dragon or Ultra Chaos Dragon)
   HarpyHunter              ×1   --> /join Mirrorportal (Kill Chaos Harpy or Ultra Chaos Harpy)
   Naga Baas Pet            ×1   --> /join orecaverns (Kill Naga Baas)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP 4 - WAVERING ILLUSIONS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Chaos Gem                ×200 --> /join Safiria (Kill Chaos Lycan)
   Chaorrupted Light of Destiny ×1 --> /join Chaoslab (Kill Chaos Artix)
   Chaorrupted Hourglass    ×30  --> /join timespace (Kill Chaos Lord Iadoa)
   Chaotic Invertebrae      ×20  --> /join Chaoskraken (Kill Chaos Kraken)
   Chaos PuppetMaster       ×1   --> /join downbelow (Buy from shop)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP 5 - SHADOWS OF DISDAIN
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Chaos War Medal          ×1,000 --> /join mountdoomskull (Kill any mob)
   Drakath Pet              ×1     --> /join finalshowdown (Kill Prince Drakath)
   Chaorrupted Usurper      ×1     --> /join transformation (Merge 7x Gold Voucher 500k = 3.5m Gold)
@@ -127,10 +123,10 @@ Drakath the Eternal
 
   Trace of Chaos           ×13   --> /join ultradrakath (Kill boss)
                                      OR /join championdrakath merge shop (Exchange Champion Drakath Insignias)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP 6 - PERSISTING MAYHEM
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Trace of Chaos  ×13  --> /join ultradrakath (Kill boss)
                            OR /join championdrakath merge shop (Exchange Champion Drakath Insignias)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

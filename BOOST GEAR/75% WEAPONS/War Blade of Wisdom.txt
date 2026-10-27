@@ -1,16 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-     WAR BLADE OF WISDOM
+                 W A R    B L A D E    O F    W I S D O M
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join ultraspeaker --> Open Ultraspeaker Merge shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join ultraspeaker --> Open Ultraspeaker Merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 🧠 WAR BLADE OF WISDOM
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Malgor Insignia      ×7   --> /join ultraspeaker (Complete the weekly quest there)
   Fragment of the Queen ×13 --> /join transformation (Kill Queen of Monsters)
   ShadowChaos Mote     ×250 --> /join Laguna or /join Lagunabeach
                                 (Reward from "A Closer Look" or "Snack Time" quests)
   Acquiescence         ×10  --> /join worldscore (Reward from "Tranquil Mediocrity" quest)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

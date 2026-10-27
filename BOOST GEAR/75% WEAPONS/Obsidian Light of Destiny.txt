@@ -1,19 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   OBSIDIAN LIGHT OF DESTINY
+           O B S I D I A N    L I G H T    O F    D E S T I N Y
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Rank 10 Mysterious Dungeon
+  Must have Blinding Edge of Obsidian (Non-AC) in inventory
+  --> /join darkthronehub --> Mysterious Dungeon Rep shop --> Buy Blinding Edge of Obsidian (Non-AC)
 
-Rank 10 Mysterious Dungeon
-Must have Blinding Edge of Obsidian (Non-AC) in inventory
---> /join darkthronehub --> Mysterious Dungeon Rep shop --> Buy Blinding Edge of Obsidian (Non-AC)
-
-➡️ /join techfortress --> Speak to "Stellaria (NPC)" --> Accept "The Edge of Destiny" quest
+  ➡️ /join techfortress --> Speak to "Stellaria (NPC)" --> Accept "The Edge of Destiny" quest
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ OBSIDIAN LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Bright Aura                    ×120   --> /join necropolis ("Finding Fragments with the Blinding Bow" quest)
   Brilliant Aura                 ×40    --> /join necropolis ("Finding Fragments with the Blinding Mace" quest)
   Blinding Aura                  ×1     --> /join necropolis ("Finding Fragments with the Blinding Scythe of Destiny" quest)
@@ -29,4 +30,4 @@ Must have Blinding Edge of Obsidian (Non-AC) in inventory
     Loyal Spirit Orb     ×100
     Brilliant Aura       ×10
     Blinding Aura        ×1
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

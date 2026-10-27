@@ -1,16 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  SANCTIFIED LIGHT OF DESTINY
+         S A N C T I F I E D    L I G H T    O F    D E S T I N Y
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join necropolis --> Open Artix's merge shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join necropolis --> Open Artix's merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ SANCTIFIED LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Bone Dust                  ×300 --> /join necrodungeon (Go Down --> Right --> Kill Doom Overlord)
   Loyal Spirit Orb           ×25  --> /join necropolis (Artix merge shop)
   Glorious Gold of Destiny   ×1   --> /join dwarfholdkeep (Reward from "Glorious Gold of Destiny" quest)
   Pious Platinum of Destiny  ×1   --> /join dwarfholdkeep (Reward from "Pious Platinum of Destiny" quest)
   Refined Metal              ×5   --> /join Extinction (Kill Cyworg)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

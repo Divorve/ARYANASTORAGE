@@ -1,23 +1,24 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-    VOID LIGHT OF DESTINY
+               V O I D    L I G H T    O F    D E S T I N Y
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Requires Ascended or Blinding Light of Destiny
+  --> (Refer to BOOST % / 75 WEAPONS channel in Library server)
 
-Requires Ascended or Blinding Light of Destiny
---> (Refer to BOOST % / 75 WEAPONS channel in Library server)
+  Requires "Contract With the Abyss" quest
+  --> Begun from "Nulgath (NPC)" at /join tercessuinotlim
 
-Requires "Contract With the Abyss" quest
---> Begun from "Nulgath (NPC)" at /join tercessuinotlim
+  ⚠️ Refer to NULGATH MATERIALS / MATERIALS channel in Library Server for all materials below
 
-⚠️ NOTE: Refer to NULGATH MATERIALS / MATERIALS channel in Library Server for all materials below
-
-➡️ /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Accept "Sacrifice" quest
+  ➡️ /join tercessuinotlim --> Speak to "Oblivion (NPC)" --> Accept "Sacrifice" quest
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ VOID LIGHT OF DESTINY
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Tainted Gem         ×40
   Dark Crystal Shard  ×40
   Diamond of Nulgath  ×40
@@ -25,4 +26,4 @@ Requires "Contract With the Abyss" quest
   Gem of Nulgath      ×20
   Void Aura           ×6
   Emblem of Nulgath   ×3
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

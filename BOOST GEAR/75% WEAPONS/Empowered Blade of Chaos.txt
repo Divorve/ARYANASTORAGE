@@ -1,21 +1,25 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  EMPOWERED BLADE OF CHAOS
+            E M P O W E R E D    B L A D E    O F    C H A O S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Rank 10 Chaos Militia
+  Must have completed the Chaos Saga storyline
 
-Rank 10 Chaos Militia
-Must have completed the Chaos Saga storyline
-
-➡️ /join Ultradrakath --> Kill "Champion of Chaos" (Monster)
---> Accept "Blade of Chaos" weapon drop
+  ➡️ /join Ultradrakath --> Kill "Champion of Chaos" (Monster)
+  --> Accept "Blade of Chaos" weapon drop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ EMPOWERED BLADE OF CHAOS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Blade of Chaos (Weapon)        ×1  --> /join Ultradrakath (Kill Champion of Chaos)
   Champion Drakath Insignia      ×5  --> /join championdrakath (Complete the weekly quest there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-➡️ Open the merge shop at /join championdrakath --> Merge the Empowered Blade of Chaos
+📌 NOTES
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Open the merge shop at /join championdrakath --> Merge the Empowered Blade of Chaos
+╰────────────────────────────────────────────────────────────────────────╯

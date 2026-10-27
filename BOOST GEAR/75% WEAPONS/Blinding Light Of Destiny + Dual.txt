@@ -1,18 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  BLINDING LIGHT OF
-    DESTINY + DUAL
+                     BLINDING LIGHT OF DESTINY + DUAL
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-╔════════════════════════════════╗
-              STEP 1
-╚════════════════════════════════╝
-
-➡️ Head to /join necropolis --> Complete Artix's quests
+⚔️ STEP 1
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join necropolis --> Complete Artix's quests
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP 1 QUESTS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   "Reforging the Blinding Light"
   Blinding Light of Destiny Handle ×1 --> /join doomwood (Arryd's shop)
   NOTE: If shop is locked, defeat 100 enemies in the top-left room of /doomwood
@@ -30,14 +28,10 @@
   "A Loyal Follower"
   Spirit Orb ×100  --> Complete "Essential Essences" and "Bust some Dust" until reached
   --> Then defeat Ephemerites at /join timevoid (First room to the right - 2 spawn there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-              STEP 2
-╚════════════════════════════════╝
-
-🏆 MAIN FARM - 10,500 SPIRIT ORBS
-╭──────── MERGE REQUIREMENTS ────────╮
+⚔️ STEP 2  ·  MAIN FARM - 10,500 SPIRIT ORBS
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   METHOD 1 (Lower level / less movement)
   Farm both "Bust some Dust" and "Essential Essences" from Artix at /join necropolis
   Turn in both quests when Undead Essence reaches 1k stack limit
@@ -47,10 +41,10 @@
   /join battleunderb --> Exit top-right --> Kill Bone Terror at /join battleundera
   Member: Exit left from /join battleunderd --> Kill Crystalised Jellyfish
   Non-member: Walk to it from /join battleunderc
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚒️ DAILY METAL QUEST (Complete each day while farming)
-╭──────── MERGE REQUIREMENTS ────────╮
+⚒️ DAILY METAL QUEST (COMPLETE EACH DAY WHILE FARMING)
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join necropolis --> Artix's "Mine Crafting" daily quest
   --> Kill Balboa at /join stalagbite
   Recommended picks: Copper, Barium, Silver (1 of each)
@@ -65,19 +59,19 @@
   Before Step 3 you need:
   10,500 Spirit Orbs | 1 Celestial Copper | 1 Blessed Barium | 1 Sanctified Silver
   Optional: 1 Immortal Iron
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-              STEP 3
-╚════════════════════════════════╝
+⚔️ STEP 3
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Open Artix's merge shop at /join necropolis and do the following:
+    1. Merge 10,500 Spirit Orbs --> 105 Loyal Spirit Orbs
+    2. Merge 100 Loyal Spirit Orbs --> 2 Bright Auras
+    3. /join dwarfhold --> Walk right to Geopetal --> Forge Celestial Copper of Destiny
 
-➡️ Open Artix's merge shop at /join necropolis and do the following:
-  1. Merge 10,500 Spirit Orbs --> 105 Loyal Spirit Orbs
-  2. Merge 100 Loyal Spirit Orbs --> 2 Bright Auras
-  3. /join dwarfhold --> Walk right to Geopetal --> Forge Celestial Copper of Destiny
+  ⚒️ WEAPON KIT QUESTS (Back at /join necropolis - Artix)
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚒️ WEAPON KIT QUESTS (Back at /join necropolis - Artix)
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   "Celestial Copper of Destiny"
   Forge Key ×1 --> /join dwarfhold (Kill Albino Bat)
 
@@ -111,18 +105,17 @@
 
   Before Step 4 you need:
   1 Celestial Copper of Destiny | 3 Basic Kits | 3 Advanced Kits | 4 Ultimate Kits
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-              STEP 4
-╚════════════════════════════════╝
-
-➡️ Open Artix's merge shop at /join necropolis and do the following:
-  Merge Mace of Destiny --> Bright Mace of Destiny --> Blinding Mace of Destiny
-  Complete "Finding Fragments with Blinding Mace" --> Earn 3 Brilliant Auras
+⚔️ STEP 4
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Open Artix's merge shop at /join necropolis and do the following:
+    Merge Mace of Destiny --> Bright Mace of Destiny --> Blinding Mace of Destiny
+    Complete "Finding Fragments with Blinding Mace" --> Earn 3 Brilliant Auras
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚒️ REMAINING MERGES
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   NOTE: All "Finding Fragments with Blinding ___" quests can be completed at /join battleunderb
         Blinding Fragments stack to 60 | Keep any Blinding Aura drops (1% rate)
 
@@ -135,16 +128,15 @@
 
   Before Step 5 you need:
   Blinding Mace of Destiny | Blinding Bow of Destiny | Blinding Blade of Destiny
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-              STEP 5
-╚════════════════════════════════╝
-
-➡️ Head to /join necropolis --> Accept Artix's "The Blinding Light of Destiny" quest
+⚔️ STEP 5
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join necropolis --> Accept Artix's "The Blinding Light of Destiny" quest
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ FINAL MERGE REQUIREMENTS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Loyal Spirit Orb    ×250 --> Blinding Blade (Complete "Finding Fragments" ×10)
   Spirit Orb          ×500 --> Blinding Blade
   Bright Aura         ×125 --> Blinding Bow (Complete "Finding Fragments" ×25)
@@ -155,13 +147,13 @@
 
   BLINDING AURA ALTERNATIVE:
   Blinding Scythe of Destiny ×1 --> Merge using Immortal Iron of Destiny + one of each Weapon Kit
-╰────────────────────────────────────╯
 
-➡️ Turn in quest to Artix --> Claim BLoD from Book of Lore --> Achievement Badges section
+  ➡️ Turn in quest to Artix --> Claim BLoD from Book of Lore --> Achievement Badges section
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ DUAL VERSION
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Account must be older than 8 years
   --> /join nostalgiaquest --> Yulgar's Dual Wield Shop
   aqwwiki.wikidot.com/dual-blinding-light-of-destiny
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
