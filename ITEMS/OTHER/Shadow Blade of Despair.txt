@@ -1,16 +1,16 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   SHADOW BLADE OF DESPAIR
+             S H A D O W    B L A D E    O F    D E S P A I R
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 30 (required to equip)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 1 — Obtain the Enchantment Rune
-╭──────────────────────────────────╮
+✅ STEP 1 — OBTAIN THE ENCHANTMENT RUNE
+╭────────────────────────────────────────────────────────────────────────╮
   1. Purchase the Silver Victory Blade
      --> Loot Chest NPC's shop @ /join river
 
@@ -21,10 +21,10 @@
 
   3. Exchange the Rune + Blade for the Enchanted Victory Blade
      --> Loot Chest NPC's shop @ /join river
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 2 — Choose Your Path
-╭──────────────────────────────────╮
+✅ STEP 2 — CHOOSE YOUR PATH
+╭────────────────────────────────────────────────────────────────────────╮
   Complete "Alignment Quest: Light... or Dark?" from the Loot Chest NPC
   --> Defeat Skeletal Warriors @ /join castleundead
 
@@ -33,18 +33,18 @@
 
   💡 This choice only affects appearance — see the image preview to decide
   Exchange the Aura Gem + Blade for the Enchanted Shadow or Mana Blade
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 3 — Final Upgrade
-╭──────────────────────────────────╮
+✅ STEP 3 — FINAL UPGRADE
+╭────────────────────────────────────────────────────────────────────────╮
   Complete "Choose: Despair... or Glory?" from the Loot Chest NPC
   --> Defeat Skeletal Vikings @ /join castleundead
   --> Rewards the Blade + Amulet of Despair or Glory
 
   Exchange both items to purchase your chosen weapon:
-  · Shadow Blade of Despair
-  · Arcane Blade of Glory
+  - Shadow Blade of Despair
+  - Arcane Blade of Glory
 
   💡 Both weapons grant a 20% bonus XP per kill and mission completion
   ⚠️ Requires Level 30 to equip
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,18 +1,18 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   INFERNAL FLAME PYROMANCER
+           I N F E R N A L    F L A M E    P Y R O M A N C E R
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Storyline Completion:
   --> /join fireplanewar > /join shadowfireplane > /join fireinvasion
       > /join wartraining > /join fireavatar
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ MERGE REQUIREMENTS
-╭──────── Merged @ /join ultratyndarius ────────╮
+╭──────────────────── Merged @ /join ultratyndarius ─────────────────────╮
   Avatar Tyndarius Insignia     ×20
   --> Accept Galanoth's "Ultra Avatar Tyndarius" @ /join ultratyndarius
       Defeat Ultra Avatar Tyndarius (daily quest)
@@ -22,8 +22,8 @@
   Fire Avatar Favour            ×75
   --> Accept Galanoth's "Avatar's Rage" @ /join fireavatar
       Defeat in any order:
-      · Shadefire Cavalry, Majors, and the Colonel
+      - Shadefire Cavalry, Majors, and the Colonel
         (room with 2 Cavalry is fastest but farther from Elementals)
-      · Shadefire Elementals + Living Shadowflame
+      - Shadefire Elementals + Living Shadowflame
       Both drops stack to 30
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

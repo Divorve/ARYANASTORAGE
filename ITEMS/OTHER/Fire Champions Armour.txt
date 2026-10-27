@@ -1,11 +1,11 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   FIRE CHAMPION'S ARMOUR
+              F I R E    C H A M P I O N ' S    A R M O U R
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Storyline Completion:
   --> /join fireplanewar > /join shadowfireplane > /join fireinvasion
       > /join wartraining > /join fireavatar
@@ -13,10 +13,10 @@
   Rank 10 Dragonslayer
   --> Purchase from /join lair
       Rank up using your best XP method (see New Player guide)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ MERGE REQUIREMENTS
-╭──────── Vagra's Merge shop @ /join wartraining ────────╮
+╭──────────────── Vagra's Merge shop @ /join wartraining ────────────────╮
   Polished DragonSlayer         ×1
 
   Warfury Emblem                ×90    --> 30 for armour, 60 saved for later
@@ -49,4 +49,4 @@
   Gold Voucher 500k             ×50    --> Total cost: 25,000,000 Gold
   --> Purchase from Vagra @ /join wartraining
       💡 See the Gold guide if you need help
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

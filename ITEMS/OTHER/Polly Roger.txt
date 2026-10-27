@@ -1,17 +1,17 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   POLLY ROGER
+                          P O L L Y    R O G E R
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 80
   ⚠️ Only available during September
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST
-╭──────── "Sailor of the Celestial Skies" from Barnaby @ /join pirates ────────╮
+╭───── "Sailor of the Celestial Skies" from Barnaby @ /join pirates ─────╮
   ⚠️ Many enemies are very hard — group strongly recommended
 
   Sapphire Orb                  ×5
@@ -44,4 +44,4 @@
 
   💡 Other pieces from this quest share the same boosts
      but having them as a pet is more convenient
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
