@@ -1,20 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   EMPOWERED OVERFIEND
-         BLADE
+           E M P O W E R E D    O V E R F I E N D    B L A D E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must be Level 95
+  Must have Overfiend Blade of Nulgath in inventory
+  --> (Refer to ITEMS / NULGATH (Juggernaut items file) channel in Library server)
 
-Must be Level 95
-Must have Overfiend Blade of Nulgath in inventory
---> (Refer to ITEMS / NULGATH (Juggernaut items file) channel in Library server)
-
-⚠️ NOTE: Refer to ITEMS / NULGATH channel in OUR channel in Library Server for all materials below
+  ⚠️ Refer to ITEMS / NULGATH channel in OUR channel in Library Server for all materials below
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ EMPOWERED OVERFIEND BLADE
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Tainted Gem              ×200 --> (Refer to ITEMS / NULGATH channel in OUR Server)
   Dark Crystal Shard       ×100 --> (Refer to ITEMS / NULGATH channel in OUR channel in Library Server)
   Diamond of Nulgath       ×400 --> (Refer to ITEMS / NULGATH channel in OUR channel in Library Server)
@@ -22,4 +22,4 @@ Must have Overfiend Blade of Nulgath in inventory
   Totem of Nulgath         ×30  --> (Refer to ITEMS / NULGATH channel in OUR channel in Library Server)
   Gem of Nulgath           ×80  --> (Refer to ITEMS / NULGATH channel in OUR channel in Library Server)
   Nulgath Insignia         ×25  --> /join Ultranulgath (Complete the weekly quest there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,20 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   EMPOWERED UNGODLY
-        REAVERS
+           E M P O W E R E D    U N G O D L Y    R E A V E R S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must be Level 95
+  Must have "Ungodly Reavers of Nulgath" in inventory
+  --> (Refer to ITEMS / NULGATH (Juggernaut items file) channel in Library server)
 
-Must be Level 95
-Must have "Ungodly Reavers of Nulgath" in inventory
---> (Refer to ITEMS / NULGATH (Juggernaut items file) channel in Library server)
-
-⚠️ NOTE: Refer to ITEMS / NULGATH channel in OUR Server for all materials below
+  ⚠️ Refer to ITEMS / NULGATH channel in OUR Server for all materials below
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ EMPOWERED UNGODLY REAVERS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Tainted Gem              ×200 --> (Refer to ITEMS / NULGATH channel in OUR Server)
   Dark Crystal Shard       ×100 --> (Refer to ITEMS / NULGATH channel in OUR Server)
   Diamond of Nulgath       ×400 --> (Refer to ITEMS / NULGATH channel in OUR Server)
@@ -22,4 +22,4 @@ Must have "Ungodly Reavers of Nulgath" in inventory
   Totem of Nulgath         ×30  --> (Refer to ITEMS / NULGATH channel in OUR Server)
   Gem of Nulgath           ×80  --> (Refer to ITEMS / NULGATH channel in OUR Server)
   Nulgath Insignia         ×25  --> /join Ultranulgath (Complete the weekly quest there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,34 +1,28 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   EXALTED APOTHEOSIS
-        + DUAL
+           E X A L T E D    A P O T H E O S I S    +    D U A L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join timeinn --> Complete Sir Cole's quests
---> Access each boss by clicking the pin board to the right
---> Group recommended
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join timeinn --> Complete Sir Cole's quests
+  --> Access each boss by clicking the pin board to the right
+  --> Group recommended
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-            PART 1
-╚════════════════════════════════╝
-
-⚔️ INITIAL FARM (Sir Cole's Quests)
-╭──────── MERGE REQUIREMENTS ────────╮
+📘 PART 1  ·  INITIAL FARM (SIR COLE'S QUESTS)
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Exalted Forgementals    ×10  --> /join timeinn (Kill Ezrajal at the Antechamber)
   Exalted Relic Pieces    ×10  --> /join timeinn (Kill The Warden at the Reliquary)
   Exalted Artillery Shards ×10 --> /join timeinn (Kill The Engineer at The Apex)
   Exalted Nodes           ×300 --> /join timeinn (Kill Elementals - same room as Sir Cole)
-╰────────────────────────────────────╯
 
-➡️ Purchase Apostate Alpha and Thaumaturgus Alpha from Sir Cole's Merge shop
+  ➡️ Purchase Apostate Alpha and Thaumaturgus Alpha from Sir Cole's Merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-            PART 2
-╚════════════════════════════════╝
-
-⚔️ INSIGNIA FARM (Daily Quests)
-╭──────── MERGE REQUIREMENTS ────────╮
+📘 PART 2  ·  INSIGNIA FARM (DAILY QUESTS)
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Ezrajal Insignia  ×24  --> /join ultraezrajal (1 per day - Daily quest)
   Warden Insignia   ×24  --> /join ultrawarden (1 per day - Daily quest)
   Engineer Insignia ×16  --> /join ultraengineer (1 per day - Daily quest)
@@ -36,19 +30,19 @@
 
   NOTE: Drakath's and Drago's quests reset on Fridays and reward more Insignias
   Complete all quests as often as possible
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🔁 MERGE ORDER
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Apostate Alpha --> Omega --> Ultima
   Thaumaturgus Alpha --> Omega --> Ultima
   Exalted Unity --> Penultima --> Apotheosis
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ DUAL VERSION
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Ezrajal Insignia  ×14  additional --> /join ultraezrajal
   Warden Insignia   ×14  additional --> /join ultrawarden
   Engineer Insignia ×14  additional --> /join ultraengineer
   NOTE: Retrieve singular version from Buy Back in Account Manager first
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

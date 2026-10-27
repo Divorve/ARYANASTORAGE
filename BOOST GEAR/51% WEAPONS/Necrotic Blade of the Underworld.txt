@@ -1,20 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   NECROTIC BLADE OF
-     THE UNDERWORLD
+                     NECROTIC BLADE OF THE UNDERWORLD
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must be Level 95
+  Must have the following items in inventory:
 
-Must be Level 95
-Must have the following items in inventory:
-
-Underworld Blade of DOOM --> /join Dage --> Kill Dage (Monster)
-Necrotic Sword of Doom (Sword) --> (Refer to 51% WEAPONS channel in OUR server)
+  Underworld Blade of DOOM --> /join Dage --> Kill Dage (Monster)
+  Necrotic Sword of Doom (Sword) --> (Refer to 51% WEAPONS channel in OUR server)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ NECROTIC BLADE OF THE UNDERWORLD
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Legion Token        ×25,000 --> (Refer to ITEMS / LEGION  in OUR server)
   Beast Soul          ×25     --> /join sevencircleswar (Kill "The Beast")
   Dage the Evil Insignia ×5   --> /join ultradage (Complete the weekly quest there)
@@ -28,4 +28,4 @@ Necrotic Sword of Doom (Sword) --> (Refer to 51% WEAPONS channel in OUR server)
       - "Seraphic Medals" Quest
       - "Mega Seraphic Medals" Quest
       - "Seraphic Commanders" Quest
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

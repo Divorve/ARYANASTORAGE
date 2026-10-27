@@ -1,32 +1,32 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-    HOLLOWBORN SWORD
-      OF DOOM (SWORD)
+                     HOLLOWBORN SWORD OF DOOM (SWORD)
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Level 100
+  Rank 10 Evil
+  Sepulchure's DoomKnight Armour (SDKA)
+  Necrotic Sword of Doom (NSoD)
 
-Level 100
-Rank 10 Evil
-Sepulchure's DoomKnight Armour (SDKA)
-Necrotic Sword of Doom (NSoD)
+  Lae's Hardcore Contract + Hollowborn Shadow of Fate (HSoF)
+  --> Complete Classic Hollowborn Paladin Armour guide up to the last quest
 
-Lae's Hardcore Contract + Hollowborn Shadow of Fate (HSoF)
---> Complete Classic Hollowborn Paladin Armour guide up to the last quest
+  Sepulchure's Original Helm
+  --> /join shadowfall --> Speak to Gravelyn --> Select Sepulchure's Helm
+  --> With SDKA in inventory, select Shop and purchase for free
 
-Sepulchure's Original Helm
---> /join shadowfall --> Speak to Gravelyn --> Select Sepulchure's Helm
---> With SDKA in inventory, select Shop and purchase for free
+  Storyline Completion
+  --> Complete all quests from /doomvault > /doomvaultb
+  --> Optional: /noxustower > /lightguardwar > /lumafortress
 
-Storyline Completion
---> Complete all quests from /doomvault > /doomvaultb
---> Optional: /noxustower > /lightguardwar > /lumafortress
-
-➡️ Head to /join hollowdeep --> Accept Lae's Hollowborn DoomKnight quests
+  ➡️ Head to /join hollowdeep --> Accept Lae's Hollowborn DoomKnight quests
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST 1 - A DARK KNIGHT
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Complete until you have 125 Dark Fragments
 
   Shadowworn          ×1   --> /join shadowlordpast (Member) or /join shadowrealm
@@ -35,10 +35,10 @@ Storyline Completion
   Shadowscythe Venom Head ×1 --> /join shadowfall (Gravelyn's Rep shop for 100k Gold)
   Hollow Soul         ×10  --> /join shadowrealm (Kill Hollowborn Sentinels)
                                 OR complete Kasebel's "Specimens" quest at /join shadowrealm
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST 2 - A DARK KNIGHT RISES
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Complete until you have 15 Doom Fragments
 
   Doomatter           ×10  --> /join tercessuinotlim (Buy Receipt of Swindle --> trade for Doomatter)
@@ -49,10 +49,10 @@ Storyline Completion
   Worshipper of Doom  ×1   --> /join lumafortress (Kill Corrupted Luma)
   Ingredients?        ×10  --> /join doomvault (Kill Binky - Group recommended)
   Dark Fragment       ×5   --> Rewarded from "A Dark Knight"
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST 3 - A DARK KNIGHT FALLS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Complete this quest once
 
   Unidentified 25     ×1   --> /join tercessuinotlim via "The Assistant" quest (~1% from Crag, Drudgen, or Swindle)
@@ -62,10 +62,10 @@ Storyline Completion
   Weapon Imprint      ×13  --> /join doomvaultb (Kill Undead Raxgore)
   Dark Fragment       ×20  --> Rewarded from "A Dark Knight"
   Doom Fragment       ×5   --> Rewarded from "A Dark Knight Rises"
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST 4 - A DARK KNIGHT RETURNS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Complete this quest once
   Requires HSoF, NSoD, SDKA, and SOH in inventory to accept
 
@@ -77,4 +77,4 @@ Storyline Completion
   Desolich's Dark Horn ×3  --> /join desolich (Kill Desolich - Group highly recommended)
   Dark Fragment       ×30  --> Rewarded from "A Dark Knight"
   Doom Fragment       ×10  --> Rewarded from "A Dark Knight Rises"
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

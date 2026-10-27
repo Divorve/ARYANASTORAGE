@@ -1,24 +1,21 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-    SIN OF THE UNDERWORLD
+               S I N    O F    T H E    U N D E R W O R L D
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Rank 10 Yokai
+  Must have completed the Atlas storyline
 
-Rank 10 Yokai
-Must have completed the Atlas storyline
+  ➡️ /join Atlasfalls --> Go to Room 5
+  --> Press the Sin of the Undying (Blue-ish sword) top right of the screen
+  --> Accept "Undying Fealty" quest
+╰────────────────────────────────────────────────────────────────────────╯
 
-➡️ /join Atlasfalls --> Go to Room 5
---> Press the Sin of the Undying (Blue-ish sword) top right of the screen
---> Accept "Undying Fealty" quest
-
-╔════════════════════════════════╗
-            PART 1
-╚════════════════════════════════╝
-
-⚔️ UNDYING FEALTY QUEST ITEMS
-╭──────── MERGE REQUIREMENTS ────────╮
+📘 PART 1  ·  UNDYING FEALTY QUEST ITEMS
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Legion Token       ×5,000  --> (Refer to ITEMS / LEGION channel in Library server)
   Broken Chain       ×150    --> /join atlaspromenade (Complete "You and Your Chain" quest)
   Atlas Lion Pelt    ×20     --> /join atlaskingdom (Complete "Inhuman Children of Man" quest)
@@ -27,16 +24,15 @@ Must have completed the Atlas storyline
   Essence of Wrath   ×20     --> /join sevencircleswar (Complete "Wrath Against the Machine" quest)
   Essence of Violence ×20    --> /join sevencircleswar (Complete "Violence Gatekeeper" quest)
   Essence of Treachery ×20   --> /join sevencircleswar (Complete "Hanged for Treason" quest)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-            PART 2
-╚════════════════════════════════╝
-
-➡️ Head to /join ultradage --> Accept "Sin of the Underworld" quest
+📘 PART 2
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join ultradage --> Accept "Sin of the Underworld" quest
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ SIN OF THE UNDERWORLD
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Legion Token              ×25,000 --> (Refer to ITEMS / LEGION channel in Library server)
   Dage the Evil Insignia    ×30     --> /join ultradage (Complete the weekly quest there)
   Undead Champion Blade     ×1      --> /join Underworld (Speak to Dage NPC --> Accept "Legion Exercise Number 1")
@@ -54,4 +50,4 @@ Must have completed the Atlas storyline
     Shadow Katana Blade     ×1      --> /join Underworld (Merge at SoulForge)
     Oni Skull Charm         ×1      --> /join akiba (Hashi Hime Rep Yokai shop)
     Darkened Essence        ×600    --> /join shadowrealmpast (Kill mobs there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

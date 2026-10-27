@@ -1,33 +1,36 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-      EMPOWERED CALADBOLG
-            + DUAL
+          E M P O W E R E D    C A L A D B O L G    +    D U A L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Own Altar of Caladbolg
+    - Buy for 5,000 AC's during Dage's Birthday (March)
+    - OR get from Treasure Chest
 
-Own Altar of Caladbolg
-  - Buy for 5,000 AC's during Dage's Birthday (March)
-  - OR get from Treasure Chest
+  Place Altar of Caladbolg in your house
+  --> Click it
+  --> Accept "Pay Homage to Caladbolg" quest
+  --> /join evilwardage --> Kill Dark Makai in Room 10
 
-Place Altar of Caladbolg in your house
---> Click it
---> Accept "Pay Homage to Caladbolg" quest
---> /join evilwardage --> Kill Dark Makai in Room 10
-
-Obtain both Dual Caladbolgs and Singular Caladbolg
+  Obtain both Dual Caladbolgs and Singular Caladbolg
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ EMPOWERED CALADBOLG
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Legion Token           ×25,000 --> (Refer to Legion Token Guide in ITEMS / LEGION Guides)
   Dage the Evil Insignia ×35     --> /join ultradage (Complete the weekly quest there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ EMPOWERED DUAL CALADBOLGS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Same requirements as above
   Complete the merge a second time for the Dual version
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-➡️ Head to /join ultradage --> Accept "Empowered Caladbolg" quest to complete
+📌 NOTES
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join ultradage --> Accept "Empowered Caladbolg" quest to complete
+╰────────────────────────────────────────────────────────────────────────╯

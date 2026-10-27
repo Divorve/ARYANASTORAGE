@@ -1,39 +1,35 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   NECROTIC SWORD OF
-      DOOM + DUAL - Adrian Was Here
+      N E C R O T I C    S W O R D    O F    D O O M    +    D U A L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Level 60
+  Rank 10 DoomWood
 
-Level 60
-Rank 10 DoomWood
+  Storyline Completion (Required)
+  --> Complete Step 1 of Blinding Light of Destiny
+  --> Complete quests from /maul > /necrotower until you reach Sally
 
-Storyline Completion (Required)
---> Complete Step 1 of Blinding Light of Destiny
---> Complete quests from /maul > /necrotower until you reach Sally
+  Storyline Completion (Recommended)
+  --> Iadoa 13LoC chapter
+  --> Yara's quests from /battleundera > /battleunderb > /battleunderc
 
-Storyline Completion (Recommended)
---> Iadoa 13LoC chapter
---> Yara's quests from /battleundera > /battleunderb > /battleunderc
+  Sepulchure's DoomKnight Armour (Recommended)
+  --> Makes farming Void Auras significantly easier
+  --> Not recommended to farm NSoD without it
 
-Sepulchure's DoomKnight Armour (Recommended)
---> Makes farming Void Auras significantly easier
---> Not recommended to farm NSoD without it
+  Necromancer Rank 10 (Required for Step 2)
+  --> Merge NUE Necronomicon (from Lady Speedstyk's Rep shop at /lightguard)
+      + Creature Shard (from /maul - Kill Creature Creation)
+      at Sally's shop in /necrotower
+  --> Level it to Rank 10 (or purchase for 2k ACs - not recommended)
+╰────────────────────────────────────────────────────────────────────────╯
 
-Necromancer Rank 10 (Required for Step 2)
---> Merge NUE Necronomicon (from Lady Speedstyk's Rep shop at /lightguard)
-    + Creature Shard (from /maul - Kill Creature Creation)
-    at Sally's shop in /necrotower
---> Level it to Rank 10 (or purchase for 2k ACs - not recommended)
-
-╔════════════════════════════════╗
-              STEP 1
-╚════════════════════════════════╝
-
-⚔️ VOID AURA FARM
-╭──────── MERGE REQUIREMENTS ────────╮
+⚔️ STEP 1  ·  VOID AURA FARM
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Void Aura           ×7,500  --> Choose one method below:
 
   METHOD 1: "Commanding Shadow Essences" (Requires SDKA)
@@ -46,10 +42,10 @@ Necromancer Rank 10 (Required for Step 2)
   --> /join shadowfall --> Accept quest from Braeus
   --> Use Fast Travel to reach each boss and collect 20 Essences
   NOTE: Very tedious - consider getting Exalted Apotheosis instead
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚡ VOID AURA DAILIES (Level 75+ required)
-╭──────── MERGE REQUIREMENTS ────────╮
+⚡ VOID AURA DAILIES (LEVEL 75+ REQUIRED)
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   "Glimpse Into The Dark" (Members only) --> /join shadowfall (Braeus NPC)
     Kraken Doubloon           ×13 --> /join chaoskraken (Kill Chaos Kraken with "Keelhaulin' a Kraken" quest)
     Ancient Trigora's Horns   ×3  --> /join ancienttrigoras (Kill Ancient Trigoras)
@@ -59,10 +55,10 @@ Necromancer Rank 10 (Required for Step 2)
     Glacial Pinion    ×1  --> /join icestormarena (Kill Warlord Icewing)
     Hydra Eyeball     ×3  --> /join hydrachallenge (Select Hydra Head 90s from Dew Drop fairy)
     Flibbitigiblets   ×1  --> /join thevoid (Kill Flibbitiestgibbet)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ REMAINING STEP 1 MATERIALS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Barium                    ×4      --> /join necropolis (Artix's "Mine Crafting" quest - Kill Balboa at /stalagbite)
   Cavern Celestite          ×1,600  --> /join battleunderc (Yara's "Soul Searching" quest)
                                         Exit left --> Kill Undead Champion
@@ -75,29 +71,28 @@ Necromancer Rank 10 (Required for Step 2)
   Chaorrupted Hourglass     ×31     --> /join timespace (Kill Chaos Lord Iadoa ~20% drop)
   (Necro) Scroll of Dark Arts ×4   --> /join epicvordred (Kill Ultra Vordred ~1% drop)
   Doom Heart                ×1      --> /join sepulchurebattle (Kill Ultra Sepulchure ~0.5% drop)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-              STEP 2
-╚════════════════════════════════╝
+⚔️ STEP 2
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join shadowfall --> Speak to "Braeus (NPC)"
+  Complete the following merges and quests in order:
 
-➡️ Head to /join shadowfall --> Speak to "Braeus (NPC)"
-Complete the following merges and quests in order:
-
-  1. Merge 4 Barium of Doom
-  2. Merge 52 Bones from the Void Realm
-  3. Merge 3 Time Lord's Necronomicon
-  4. Complete "Find the Doom Blade's Blade"
-  5. Complete "Find the Doom Blade's Hilt"
-  6. Complete "Create the Doom Blade's Aura"
-  7. Complete "Find the Doom Blade's Blade"
-  8. Complete "Find the Doom Blade's Hilt"
-  9. Merge Energised Blade, Hilt, and Aura
-  10. Merge Necrotic Sword's Blade, Hilt, and Aura
-  11. Merge Necrotic Sword of Doom
+    1. Merge 4 Barium of Doom
+    2. Merge 52 Bones from the Void Realm
+    3. Merge 3 Time Lord's Necronomicon
+    4. Complete "Find the Doom Blade's Blade"
+    5. Complete "Find the Doom Blade's Hilt"
+    6. Complete "Create the Doom Blade's Aura"
+    7. Complete "Find the Doom Blade's Blade"
+    8. Complete "Find the Doom Blade's Hilt"
+    9. Merge Energised Blade, Hilt, and Aura
+    10. Merge Necrotic Sword's Blade, Hilt, and Aura
+    11. Merge Necrotic Sword of Doom
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ DUAL VERSION
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Account must be older than 8 years
   --> /join nostalgiaquest --> Merge dual version there
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

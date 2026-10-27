@@ -1,15 +1,18 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       SIN OF THE ABYSS
+                    S I N    O F    T H E    A B Y S S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-⚠️ NOTE: Refer to  ITEMS / NULGATH  in OUR Server for all materials below
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ⚠️ Refer to ITEMS / NULGATH in OUR Server for all materials below
 
-➡️ Head to /join ultranulgath --> Open merge shop
+  ➡️ Head to /join ultranulgath --> Open merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ SIN OF THE ABYSS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Sin of Revontheus (Sword) ×1  --> /join ultranulgath (Complete weekly quest - costs 5 Nulgath Insignias)
   Tainted Gem               ×300
   Dark Crystal Shard        ×200
@@ -18,4 +21,4 @@
   Gem of Nulgath            ×150
   Blood Gem of the Archfiend ×50
   Nulgath Insignia          ×20  --> /join ultranulgath (Complete the weekly quest there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

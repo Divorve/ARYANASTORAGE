@@ -1,17 +1,18 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-          PROVIDENCE
+                           P R O V I D E N C E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Complete Archmage farm --> (Refer to CLASSES / CLASSES-GUIDE channel in OUR server)
 
-Complete Archmage farm --> (Refer to CLASSES / CLASSES-GUIDE channel in OUR server)
-
-➡️ /join archmage --> Speak to "Warlic (NPC)" --> Accept "Lumina Elementi" quest
+  ➡️ /join archmage --> Speak to "Warlic (NPC)" --> Accept "Lumina Elementi" quest
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ PROVIDENCE
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Valiance           ×1      --> (Refer to FORGE ENHANCEMENTS / WEAPON channel in Library server)
   Elysium            ×1      --> (Refer to FORGE ENHANCEMENTS / WEAPON channel in Library server)
   Prismatic Seams    ×2,000  --> /join streamwar (Complete medal quests)
@@ -19,4 +20,4 @@ Complete Archmage farm --> (Refer to CLASSES / CLASSES-GUIDE channel in OUR serv
   Unbound Tome       ×30     --> /join Archmage (Complete "Thaumaturgy" quest)
   Book of Arcana     ×1      --> /join Archmage (Complete "Book of Arcana: Arcane Sigil")
   Elemental Binding  ×2,500  --> /join Archmage (Kill Prismata in Room 2)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

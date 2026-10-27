@@ -1,17 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   NECROTIC SWORD OF
-       THE ABYSS
+        N E C R O T I C    S W O R D    O F    T H E    A B Y S S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-⚠️ NOTE: Refer to  ITEMS / NULGATH  in OUR Server for all materials below
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ⚠️ Refer to ITEMS / NULGATH in OUR Server for all materials below
 
-➡️ Head to /join tercessuinotlim --> Speak to "Void Highlord (NPC)"
---> Accept "Void Highlord's Challenge" quest
+  ➡️ Head to /join tercessuinotlim --> Speak to "Void Highlord (NPC)"
+  --> Accept "Void Highlord's Challenge" quest
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ NECROTIC SWORD OF THE ABYSS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Necrotic Sword of Doom   ×1  --> (Refer to 51% WEAPONS  in OUR server)
   Roentgenium of Nulgath   ×2  --> /join ultranulgath (Complete the weekly quest once for both instantly)
   Void Crystal A           ×1  --> Merge the following:
@@ -24,12 +26,12 @@
     Blood Gem of the Archfiend ×30
     Totem of Nulgath       ×15
     Elders' Blood          ×2
-╰────────────────────────────────────╯
 
-💡 TIP: Farm the 2 Roentgeniums FIRST — you will passively collect Void Crystal reagents as you do so
+  TIP --> 💡 Farm the 2 Roentgeniums FIRST — you will passively collect Void Crystal reagents as you do so
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚡ VOID HIGHLORD'S CHALLENGE REQUIREMENTS
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Aelita's Emerald           ×2
   ArchFiend's Favour         ×300  (×600 total for both runs)
   Black Knight Orb           ×2
@@ -41,4 +43,4 @@
   Nulgath Shaped Chocolate   ×2    (= 4m Gold)
   Tainted Gem                ×100  (×200 total)
   Unidentified 13            ×2
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

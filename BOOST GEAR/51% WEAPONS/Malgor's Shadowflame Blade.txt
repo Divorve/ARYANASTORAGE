@@ -1,15 +1,17 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   MALGOR'S SHADOWFLAME
-         BLADE
+          M A L G O R ' S    S H A D O W F L A M E    B L A D E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join ultraspeaker --> Open merge shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join ultraspeaker --> Open merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 🔥 MALGOR'S SHADOWFLAME BLADE
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Malgor Insignia          ×20 --> /join ultraspeaker (Complete the weekly quest there)
   ShadowFlame Dragon Blade ×1  --> /join manacradle (Kill Malgor in Room 2)
   Elemental Core           ×20 --> /join manacradle (Speak to Tara NPC --> Complete "Once Upon Another Time" quest)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

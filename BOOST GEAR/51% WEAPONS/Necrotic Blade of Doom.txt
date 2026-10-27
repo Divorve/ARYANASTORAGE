@@ -1,22 +1,24 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-    NECROTIC BLADE
-        OF DOOM
+              N E C R O T I C    B L A D E    O F    D O O M
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Head to /join shadowfall --> Speak to "Braeus (NPC)" --> Open merge shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join shadowfall --> Speak to "Braeus (NPC)" --> Open merge shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ NECROTIC BLADE OF DOOM
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Necrotic Sword of Doom  ×1   --> (Refer to 51% WEAPONS GUIDES channel in OUR server)
   Void Aura               ×750 --> (Refer to ITEMS / NULGATH channel in OUR server)
   Void Essentia           ×1   --> /join voidflibbi (Dropped by Flibbitiestgibbet Level 99)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 💀 VOID ESSENTIA ALTERNATIVE
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Void Essence    ×25  --> /join voidflibbi (Kill Flibbitiestgibbet)
   Void Aura       ×75  --> (Refer to ITEMS / NULGATH channel in OUR server)
   Gold            ×750,000
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

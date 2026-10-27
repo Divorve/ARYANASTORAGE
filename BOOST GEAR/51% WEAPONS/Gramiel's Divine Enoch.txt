@@ -1,59 +1,60 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   GRAMIEL'S DIVINE ENOCH - GenesisDragon Was Here
+              G R A M I E L ' S    D I V I N E    E N O C H
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ Start at /join Trygve
-
-📦 Pre-Requirements
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Start at /join Trygve
+╰────────────────────────────────────────────────────────────────────────╯
 
 🏅 STEP I - VINDICATOR BADGE
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Vindicator Badge  ×15  --> /join Trygve
                               Speak to "Lae (NPC)"
                               Accept "Nauthiz" quest
                               (Membership gives double progression)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🏅 STEP II - GRACE ORB
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Grace Orb  ×23  --> /join neofortress
                        Speak to "Lae (NPC)"
                        Accept "Grace Extraction" quest
                        (Membership gives double progression)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🏅 STEP III - VINDICATOR CREST
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Vindicator Crest  ×8  --> /join neotower
                              Speak to "Lae (NPC)"
                              Accept "Mutual Friends" quest
                              (Membership gives double progression)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🏅 STEP IV - GRAMIEL'S EMBLEM
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Gramiel's Emblem  ×28  --> /join Dawnsanctum --> Go to Room 10
                               Kill "Celestial Gramiel" (Monster, Level 52)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP V - GRAMIEL'S SHATTERED ENOCH
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join Dawnsanctum --> Go to Room 10
   Kill "Celestial Gramiel" (Monster, Level 52)
   --> Go to Room 1 --> Speak to "Veronika (NPC)" --> Merge
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP VI - GRAMIEL'S GLORIFIED ENOCH
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join Dawnsanctum --> Go to Room 1
   Speak to "Veronika (NPC)" --> Merge
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ STEP VII - GRAMIEL'S DIVINE ENOCH
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Gold Voucher (500k)  ×40  = 20,000,000 Gold
   --> /join Ultragramiel --> Speak to "Lae (NPC)" --> Open merge shop
   Complete final merge for Gramiel's Divine Enoch
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

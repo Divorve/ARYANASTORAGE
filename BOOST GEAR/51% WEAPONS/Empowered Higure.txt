@@ -1,15 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-        EMPOWERED HIGURE - amarah was here
+                     E M P O W E R E D    H I G U R E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📦 Pre-Requirements
-
-Higure ×1 --> /join Lolosia (Deep Trobble Shop)
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Higure ×1 --> /join Lolosia (Deep Trobble Shop)
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ EMPOWERED HIGURE
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Darkon's Receipt       ×66  --> /join garden (Speak to Darkon NPC --> Complete "Darkon's Second Errand" or "Darkon's Third Errand" quests)
   La's Gratitude         ×66  --> /join Astravia (Speak to La NPC --> Complete "Let Sleeping Dogs Lie" quest)
   Astravian Medal        ×66  --> /join Astraviacastle (Complete "Vanity Project" quest)
@@ -21,6 +22,9 @@ Higure ×1 --> /join Lolosia (Deep Trobble Shop)
   Bounty Hunter Dubloon  ×222 --> /join Lolosia (Reward from Lolosia's Quests)
   King Drago Insignia    ×20  --> /join Ultradrago
   Darkon Insignia        ×20  --> /join Ultradarkon
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-➡️ Head to /join Ultradarkon --> Complete the merge for Empowered Higure
+📌 NOTES
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ Head to /join Ultradarkon --> Complete the merge for Empowered Higure
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,23 +1,25 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  STAR LIGHT OF THE
-   EMPYREAN + DUAL
+                    STAR LIGHT OF THE EMPYREAN + DUAL
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-➡️ /join Astralshrine --> Speak to "Empress Ai No Miko (NPC)"
---> Open Nova Shrine Gifts Shop
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  ➡️ /join Astralshrine --> Speak to "Empress Ai No Miko (NPC)"
+  --> Open Nova Shrine Gifts Shop
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⭐ STAR LIGHT OF THE EMPYREAN
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Star Light of Destiny  ×1   --> (Refer to 75% WEAPONS in OUR server)
   Star of the Empyrean   ×7   --> /join astralshrine (Complete the daily quest there)
   Star Piece             ×250 --> /join Starfield (Dropped by all monsters there)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🌟 DUAL STAR LIGHT OF THE EMPYREAN
-╭──────── MERGE REQUIREMENTS ────────╮
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Star Light(s) of Destiny ×1
   Star of the Empyrean     ×7
   Star Piece               ×250
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
