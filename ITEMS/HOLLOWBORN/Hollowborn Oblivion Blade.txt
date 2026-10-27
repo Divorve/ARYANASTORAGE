@@ -1,43 +1,43 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  HOLLOWBORN OBLIVION BLADE
+           H O L L O W B O R N    O B L I V I O N    B L A D E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 80
 
   ArchFiend Enchanted Orbs (merge before starting main quest):
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Diamond of Nulgath     ×150    --> See Reagent Library
     Unidentified 25        ×1      --> See Reagent Library
     Unidentified 13        ×1      --> See Reagent Library
     Voucher of Nulgath (non-mem) ×1 --> See Reagent Library
     Blood Gem of the ArchFiend ×10 --> See Reagent Library
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   Then complete Lae's "Let's Make a Deal" quest at /join tercessuinotlim:
   --> Defeat Inquisitor Guards at /join citadel for ×100 Fresh Souls (stacks to 350)
   --> Accept Uni 36 drops too (stacks to 3)
   --> Merge the ArchFiend Enchanted Orbs in Lae's shop
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST
-╭──────── Lae's "Summoning and Stuff" quest from /join tercessuinotlim ────────╮
+╭───── Lae's "Summoning and Stuff" quest from /join tercessuinotlim ─────╮
   ⚠️ Requires another Voucher of Nulgath (non-mem) to accept
 
   From Reagent Library:
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Unidentified 13        ×1
     Diamond of Nulgath     ×500
     Unidentified 25        ×1
     ArchFiend's Favour     ×1,000
     Blood Gem of the ArchFiend ×50
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   Additional reagents:
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Diabolical Minion's Seed        --> /join lostruinswar (Kill Diabolical Warlord — end of map)
     4th Dimension Gem               --> Complete Anubyx's "Bring the Pain" quest
                                        Kill enemies at /join blackholesun
@@ -51,5 +51,5 @@
     Fresh Soul             ×350 &
     Unidentified 36        ×1      --> Complete Lae's "Let's Make a Deal" quest
                                        Kill Inquisitor Guards at /join citadel
-  ╰──────────────────────────────────╯
-╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

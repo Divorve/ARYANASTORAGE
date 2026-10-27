@@ -1,15 +1,15 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-        HOLLOW SOUL
+                          H O L L O W    S O U L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚔️ FARMING METHODS
-╭──────── METHOD 1 ────────╮
+╭─────────────────────────────── METHOD 1 ───────────────────────────────╮
   /join dawnsanctum --> Speak to Veronika (NPC)
   --> Accept "Nauthiz-realized" quest
   💡 Legend version gives double the Hollow Souls per turn-in
-╰──────── METHOD 2 ────────╮
+╰─────────────────────────────── METHOD 2 ───────────────────────────────╮
   /join hbchallenge --> Speak to Vici (NPC)
   --> Accept "Vile Valdostana" quest
   --> Requires a party
@@ -22,4 +22,4 @@
 
   Recommended supports:
   LoO · LR · AF · VDK · QCM · AP · LH · FB · SC
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

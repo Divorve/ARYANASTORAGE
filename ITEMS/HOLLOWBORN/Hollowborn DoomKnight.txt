@@ -1,12 +1,11 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   HOLLOWBORN DOOMKNIGHT
-          (HBDK)
+        H O L L O W B O R N    D O O M K N I G H T    ( H B D K )
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 100
   Rank 10 Evil
   Sepulchure's DoomKnight Armour (SDKA)
@@ -24,13 +23,12 @@
   --> Complete all quests from /join doomvault > /join doomvaultb
   --> Optional (but recommended): /join noxustower > /join lightguardwar
       > /join lumafortress (can /goto someone but better to have done it yourself)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── Complete Lae's quests from /join hollowdeep ────────╮
-
+╭───────────── Complete Lae's quests from /join hollowdeep ──────────────╮
   1. "A Dark Knight"  (repeat until ×125 Dark Fragments)
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Shadowworn             ×1      --> (Member) /join shadowlordpast (Kill Shadow Lord)
                                        (Non-Mem) /join shadowrealm (Kill Shadow Lord)
                                        ⚠️ To access as non-member: complete "Key to the ShadowLord"
@@ -50,10 +48,10 @@
                                        Kill Shadow Makai, Shadow Living Fire, and Creeping Shadows
                                        Walk top-left from starting screen — next 2 screens left of
                                        portal have all 3 enemy types
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   2. "A Dark Knight Rises"  (repeat until ×15 Doom Fragments)
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Doomatter              ×10     --> Buy Receipt of Swindle from Swindle's Ripoff Emporium
                                        at /join tercessuinotlim and trade for ×10
                                        (Member) OR kill Fear Feeder at end of /join creepy
@@ -78,10 +76,10 @@
                                        If member, can farm /join ultracarnax instead
 
     Dark Fragment          ×5      --> Rewarded from Quest 1
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   3. "A Dark Knight Falls"  (complete ×1)
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Unidentified 25        ×1
     Option A (1% drop): Farm "The Assistant" quest
     --> Defeat Crag & Bamboozle, Drudgen, or Swindle
@@ -106,10 +104,10 @@
 
     Dark Fragment          ×20     --> Rewarded from Quest 1
     Doom Fragment          ×5      --> Rewarded from Quest 2
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   4. "A Dark Knight Returns"  (complete ×1)
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     ⚠️ Must have HSoF, NSoD, SDKA, and SOH in inventory to accept
 
     Dark Energy            ×10,000 --> /join dwarfhold (Kill Chaos Drow — walk left)
@@ -133,5 +131,5 @@
 
     Dark Fragment          ×30     --> Rewarded from Quest 1
     Doom Fragment          ×10     --> Rewarded from Quest 2
-  ╰──────────────────────────────────╯
-╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

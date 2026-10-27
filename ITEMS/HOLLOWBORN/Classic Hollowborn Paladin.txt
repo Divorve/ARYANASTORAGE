@@ -1,12 +1,11 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-     CLASSIC HOLLOWBORN
-        PALADIN ARMOR
+    C L A S S I C    H O L L O W B O R N    P A L A D I N    A R M O R
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 100
   Rank 10 Good
   Rank 6 DoomWood
@@ -21,7 +20,7 @@
 
   Lae's Hardcore Contract:
   --> Complete Lae's "Now We're Talking!" quest at /join hollowdeep
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Soul Potion            ×1      --> /join alchemy (Alchemy minigame — do NOT use Dragon Runestone)
                                        Need ~×10 each: Arashtite Ore + Dried Slime
                                        (Farm at /join orecavern, or buy Chaoroot + Necrot
@@ -32,15 +31,15 @@
                                        If not: stop at gate for 2 Lightguards + Wolf
     Fallen Soul            ×13     --> /join doomwood (Kill Undead Paladin)
                                        Go left from Arryd then follow the bottom-right path
-  ╰──────────────────────────────────╯
-╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── Complete Lae's quests from /join hollowdeep ────────╮
+╭───────────── Complete Lae's quests from /join hollowdeep ──────────────╮
   ⚠️ Each quest requires the previous quest's reward to accept
 
   1. "Let's Get You a Suit"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Sparrow's Blood        ×1      --> Complete "Experiment 231: Sparrow Blood Potion"
                                        from Reens at /join arcangrove
                                        (Go up tower > blue portal at bottom-right)
@@ -56,10 +55,10 @@
     Condensed Mana         ×1      --> /join timevoid (Kill Unending Avatar)
                                        Select Timevoid from Braeus' Fast Travel at /join shadowfall
     Human Soul             ×200    --> /join noxustower (see Pre-Requirements for directions)
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   2. "I Got Your Back (and Your Top)"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Templar's Helm of Light         --> Purchase from Artix's DoomWood shop at /join necropolis
     Destiny Cloak                   --> Purchase from Artix's DoomWood II Rep shop at /join necropolis
     Dark Aura Gem                   --> Purchase Silver Victory Blade from Loot Chest at /join river
@@ -74,10 +73,10 @@
     Cryptkeeper Lich's Head         --> /join temple (Kill Cryptkeeper Lich)
                                        Complete quests on each level or /goto someone
     Human Soul             ×200    --> /join noxustower
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   3. "The Dark Sacrifice"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     ⚠️ Also requires Ascended Light of Destiny (see Pre-Requirements)
 
     Unidentified 25        ×1
@@ -114,12 +113,12 @@
                               then return to /join artixpointe (walk left to well > back to Artix)
 
     Human Soul             ×300    --> /join noxustower
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   4. "The Post Summoning"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Shadow Seal            ×1      --> /join shadowblast (Kill Nation enemies)
                                        From starting room: walk up > right > up
     Human Soul             ×50     --> /join noxustower
-  ╰──────────────────────────────────╯
-╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

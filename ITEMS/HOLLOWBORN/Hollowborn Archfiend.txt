@@ -1,26 +1,25 @@
-╔════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-           HOLLOWBORN ARCHFIEND &
-          LEGACY OF NULGATH ARMOR
+              HOLLOWBORN ARCHFIEND & LEGACY OF NULGATH ARMOR
 
-╚════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📖 TABLE OF CONTENTS
-╭──────────────────────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   1. In the Fiend's Shadow  ......... Quest 1/5
   2. Fiend's Purgatory      ......... Quest 2/5
   3. Muddled Past           ......... Quest 3/5
   4. Tug and Pull           ......... Quest 4/5
   5. Roles Unreverse        ......... Quest 5/5
-╰──────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   /join hollowdeep to start quest
-╰──────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🎒 REQUIRED ITEMS FOR PRE-REQUIREMENTS
-╭──────────────────────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   - Lae's Hardcore Contract          (Quest 1 & Quest 5)
   - DragonFire of Nulgath            (Quest 2)
   - Crimson Plate of Nulgath         (Quest 2)
@@ -33,20 +32,19 @@
   - Nulgath Armor                    (Quest 4)
   - Nulgath House Guest              (Quest 4)
   - BattleFiend Blade of Nulgath     (Quest 4)
-╰──────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🔑 LEGEND
-╭──────────────────────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   ⚔️  Kill drop      💰 Purchase
   🎲 Wheel of Chance  🔄 Merge / Trade
   🎒 Required Item (must be in inventory)
-╰──────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── Complete quests from /join hollowdeep ────────╮
-
+╭──────────────── Complete quests from /join hollowdeep ─────────────────╮
   1. "In the Fiend's Shadow"          [■░░░░]  ⏱️ Long farm — repeat ×15
-  ╭──────────────────────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     🎒 Required to start:
        - Lae's Hardcore Contract
 
@@ -61,10 +59,10 @@
                                                    (select Totems of Nulgath)
     ⚔️ Hollow Soul          ×50 (×750 total)  --> /join hbchallenge
                                                    Kill The DarkDweller (best boss to kill)
-  ╰──────────────────────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   2. "Fiend's Purgatory"              [■■░░░]  ⏱️ Medium — group required
-  ╭──────────────────────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     🎒 Required to start (must have completed previous quest):
        - DragonFire of Nulgath
        - Crimson Plate of Nulgath
@@ -80,10 +78,10 @@
                                        Kill Salek Sprayer (Level 80)
     ⚔️ Sarah's Souvenir       ×1  --> /join voidnerfkitten
                                        Kill Sarah The NerfKitten (Version 1)
-  ╰──────────────────────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   3. "Muddled Past"                   [■■■░░]  ⏱️ Long farm — Wheel of Chance grind
-  ╭──────────────────────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     🎒 Required to start (must have completed previous quest):
        - Hollowborn Oblivion Blade
 
@@ -103,10 +101,10 @@
                                              Kill Nulgath (or Dark Makai if solo)
        ⚔️ Nulgath's Approval             --> /join evilwardage (Kill monsters in room 3+)
        ⚔️ Letter from Asuka and Tendou   --> /join citadel (Kill Burning Witch)
-  ╰──────────────────────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   4. "Tug and Pull" (Hollowborn Legacy of Nulgath)   [■■■■░]  ⏱️ Medium — Insignia trades
-  ╭──────────────────────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     🎒 Required to start (must have completed previous quest):
        - Nulgath Armor
        - Nulgath House Guest
@@ -119,10 +117,10 @@
                                               Trade 20 Nulgath Insignia for 8 (x4)
     🔄 The Mortal Coil                ×1   --> /join ultranulgath
                                               Trade 4 Nulgath Insignia for 1
-  ╰──────────────────────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   5. "Roles Unreverse" (Hollowborn Archfiend)        [■■■■■]  ⏱️ Quick — repeatable turn-in
-  ╭──────────────────────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     🎒 Required to start (must have completed previous quest):
        - Lae's Hardcore Contract
 
@@ -140,5 +138,5 @@
         Inquisitor Guard (Level 12)
       Rewards: 0 Gold, 500 Exp
       Items: Fresh Soul (AC) ×10, Unidentified 36 (AC) ×1
-  ╰──────────────────────────────────────────────────╯
-╰──────────────────────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
