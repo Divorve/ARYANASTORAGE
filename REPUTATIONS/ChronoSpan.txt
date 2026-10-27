@@ -1,21 +1,21 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         CHRONO SPAN
+                          C H R O N O    S P A N
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Thief of Hours
   Items --> Step 5 of J6 Story
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete Iadoa's 13LoC chapter (Map > Story)
   --> /join thespan > /join timelibrary > /join timevoid > /join aqlesson
       > /join dflesson > /join mqlesson > /join deepchaos > /join timespace
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Complete Malorie's "ChronoSpan Membership Dues" quest from /join collection
      ⚠️ NOTE: This quest gives 15k Rep for this faction (normally 5k)
 
@@ -37,7 +37,7 @@
      Get a Dragonoid of Hours from Dragonoid at /join mqlesson — disables
      Iadoa's Astral Shift (just keep it in inventory, no need to equip)
      This quest also rewards a character page badge
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   Option 1: Complete Mince's "Do the 'do" quest from /join thespan
   --> From Warlic (start of map): walk left > up > left > up to reach Mince
   --> Defeat the Moglin Ghost outside Mince's shop
@@ -46,4 +46,4 @@
   Option 2: Complete Kairos' "Time is running out..." quest from /join portalwar
   --> Defeat Tempus Larvae in the same map
   --> Use the screen upwards from the fountain and Neverborn (no moving around needed)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

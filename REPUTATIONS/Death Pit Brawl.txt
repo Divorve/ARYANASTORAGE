@@ -1,19 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       DEATH PIT BRAWL
+                     D E A T H    P I T    B R A W L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Cosmetics Only
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete General Velm's quests at /join deathpit first
   ⚠️ NOTE: Required to access General Hun'Gar's quests at /join deathpitarena
-╰──────── MEMBER + NON-MEM ────────╮
+╰─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   1. Accept General Hun'Gar's "Do You Even Brawl" quest from /join deathpitarena
   2. Defeat enemies from the opposing team at /join deathpitbrawl
      ⚠️ NOTE: This quest can only be done once — farm the below quests after
@@ -26,4 +26,4 @@
   "Destroy For Hun'Gar"
   --> Also defeat the enemy's General
       Requires a strong soloing class
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

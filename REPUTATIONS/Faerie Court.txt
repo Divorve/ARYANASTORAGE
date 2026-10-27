@@ -1,27 +1,27 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-        FAERIE COURT
+                         F A E R I E    C O U R T
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Cosmetics Only
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
-  Rank 1–4
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
+  [ Rank 1–4 ]
   Accept Shamrock Fairy's "Gain the Sight" quest from /join faegrove
   --> Defeat Lucky Harms at /join rainbow (follow the rainbow path to find him)
 
-  Rank 5–7
+  [ Rank 5–7 ]
   Accept Shamrock Fairy's "Oak for Luck and Joy" quest from /join faegrove
   --> Defeat Acornents near the end of the same map
 
-  Rank 8–10
+  [ Rank 8–10 ]
   Go through the right door from the Acornents
   ⚠️ NOTE: If it won't let you enter, leave and come back to this room
   Complete the stone's "Future Sight" quest
   --> Defeat Dark Sylphdrakes (2 in the same room near the start of the map)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

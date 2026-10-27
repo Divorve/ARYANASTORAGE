@@ -1,18 +1,17 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         ARCANGROVE
+                           A R C A N G R O V E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Classes  --> Shaman, Evolved Shaman, StoneCrusher
   Items    --> EVA, AFDL
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
-
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete Mount Mafic Flame's Quest from /join mafic (Legend)
   --> Click the flame on Screen 5 (enter the cave --> enter 3rd room from the left)
   --> Defeat Mafic Dragon --> Collect Burning Heart ×1
@@ -21,7 +20,7 @@
   Complete Ledgermayne's 13LoC chapter (Map > Story)
   --> /join arcangrove > /join cloister > /join mudluk > /join natatorium
       > /join gilead > /join mafic > /join elemental > /join ledgermayne
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Complete Malorie's "Arcangrove Membership Dues" quest from /join collection
   2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
   3. Join /join collectorlab and defeat enemies there
@@ -34,7 +33,7 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   Accept the following quests from /join arcangrove:
   --> Rayst's "A Necessary Sacrifice"
   --> Blakk's "Thistle Do Nicely"
@@ -45,10 +44,10 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── DAILIES ────────╮
+╰─────────────────────────────── DAILIES ────────────────────────────────╮
   Complete Reens' "Experiment 107: Elder's Blood Potion" quest from /join arcangrove
   --> Defeat Gorillaphants
   --> Rewards Elders' Blood (used for Void Highlord)
 
   ⚠️ NOTE: Other daily quests are not worth the effort
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,12 +1,12 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   NECRO CRYPT
+                          N E C R O    C R Y P T
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚔️ QUEST
-╭──────── "Help Professor Mueran" from Mueran (NPC) @ /join dragonrune ────────╮
+╭───── "Help Professor Mueran" from Mueran (NPC) @ /join dragonrune ─────╮
   /join shadowfall
   --> Navigate: up > middle-right > right > middle-up
   --> Defeat enemies in that room
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

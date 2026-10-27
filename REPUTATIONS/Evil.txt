@@ -1,28 +1,28 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-           EVIL
+                                 E V I L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Classes --> Legion Revenant, DoomKnight
   Items   --> EVA, SDKA, VAS, ADK, AFDL, NSoD, HDK, Awe-scension
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Obtain Nation items with Nulgath Larvae
   Complete Travon's quests at /join mobius
 
   ⚠️ NOTE: Gravelyn's quests require Evil alignment
      Change from Good to Evil by turning in a Contract
      (buy for 100k Gold from Gravelyn)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER ────────╮
-  Rank 1–3
+╭──────────────────────────────── MEMBER ────────────────────────────────╮
+  [ Rank 1–3 ]
   Complete Gravelyn's "Dangerous Decor" quest from /join shadowfall
   --> Defeat Chairs, Tables, and the Bookcase at /join sleuthhound
       Walk into the house > up the stairs > left (Table and Chair are here)
@@ -32,11 +32,11 @@
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
 
-  Rank 4–10
+  [ Rank 4–10 ]
   Complete Gravelyn's "Bone-afide" quest
   --> Defeat Skeletal Warriors and Vikings at /join castleundead
-╰──────── NON-MEM ────────╮
-  Rank 1–3
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
+  [ Rank 1–3 ]
   Complete Gravelyn's "Youthanize" quest from /join shadowfall
   --> Defeat green Slimes at /join swordhavenbridge
   --> Quick access to Gravelyn: /join shadowvoid then go left to exit the map
@@ -44,10 +44,10 @@
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
 
-  Rank 4–10
+  [ Rank 4–10 ]
   Complete Gravelyn's "Bone-afide" quest
   --> Defeat Skeletal Warriors and Vikings at /join castleundead
-╰──────── DAILIES — MEMBER ────────╮
+╰─────────────────────────── DAILIES — MEMBER ───────────────────────────╮
   Complete Gravelyn's "Slithering Shadows" quest from /join shadowfall
   --> Defeat Shadow Serpents at /join bludrut4
   --> Also rewards Shadow Skulls — ×30 can be merged for DeathKnight Lord
@@ -61,7 +61,7 @@
   Complete Knave1's "Become the Desterrat Moya (daily)" quest from /join banished
   --> Defeat the Desterrat Cruor and Crux in the same map
   ⚠️ NOTE: Requires completing his previous quests to access
-╰──────── DAILIES — NON-MEM ────────╮
+╰────────────────────────── DAILIES — NON-MEM ───────────────────────────╮
   Complete Gravelyn's "Inquisitor Inquiry" quest from /join shadowfall
   --> Defeat Inquisitor Guards at /join citadel
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

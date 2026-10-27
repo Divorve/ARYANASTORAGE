@@ -1,16 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         DREADROCK
+                            D R E A D R O C K
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Cosmetics Only
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Accept the following quests from the Quest Board at /join dreadrock
   (located left of Kaiser Vance in the 2nd room):
 
@@ -39,7 +39,7 @@
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
 
-  ─────────────────────────────────
+  [ ─ ]
   GOLD METHOD (skip the grind):
 
   1. Accept "Make a Donation" from the Quest Board at /join dreadrock
@@ -52,4 +52,4 @@
     + Active server boost on top:       ~25m Gold
 
   💡 Check when server boosts occur at the usual community resources
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

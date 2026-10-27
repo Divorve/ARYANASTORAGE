@@ -1,25 +1,25 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         RAVENLOSS
+                            R A V E N L O S S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Arachnomancer
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the storyline:
   --> /join twilightedge > /join weaverwar > /join ravenloss
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   Complete Riadne's "Impress the Arachnomancer" quest from /join ravenloss
   (Click Why We're Here > Arachnomancer Class? > Legend Rep Quest)
   --> Defeat Chaosweaver Mages at /join weaverwar (select Cleanse Firestorm)
   ⚠️ NOTE: Requires completing the storyline from /join twilightedge > /join weaverwar
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   Complete Riadne's "Slay the Spiderkin" quest from /join twilightedge
   --> Defeat Chaosweaver Mages at /join weaverwar (select Cleanse Firestorm)
   ⚠️ NOTE: Requires completing the storyline from /join twilightedge > /join weaverwar
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

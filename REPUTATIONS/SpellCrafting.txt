@@ -1,20 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       SPELL CRAFTING
+                       S P E L L    C R A F T I N G
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📖 OVERVIEW
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   SpellCrafting is located at /join dragonrune
   Talk to Neveya behind the 4th door (blue rune)
   Complete "You'll need a Spellbook!" to get started:
   --> Click the blue arrows in the room behind you
   --> Defeat Skeletal Warriors at /join castleundead
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🌿 REAGENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Arcane Quills      --> Purchase from Neveya with Gold Vouchers (easiest method)
 
   If not spending Gold, obtain the following instead:
@@ -35,10 +35,10 @@
   Once you have the scroll you want to make, merge the correct ink
   then join /join spellcraft
   Combinations for each scroll can be found on the AQW Wiki
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📜 USEFUL SCROLLS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Scroll of Ethereal Slumber  --> Used for ArchPaladin
                                   Use Archmage Ink
 
@@ -49,10 +49,10 @@
                                   Use Zealous Ink
 
   ⚠️ NOTE: Do NOT use scrolls in combat — use Alchemy consumables instead
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⬆️ RANKING UP
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   1. Purchase from Neveya's Buy Arcane Quills shop:
      --> ×2 Gold Voucher 500k
      --> ×8 Gold Voucher 100k
@@ -63,4 +63,4 @@
   4. /join spellcraft > press Begin > choose Entropic Ink
   5. Drag each matching symbol from the left into the corresponding slot
   6. Repeat until Rank 10
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

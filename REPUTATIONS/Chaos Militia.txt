@@ -1,23 +1,23 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         CHAOS MILITIA
+                        C H A O S    M I L I T I A
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Item --> Empowered Chaos Avenger's Greatsword
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   1. Complete the 13LoC story
   2. Complete the storyline from:
      --> /join shadowwar > /join dualplane
      --> /join forestreach > /join deepforest > /join transformation > /join downbelow
-╰──────── MEMBER + NON-MEM ────────╮
+╰─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Complete Iaste's "Expect the Inquisitors" quest from /join crownsreach
   --> Defeat Inquisitor Guards at /join citadel
 
   ⚠️ NOTE: Requires Rank 10 Chaos to see this quest
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

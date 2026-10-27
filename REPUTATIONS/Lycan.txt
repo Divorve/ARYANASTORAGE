@@ -1,16 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-           LYCAN
+                                L Y C A N
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Lycan
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER ────────╮
+╭──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Complete Malorie's "Lycan Membership Dues" quest from /join collection
   2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
   3. Join /join collectorlab and defeat enemies there
@@ -23,7 +23,7 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   Very low level:
   --> Farm Faopaw's "Bats of a Leather Flock Together" quest from /join lycan
   --> Defeat Leatherwings at /join pines (walk down > right to find 2 alone)
@@ -40,4 +40,4 @@
 
   If you already have Rank 10 Loremaster:
   --> Only farm "Sanguine" from Constantin at /join lycan
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

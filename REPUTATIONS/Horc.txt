@@ -1,22 +1,22 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-           HORC
+                                 H O R C
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Horc Evader
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete Khasaanda's Horc 13LoC chapter (Map > Story)
   ⚠️ NOTE: Ensure you are doing the Horc version
   --> /join crossroads > /join bloodtusk > /join bloodtuskwar
       > /join ravinetemple > /join alliance > /join ancienttemple
       > /join orecavern > /join dreamnexus
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Complete Malorie's "Horc Membership Dues" quest from /join collection
   2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
   3. Join /join collectorlab and defeat enemies there
@@ -29,11 +29,11 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   Complete Kagg's "Zot Gives Peace" quest at /join bloodtuskwar
   --> Defeat the Tigriff, Rhison, and Vulture in the left room
-╰──────── DAILIES — MEMBER ONLY ────────╮
+╰──────────────────────── DAILIES — MEMBER ONLY ─────────────────────────╮
   Complete Sput's "Hunter Gatherers" quest from /join bloodtusk
   --> Defeat the Rhison and Vulture ×5 each
   --> Walk down and defeat the Horc Boar Scout, Vulture, and Trollola Plants
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

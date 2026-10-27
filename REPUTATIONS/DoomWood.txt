@@ -1,17 +1,17 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         DOOMWOOD
+                             D O O M W O O D
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Classes --> UndeadSlayer, DeathKnight, Blaze Binder
   Items   --> NSoD, ENNH, EVA, CHPA
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the DoomWood storyline:
   --> /join lightguard > /join doomwood > /join maul > /join necrotower
       > /join necrou > /join temple > /join shadowfallwar > /join lab
@@ -27,7 +27,7 @@
       > /join stonewooddeep > /join techfortress
 
   Obtain BLoD and SDKA (if member)
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   👥 GROUP: Complete GrimDawn/Dusk's "Executive Doom OverLord Challenge"
   quest from /join necrodungeon
   --> Defeat the Doom Overlord in the same map
@@ -37,7 +37,7 @@
   --> Defeat the Dark Dracozombie in the same map
   ⚠️ NOTE: Requires completing Yulgar's previous quests and keeping the reward
      Previous quest enemies are at: /join templeb > /join battleunderb > /join doomwar
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   👥 GROUP: Complete GrimDawn/Dusk's "Doom OverLord Challenge"
   quest from /join necrodungeon
   --> Defeat the Doom Overlord in the same map
@@ -51,10 +51,10 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── DAILIES ────────╮
+╰─────────────────────────────── DAILIES ────────────────────────────────╮
   From /join necropolis:
   --> Artix's "Mine Crafting" quest (Member + Non-Mem)
   --> Vayle's "Hard Core Metals" quest (Member only)
   Defeat Balboa at /join stalagbite
   Rewards metals used for BLoD, SDKA, and NSoD
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

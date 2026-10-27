@@ -1,19 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-          GLACERA
+                              G L A C E R A
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Glacial Berserker
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the storyline:
   --> /join icewindpass > /join icewindwar > /join icepike
-╰──────── MEMBER + NON-MEM ────────╮
+╰─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Multi-target class (e.g. Eternal Inversionist — 6 targets):
   --> Complete Syrrus' "Free the Moglins" quest at /join icepike
       Defeat Frozen Moglins (enemies are near the end of the map)
@@ -27,4 +27,4 @@
 
   👥 STRONG GROUP: Complete Syrrus' "Take down Kezeroth!" quest
   --> Defeat Chained Kezeroth near the end of the map — faster than solo methods
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

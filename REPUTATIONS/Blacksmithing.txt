@@ -1,16 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         BLACKSMITHING
+                        B L A C K S M I T H I N G
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Forge Enhancements
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Accept the following quests from Cysero at /join yulgar (upstairs bathroom):
   --> "Volatile Temper Agent for Blacksmithing"
   --> "Glowing Temper Agent for Blacksmithing"
@@ -20,11 +20,11 @@
   at the /join alchemy minigame
   See the Alchemy guide if you're unfamiliar with the reagents or minigame
 
-  ─────────────────────────────────
+  [ ─ ]
   Alternative (no Alchemy):
 
   1. Complete Warlic's and Cysero's quests from /join battleontown > /join downward
   2. Complete Cysero's "Magic Sock it To You" quest from /join battleontown
      --> Defeat Slimes at /join swordhavenbridge
      --> Defeat Wolves at /join greenguardeast
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

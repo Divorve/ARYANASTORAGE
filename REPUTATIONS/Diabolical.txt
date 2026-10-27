@@ -1,19 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         DIABOLICAL
+                           D I A B O L I C A L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Cosmetics Only
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Choose your method:
 
-  ─────────────────────────────────
+  [ ─ ]
   METHOD 1: Hikari's Riddle Task quests from /join banished
   (Faster per run, but requires ~3× more turn-ins)
 
@@ -39,7 +39,7 @@
   Desterrat Moya         --> /join banished
                              If not accessible: complete Knave1's quests in same map
 
-  ─────────────────────────────────
+  [ ─ ]
   METHOD 2: Hikari's Diabolical quests from /join banished
   (Slower per run, but fewer turn-ins — better for lower level players)
 
@@ -57,4 +57,4 @@
                              (/goto someone OR complete quests from /join aozorahills
                              > /join ghostnexus)
   Dream Larva            --> /join somnia (walk up ×2 from starting screen — no room with 2)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

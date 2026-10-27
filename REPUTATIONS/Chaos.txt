@@ -1,17 +1,17 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         CHAOS
+                                C H A O S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Chaos Slayer
   Item  --> ENNH
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Complete Loremaster Maya's "Embrace Your Chaos" quest from /join mountdoomskull
   --> Defeat enemies in the same map
   --> Most efficient screen: walk until you reach 2 Chaorrupted Rogues
@@ -19,6 +19,6 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── DAILIES — MEMBER + NON-MEM ────────╮
+╰────────────────────── DAILIES — MEMBER + NON-MEM ──────────────────────╮
   Complete the daily version of the above quest in the same manner
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,35 +1,35 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-           GOOD
+                                 G O O D
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Classes --> ArchPaladin, (Classic) Paladin
   Item    --> CHPA
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Complete the storyline from /join manor > /join poisonforest
   Complete Saa'thel's quests at /join mobius
 
   ⚠️ NOTE: Alteon's quests require Good alignment
      Change from Evil to Good by turning in a Contract
      (buy for 100k Gold from Alteon)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER ────────╮
+╭──────────────────────────────── MEMBER ────────────────────────────────╮
   Complete Alteon's "Rumble With Grumble" quest from /join castle
   (keep walking upwards to find him)
   --> Defeat Grumble at /join sewer
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── NON-MEM ────────╮
-  Rank 1–3
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
+  [ Rank 1–3 ]
   Complete Alteon's "That Hero Who Chases Slimes" quest from /join castle
   (keep walking upwards to find him)
   --> Defeat green Slimes at /join swordhavenbridge
@@ -37,7 +37,7 @@
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
 
-  Rank 4–10
+  [ Rank 4–10 ]
   Complete Alteon's "Tomb With A View" quest
   --> Defeat Skeletal Warriors and Vikings at /join castleundead
   ⚠️ NOTE: Much faster than farming any quests at /join poisonforest
@@ -45,7 +45,7 @@
   If you don't yet have the Burning Blade weapon:
   --> Complete quests from /join celestialrealm > /join lostruins > /join lostruinswar
   --> Then farm Aranx's "Defeat the Diabolical Warlord!" quest at /join lostruinswar
-╰──────── DAILIES — MEMBER ────────╮
+╰─────────────────────────── DAILIES — MEMBER ───────────────────────────╮
   Complete Alteon's "Brace-r Yourself!" quest from /join castle
   (keep walking upwards to find him)
   --> Defeat Cyclops Raiders at /join mobius
@@ -56,9 +56,9 @@
   Complete Knave1's "Prevent the Return (daily)" quest from /join banished
   --> Defeat Doomwood Soldiers and Ectomancers at /join doomwood
   ⚠️ NOTE: Requires completing his previous quests to access
-╰──────── DAILIES — NON-MEM ────────╮
+╰────────────────────────── DAILIES — NON-MEM ───────────────────────────╮
   Complete Alteon's "Battle Under Battleon" quest from /join castle
   (keep walking upwards to find him)
   --> Defeat Skeletal Warriors and Skeletal Vikings at /join castleundead
   --> Complete alongside "Tomb With A View"
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

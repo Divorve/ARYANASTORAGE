@@ -1,20 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       THUNDER FORGE
+                        T H U N D E R    F O R G E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Darkblood Stormking
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete LionFang's 13LoC chapter (Map > Story)
   --> /join blackhorn > /join onslaughttower > /join falguard
       > /join deathpits > /join venomvaults > /join stormtemple
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Accept Logash's quests from /join deathpits:
      --> "Rotstone Daggers"
      --> "Logash's Line"
@@ -22,7 +22,7 @@
   2. Go down the ladder to the left
   3. Farm the 3 Rotting Darkbloods
   4. Turn in each quest as you get the drop
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   Complete Sir Valence's "You've Been Noticed" quest at /join venomvaults
   --> Keep walking left until you find 2 Chaonslaught Casters and farm them
 
@@ -35,4 +35,4 @@
   --> Farm Wrathful Vestis (quick access: press the downward arrow at top-right)
   ⚠️ NOTE: The Chaos Eye is not a guaranteed drop — if RNG is bad,
      the /join venomvaults method may be faster
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

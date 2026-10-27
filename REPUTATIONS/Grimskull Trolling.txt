@@ -1,12 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   GRIMSKULL TROLLING
-        (do it)
+                   G R I M S K U L L    T R O L L I N G
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
+
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  (do it)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   /join gaolcell --> Speak to "Undead Cashfear (NPC)" --> Quests
 
   Accept one of:
@@ -16,34 +20,34 @@
   Also accept:
   --> "Beat Up My Master For My Enjoyment" (Daily) (2,500 Rep)
       ⚠️ NOTE: Can only be completed once per day
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🧪 POTIONS REQUIRED
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   ⚠️ Potting is required — Potent Honour Potions interact with Dragon of
      Time's squaring mechanic
 
   Unstable Sage Tonic          (non-Unstable also works)
   Unstable Malevolence Elixir  (non-Unstable also works)
   Potent Honour / Malice Potion    *** REQUIRED ***
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ ENCHANTMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Weapon --> Elysium / Valiance
   Helm   --> Pneuma / Wizard
   Cape   --> Vainglory / Penitence
 
   💡 Base Wizard cape enhancement can substitute Penitence if you don't own it
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🔄 SKILL ROTATION
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Default: 2 → 3 → 5 → 3 → 4 (3)   unless otherwise stated below
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗺️ ROOM GUIDE
-╭──────── ROOM 1 ────────╮
+╭──────────────────────────────── ROOM 1 ────────────────────────────────╮
   Burst before he counters you
   With Elysium / Pneuma / Vainglory + default rotation on low lag:
   --> You can burst him before his counter triggers
@@ -52,33 +56,33 @@
   --> Avoid using (2), use 4 / 5 to reach his first HP threshold
   --> Stop attacking during his counter, then burst him down
   💡 Skill (3) heals you — don't forget it
-╰──────── ROOM 2 ────────╮
+╰──────────────────────────────── ROOM 2 ────────────────────────────────╮
   Clear with default rotation
-╰──────── ROOM 3 ────────╮
+╰──────────────────────────────── ROOM 3 ────────────────────────────────╮
   ⚠️ Do NOT be on Vainglory in this room
   When he demands you at full HP:
   --> Avoid pressing 2 / 4 (lowers HP)
   --> Use (3) to stay at max HP
-╰──────── ROOM 4 ────────╮
+╰──────────────────────────────── ROOM 4 ────────────────────────────────╮
   Clear with default rotation
-╰──────── ROOM 5 ────────╮
+╰──────────────────────────────── ROOM 5 ────────────────────────────────╮
   Elysium / Pneuma / Penitence is fine here
   If struggling: swap to Wizard helm for more HP
   💡 You'll need Wizard for Room 6 anyway — swapping here is safe
-╰──────── ROOM 6 ────────╮
+╰──────────────────────────────── ROOM 6 ────────────────────────────────╮
   ⚠️ Wizard helm is MANDATORY here
   The Fell Statue can deal up to 3,000 damage — would 1-shot on Pneuma
-╰──────── ROOM 7 ────────╮
+╰──────────────────────────────── ROOM 7 ────────────────────────────────╮
   ⚠️ Do NOT be on Vainglory in this room
   When he demands you at full HP:
   --> Avoid pressing 2 / 4 (lowers HP)
   --> Use (3) to stay at max HP
   💡 Pneuma is safe here — just keep max HP% above 50%
-╰──────── ROOMS 8–10 ────────╮
+╰────────────────────────────── ROOMS 8–10 ──────────────────────────────╮
   Clear each with default rotation
   ✅ Safe to stay on Pneuma + Vainglory for the rest of the dungeon
      Only 1 more gearswap remains — the hardest parts are done
-╰──────── ROOM 11 ────────╮
+╰─────────────────────────────── ROOM 11 ────────────────────────────────╮
   Final fight + last gearswap
   1. Let your HoTs fade, then swap to Valiance weapon enhancement
   2. Use 4 / 5 to deal damage and balance (3) to keep HP up
@@ -86,11 +90,11 @@
   At 90% HP (900k):
   --> He will Invert Healing for 4 seconds
   --> Wait for it to end, then resume 2 / 3 and default rotation
-╰──────── ROOM 12 ────────╮
+╰─────────────────────────────── ROOM 12 ────────────────────────────────╮
   Clear the last mob — easy finish
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📎 CREDIT
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Original guide: reddit.com/r/AQW/comments/1mf6lnr
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

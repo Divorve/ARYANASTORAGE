@@ -1,11 +1,11 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         ALCHEMY
+                              A L C H E M Y
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📖 OVERVIEW
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Alchemy is a minigame where you create consumables:
   Potions, Tonics, and Elixirs (all 3 may be called Pots or Drugs)
   Equipped and used from your 6th slot.
@@ -21,11 +21,10 @@
   Versions: Basic (weaker) · Regular · Potent (stronger) · Unstable (stronger
   but with a drawback). With a Dragon Runestone: Potions/Elixirs = Potent or
   Unstable; Tonics = Regular or Unstable.
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⭐ BEST CONSUMABLES
-╭──────── ALL MIXED CONSUMABLES REQUIRE RANK 8 ALCHEMY (GEBO RUNE) ────────╮
-
+╭─────── ALL MIXED CONSUMABLES REQUIRE RANK 8 ALCHEMY (GEBO RUNE) ───────╮
   🗡️ Lucky classes   --> Battle Elixir + Fate Tonic + Felicitous Philtre
   🔮 Wizard classes  --> Malevolence Elixir + Fate Tonic + Felicitous Philtre
 
@@ -33,7 +32,7 @@
      Use Felicitous Philtre if crit rate is below ~87% or class uses DoT
      Use Potent Honour if you can afford the mana debuff and crit is ~87%+
 
-  ─── ELIXIRS ───────────────────────────────────────────────────────────────
+  [ ELIXIRS ]
 
   Battle Elixir        --> Increases Physical Dmg by 15/20/25% for 15m
     Potent:  4× Gold Voucher 500k = 8 Elixirs
@@ -47,7 +46,7 @@
     Regular: 4× Gold Voucher 500k = 10 Elixirs
              OR mix Doomatter + Dried Slime
 
-  ─── TONICS ────────────────────────────────────────────────────────────────
+  [ TONICS ]
 
   Fate Tonic           --> Increases Luck by 20% for 15m
     Unstable reduces Endurance by 10%
@@ -77,7 +76,7 @@
     Regular:  2× Gold Voucher 500k = 10 Tonics
               OR mix Dragon Scale + Rhison Blood
 
-  ─── POTIONS ───────────────────────────────────────────────────────────────
+  [ POTIONS ]
 
   Honour Potion        --> Increases Dmg by 50/75%, Mana Cost +15% for 25/35s
     Requires Rank 10 Good
@@ -92,11 +91,10 @@
   Potion of Evasion    --> Increases Evasion by 50% and Haste by 15% for 15s
     Purchase from Reens' at /join arcangrove
     Or trade 2× Gold Voucher 100k for 25 Fleet Foot Philtres (higher stacking)
-
-╰──────────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🌿 REAGENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Arashtite Ore     --> Trade Dragon Runestone ×1 = 2
                         OR defeat Deathmoles at /join orecavern
 
@@ -162,10 +160,10 @@
 
   Trollola Nectar   --> Trade Dragon Runestone ×1 = 2
                         OR defeat Trollola Plants at /join bloodtusk (walk right for 2)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ MINIGAME GUIDE
-╭──────── RUNES ────────╮
+╭──────────────────────────────── RUNES ─────────────────────────────────╮
   💡 TIP: Trade Gold Vouchers for Dragon Runestones at Alina's Get Dragon
      Runes shop at /join alchemyacademy — skips all minigame mechanics.
 
@@ -176,7 +174,7 @@
   Uruz  --> Level 16–25  · Unlocks at Rank 3
   Fehu  --> Level 26–40  · Unlocks at Rank 5
   Gebo  --> Level 41+    · Unlocks at Rank 8
-╰──────── MECHANICS ────────╮
+╰────────────────────────────── MECHANICS ───────────────────────────────╮
   Goal: Fill empty potion bottle by balancing the heat.
   Aim for 3 green circles output (2 minimum) · Keep temp at ~70–80°
 
@@ -186,7 +184,7 @@
   ⚠️ NOTE: Harder runes overheat more easily. Sometimes fireballs miss and set the
      room on fire (meter to 100) — unavoidable. Ice may also fail and drop meter
      to -30. If either happens, just leave — you won't lose reagents on leave or fail.
-╰──────── RANKING UP ────────╮
+╰────────────────────────────── RANKING UP ──────────────────────────────╮
   Obtain ×30 Chaoroot and ×30 Necrot from Swindle's Ripoff Emporium at
   /join tercessuinotlim. Use with Dragon Runestones or your highest rune.
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

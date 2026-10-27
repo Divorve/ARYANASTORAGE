@@ -1,26 +1,26 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         PET TAMER
+                            P E T    T A M E R
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Cosmetics Only
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   1. Accept Lim's "Mogzard" quest from /join battleontown
      (they are located to the right outside Yulgar's Inn)
   2. /join greenguardwest > click the map at top-right
      > select Three Wolves (top-centre)
   3. Defeat the Mogzard
-╰──────── DAILIES ────────╮
+╰─────────────────────────────── DAILIES ────────────────────────────────╮
   Accept Aria's "Moglin Companions" quest from /join ariapet
   (select Moglin Pets > Get MEALs)
   --> Defeat Frogzards at /join nexus
 
   💡 ×30 Moglin Meals can be traded for a Twilly, Twig, or Zorbak pet
      in Aria's shop
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

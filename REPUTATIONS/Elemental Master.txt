@@ -1,20 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       ELEMENTAL MASTER
+                     E L E M E N T A L    M A S T E R
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Legendary Elemental Warrior
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Complete Warlic's "Elements of Research" quest from /join dragonrune
   --> Defeat each Elemental type at /join dragonplane or /join gilead
       (whichever you find faster)
-╰──────── DAILIES — MEMBER ONLY ────────╮
+╰──────────────────────── DAILIES — MEMBER ONLY ─────────────────────────╮
   Complete Warlic's "Elemental Mastery: Study Session" quest from /join dragonrune
   --> Complete alongside the above quest in the same manner
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

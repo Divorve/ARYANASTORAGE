@@ -1,16 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         LOREMASTER
+                           L O R E M A S T E R
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Dragon of Time
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER + NON-MEM ────────╮
+╭─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   ⚠️ NOTE: Requires Level 15
 
   If you don't yet have Rank 10 Lycan:
@@ -24,10 +24,10 @@
   --> Complete Arlen's "Studying the Rogue" quest from /join classhall
   --> Defeat the Drow Assassin and D'wain Jonsen at /join wardwarf
       (located at the end of the map)
-╰──────── MEMBER ALTERNATIVE — RANK 3+ ────────╮
+╰───────────────────── MEMBER ALTERNATIVE — RANK 3+ ─────────────────────╮
   👥 GROUP / High level solo:
   Complete the quests at /join druids
   --> Repeat "Quite the Problem" by defeating the Young Void Giant in the same map
 
   Otherwise use one of the above methods
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

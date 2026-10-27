@@ -1,21 +1,21 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         ETHERSTORM
+                           E T H E R S T O R M
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Elemental Dracomancer
   💡 Non-mem method also earns Dragonslayer and Dragonslayer General
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the storyline:
   --> /join firestorm > /join airstorm > /join waterstorm > /join earthstorm
       > /join dragonhame > /join dragonheart
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Accept Mino's "Clash to a Cure" and "Sulfur Pure" quests from /join airstorm
      (keep walking right from the beginning — they look like a cat person)
   2. Accept Hs'Sakar's "Something Stinks" quest from /join firestorm
@@ -28,7 +28,7 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   1. Purchase Dragonslayer from Galanoth's DragonSlayer Rewards shop at /join lair
   2. Get Dragonslayer to Rank 10 by farming Frost Spirits at /join icestormarena
      Stand between the two close enemies at bottom-right
@@ -59,4 +59,4 @@
 
   ⭐ Save ×75 Enchanted Scales and ×100 Dragon Claws for Dragonslayer General
      Merge at Galanoth when ready
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

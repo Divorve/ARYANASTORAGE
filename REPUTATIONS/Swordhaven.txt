@@ -1,21 +1,21 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         SWORDHAVEN
+                           S W O R D H A V E N
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Royal BattleMage
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the storyline:
   --> /join castle > /join archives > /join armory > /join ceremony
       > /join chaosaltar > /join castleroof > /join swordhavenfalls
       > /join ultraalteon
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Complete Malorie's "Swordhaven Membership Dues" quest from /join collection
   2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
   3. Join /join collectorlab and defeat enemies there
@@ -31,7 +31,7 @@
 
   💡 Alternatively use the Non-Mem method below if you prefer not to
      manage the Collector Lab token loop
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   1. From starting screen walk up and accept Sir Vival's 3 non-daily quests
      and Jessor's "Weapons-in-Progress" quest
   2. Walk up and accept Valerin's quest
@@ -48,4 +48,4 @@
   --> Use the Relics of Chaos drops to complete "Supplies to spin The Wheel of Chance"
   ⚠️ NOTE: When the meter appears at top-right, stop attacking or Alteon
      will deal massive damage
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

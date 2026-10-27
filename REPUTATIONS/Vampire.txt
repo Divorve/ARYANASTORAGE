@@ -1,16 +1,16 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-          VAMPIRE
+                              V A M P I R E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Item --> Gemstone of Nulgath
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER ────────╮
+╭──────────────────────────────── MEMBER ────────────────────────────────╮
   Optionally complete Orlok's questline at /join safiria first
 
   Then either use the Non-Mem method below, or:
@@ -26,7 +26,7 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   1. Complete the questline:
      --> /join darkoviagrave > /join darkoviaforest > /join safiria
   2. Farm Safiria's "Twisted Paw" quest
@@ -35,4 +35,4 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

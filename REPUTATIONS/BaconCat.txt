@@ -1,19 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         BACONCAT
+                             B A C O N C A T
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Cosmetics Only
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the storyline first:
   --> /join baconcat > /join baconcatyou > /join baconcatlair
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Accept Ziri's "Ziri Is Also Tough" quest from /join baconcatlair
   2. Walk forwards into the 5th door on the right
   3. Accept Ziri's "Robo Sharks!", "Sharks Should Not Walk",
@@ -25,7 +25,7 @@
 
   👥 GROUP: Can also complete "Giant, Huge Cyborg Shark!"
      by defeating the Cybord Laser Shark
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   1. Accept Ziri's "Get Those Waffle Cones Ready" and "Ziri Is Also Tough"
      quests from /join baconcatlair
   2. Walk forwards through the 1st door on the left
@@ -33,4 +33,4 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

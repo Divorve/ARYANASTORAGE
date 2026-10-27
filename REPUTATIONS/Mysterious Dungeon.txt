@@ -1,17 +1,17 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-     MYSTERIOUS DUNGEON
+                   M Y S T E R I O U S    D U N G E O N
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Cosmetics Only
   Obsidian ArchPaladin, Blinding Edge of Obsidian + more
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the storyline at /join mysteriousdungeon and /join cursedshop
 
   💡 If stuck in the first room of /join mysteriousdungeon, click in this order:
@@ -20,9 +20,9 @@
      3. The pencil inside
      4. The rock next to the bucket
      5. The cell door
-╰──────── MEMBER + NON-MEM ────────╮
+╰─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Complete the Cursed Bust's "Lamps, Painting and Chairs, oh my!" quest
   at /join cursedshop
   --> Defeat the Antique Chair
   --> Access: walk right > up from starting screen, click Quests at top-right
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

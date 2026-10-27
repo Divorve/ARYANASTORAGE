@@ -1,19 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         ETERNAL
+                              E T E R N A L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Eternal Inversionist
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the storyline:
   --> /join fourdpyramid > /join yasaris
-╰──────── MEMBER + NON-MEM ────────╮
+╰─────────────────────────── MEMBER + NON-MEM ───────────────────────────╮
   Complete Future You - Part 2!'s "Sphynxes are Riddled With Gems" quest
   --> Defeat Stone Sphynxes to the right of the NPC in the same map
   --> Shortcut: Select the 4th Scarab from the bottom on the Map (top-right)
@@ -25,4 +25,4 @@
   --> Defeat the Black Plague
   --> Shortcut: Select the top Scarab from the Map (top-right)
   ⚠️ NOTE: Requires a group if you're low level
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

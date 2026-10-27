@@ -1,22 +1,22 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-           TROLL
+                                T R O L L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> Troll Spellsmith
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete Khasaanda's Troll 13LoC chapter (Map > Story)
   ⚠️ NOTE: Ensure you are doing the Troll version
   --> /join crossroads > /join bloodtusk > /join bloodtuskwar
       > /join ravinetemple > /join alliance > /join ancienttemple
       > /join orecavern > /join dreamnexus
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Complete Malorie's "Troll Membership Dues" quest from /join collection
   2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
   3. Join /join collectorlab and defeat enemies there
@@ -29,7 +29,7 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   Complete Sokrakiis' "Dregas' Mysterious Request" quest at /join bloodtuskwar
   --> Defeat the Tigriff, Rhison, and Vulture in the left room
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

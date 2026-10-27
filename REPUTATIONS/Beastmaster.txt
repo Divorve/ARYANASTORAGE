@@ -1,21 +1,21 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         BEAST MASTER
+                         B E A S T    M A S T E R
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Class --> BeastMaster
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── MEMBER ONLY ────────╮
+╭───────────────────────────── MEMBER ONLY ──────────────────────────────╮
   Complete Faith's "Dark Creature Demands" quest from /join northpointe
   --> Defeat Golden Draconians at /join lair
       (exit left from /join underlair then walk down > right ×2)
   --> Defeat Golden Scarabs at /join pyramidpain
-╰──────── DAILIES — MEMBER ONLY ────────╮
+╰──────────────────────── DAILIES — MEMBER ONLY ─────────────────────────╮
   Complete Faith's "BeastMaster Challenge" quest from /join northpointe
   --> Defeat the Purple Slime at /join cellar (walk right > top-right)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

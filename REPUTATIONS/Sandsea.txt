@@ -1,20 +1,20 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-          SANDSEA
+                              S A N D S E A
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🏆 USES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Classes --> Master Ranger, Legendary Elemental Warrior
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── EVERYONE ────────╮
+╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete Tibicenas' 13LoC chapter (Map > Story)
   --> /join sandsea > /join sandport > /join pyramid > /join wanders
       > /join sandcastle > /join djinn
-╰──────── MEMBER ────────╮
+╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Complete Malorie's "Sandsea Membership Dues" quest from /join collection
      ⚠️ NOTE: This quest gives 15k Rep for this faction (normally 5k)
   2. Accept Drakath (Kid)'s "For Science" quest from /join terrarium
@@ -28,7 +28,7 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────── NON-MEM ────────╮
+╰─────────────────────────────── NON-MEM ────────────────────────────────╮
   Accept the following quests from /join sandsea:
   --> Zhoom's "Dissertations Burpers Camel"
   --> Zhoom's "Crafting Creepers: A Favourite of Mine"
@@ -41,4 +41,4 @@
 
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
