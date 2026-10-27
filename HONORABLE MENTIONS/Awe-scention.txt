@@ -1,21 +1,20 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   AWE-SCENTION
+                         A W E - S C E N T I O N
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  DISCLAIMER:
 
+  Mysterious Egg (Pet) is available to be bought back through Manage Account option.
 
-
-DISCLAIMER: 
-
-Mysterious Egg (Pet) is available to be bought back through Manage Account option.
-
-Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious Egg when farming the other.
-
+  Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious Egg when farming the other.
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 100
   Rank 10 Evil
   Original Drakath Armour        --> See guide
@@ -32,10 +31,10 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
   --> /join giant > /join smuurvil > /join table
   --> 13LoC (Map > Story)
   --> 7DD (Map > Story)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ QUEST 1 — The Dawn of Lore
-╭──────── Trissa @ /join museum ────────╮
+⚔️ QUEST 1 — THE DAWN OF LORE
+╭──────────────────────── Trissa @ /join museum ─────────────────────────╮
   Access: Talk to Valencia > Artifact Quests > Armour of Awe > To the Crossroads
 
   Fossilised Egg Yolk           ×12
@@ -51,10 +50,10 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
   --> Temple Guardians @ /join ravinetemple
       Member: exit left from /join ravinetempleb, walk right to find 3
       Non-Member: defeat Temple Guardian Adept at 2nd screen
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ QUEST 2 — Mystical Magics
-╭──────── Trissa @ /join museum ────────╮
+⚔️ QUEST 2 — MYSTICAL MAGICS
+╭──────────────────────── Trissa @ /join museum ─────────────────────────╮
   Enchanted Manuscript          ×8
   --> Undead Mage @ /join deathsrealm (no room with 2)
 
@@ -68,10 +67,10 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
   Spell Stone                   ×10
   --> Elementals @ /join gilead (walk down from Fire Elemental)
       💡 Can also farm at /join elemental while doing "Nulgath (Larvae)"
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ QUEST 3 — Science Rules
-╭──────── Trissa @ /join museum ────────╮
+⚔️ QUEST 3 — SCIENCE RULES
+╭──────────────────────── Trissa @ /join museum ─────────────────────────╮
   Supercharged Gem              ×8
   --> Energy Elementals @ /join thunderfang (no room with 2)
 
@@ -83,10 +82,11 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
 
   Dragonoid Core                ×1
   --> Dragonoid @ /join mqlesson (end of map)
-╰──────────────────────────────────╯
 
-⚔️ QUEST 4 — War: What is it Good For?
-╭──────── Trissa @ /join museum ────────╮
+  ⚔️ QUEST 4 — War: What is it Good For?
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭──────────────────────── Trissa @ /join museum ─────────────────────────╮
   O-Dokuro's Tooth              ×1
   --> O-Dokuro's Head @ /join yokaiwar
 
@@ -99,10 +99,11 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
   Noxus' Necromancy Robe        ×1
   --> Noxus @ /join shadowfallwar
       (walk right to where Gravelyn would be)
-╰──────────────────────────────────╯
 
-⚔️ QUEST 5 — Which Came First, the Dragon or the Dragonoid?
-╭──────── Trissa @ /join museum — all enemies @ /join crashsite ────────╮
+  ⚔️ QUEST 5 — Which Came First, the Dragon or the Dragonoid?
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭──────── Trissa @ /join museum — all enemies @ /join crashsite ─────────╮
   Dwakel Shield Generator       ×2
   --> Barrier Sentry
       💡 Also farm ProtoSartorium at the same time for its drop below
@@ -115,10 +116,10 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
 
   Mithril Man's Power Armour    ×1
   --> Mithril Man
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚔️ QUEST 6 — Artifact Hunting
-╭──────── Trissa @ /join museum ────────╮
+⚔️ QUEST 6 — ARTIFACT HUNTING
+╭──────────────────────── Trissa @ /join museum ─────────────────────────╮
   💡 AC-tagged non-misc items (like Blade of Awe) can be recovered free
      via Buy Back in your online account manager — applies to next 2 quests too
 
@@ -147,19 +148,20 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
 
       Mirror Shield Fragment     ×50
       --> Gargoyles @ /join cornelis
-╰──────────────────────────────────╯
 
-⚔️ QUEST 7 — What Does Lore Have in Store?
-╭──────── Trissa @ /join museum ────────╮
+  ⚔️ QUEST 7 — What Does Lore Have in Store?
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭──────────────────────── Trissa @ /join museum ─────────────────────────╮
   💡 Turn in this quest and Quest 8 with Gold/Rep boosts active
      (both reward a large amount of Gold and Rep)
 
-  ──────── Vaden's Helm ────────
+  [ Vaden's Helm ]
   Merge @ /join bonecastle using 333 Vaden Helm Tokens
   --> Drop from Vaden in the same map
       Access quickly: open Map (top-right) > select top button
 
-  ──────── Armour of Zular ────────
+  [ Armour of Zular ]
   Complete Crulon's quests @ /join djinngate:
 
   "Recovering the Fangs of the Lion"
@@ -206,7 +208,7 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
   "Armour of Zular"
   --> Harpy and Lamia @ /join djinngate
 
-  ──────── Fortitude + Hubris ────────
+  [ Fortitude + Hubris ]
   Complete Inanitas' quests from /join dragonrune:
 
   "Qualifying Quest"
@@ -267,7 +269,7 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
   --> /join skytower > walk up > right > right > top-left to find Inanitas
   --> Click his left hand, then defeat the Aspect of Good and Evil
 
-  ──────── Shadow Dragon Defender ────────
+  [ Shadow Dragon Defender ]
   1. Obtain the Mysterious Egg via the "Mysterious Chest" quest
      --> Click the Dragon icon on the chest @ /join ashfallcamp
      ⚠️ Requires all 7 Keys from the 7DD story (Map > Story)
@@ -279,7 +281,7 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
      --> Use it to access Loremaster Maya's shop
      --> Purchase Shadow Dragon Defender armour
 
-  ──────── Silver Exalted Paladin ────────
+  [ Silver Exalted Paladin ]
   Complete Jill'Ette's quests @ /join lightguard:
 
   "Surely it Starts and Ends Here"
@@ -305,7 +307,7 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
   "The Final Scroll"
   --> General Dox @ /join warhorc
 
-  ──────── Valoth's Cannon of Doom ────────
+  [ Valoth's Cannon of Doom ]
   1. Purchase Valoth's Broken Cannon from Dwobo's shop @ /join crashruins
      --> Cost: 5,000,000 Gold
   2. Complete Tek's "Cannon Restoration" @ /join thespan
@@ -318,32 +320,32 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
 
      Floozer                    ×1
      --> Complete Bamboozle's quests @ /join cragglerock:
-         · "Star of the Sandsea" — Kalestri Worshiper @ /join wanders
-         · "Ice Diamond" — Complete King Coal's "Trade for the Ice Diamond" @ /join kingcoal
+         - "Star of the Sandsea" — Kalestri Worshiper @ /join wanders
+         - "Ice Diamond" — Complete King Coal's "Trade for the Ice Diamond" @ /join kingcoal
            Defeat Snow Golems @ /join mountfrost
-         · "Dark Bloodstone" — Complete Orlok's "Trade for the Dark Bloodstone" @ /join safiria
+         - "Dark Bloodstone" — Complete Orlok's "Trade for the Dark Bloodstone" @ /join safiria
            Defeat Blood Maggots (2 on same screen in the castle)
-         · "Doomstone" — Painadin Overlord @ /join brightfall (walk left)
-         · "Void Opal" — Unending Avatar @ /join timevoid
+         - "Doomstone" — Painadin Overlord @ /join brightfall (walk left)
+         - "Void Opal" — Unending Avatar @ /join timevoid
            (select Timevoid from Braeus' Fast Travel @ /join shadowfall)
-         · "Mana Crystal" — Click blue crystal right of Crystal Mana Construct
+         - "Mana Crystal" — Click blue crystal right of Crystal Mana Construct
            at end of /join downward map. Either /goto or complete Warlic's and
            Cysero's quests from /join battleontown > /join downward
-         · "Songstone" — Complete Dorian's "Trade for the Songstone" @ /join mythsong
+         - "Songstone" — Complete Dorian's "Trade for the Songstone" @ /join mythsong
            Click on crystals around the map (one hidden behind the French Horned Toadra)
-         · "Butterfly Sapphire" — Complete Alina's "Trade for the Butterfly Sapphire"
+         - "Butterfly Sapphire" — Complete Alina's "Trade for the Butterfly Sapphire"
            @ /join alchemyacademy by defeating Trollola Plants @ /join bloodtusk
-         · "Understone" — Complete Yara's "Trade for the Understone" @ /join battleunderc
+         - "Understone" — Complete Yara's "Trade for the Understone" @ /join battleunderc
            Defeat any enemies there
-         · "Rainbow Moonstone" — Complete Dr'Rader's "Trade for the Rainbow Moonstone"
+         - "Rainbow Moonstone" — Complete Dr'Rader's "Trade for the Rainbow Moonstone"
            @ /join earthstorm by defeating Diamond, Emerald, Ruby, and Sapphire Golems
          💡 Stop here if you only need Floozer
-         · "Time Quartz" — /join thespan > from Warlic, walk left > down > up into Inn
+         - "Time Quartz" — /join thespan > from Warlic, walk left > down > up into Inn
            Talk to the NPC
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ QUEST 8 — Awe-scension
-╭──────── Trissa @ /join museum ────────╮
+✅ QUEST 8 — AWE-SCENSION
+╭──────────────────────── Trissa @ /join museum ─────────────────────────╮
   💡 Turn in with Gold/Rep boosts active for maximum reward
 
   Original Drakath Armour       ×1     --> See guide
@@ -370,16 +372,16 @@ Anyone who has done either DoT/Awescended, does not have to re-farm Mysterious E
               To escape room 1: click the cake > loose brick > pencil inside
               > rock next to bucket > cell door
           --> Complete Gravelyn's quests @ /join darkthronehub, saving each reward:
-              · "Let Darkness Enter your Heart" — Doom Overlord @ /join necrodungeon
-              · "Find me some Doom" — Chaos Lord Alteon @ /join swordhavenfalls
-              · "Abyssal" — Sepulchuroth @ /join shadowstrike (end of map)
-              · "Memories of The Past" — Shadow of the Past @ /join shadowfall
+              - "Let Darkness Enter your Heart" — Doom Overlord @ /join necrodungeon
+              - "Find me some Doom" — Chaos Lord Alteon @ /join swordhavenfalls
+              - "Abyssal" — Sepulchuroth @ /join shadowstrike (end of map)
+              - "Memories of The Past" — Shadow of the Past @ /join shadowfall
                 Walk: top-right > right ×2 > click straw > click vault underneath
                 > walk into vault > go left
-              · "The Summoning" — Defeat enemies @ /join shadowrealmpast for
+              - "The Summoning" — Defeat enemies @ /join shadowrealmpast for
                 13 Empowered Essence, then turn in with all previous quest rewards
 
   Bin Jett's Salvaged Armour Part ×50
   --> Ektorax @ /join ectocave (end of map)
   👥 Group recommended due to high HP
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

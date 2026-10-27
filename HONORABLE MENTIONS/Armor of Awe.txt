@@ -1,20 +1,20 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   ARMOR OF AWE
+                        A R M O R    O F    A W E
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 55 (non-members only — required for Cape, Helm, and Armour)
 
   Recommended: Escherion's 13LoC Chapter Completion
   --> Unlocks optimal farming areas
       Access via Map > Story
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ PART 1 — BLADE OF AWE
-╭──────── Awe Quests from Valencia @ /join museum ────────╮
+╭─────────────── Awe Quests from Valencia @ /join museum ────────────────╮
   Talk to Valencia > Artifact Quests > Armour of Awe > To the Crossroads
 
   "Find the Stonewrit!"
@@ -37,22 +37,22 @@
   "Find the Runes!"
   --> Escherion @ /join escherion (usually others fighting already)
 
-  ──────── After All Quests ────────
+  [ After All Quests ]
   Return to Valencia at the Crossroads > Forge the Blade > Create Blade of Awe
 
   💡 Unlocks Awethur's Accoutrements from the Awe-some Gear shop
      (+25% XP, CP, Gold, and Rep)
   💡 Unlocks Awe Enhancements shop with special procs:
-     · Spiral Carve    (15%) — high damage + 25% crit boost for 10s
-     · Awe Blast       (30%) — medium damage + −15% enemy crit/def for 10s
-     · Health Vamp     (50%) — medium damage + HP restore
-     · Mana Vamp       (80%) — low damage + restores 10 MP
-     · Powerword Die   (0.3%) — 999,999 damage (too rare to be reliable)
+     - Spiral Carve    (15%) — high damage + 25% crit boost for 10s
+     - Awe Blast       (30%) — medium damage + −15% enemy crit/def for 10s
+     - Health Vamp     (50%) — medium damage + HP restore
+     - Mana Vamp       (80%) — low damage + restores 10 MP
+     - Powerword Die   (0.3%) — 999,999 damage (too rare to be reliable)
   💡 See the enhancement guide for best choice per class
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ PART 2 — CAPE, HELM, AND ARMOUR
-╭──────── Valencia @ Crossroads in /join museum ────────╮
+╭──────────────── Valencia @ Crossroads in /join museum ─────────────────╮
   Select Armour of Awe > open the Awe Passes shop
   Members:      Purchase both Legendary Awe Pass + Armour of Awe Pass
   Non-Members:  Purchase Armour of Awe Pass only
@@ -65,16 +65,16 @@
   💡 Access each boss quickly via More Details in your Hero/Legend section
   👥 All bosses recommended in a group
 
-  ──────── CAPE ────────
+  [ CAPE ]
   "Cape of Awe"
   --> Defeat Binky @ /join doomvault ×1
   ⚠️ Difficult boss — group strongly recommended
-     · Stuns ranging from 5–21 seconds
-     · Skill Lock — bait with Mana Vamp enhancement, a scroll, or least-used ability
-     · Prophetic Vision (reflects damage back) — press ESC to avoid
+     - Stuns ranging from 5–21 seconds
+     - Skill Lock — bait with Mana Vamp enhancement, a scroll, or least-used ability
+     - Prophetic Vision (reflects damage back) — press ESC to avoid
   💡 If you have the Hardcore Paragon Pet, accept its "A Single Rib" quest too
 
-  ──────── HELM ────────
+  [ HELM ]
   "Helm of Awe"
   --> Defeat Undead Raxgore @ /join doomvaultb ×50
   ⚠️ Must complete quests at /join doomvault > /join doomvaultb to access
@@ -82,7 +82,7 @@
   ⚠️ Similar to Binky — can lock abilities and use Counter Attack
      Target off by clicking the X on the portrait or pressing ESC
 
-  ──────── ARMOUR ────────
+  [ ARMOUR ]
   "Pauldron of Awe"
   --> Defeat Ultra Akriloth @ /join gravestrike ×225 (Shards stack to 150)
   ⚠️ Complete the non-member (Hero) version — member version is daily-locked
@@ -102,4 +102,4 @@
   "Greaves of Awe"
   --> Defeat Mutated Void Dragon @ /join bosschallenge ×150 (not 100% drop, stacks to 150)
   ⚠️ Hits very hard, 400k+ HP
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
