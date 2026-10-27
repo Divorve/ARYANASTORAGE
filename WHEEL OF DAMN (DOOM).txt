@@ -1,32 +1,32 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   WHEEL OF DOOM
+                       W H E E L    O F    D O O M
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-📋 OVERVIEW
-╭──────────────────────────────────╮
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
   The Wheel of Doom is essentially a loot box, located @ /join doom
 
-  ──────── How to Spin ────────
-  · Buy Fortune Tickets for 200 ACs each (1 ticket = 1 spin)
-  · Obtain 3 Gears of Doom (log in daily, up to 3 per week) and spin for free
-  · Member: click Legend Spin for a free daily spin
+  [ How to Spin ]
+  - Buy Fortune Tickets for 200 ACs each (1 ticket = 1 spin)
+  - Obtain 3 Gears of Doom (log in daily, up to 3 per week) and spin for free
+  - Member: click Legend Spin for a free daily spin
 
-  ──────── Guaranteed Rewards Per Spin ────────
-  · 1+ Treasure Potion(s)     redeemable in the Merge Shop
-  · 1hr XP Boost              tradeable for other boost types in Merge Shop
-  · 10,000 Gold
+  [ Guaranteed Rewards Per Spin ]
+  - 1+ Treasure Potion(s)     redeemable in the Merge Shop
+  - 1hr XP Boost              tradeable for other boost types in Merge Shop
+  - 10,000 Gold
 
-  ──────── Possible Bonus Rewards ────────
-  · Bonus Item                includes cosmetics and the Alpha DOOMmega class
-  · EIoDA (0.1% drop rate)    redeem for most items in the game
+  [ Possible Bonus Rewards ]
+  - Bonus Item                includes cosmetics and the Alpha DOOMmega class
+  - EIoDA (0.1% drop rate)    redeem for most items in the game
     💡 Trade 1,000 Treasure Potions for a WIoDA in the Merge Shop (same effect)
     💡 First 6 IoDAs grant a bonus IoDA each — then every 3rd IoDA after that
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 💡 TREASURE POTION RATES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Amount depends on your Bonus Item progress
   (check Wheel Progress in your online account manager)
 
@@ -34,13 +34,13 @@
   Spin awards no Bonus Item                         ×2 TPs
   Spin tried to award a Bonus Item you already own  ×3 TPs
   Spin after all Bonus Items collected              ×6 TPs
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-💎 IoDA SUGGESTIONS
-╭──────────────────────────────────╮
+💎 IODA SUGGESTIONS
+╭────────────────────────────────────────────────────────────────────────╮
   No time limit on redemption — take your time and choose wisely
 
-  ──────── Functional ────────
+  [ Functional ]
 
   Legion Revenant
   --> Very well-rounded class — good choice if you don't want to farm endgame items
@@ -64,7 +64,7 @@
       💡 Alternatively: IoDA Sepulchure's SDKA → farm NSoD → farm Hollowborn DoomKnight
          (not possible if you IoDA NSoD directly)
 
-  ──────── Cosmetics ────────
+  [ Cosmetics ]
 
   Collection Chests
   --> Released during seasonal events, go Rare after
@@ -88,4 +88,4 @@
   --> Not great for farming LTs but has a quest with 1% drop cosmetics:
       Living BladeMaster · Katanas · Lesser Caladbolg
       Requires long-term Binky farming
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,281 +1,265 @@
-╔════════════════════════════════╗
-      AQW BEGINNER GUIDE
-╚════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+
+                  A Q W    B E G I N N E R    G U I D E
+
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 CORE MECHANICS
-╭──────────────────────────────────╮
-🔴 HP (Health) → Damage taken
-🔵 MP (Mana) → Used for skills
-🟢 SP (Stamina) → Sprint (Space + click)
+╭────────────────────────────────────────────────────────────────────────╮
+  🔴 HP (Health) → Damage taken
+  🔵 MP (Mana) → Used for skills
+  🟢 SP (Stamina) → Sprint (Space + click)
 
-💡 Press X to Rest (full regen)
-╰──────────────────────────────────╯
+  💡 Press X to Rest (full regen)
+╰────────────────────────────────────────────────────────────────────────╯
 
 📊 CURRENCY & PROGRESSION
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
+  XP (Experience Points)
+  --> Level up (Max Level: 100)
 
-XP (Experience Points)
---> Level up (Max Level: 100)
+  CP (Class Points)
+  --> Rank up classes (Max Rank: 10)
 
-CP (Class Points)
---> Rank up classes (Max Rank: 10)
+  Reputation (Rep)
+  --> Rank factions (Good, Evil, Chaos, etc.)
 
-Reputation (Rep)
---> Rank factions (Good, Evil, Chaos, etc.)
+  Gold
+  --> Main currency (Cap: 100M)
 
-Gold
---> Main currency (Cap: 100M)
-
-Adventure Coins (ACs)
---> Premium currency
-💡 Free ACs: January, October, December
-
-╰──────────────────────────────────╯
+  Adventure Coins (ACs)
+  --> Premium currency
+  💡 Free ACs: January, October, December
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 ITEM TYPES
-╭──────────────────────────────────╮
-Permanent / Non-Rare
-Seasonal (time-limited yearly)
-Rare (removed permanently)
-Pseudo-Rare (requires rare item)
-Special Offer (Heromart / AC / Member)
+╭────────────────────────────────────────────────────────────────────────╮
+  Permanent / Non-Rare
+  Seasonal (time-limited yearly)
+  Rare (removed permanently)
+  Pseudo-Rare (requires rare item)
+  Special Offer (Heromart / AC / Member)
 
-🟡 Member → Requires Membership
-🟠 AC → Free bank storage, cannot delete
-╰──────────────────────────────────╯
+  🟡 Member → Requires Membership
+  🟠 AC → Free bank storage, cannot delete
+╰────────────────────────────────────────────────────────────────────────╯
 
 🏦 INVENTORY & BANK
-╭──────────────────────────────────╮
-/join bank → Store items
+╭────────────────────────────────────────────────────────────────────────╮
+  /join bank → Store items
 
-💡 AC items = no bank space used
-╰──────────────────────────────────╯
+  💡 AC items = no bank space used
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ ENHANCEMENTS
-╭──────────────────────────────────╮
-Menu → Shops → Enhancements
+╭────────────────────────────────────────────────────────────────────────╮
+  Menu → Shops → Enhancements
 
-⭐ Recommended:
-→ Lucky
-→ Wizard
-╰──────────────────────────────────╯
+  ⭐ Recommended:
+  → Lucky
+  → Wizard
+╰────────────────────────────────────────────────────────────────────────╯
 
 🧠 GAMEPLAY BASICS
-╭──────────────────────────────────╮
-Use number keys (1–5) for skills
-Auto attack = automatic (press 1 if needed)
+╭────────────────────────────────────────────────────────────────────────╮
+  Use number keys (1–5) for skills
+  Auto attack = automatic (press 1 if needed)
 
-🗺️ Map → Story → Complete 13LoC FIRST
+  🗺️ Map → Story → Complete 13LoC FIRST
 
-⚠️ Logging out resets:
-→ Active quests
-→ Temporary items
-╰──────────────────────────────────╯
+  ⚠️ Logging out resets:
+  → Active quests
+  → Temporary items
+╰────────────────────────────────────────────────────────────────────────╯
 
 💬 IMPORTANT COMMANDS
-╭──────────────────────────────────╮
-/join [map] → Teleport
-/goto [player] → Teleport to player
-/house [player] → Visit house
-/who → Show players (or press U)
+╭────────────────────────────────────────────────────────────────────────╮
+  /join [map] → Teleport
+  /goto [player] → Teleport to player
+  /house [player] → Visit house
+  /who → Show players (or press U)
 
-/friend [name] → Add friend
-/pi [name] → Party invite
+  /friend [name] → Add friend
+  /pi [name] → Party invite
 
-/r → Reply
-/c → Chat reply mode
-/s → Return to normal chat
+  /r → Reply
+  /c → Chat reply mode
+  /s → Return to normal chat
 
-/p → Party chat
-/g → Guild chat
+  /p → Party chat
+  /g → Guild chat
 
-/roll → Random 1–100
-╰──────────────────────────────────╯
+  /roll → Random 1–100
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ SETTINGS (IMPORTANT)
-╭──────────────────────────────────╮
-Enable:
-✔ Quest Pinner
-✔ Turn-In from Quest Log
-✔ Reaccept After Turn-In
-✔ Battle Analyzer
+╭────────────────────────────────────────────────────────────────────────╮
+  Enable:
+  ✔ Quest Pinner
+  ✔ Turn-In from Quest Log
+  ✔ Reaccept After Turn-In
+  ✔ Battle Analyzer
 
-Performance:
-✔ Disable animations
-✔ Hide players
+  Performance:
+  ✔ Disable animations
+  ✔ Hide players
 
-Combat:
-✔ Show Monster Type
-✔ Lock Monster Position
-✔ Auto-Untarget Self
-╰──────────────────────────────────╯
+  Combat:
+  ✔ Show Monster Type
+  ✔ Lock Monster Position
+  ✔ Auto-Untarget Self
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-      CLASS PROGRESSION
-╚════════════════════════════════╝
-
-⚔️ TIER 1 – START
-╭──────────────────────────────────╮
-Oracle → Solo
-Mage → Farming
-Blood Sorceress → Farming (boss drop)
-Imperial Chunin → Strong early farming
-╰──────────────────────────────────╯
+📘 CLASS PROGRESSION  ·  TIER 1 – START
+╭────────────────────────────────────────────────────────────────────────╮
+  Oracle → Solo
+  Mage → Farming
+  Blood Sorceress → Farming (boss drop)
+  Imperial Chunin → Strong early farming
+╰────────────────────────────────────────────────────────────────────────╯
 
 💎 EXCLUSIVE (HIGH VALUE)
-╭──────────────────────────────────╮
-Member: Daimon → Easy strong class
+╭────────────────────────────────────────────────────────────────────────╮
+  Member: Daimon → Easy strong class
 
-AC: Join Legion → HUGE benefits
-→ Legion Revenant (endgame)
-→ Legion DoomKnight
+  AC: Join Legion → HUGE benefits
+  → Legion Revenant (endgame)
+  → Legion DoomKnight
 
-Seasonal:
-→ Vampire Lord (Top farming)
-→ Dark Lord (Alternative)
+  Seasonal:
+  → Vampire Lord (Top farming)
+  → Dark Lord (Alternative)
 
-AC: ArchFiend → Skip multiple tiers
-╰──────────────────────────────────╯
+  AC: ArchFiend → Skip multiple tiers
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ TIER 2
-╭──────────────────────────────────╮
-Blaze Binder → Farming
-Cryomancer → Solo
+╭────────────────────────────────────────────────────────────────────────╮
+  Blaze Binder → Farming
+  Cryomancer → Solo
 
-Chaos Slayer → Strong hybrid
-DragonSoul Shinobi → Solo
-╰──────────────────────────────────╯
+  Chaos Slayer → Strong hybrid
+  DragonSoul Shinobi → Solo
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ TIER 3
-╭──────────────────────────────────╮
-ArchPaladin → Tank/support
-Lord of Order → MUST-HAVE support
-ArchFiend → Farming/support
+╭────────────────────────────────────────────────────────────────────────╮
+  ArchPaladin → Tank/support
+  Lord of Order → MUST-HAVE support
+  ArchFiend → Farming/support
 
-Optional: StoneCrusher
-Optional: Chrono Assassin (member)
-╰──────────────────────────────────╯
+  Optional: StoneCrusher
+  Optional: Chrono Assassin (member)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ TIER 4
-╭──────────────────────────────────╮
-Chaos Avenger → Solo
-Dragon of Time → Hybrid
+╭────────────────────────────────────────────────────────────────────────╮
+  Chaos Avenger → Solo
+  Dragon of Time → Hybrid
 
-Optional: Yami no Ronin
-╰──────────────────────────────────╯
+  Optional: Yami no Ronin
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ TIER 5 (ENDGAME)
-╭──────────────────────────────────╮
-Legion Revenant → Best all-round
-Void Highlord → Best solo
-ArchMage → High skill class
-╰──────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+  Legion Revenant → Best all-round
+  Void Highlord → Best solo
+  ArchMage → High skill class
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-      ITEM PROGRESSION
-╚════════════════════════════════╝
+📘 ITEM PROGRESSION  ·  TIER 1
+╭────────────────────────────────────────────────────────────────────────╮
+  XP Weapons → +20% XP
+  Burning Blade → +15% Damage
 
-⚔️ TIER 1
-╭──────────────────────────────────╮
-XP Weapons → +20% XP
-Burning Blade → +15% Damage
-
-Blade of Awe → Unlock enhancements
-Cape of Awe → +25% XP/Gold/Rep
-╰──────────────────────────────────╯
+  Blade of Awe → Unlock enhancements
+  Cape of Awe → +25% XP/Gold/Rep
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ TIER 2
-╭──────────────────────────────────╮
-Polly Roger / AFDL → +30% dmg tagged
-BLoD → +75% vs Undead
-╰──────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+  Polly Roger / AFDL → +30% dmg tagged
+  BLoD → +75% vs Undead
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ TIER 3
-╭──────────────────────────────────╮
-BBoA / Hollowborn → +30% dmg all
-Iara Weapons → +35% dmg all
+╭────────────────────────────────────────────────────────────────────────╮
+  BBoA / Hollowborn → +30% dmg all
+  Iara Weapons → +35% dmg all
 
-Optional: ENNH
-Optional: Void Warlock Weapons
-╰──────────────────────────────────╯
+  Optional: ENNH
+  Optional: Void Warlock Weapons
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ TIER 4
-╭──────────────────────────────────╮
-Exalted Apotheosis → +51% dmg all
+╭────────────────────────────────────────────────────────────────────────╮
+  Exalted Apotheosis → +51% dmg all
 
-AFDL / Pyromancer → Hybrid boosts
-Elemental / Chaos / Human weapons
-╰──────────────────────────────────╯
+  AFDL / Pyromancer → Hybrid boosts
+  Elemental / Chaos / Human weapons
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ TIER 5
-╭──────────────────────────────────╮
-Legion Beast Helm → Multi boost
-Awe-scension → Best CP/Rep
+╭────────────────────────────────────────────────────────────────────────╮
+  Legion Beast Helm → Multi boost
+  Awe-scension → Best CP/Rep
 
-SDKA + NSoD → Endgame grind
-╰──────────────────────────────────╯
+  SDKA + NSoD → Endgame grind
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-      XP FARMING GUIDE
-╚════════════════════════════════╝
-
-📈 GENERAL TIPS
-╭──────────────────────────────────╮
-✔ Use farming class
-✔ Use XP boost gear
-✔ Use Wheel of Doom boosts
-✔ Wait for server boosts (optional)
-╰──────────────────────────────────╯
+⚔️ XP FARMING GUIDE  ·  GENERAL TIPS
+╭────────────────────────────────────────────────────────────────────────╮
+  ✔ Use farming class
+  ✔ Use XP boost gear
+  ✔ Use Wheel of Doom boosts
+  ✔ Wait for server boosts (optional)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ NON-MEMBER
-╭──────────────────────────────────╮
-Lv 1–49 → /firewar or /originul
-Lv 50–54 → /icestormarena
+╭────────────────────────────────────────────────────────────────────────╮
+  Lv 1–49 → /firewar or /originul
+  Lv 50–54 → /icestormarena
 
-Lv 55–74 →
-→ Frostspawn Horrors
-→ /sevencircleswar (best XP)
+  Lv 55–74 →
+  → Frostspawn Horrors
+  → /sevencircleswar (best XP)
 
-Lv 75–100 →
-→ Frost Spirits
-→ Ultra Bosses (group)
-╰──────────────────────────────────╯
+  Lv 75–100 →
+  → Frost Spirits
+  → Ultra Bosses (group)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ MEMBER
-╭──────────────────────────────────╮
-Lv 1–74 → /nightmare (BEST)
+╭────────────────────────────────────────────────────────────────────────╮
+  Lv 1–74 → /nightmare (BEST)
 
-Lv 75–100 → Same as non-mem
+  Lv 75–100 → Same as non-mem
 
-Extra daily boss quests
-╰──────────────────────────────────╯
+  Extra daily boss quests
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-      IMPORTANT ACRONYMS
-╚════════════════════════════════╝
-
-📦 CLASSES
-╭──────────────────────────────────╮
-LR → Legion Revenant
-VHL → Void Highlord
-LoO → Lord of Order
-AP → ArchPaladin
-DoT → Dragon of Time
-╰──────────────────────────────────╯
+📘 IMPORTANT ACRONYMS  ·  CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  LR → Legion Revenant
+  VHL → Void Highlord
+  LoO → Lord of Order
+  AP → ArchPaladin
+  DoT → Dragon of Time
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 ITEMS
-╭──────────────────────────────────╮
-BLoD → Blinding Light of Destiny
-BBoA → Burning Blade of Abezeth
-NSoD → Necrotic Sword of Doom
-SDKA → Sepulchure Armor
-╰──────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+  BLoD → Blinding Light of Destiny
+  BBoA → Burning Blade of Abezeth
+  NSoD → Necrotic Sword of Doom
+  SDKA → Sepulchure Armor
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 GENERAL
-╭──────────────────────────────────╮
-DPS → Damage/sec
-DoT → Damage over time
-HoT → Heal over time
-AoE → Multi-target attack
-AFK → Away from keyboard
-╰──────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+  DPS → Damage/sec
+  DoT → Damage over time
+  HoT → Heal over time
+  AoE → Multi-target attack
+  AFK → Away from keyboard
+╰────────────────────────────────────────────────────────────────────────╯

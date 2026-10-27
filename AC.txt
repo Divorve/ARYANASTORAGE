@@ -1,47 +1,47 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   ADVENTURE COINS (ACs) - Raymond was here
+               A D V E N T U R E    C O I N S    ( A C S )
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-💡 FREE ACs
-╭──────────────────────────────────╮
+💡 FREE ACS
+╭────────────────────────────────────────────────────────────────────────╮
   1,500 ACs are given out free each year:
-  · 500 ACs — AQW Anniversary event (October)
-  · 500 ACs — Frostval event (December)
-  · 500 ACs — Honourable Hero badge (January)
+  - 500 ACs — AQW Anniversary event (October)
+  - 500 ACs — Frostval event (December)
+  - 500 ACs — Honourable Hero badge (January)
     Awarded to players who weren't muted/banned for 24+ hours the prior year
 
   💡 If you've spent $9.95+ USD on ACs or membership, claim a Bonus Package
      from your online account manager. Recommended packs:
-     · FireLord Summoner    — great farming class
-     · Infinity Titan       — great support class (StoneCrusher)
-     · Hollowborn ShadowRaptor / Necrotic Pirate Commander /
+     - FireLord Summoner    — great farming class
+     - Infinity Titan       — great support class (StoneCrusher)
+     - Hollowborn ShadowRaptor / Necrotic Pirate Commander /
        Akiban Blademaster / Apocalyptic Lich King — all contain bank pets
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🛒 WHAT TO BUY
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Don't buy things that are easy to farm!
   The following are AC-only purchases worth considering:
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╭──────── 1. Join Legion — 1,200 ACs ────────╮
+╭────────────────────── 1. JOIN LEGION — 1,200 ACS ──────────────────────╮
   Provides many benefits, most importantly: new classes
   Complete everything within 24 hours to recover 1,080 ACs (net cost: 120 ACs)
 
   Available year-round (Legion Tokens):
-  · Infinite Legion Dark Caster · Yami no Ronin · Legion Revenant
+  - Infinite Legion Dark Caster · Yami no Ronin · Legion Revenant
 
   Seasonal (Dage's Birthday, March–April):
-  · LTs: Legion DoomKnight, Legion SwordMaster Assassin
-  · ACs: Timeless Dark Caster, Immortal Dark Caster
+  - LTs: Legion DoomKnight, Legion SwordMaster Assassin
+  - ACs: Timeless Dark Caster, Immortal Dark Caster
 
   💡 Suggested for new Legion members:
      Infinite Legion Dark Caster (farming) + Legion DoomKnight (soloing)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╭──────── 2. Nation Pets ────────╮
+╭──────────────────────────── 2. NATION PETS ────────────────────────────╮
   Worth getting if you plan to do Nation farms
 
   Nulgath's Birthday Gift        1,500 ACs
@@ -56,22 +56,22 @@
   --> Most quests accessible by other players when equipped
       Best purchased AFTER Crag & Bamboozle for synergy
       ("Diamond/Contract Exchange", "Drudgen the Salesman")
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╭──────── 3. LightCaster — 1,000 ACs ────────╮
-  Not essential — restricted to Level 80+ with better options available
-  Good for soloing and support at low cost (+ a bit of farming)
-  Pre-80: use the downgraded LightMage version (pair with Mana Vamp)
-╰──────────────────────────────────╯
+╭────────────────────── 3. LIGHTCASTER — 1,000 ACS ──────────────────────╮
+    Not essential — restricted to Level 80+ with better options available
+    Good for soloing and support at low cost (+ a bit of farming)
+  Pre-80 --> use the downgraded LightMage version (pair with Mana Vamp)
+╰────────────────────────────────────────────────────────────────────────╯
 
-╭──────── 4. ArchFiend — 2,000 ACs ────────╮
+╭─────────────────────── 4. ARCHFIEND — 2,000 ACS ───────────────────────╮
   Buffed 15 Jan 2022 — makes other farming classes largely unnecessary
   Best farming class to buy right away
   --> Purchase from Oblivion @ /join tercessuinotlim
   💡 Also farmable at Level 50+
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╭──────── 5. Calendar Classes — 6,000 ACs ────────╮
+╭─────────────────── 5. CALENDAR CLASSES — 6,000 ACS ────────────────────╮
   Expensive but among the most powerful classes in the game
   --> Purchase from Stryche @ /join heromart (Rewards > AC shop)
 
@@ -86,50 +86,50 @@
 
   Interstellar Knight     2016 Key
   Better at soloing than CMP. Use supports like Arachnomancer/Dragon of Time in groups
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╭──────── 6. Bank Pet — 2,000 ACs ────────╮
-  Lets you access your bank anywhere — just press B if it's in your inventory
-  Budget: Zorbak or Twilly pet (Game Menu > Shops > AC Gear)
-  Aesthetic: wait for TLAPD (November) for seasonal cosmetic options
-  Free via Bonus Package: Hollowborn ShadowRaptor · Necrotic Pirate Commander
-                          Akiban Blademaster · Apocalyptic Lich King
-╰──────────────────────────────────╯
+╭─────────────────────── 6. BANK PET — 2,000 ACS ────────────────────────╮
+    Lets you access your bank anywhere — just press B if it's in your inventory
+  Budget                 --> Zorbak or Twilly pet (Game Menu > Shops > AC Gear)
+  Aesthetic              --> wait for TLAPD (November) for seasonal cosmetic options
+  Free via Bonus Package --> Hollowborn ShadowRaptor · Necrotic Pirate Commander
+                             Akiban Blademaster · Apocalyptic Lich King
+╰────────────────────────────────────────────────────────────────────────╯
 
-╭──────── 7. Inventory Slots — 200 ACs each ────────╮
+╭────────────────── 7. INVENTORY SLOTS — 200 ACS EACH ───────────────────╮
   Essential for many farms (e.g. Void Highlord requires ~15 free slots)
   Useful if you like carrying many cosmetics and classes
   💡 Free slots are rewarded near the end of each year
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 💰 SUGGESTED SPENDING MIXES
-╭──────── First-time buyers — Join Legion first to recover ACs ────────╮
+╭───────── First-time buyers — Join Legion first to recover ACs ─────────╮
   2,000 ACs
-  · Join Legion              1,200
-  · Nulgath's Birthday Gift  1,500
-  · 1 Inventory Slot           200
+  - Join Legion              1,200
+  - Nulgath's Birthday Gift  1,500
+  - 1 Inventory Slot           200
   Total: 1,820 ACs
 
   6,000 ACs
-  · Join Legion              1,200
-  · Nulgath's Birthday Gift  1,500
-  · ArchFiend or 10 Inv. Slots 2,000
-  · Bank Pet or 10 Inv. Slots  2,000
-  · 1 Inventory Slot             200
+  - Join Legion              1,200
+  - Nulgath's Birthday Gift  1,500
+  - ArchFiend or 10 Inv. Slots 2,000
+  - Bank Pet or 10 Inv. Slots  2,000
+  - 1 Inventory Slot             200
   Total: 5,820 ACs
 
   10,000 ACs
-  · Join Legion              1,200
-  · Nulgath's Birthday Gift  1,500
-  · Calendar Class           6,000
-  · ArchFiend, Bank Pet, or 10 Inv. Slots 2,000
-  · 1 Inventory Slot           200
+  - Join Legion              1,200
+  - Nulgath's Birthday Gift  1,500
+  - Calendar Class           6,000
+  - ArchFiend, Bank Pet, or 10 Inv. Slots 2,000
+  - 1 Inventory Slot           200
   Total: 9,820 ACs
 
   12,000 ACs
-  · Join Legion              1,200
-  · Crag & Bamboozle         5,000
-  · Calendar Class           6,000
-  · 4 Inventory Slots          800
+  - Join Legion              1,200
+  - Crag & Bamboozle         5,000
+  - Calendar Class           6,000
+  - 4 Inventory Slots          800
   Total: 11,920 ACs
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

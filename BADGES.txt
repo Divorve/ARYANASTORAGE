@@ -1,11 +1,11 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   BADGES - RXZR was here
+                               B A D G E S
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚔️ FARM BADGES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Blinding Light of Destiny
   --> Obtain the Blinding Light of Destiny
 
@@ -54,10 +54,10 @@
 
   Chaos Avenger
   --> Obtain Chaos Avenger
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗺️ QUEST / LOCATION BADGES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Justice Squad
   --> Complete Nythera's "Sign Nythera's Scroll" @ /join battleontown
       Defeat the Frogzard
@@ -185,10 +185,10 @@
   Chaos PuppetMaster
   --> Complete /join transformation > /join downbelow
       including "Undying Rage" (defeat Earthwyrms and Anka)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗓️ SEASONAL BADGES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Moglin Punter                  February–March
   --> Punt Twilly 100 yards @ /join punt
 
@@ -252,4 +252,4 @@
   --> Log in once during the year with Level 11+ account
       No 24hr+ mute or ban required
       Rewards 500 ACs in January
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

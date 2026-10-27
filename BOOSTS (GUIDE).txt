@@ -1,47 +1,49 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   BOOSTS GUIDE
+                         B O O S T S    G U I D E
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📋 HOW BOOSTS WORK
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Boosts of the same kind do NOT stack — the game uses the highest equipped
   Example: Cape of Awe (25% Rep) + Dark Summoner armour (15% Rep) = 25% Rep total
 
   However, consumable boosts, server boosts, and gear boosts all stack with each other
   💡 Best time to farm: align a server boost + consumable boost + gear boost simultaneously
 
-  ──────── Damage Boosts ────────
+  [ Damage Boosts ]
   Two boosts of the same type don't stack, BUT:
   --> A boost to All CAN stack with a boost to a specific tagged enemy type
   Example: Void Warlock Armour (25% All) + BLoD (75% Undead)
            = 118.75% extra damage vs Undead, 25% vs everything else
 
-  ──────── Why 118.75%? (Multiplicative Stacking) ────────
+  [ Why 118.75%? (Multiplicative Stacking) ]
   Boosts are calculated multiplicatively, not additively:
   --> 1.25 × 1.75 = 2.1875 = 118.75% extra damage
 
   ⚠️ Damage boosts do NOT affect DoTs or HoTs
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ BEST MIXES
-╭──────── Acronyms ────────╮
+╭─────────────────────────────── Acronyms ───────────────────────────────╮
   EA    Exalted Apotheosis
   NSoD  Necrotic Sword of Doom
   AFDL  ArchFiend DoomLord
   IFP   Infernal Flame Pyromancer
   RGoW  Radiant Goddess of War
-╰──────────────────────────────────╯
-╭──────── Best Overall ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────── Best Overall ─────────────────────────────╮
   EA or NSoD + RGoW
-  · Non-Tagged:                    51% Boost
-  · Chaos, Elemental, Dragon,
+  - Non-Tagged:                    51% Boost
+  - Chaos, Elemental, Dragon,
     Undead, Human:                 126.5% Boost
-  · Gold:                          30% Boost
-  · CP, Rep:                       50% Boost
-╰──────────────────────────────────╯
-╭──────── Best Per Monster Type ────────╮
+  - Gold:                          30% Boost
+  - CP, Rep:                       50% Boost
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭──────────────────────── Best Per Monster Type ─────────────────────────╮
   With AFDL or IFP (35% All armour):
   Chaos    AFDL/IFP + Empowered Chaos Avenger's Greatsword  = 136.25%
   Undead   AFDL/IFP + Blinding Light of Destiny             = 136.25%
@@ -58,16 +60,16 @@
   Elemental EA/NSoD + Malgor the Shadowlord                  = 126.5%
 
   Without EA or NSoD — weapon alternatives:
-  · 40% All: Void Warlock Weapons · Awescended Omni Armblades
+  - 40% All: Void Warlock Weapons · Awescended Omni Armblades
              Hollowborn Reaper's Scythe · Exalted Penultima · Exalted Duality
-  · 35% All: Exalted Unity · Iara Merges
-  · 30% All: Burning Blade of Abezeth · Hollowborn Oblivion Blade
+  - 35% All: Exalted Unity · Iara Merges
+  - 30% All: Burning Blade of Abezeth · Hollowborn Oblivion Blade
              Thaumaturgus/Apostate Ultima
-  · 15% All: Burning Blade · Nightlocke Weapons
-╰──────────────────────────────────╯
+  - 15% All: Burning Blade · Nightlocke Weapons
+╰────────────────────────────────────────────────────────────────────────╯
 
 📋 ALL DAMAGE BOOST ITEMS
-╭──────── 51% All — Weapons ────────╮
+╭────────────────────────── 51% All — Weapons ───────────────────────────╮
   Hollowborn Sword of Doom · Necrotic Sword of Doom
   Necrotic Sword of the Abyss · Necrotic Blade of Doom
   Providence · Dual Exalted Apotheosis
@@ -80,50 +82,58 @@
   Empowered ShadowSpear · Empowered Ungodly Reavers
   Dual Necrotic Swords of Doom · Necrotic Sword of Doom (IoDA)
   Hollowborn Sword of Doom (IoDA)
-╰──────────────────────────────────╯
-╭──────── Multiple Racial Tags ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────── Multiple Racial Tags ─────────────────────────╮
   50% All tags:  Radiant Goddess of War
   40% All tags:  Goddess of War
   30% All tags:  Polly Roger · ArchFiend DeathLord · Divine Mantle
-╰──────────────────────────────────╯
-╭──────── 75% Racial — Weapons ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────── 75% Racial — Weapons ─────────────────────────╮
   Undead:    Blinding Light of Destiny · War Blade of Courage
   Dragon:    Legion DragonBlade of Nulgath · War Blade of Power
   Human:     Prince Darkon's Poleaxe · Darkon's Debris 2 · War Blade of Speed
   Elemental: Infernal Flame Khopesh · War Blade of Strength
   Chaos:     Empowered Chaos Avenger's Greatsword · War Blade of Wisdom
-╰──────────────────────────────────╯
-╭──────── 50%/51% Racial — Armours ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────── 50%/51% Racial — Armours ───────────────────────╮
   Undead:    Empowered Undead Champion
   Dragon:    Fire Champion's Armor
   Human:     Sepulchure's Doomknight Armor · Void Beetle General
   Elemental: Malgor the Shadowlord
   Chaos:     Empowered Chaos Avenger Armor · Empowered Drakath Armor
              Empowered Original Drakath Armor
-╰──────────────────────────────────╯
-╭──────── 40% All — Weapons ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────── 40% All — Weapons ───────────────────────────╮
   Hollowborn Reaper's Scythe · Exalted Penultima · Exalted Duality
   Awescended Omni Armblades · Void Warlock Weapons
-╰──────────────────────────────────╯
-╭──────── 35% All ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────── 35% All ────────────────────────────────╮
   Armours:  ArchFiend DoomLord · Infernal Flame Pyromancer
   Weapons:  Exalted Unity · Iara Merges
-╰──────────────────────────────────╯
-╭──────── 30% All — Weapons ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────── 30% All — Weapons ───────────────────────────╮
   Burning Blade of Abezeth · Hollowborn Oblivion Blade
-╰──────────────────────────────────╯
-╭──────── 15% All — Weapons ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────── 15% All — Weapons ───────────────────────────╮
   Burning Blade
-╰──────────────────────────────────╯
-╭──────── Non-Damage Boosts ────────╮
+╰────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────── Non-Damage Boosts ───────────────────────────╮
   30% Gold, 50% CP/Rep:
-  · Awescended (Armour) · Awscended Omni Cowl · Awscended Omni Wings
-  · Divine Veil · Divine Veil and Locks · Radiant Goddess of War
+  - Awescended (Armour) · Awscended Omni Cowl · Awscended Omni Wings
+  - Divine Veil · Divine Veil and Locks · Radiant Goddess of War
 
   25% Gold/XP/CP/Rep:
-  · Cape of Awe · Armour of Awe · Helm of Awe
-  · Every 35% All Armour except Astral Mantle
+  - Cape of Awe · Armour of Awe · Helm of Awe
+  - Every 35% All Armour except Astral Mantle
 
   20% XP:
-  · Shadow Blade of Despair / Arcane Blade of Glory
-╰──────────────────────────────────╯
+  - Shadow Blade of Despair / Arcane Blade of Glory
+╰────────────────────────────────────────────────────────────────────────╯

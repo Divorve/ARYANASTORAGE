@@ -1,33 +1,32 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   MEMBERSHIP
+                           M E M B E R S H I P
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 💡 PERKS
-╭──────────────────────────────────╮
-  · Faster XP, Gold, and Rep via exclusive methods and daily boosts
+╭────────────────────────────────────────────────────────────────────────╮
+  - Faster XP, Gold, and Rep via exclusive methods and daily boosts
     (free 1hr boosts from WoD and Ragnar @ /join battleon)
-  · Access to better-stat enhancements (usable even after membership expires)
-  · Many member-exclusive badges (see Badges guide)
-  · Bonus Package from online account manager on upgrade:
-    · FireLord Summoner    — FireLord Summoner class + house
-    · Infinity Titan       — Infinity Titan class (StoneCrusher clone) + house
-    · Hollowborn ShadowRaptor / Necrotic Pirate Commander /
+  - Access to better-stat enhancements (usable even after membership expires)
+  - Many member-exclusive badges (see Badges guide)
+  - Bonus Package from online account manager on upgrade:
+    - FireLord Summoner    — FireLord Summoner class + house
+    - Infinity Titan       — Infinity Titan class (StoneCrusher clone) + house
+    - Hollowborn ShadowRaptor / Necrotic Pirate Commander /
       Akiban Blademaster / Apocalyptic Lich King — all contain a bank pet
-  · Create guilds: /gc [name] · /gi [player] · /gr [player] · /g for guild chat
-  · No server population caps + access to Sir Ver (member-only server)
-  · Access to many member-only locations
-  · Pre-release class access (VHL, LR, CAv, SSG, GB, LDK, LC, Necro)
-  · Blue name tag + wider Character Page background selection
-  · 2 free monthly Treasure Chest Keys from Valencia @ /join battleon
+  - Create guilds: /gc [name] · /gi [player] · /gr [player] · /g for guild chat
+  - No server population caps + access to Sir Ver (member-only server)
+  - Access to many member-only locations
+  - Pre-release class access (VHL, LR, CAv, SSG, GB, LDK, LC, Necro)
+  - Blue name tag + wider Character Page background selection
+  - 2 free monthly Treasure Chest Keys from Valencia @ /join battleon
     (0.75% drop rate from any enemy — reward cosmetic items)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ CLASSES
-╭──────── ★ = Most Important  |  ☆ = Important ────────╮
-
-  ──────── Requires Membership to Use ────────
+╭───────────────── ★ = Most Important  |  ☆ = Important ─────────────────╮
+  [ Requires Membership to Use ]
 
   Alpha Omega
   --> Merge 300 Combat Trophies @ Ragnar's Legends of Lore > Legendary Classes
@@ -106,7 +105,7 @@
   --> Rank 10 DoomWood then purchase from Artix's DoomWood II Rep shop
       @ /join necropolis for 50k Gold
 
-  ──────── Requires Membership to Obtain ────────
+  [ Requires Membership to Obtain ]
 
   BeastMaster
   --> Rank 10 BeastMaster then purchase from Faith's shop @ /join northpointe
@@ -132,7 +131,7 @@
       Upgrade Version > Legendary Elemental Capes shop @ /join curio
       Merge class in the Legendary Elemental Class shop
 
-  ──────── Obtained Faster with Membership ────────
+  [ Obtained Faster with Membership ]
 
   ★ ArchPaladin
   --> Highly defensive soloing/support class. See guide
@@ -165,12 +164,11 @@
   The Collector
   --> Complete Drakath (Kid)'s quests @ /join terrarium
       Merge 90 Tokens of Collection @ Collector Token Merge shop @ /join collection
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ ITEMS
-╭──────── ★ = Most Important  |  ☆ = Important ────────╮
-
-  ──────── Requires Membership to Use ────────
+╭───────────────── ★ = Most Important  |  ☆ = Important ─────────────────╮
+  [ Requires Membership to Use ]
 
   ★ Unarmed
   --> Invisible weapon with static damage range (great for testing)
@@ -191,7 +189,7 @@
       Not needed if you own OBoN or Nulgath Challenge Pet
       See Gemstone of Nulgath guide
 
-  ──────── Requires Membership to Obtain ────────
+  [ Requires Membership to Obtain ]
 
   ★ Sepulchure's DoomKnight Armour
   --> 51% extra damage vs Human + makes NSoD farm much easier
@@ -215,16 +213,16 @@
       Can be used from inventory after membership expires
       See Reagent Library
 
-  ──────── Obtained Faster with Membership ────────
+  [ Obtained Faster with Membership ]
 
   ★ Cape of Awe
   --> 25% extra XP, CP, Gold, and Rep
       Members can be any level — non-members need Level 55+
       See guide
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗓️ COSMETIC EVENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Nulgath's Birthday       January / February
   Heroes Heart Day         February
   Dage's Birthday          March / April
@@ -233,4 +231,4 @@
   Black Friday             November
   Cyber Monday             November
   Frostval                 December
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

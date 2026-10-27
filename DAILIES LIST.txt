@@ -1,26 +1,25 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   DAILIES LIST
+                         D A I L I E S    L I S T
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 💡 NOTES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   ★ = Most Important  |  ☆ = Important
   All daily quests reset at 12:01am EST
   Weekly quests reset on Friday
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ PERMANENT FARMS
-╭──────── ★ = Most Important  |  ☆ = Important ────────╮
-
-  ──────── Beyond ────────
+╭───────────────── ★ = Most Important  |  ☆ = Important ─────────────────╮
+  [ Beyond ]
 
   Hollowborn DoomKnight + Badge
   --> Same boosts as original items + 25% extra Gold
       (difficulty lies in requirements: NSoD, SDKA, Level 100, and more)
 
-  ──────── Extraordinary ────────
+  [ Extraordinary ]
 
   ☆ Necrotic Sword of Doom + Badge
   --> 51% extra damage to All
@@ -30,7 +29,7 @@
       Weapon: 40% extra damage to All
       (difficulty lies in item and story requirements)
 
-  ──────── Very Difficult ────────
+  [ Very Difficult ]
 
   Empowered Vordred's Armour
   --> 51% extra damage to Humans (requires SDKA)
@@ -47,7 +46,7 @@
   Void Warlock
   --> Cosmetics
 
-  ──────── Difficult ────────
+  [ Difficult ]
 
   ★ ArchFiend DoomLord
   --> 35% damage to All (15% for accessory pieces) + 25% XP, CP, Rep, Gold
@@ -80,7 +79,7 @@
   Evolved Shadow/Hex/Blood Orb Quests
   --> Cosmetics
 
-  ──────── Hard ────────
+  [ Hard ]
 
   ★ Blinding Light of Destiny + Badge
   --> 75% extra damage to Undead
@@ -117,7 +116,7 @@
   Void Shogun / Void Spartan
   --> Cosmetics
 
-  ──────── Medium ────────
+  [ Medium ]
 
   ★ (Legion) DragonBlade of Nulgath
   --> 75% extra damage to Dragons
@@ -152,7 +151,7 @@
   Golden Hanzo Void
   --> Cosmetic
 
-  ──────── Fair ────────
+  [ Fair ]
 
   ☆ Burning Blade of Abezeth
   --> 30% extra damage to All
@@ -170,23 +169,22 @@
   ArchFiend Baby Dragon
   --> Cosmetic (Pet)
 
-  ──────── Easy ────────
+  [ Easy ]
 
   ☆ Burning Blade
   --> 15% extra damage to All
       1% drop from Diabolical Warlord @ /join lostruinswar
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🗓️ SEASONAL FARMS
-╭──────── ★ = Most Important  |  ☆ = Important ────────╮
-
-  ──────── January – February ────────
+╭───────────────── ★ = Most Important  |  ☆ = Important ─────────────────╮
+  [ January – February ]
 
   ★ Nulgath's Birthday Gift     1,500 ACs
   --> Purchase from Game Menu during Nulgath's Birthday event
       Speeds up farming for Nation reagents — well worth it
 
-  ──────── February – March ────────
+  [ February – March ]
 
   Evolved Leprechaun             2,000 ACs or Farmed
   --> /join luck. If farming: 12 Lucky Clovers (Mog O'Rahilly's daily quest —
@@ -196,7 +194,7 @@
       defeat Monochrome @ /join rainbow)
   💡 Great GDPS (group DPS) potential
 
-  ──────── March – April ────────
+  [ March – April ]
 
   ★ Shogun Paragon Pet           Farmed (2,000 LTs)
   --> Future War Merge shop @ /join futurewar
@@ -222,7 +220,7 @@
       at 4th level down @ /join temple
   ⚠️ Only get with leftover Legion Tokens
 
-  ──────── April ────────
+  [ April ]
 
   Vorpal Bunny                   Farmed
   --> "Egg Hunt - Vorpal Bunny" from Cabdury @ /join battleon (Easter event)
@@ -231,12 +229,12 @@
       Used to farm Gold via its "Bunny Berzerker Armour - Were Egg" quest
       (sell the armour reward) — not the most efficient method
 
-  ──────── May ────────
+  [ May ]
 
   ★ Dark Lord                    Farmed
   --> Complete storyline quests @ /join murdermoon then merge the class
 
-  ──────── September ────────
+  [ September ]
 
   Heroic/Legendary Naval Commander  100k Gold (mem-only) or 2,000 ACs
   --> Game Menu during TLAPD event
@@ -258,7 +256,7 @@
       30% damage to all tagged enemies — stack with an All-damage weapon
       See Polly Roger guide
 
-  ──────── October ────────
+  [ October ]
 
   ★ Vampire Lord                 2,000 ACs or Farmed
   --> 2k ACs from Game Menu OR farm Blood Moon Token quests from Barnabus
@@ -270,7 +268,7 @@
       OR drops from Great Pumpkin King @ /join mogloween (October)
       OR merge 500 Glowing Pumpkinseeds from Apephryx @ /join cruxship (year-round)
 
-  ──────── November ────────
+  [ November ]
 
   Abyssal Angel's Shadow         2,000 ACs
   --> Game Menu during Black Friday event
@@ -284,7 +282,7 @@
   --> Game Menu during Black Friday event
   ⚠️ Not worth it — normal version obtainable for free with Rank 10 Swordhaven
 
-  ──────── December – January ────────
+  [ December – January ]
 
   ☆ Frostval Barbarian           2,000 ACs or Farmed
   --> Robina's "Unleash the Frostvale Barbarian" @ /join frostvale
@@ -296,12 +294,11 @@
   Northlands Monk                Farmed
   --> Defeat FrozenSoul Queen @ /join frozensoul during Frostvale
   ⚠️ Mediocre class — outclassed by other support options
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🔁 DAILIES
-╭──────── ★ = Most Important  |  ☆ = Important ────────╮
-
-  ──────── Classes ────────
+╭───────────────── ★ = Most Important  |  ☆ = Important ─────────────────╮
+  [ Classes ]
 
   ★ Chaos Avenger                28 days mem / 28 days non-mem
   --> "Chaos Avenger Class" @ /join championdrakath
@@ -339,7 +336,7 @@
   --> Drakath (Kid)'s quests @ /join terrarium (defeat enemies in same map)
       Merge 90 Tokens of Collection @ Collector Token Merge shop @ /join collection
 
-  ──────── Items ────────
+  [ Items ]
 
   ★ Exalted Apotheosis           24 days mem / 24 days non-mem
   --> 24 Ezrajal Insignias + 24 Warden Insignias + 16 Engineer Insignias
@@ -368,7 +365,7 @@
   --> 30 Moglin MEALs from Aria's "Moglin Companions" @ /join ariapet
       Defeat Frogzards @ /join nexus
 
-  ──────── Misc ────────
+  [ Misc ]
 
   ★ Boosts & Wheel of Doom       Daily / Weekly
   --> Weekly spin @ /join doom for everyone (use 3 Gears of Doom)
@@ -422,4 +419,4 @@
   1v1 Legion PvP Trophy          Daily
   --> Same as above but @ /join legionpvp
       Duel @ /join dage1v1. Used for shops in /join legionpvp
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
