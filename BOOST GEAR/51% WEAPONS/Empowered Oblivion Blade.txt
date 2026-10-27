@@ -26,39 +26,40 @@
   Must have Oblivion Blade of Nulgath (Sword) in inventory
 
   ⚠️ Oblivion Blade of Nulgath is a Rare item — only obtainable via IoDA now
-     (see the Wheel of Doom guide)
+     --> 📖 Pet Quests · 📖 WHEEL OF DAMN (DOOM)
 
-  ⚠️ Refer to ITEMS / NULGATH channel in OUR Server for all materials below
+  💡 Every Nulgath material below has its own guide
+     --> 📖 ITEMS / NULGATH / MATERIALS
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ EMPOWERED OBLIVION BLADE
 ╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
-  Dark Crystal Shard       ×150 --> (Refer to ITEMS / NULGATH channel in OUR Server)
-  Diamond of Nulgath       ×500 --> (Refer to ITEMS / NULGATH channel in OUR Server)
-  Totem of Nulgath         ×30  --> (Refer to ITEMS / NULGATH channel in OUR Server)
-  Voucher of Nulgath (non-mem) ×1 --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Dark Crystal Shard       ×150 --> 📖 Dark Crystal Shard
+  Diamond of Nulgath       ×500 --> 📖 Diamond of Nulgath
+  Totem of Nulgath         ×30  --> 📖 Totem of Nulgath
+  Voucher of Nulgath (non-mem) ×1 --> 📖 Voucher of Nulgath (non-mem)
   Bane of Nulgath          ×1   --> "Nulgath's Roulette of Misfortune" Quest
                                     (see BANE OF NULGATH box below)
-  Nulgath Insignia         ×25  --> /join Ultranulgath (Complete the weekly quest there)
+  Nulgath Insignia         ×25  --> /join Ultranulgath weekly --> 📖 Ultranulgath
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ EMPOWERED CHARGED OBLIVION BLADE
 ╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
-  Dark Crystal Shard       ×150 --> (Refer to ITEMS / NULGATH channel in OUR Server)
-  Diamond of Nulgath       ×500 --> (Refer to ITEMS / NULGATH channel in OUR Server)
-  Totem of Nulgath         ×30  --> (Refer to ITEMS / NULGATH channel in OUR Server)
-  Voucher of Nulgath (non-mem) ×1 --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Dark Crystal Shard       ×150 --> 📖 Dark Crystal Shard
+  Diamond of Nulgath       ×500 --> 📖 Diamond of Nulgath
+  Totem of Nulgath         ×30  --> 📖 Totem of Nulgath
+  Voucher of Nulgath (non-mem) ×1 --> 📖 Voucher of Nulgath (non-mem)
   Bane of Nulgath          ×1   --> "Nulgath's Roulette of Misfortune" Quest
                                     (see BANE OF NULGATH box below)
-  Nulgath Insignia         ×25  --> /join Ultranulgath (Complete the weekly quest there)
+  Nulgath Insignia         ×25  --> /join Ultranulgath weekly --> 📖 Ultranulgath
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🗡️ BANE OF NULGATH
 ╭────────────────────────────────────────────────────────────────────────╮
   [ Option 1 — "Nulgath's Roulette of Misfortune" Quest ]
   Random reward from the quest. Accept it from any of these:
-  --> Nulgath (NPC) @ /join tercessuinotlim
-  --> Enchanted Nulgath Nation House
+  --> Nulgath (NPC) @ /join tercessuinotlim --> 📖 Tercessuinotlim
+  --> 📖 Enchanted Nulgath Nation House
   --> Oblivion Blade of Nulgath (Pet) / Oblivion Blade of Nulgath Pet (Rare)
   --> Nulgath Larvae
   --> Mini King Klunk (Pseudo-Rare)
