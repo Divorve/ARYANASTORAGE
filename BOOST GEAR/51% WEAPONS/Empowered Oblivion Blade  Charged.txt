@@ -1,0 +1,82 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+           EMPOWERED OBLIVION BLADE + CHARGED OBLIVION BLADE
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Boost --> 51% more damage to all monsters when equipped
+  Versions --> Empowered Oblivion Blade · Empowered Charged Oblivion Blade
+  Reward --> 1,000,000 Gold · 1,000,000 Exp (per quest)
+
+  💡 Both quests need the exact same materials — only the inventory
+     requirement is different.
+╰────────────────────────────────────────────────────────────────────────╯
+
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Must be Level 95
+
+  [ Empowered Oblivion Blade ]
+  Must have Oblivion Blade of Nulgath (Sword) in inventory
+
+  [ Empowered Charged Oblivion Blade ]
+  Must have Oblivion Blade of Nulgath (Pet) in inventory
+  Must have Oblivion Blade of Nulgath (Sword) in inventory
+
+  ⚠️ Oblivion Blade of Nulgath is a Rare item — only obtainable via IoDA now
+     (see the Wheel of Doom guide)
+
+  ⚠️ Refer to ITEMS / NULGATH channel in OUR Server for all materials below
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚔️ EMPOWERED OBLIVION BLADE
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
+  Dark Crystal Shard       ×150 --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Diamond of Nulgath       ×500 --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Totem of Nulgath         ×30  --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Voucher of Nulgath (non-mem) ×1 --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Bane of Nulgath          ×1   --> "Nulgath's Roulette of Misfortune" Quest
+                                    (see BANE OF NULGATH box below)
+  Nulgath Insignia         ×25  --> /join Ultranulgath (Complete the weekly quest there)
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚔️ EMPOWERED CHARGED OBLIVION BLADE
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
+  Dark Crystal Shard       ×150 --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Diamond of Nulgath       ×500 --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Totem of Nulgath         ×30  --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Voucher of Nulgath (non-mem) ×1 --> (Refer to ITEMS / NULGATH channel in OUR Server)
+  Bane of Nulgath          ×1   --> "Nulgath's Roulette of Misfortune" Quest
+                                    (see BANE OF NULGATH box below)
+  Nulgath Insignia         ×25  --> /join Ultranulgath (Complete the weekly quest there)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🗡️ BANE OF NULGATH
+╭────────────────────────────────────────────────────────────────────────╮
+  [ Option 1 — "Nulgath's Roulette of Misfortune" Quest ]
+  Random reward from the quest. Accept it from any of these:
+  --> Nulgath (NPC) @ /join tercessuinotlim
+  --> Enchanted Nulgath Nation House
+  --> Oblivion Blade of Nulgath (Pet) / Oblivion Blade of Nulgath Pet (Rare)
+  --> Nulgath Larvae
+  --> Mini King Klunk (Pseudo-Rare)
+
+  [ Option 2 — Merge ]
+  Dual Bane of Nulgath ×1 --> Yulgar's Dual Wield Drop Off - Nostalgia Quest
+
+  💡 If you are going for the Charged version you already own the
+     Oblivion Blade of Nulgath Pet, so you can take the quest from it
+     anywhere instead of travelling to /join tercessuinotlim.
+╰────────────────────────────────────────────────────────────────────────╯
+
+📦 TOTAL FOR BOTH VERSIONS
+╭────────────────────────────────────────────────────────────────────────╮
+  Dark Crystal Shard ×300          Diamond of Nulgath ×1,000
+  Totem of Nulgath ×60             Voucher of Nulgath (non-mem) ×2
+  Bane of Nulgath ×2               Nulgath Insignia ×50
+
+  💡 Nulgath Insignia only comes from the Ultra Nulgath weekly, so plan
+     ahead if you want both versions (×50 total).
+╰────────────────────────────────────────────────────────────────────────╯
