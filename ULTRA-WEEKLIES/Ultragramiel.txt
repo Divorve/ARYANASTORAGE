@@ -1,76 +1,75 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       ULTRA GRAMIEL - Synophi was here
+                        U L T R A    G R A M I E L
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚠️ BOSS MECHANICS
-╭──────── PHASE 1 ────────╮
-  Trigger: "The Grace Crystal prepares a defense shattering attack!"
-  --> 2 players alternate taunts on each crystal
+╭─────────────────────────────── PHASE 1 ────────────────────────────────╮
+    Trigger: "The Grace Crystal prepares a defense shattering attack!"
+    --> 2 players alternate taunts on each crystal
 
-  Example taunt assignment:
-  Left Crystal  → T1: LR · T2: SC
-  Right Crystal → T1: LoO · T2: Shaman (Arcana Invoker)
+    Example taunt assignment:
+    Left Crystal  → T1: LR · T2: SC
+    Right Crystal → T1: LoO · T2: Shaman (Arcana Invoker)
 
-  Trigger: "Gramiel attempts to drain your power… break his guard!"
-  --> Everyone switches to attack Gramiel (mid boss)
+    Trigger: "Gramiel attempts to drain your power… break his guard!"
+    --> Everyone switches to attack Gramiel (mid boss)
 
-  💡 Shaman should stack skill 5 on Gramiel (mid boss)
-  ⚠️ LR should NOT use skill 2 (Decay) in Phase 1
-╰──────── PHASE 2 ────────╮
+    💡 Shaman should stack skill 5 on Gramiel (mid boss)
+    ⚠️ LR should NOT use skill 2 (Decay) in Phase 1
+  ╰─────────────────────────────── PHASE 2 ────────────────────────────────╮
 
-SAFE STRAT (UPDATED)
+  SAFE STRAT (UPDATED)
 
-Crystals Die = Wait 4 - 5 Seconds
+  Crystals Die = Wait 4 - 5 Seconds
 
-DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
+  DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
 
-Call for LoO Taunt --> Half Taunt left
-Call for SC Taunt --> Half Taunt left
-Call for LR Taunt --> rush to 5.2 Million HP
+  Call for LoO Taunt --> Half Taunt left
+  Call for SC Taunt --> Half Taunt left
+  Call for LR Taunt --> rush to 5.2 Million HP
 
-5.2 Million HP ---> Boss Takes 0 damage ---> Starts taking damage again
----> wait 4 - 5 seconds
+  5.2 Million HP ---> Boss Takes 0 damage ---> Starts taking damage again
+  ---> wait 4 - 5 seconds
 
-DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
+  DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
 
-Call for LoO Taunt --> Half Taunt left
-Call for SC Taunt --> Half Taunt left
-Call for LR Taunt --> rush to 3 Million HP
+  Call for LoO Taunt --> Half Taunt left
+  Call for SC Taunt --> Half Taunt left
+  Call for LR Taunt --> rush to 3 Million HP
 
-3 Million HP ---> Boss Takes 0 damage ---> Starts taking damage again
----> wait 4 - 5 seconds
+  3 Million HP ---> Boss Takes 0 damage ---> Starts taking damage again
+  ---> wait 4 - 5 seconds
 
-DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
+  DPS taunts ---> Wait until "YOU DARE CHALLENGE ME EVIL DOER"
 
-Call for LoO Taunt --> Half Taunt left
-Call for SC Taunt --> Half Taunt left
-Call for LR Taunt --> rush to 750 Thousand HP
+  Call for LoO Taunt --> Half Taunt left
+  Call for SC Taunt --> Half Taunt left
+  Call for LR Taunt --> rush to 750 Thousand HP
 
---> Kill boss no need to taunt anymore
-
-╰──────────────────────────────────╯
+  --> Kill boss no need to taunt anymore
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ GEAR SETUPS
-╭──────── SHAMAN ────────╮
+╭──────────────────────────────── SHAMAN ────────────────────────────────╮
   Weapon --> Elysium
   Helm   --> Wizard
   Cape   --> Vainglory
   Potions: Sage Tonic · Potent Malevolence Elixir · Scroll of Enrage
-╰──────── STONECRUSHER ────────╮
+╰───────────────────────────── STONECRUSHER ─────────────────────────────╮
   Weapon --> Valiance
   Helm   --> Fighter / Hybrid · Anima
   Cape   --> Absolution
   Potions: Might Tonic · Divine Elixir · Scroll of Enrage
-╰──────── LEGION REVENANT ────────╮
+╰─────────────────────────── LEGION REVENANT ────────────────────────────╮
   Weapon --> Health Vamp
   Helm   --> Wizard
   Cape   --> Absolution
   Potions: Sage Tonic · Potent Malevolence Elixir · Scroll of Enrage
-╰──────── LORD OF ORDER ────────╮
+╰──────────────────────────── LORD OF ORDER ─────────────────────────────╮
   Weapon --> Aweblast
   Helm   --> LUK · Base Forge
   Cape   --> Penitence
   Potions: Divine Elixir · Sage Tonic · Scroll of Enrage
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,11 +1,11 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-         ULTRA DAGE
+                           U L T R A    D A G E
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚠️ BOSS MECHANICS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Dage inverts heals — no SC allowed
   (If SC has no choice: must NOT use skill 4)
 
@@ -15,10 +15,10 @@
 
   ⚠️ CAV MUST loop cycle Dage — this is non-negotiable
      If CAV cannot loop, find a new CAV
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ GEAR SETUPS
-╭──────── VERUS DOOMKNIGHT ────────╮
+╭─────────────────────────── VERUS DOOMKNIGHT ───────────────────────────╮
   Weapon --> Dauntless / Health Vamp
   Class  --> Luck
   Helm   --> Luck
@@ -30,7 +30,7 @@
   Elixir  --> Potent Battle Elixir (+25% Attack Power for 15m)
   Tonic   --> Might Tonic (+20% Strength for 15m)
   Potion  --> Potent Malice / Potent Honour (+75% damage, +25% mana cost for 35s)
-╰──────── LORD OF ORDER ────────╮
+╰──────────────────────────── LORD OF ORDER ─────────────────────────────╮
   Weapon --> Health Vamp Healer / Health Vamp Wizard
   Class  --> Wizard
   Helm   --> Wizard
@@ -40,7 +40,7 @@
   Elixir  --> Angelic Elixir (+30% healing potential for 10m)
   Tonic   --> Body Tonic (+20% Endurance for 15m)
   Scroll  --> Scroll of Lifesteal
-╰──────── CHAOS AVENGER ────────╮
+╰──────────────────────────── CHAOS AVENGER ─────────────────────────────╮
   Weapon --> Dauntless / Health Vamp
   Class  --> Luck
   Helm   --> Luck
@@ -52,7 +52,7 @@
   Elixir  --> Potent Battle Elixir
   Tonic   --> Might Tonic
   Potion  --> Potent Malice / Potent Honour
-╰──────── QUANTUM CHRONOMANCER ────────╮
+╰───────────────────────── QUANTUM CHRONOMANCER ─────────────────────────╮
   Weapon --> Dauntless / Health Vamp
   Class  --> Luck
   Helm   --> Luck
@@ -63,7 +63,7 @@
              OR Potent Battle Elixir
   Tonic   --> Fate Tonic / Might Tonic
   Potion  --> Felicitous Philtre / Potent Malice / Potent Honour
-╰──────── LEGION DOOMKNIGHT ────────╮
+╰────────────────────────── LEGION DOOMKNIGHT ───────────────────────────╮
   Weapon --> Dauntless / Health Vamp
   Class  --> Luck
   Helm   --> Luck
@@ -75,10 +75,10 @@
   Elixir  --> Potent Battle Elixir
   Tonic   --> Might Tonic
   Potion  --> Potent Malice / Potent Honour
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📖 ENHANCEMENT BREAKDOWNS
-╭──────── DAUNTLESS ────────╮
+╭────────────────────────────── DAUNTLESS ───────────────────────────────╮
   100% proc on skill 2 (3s cooldown)
   Deals 190–570% Physical Damage (scales up as your HP drops)
   Lifesteals based on Attack Power (scales up as your HP drops)
@@ -88,11 +88,11 @@
   +15% Crit Chance · +25% Haste · -50% Mana Consumption
 
   Applies Decay + Cannot Heal to self (6s)
-╰──────── HEALTH VAMP ────────╮
+╰───────────────────────────── HEALTH VAMP ──────────────────────────────╮
   50% proc on auto attack (no cooldown)
   Deals 80% True Hybrid Damage
   Heals you for 125% of base damage dealt
-╰──────── PENITENCE ────────╮
+╰────────────────────────────── PENITENCE ───────────────────────────────╮
   +25% Damage Resistance
   -25% DoT Boost
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

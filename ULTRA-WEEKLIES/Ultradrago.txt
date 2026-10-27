@@ -1,13 +1,13 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-        ULTRA DRAGO
+                          U L T R A    D R A G O
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚠️ BOSS MECHANICS
-╭──────── BOW GUY ────────╮
+╭─────────────────────────────── BOW GUY ────────────────────────────────╮
   LR spam taunts — Bow shouldn't live long enough to do anything
-╰──────── AXE GUY ────────╮
+╰─────────────────────────────── AXE GUY ────────────────────────────────╮
   AP and LoO loop taunt
   --> AP taunts first, then immediately SEALS (skill 4)
   --> Do NOT break Seal (do NOT press skill 5) until the Seal aura is almost gone
@@ -15,30 +15,30 @@
 
   ⚠️ When Bow Guy dies, Axe Guy heals to full HP
      Knock him back down — when Axe Guy dies, Drago dies too
-╰──────── MIDDLE (DRAGO) ────────╮
+╰──────────────────────────── MIDDLE (DRAGO) ────────────────────────────╮
   Do nothing special — just focus the soldiers and Drago dies on his own
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 👥 COMPOSITION & GEAR
-╭──────── LR ────────╮
-  Arcana / Elysium · WIZ · WIZ · Penitence
-╰──────── AP ────────╮
-  Lacerate / Smite / Spiral · LUK · LUK · Penitence
-╰──────── LOO ────────╮
-  Rave / Aweblast · WIZ / Healer · WIZ · Penitence
-  (If LC has Rave, LoO should use Aweblast)
-╰──────── CAV (DPS) ────────╮
-  Dauntless · LUK · Anima · Vainglory
-╰──────── INTERCHANGEABLE DPS ────────╮
+╭────────────────────────────────── LR ──────────────────────────────────╮
+  - Arcana / Elysium · WIZ · WIZ · Penitence
+╰────────────────────────────────── AP ──────────────────────────────────╮
+  - Lacerate / Smite / Spiral · LUK · LUK · Penitence
+╰───────────────────────────────── LOO ──────────────────────────────────╮
+  - Rave / Aweblast · WIZ / Healer · WIZ · Penitence
+  - (If LC has Rave, LoO should use Aweblast)
+╰────────────────────────────── CAV (DPS) ───────────────────────────────╮
+  - Dauntless · LUK · Anima · Vainglory
+╰───────────────────────── INTERCHANGEABLE DPS ──────────────────────────╮
   AI  --> Elysium · WIZ · WIZ · Penitence / Vainglory
   CSS --> Rave · LUK · Vim · Lament
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🧪 POTIONS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Physical DPS  --> Potent Battle Elixir + Might Tonic + Potent Malice / Honour
   Magical DPS   --> Potent Malevolence + Sage Tonic + Potent Malice / Honour
   Struggling    --> Angelic Elixir + Body Tonic
 
   💡 Use Scroll of Enrage on the boss
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

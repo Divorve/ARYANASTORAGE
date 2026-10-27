@@ -1,26 +1,26 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       ULTRA SPEAKER
+                        U L T R A    S P E A K E R
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚙️ GEAR SETUPS
-╭──────── LORD OF ORDER ────────╮
+╭──────────────────────────── LORD OF ORDER ─────────────────────────────╮
   Weapon --> Aweblast
   Helm   --> LUK · Base Forge
   Cape   --> Penitence
   Potions: Divine Elixir · Sage Tonic · Scroll of Enrage
-╰──────── LEGION REVENANT ────────╮
+╰─────────────────────────── LEGION REVENANT ────────────────────────────╮
   Weapon --> Arcana Concerto
   Helm   --> Wizard
   Cape   --> Lament
   Potions: Sage Tonic · Potent Malevolence Elixir · Scroll of Enrage
-╰──────── ARCHPALADIN ────────╮
+╰───────────────────────────── ARCHPALADIN ──────────────────────────────╮
   Weapon --> Valiance / Praxis
   Helm   --> LUK · Base Forge
   Cape   --> Penitence
   Potions: Unstable Fate Tonic · Potent Battle Elixir · Scroll of Enrage
-╰──────── DPS ────────╮
+╰───────────────────────────────── DPS ──────────────────────────────────╮
   💡 These are suggestions — other DPS classes can work
 
   Chrono ShadowHunter (CSS)
@@ -40,10 +40,10 @@
   Helm   --> LUK · Examen
   Cape   --> Vainglory
   Potions: Fate Tonic · Potent Battle Elixir · Felicitous Philtre
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📎 REFERENCE
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   3-man chart: Check the discord for charts
   2-man chart: Check the discord for charts
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

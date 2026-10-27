@@ -1,23 +1,23 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-        ULTRA DARKON - Matri was here
+                         U L T R A    D A R K O N
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 👥 COMPOSITION
-╭──────────────────────────────────╮
-  LoO   (non-negotiable)
-  LR    (non-negotiable)
-  Healer (PCM / STONECRUSHER)
-  DPS (AI / K.E / CSS / LC)
-╰──────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+  - LoO   (non-negotiable)
+  - LR    (non-negotiable)
+  - Healer (PCM / STONECRUSHER)
+  - DPS (AI / K.E / CSS / LC)
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ GEAR SETUPS
-╭──────── LOO ────────╮
+╭───────────────────────────────── LOO ──────────────────────────────────╮
   LUK class · Base Forge helm · Absolution · Aweblast
-╰──────── LR ────────╮
+╰────────────────────────────────── LR ──────────────────────────────────╮
   WIZ class · Pneuma helm · Lament · Arcana Concerto
-╰──────── HEALERS ────────╮
+╰─────────────────────────────── HEALERS ────────────────────────────────╮
   ArchPaladin       --> LUK class · Base Forge helm · Lament · Praxis
                         uFate · uBattle · Feli Pot
   Frostval Barbarian --> Fighter class · Anima helm · Absolution · Valiance
@@ -26,7 +26,7 @@
                         Divine · uMight · Potent Honour
   Paladin Chrono    --> Fighter class · Vim helm · Absolution · Valiance
                         uBody · uBattle · Holey Cheese
-╰──────── DPS ────────╮
+╰───────────────────────────────── DPS ──────────────────────────────────╮
   Guardian  --> LUK class · Vim helm · Penitence · Ravenous
                 uFate · uBattle · Feli Pot
   CSS       --> LUK class · Base Forge helm · Penitence · Arcana Concerto / Valiance
@@ -38,26 +38,26 @@
 
   💡 Other DPS classes are welcome, but slow DPS in Phase 2 can give
      your healer bad Haste — use recommended classes where possible
-╰──────── STANDARD COMP (with PCM) ────────╮
+╰─────────────────────── STANDARD COMP (with PCM) ───────────────────────╮
   LR    --> Arcana / Elysium · WIZ · WIZ · Penitence
   PCM   --> Ely / Rave / ManaVamp · Healer · Healer · Absolution / Penitence
   LoO   --> Rave / Aweblast · LUK · LUK · Penitence
   DPS   --> (any recommended class above)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🧪 POTIONS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   CAV / VDK / Sentinel    --> Potent Battle Elixir + Might Tonic + Potent Malice / Honour
   LR / LoO / LC / SC      --> Potent Malevolence + Sage Tonic + Potent Malice / Honour
   Constantly dying        --> Angelic Elixir + Body Tonic
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚠️ BOSS MECHANICS
-╭──────── PHASE 1 — 22,222,222 HP to 15,555,555 HP ────────╮
+╭─────────────── PHASE 1 — 22,222,222 HP to 15,555,555 HP ───────────────╮
   Every auto applies -50% Hit Chance debuff (non-stackable)
   Two mouth animations (Elegy) = Stun — these are tauntable
   ⚠️ If still in Phase 1 at 72 seconds, Darkon begins one-shotting
-╰──────── PHASE 2 — 15,555,555 HP to 4,444,444 HP ────────╮
+╰─────────────── PHASE 2 — 15,555,555 HP to 4,444,444 HP ────────────────╮
   Every auto applies -22% Haste debuff (stackable)
   Taunting mouth animations removes the Haste debuff
 
@@ -72,14 +72,14 @@
 
   Once he reaches low HP, damage output increases significantly
   and taunters no longer need to loop taunt
-╰──────── PHASE 3 — 20,000,000 HP to 0 ────────╮
+╰───────────────────── PHASE 3 — 20,000,000 HP to 0 ─────────────────────╮
   Autos hit harder for the first 50 seconds
   Taunting mouth animations now applies a mana cost debuff
   The nuke now applies an 8-second DoT
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 AUTO / ELEGY PATTERN
-╭──────── STANDARD PATTERN (P1) ────────╮
+╭──────────────────────── STANDARD PATTERN (P1) ─────────────────────────╮
   Start Animation
   Auto         --> LoO heal
   Auto (T1)    --> AP / PCM heal
@@ -96,7 +96,7 @@
   Auto         --> LoO heal
   Nuke (T2)    --> AP / PCM heal
   Elegy
-╰──────── IF PHASE TRANSITION OCCURS DURING ELEGY ────────╮
+╰─────────────── IF PHASE TRANSITION OCCURS DURING ELEGY ────────────────╮
   Auto         --> AP / PCM heal
   Auto (T1)    --> LoO heal
   Elegy
@@ -108,4 +108,4 @@
      do NOT double-heal at the same time, you're fine
   💡 If PCM is in the team, LoO can spam heals freely
      AP must still follow the healing guide
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

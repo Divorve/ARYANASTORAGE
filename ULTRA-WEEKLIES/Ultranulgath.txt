@@ -1,52 +1,52 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       ULTRA NULGATH
+                        U L T R A    N U L G A T H
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 👥 COMPOSITIONS
-╭──────── F2P COMP ────────╮
-  DoT  ×2
-  LR
-  LoO
-╰──────── FASTEST COMP ────────╮
-  CSS
-  VDK
-  LR
-  LoO
-╰──────────────────────────────────╯
+╭─────────────────────────────── F2P COMP ───────────────────────────────╮
+  - DoT  ×2
+  - LR
+  - LoO
+╰───────────────────────────── FASTEST COMP ─────────────────────────────╮
+  - CSS
+  - VDK
+  - LR
+  - LoO
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ GEAR SETUPS
-╭──────── F2P COMP ────────╮
+╭─────────────────────────────── F2P COMP ───────────────────────────────╮
   DoT  --> Elysium · WIZ · Pneuma · Vainglory
            Rotation: 2 → 3 → 5 → 3 → 4 → 3 · Repeat
   LR   --> Arcana · WIZ · WIZ · Lament
   LoO  --> Aweblast · LUK · LUK · Penitence
-╰──────── FASTEST COMP ────────╮
+╰───────────────────────────── FASTEST COMP ─────────────────────────────╮
   CSS  --> Ravenous · LUK · Base Forge · Lament / Vainglory
   VDK  --> Ravenous · LUK · Anima · Vainglory
   LR   --> Arcana · WIZ · WIZ · Penitence
   LoO  --> Aweblast · LUK · Base Forge · Penitence
-╰──────── ALTERNATIVE COMP ────────╮
+╰─────────────────────────── ALTERNATIVE COMP ───────────────────────────╮
   DoT  --> Elysium · Healer · Pneuma · Vainglory
            Rotation: 2 → 3 → 5 → 3 → 4 → 3 → 2 · Repeat
   LR   --> Arcana / Elysium · WIZ · WIZ · Penitence
   AP   --> Rave / Lacerate / Smite / Spiral · LUK · LUK · Penitence
   LoO  --> Rave / Aweblast · WIZ / Healer · WIZ · Penitence
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🧪 POTIONS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   DoT  --> Unstable Malevolence · Unstable Sage · Potent Honour
   CSS  --> Unstable Fate · Unstable / Potent Battle · Feli Pot
   VDK  --> Unstable Fate · Potent Battle · Potent Honour
   Physical DPS --> Potent Battle Elixir + Might Tonic + Potent Malice / Honour
   Magical DPS  --> Potent Malevolence + Sage Tonic + Potent Malice / Honour
   Struggling   --> Angelic Elixir + Body Tonic
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚠️ BOSS MECHANICS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   LR + AP loop taunt Nulgath — if untaunted he will nuke the party
 
   DoT damage will hit the Blade without targeting it
@@ -54,11 +54,11 @@
 
   LoO: Occasionally press 5 on the Blade
 
-  ─────── TAUNTING ───────
+  [ TAUNTING ]
   Artix server  --> LR and LoO loop taunt freely
 
   Non-Artix server --> Assign one player to taunt Behold text
                        Assign one player to taunt non-Behold text:
                        --> Wait 5 seconds from fight start, then taunt
                        --> Taunt again 1 second after the contract aura fades
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

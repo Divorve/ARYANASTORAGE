@@ -1,12 +1,11 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       GRIM CHALLENGE
-           (BINKY)
+              G R I M    C H A L L E N G E    ( B I N K Y )
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚠️ BOSS MECHANICS — HP MILESTONES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Every 5M HP lost triggers a mechanic
   LR and VDK alternate taunts throughout
   Don't forget that if the DPS is low
@@ -22,10 +21,10 @@
   10M  --> Kathool Mechanic · Everyone uses Vigil
            ALL healers spam heals · LH and LoO use skill 5 for survivability
   5M   --> Drakath Mechanic · Final stand — DPS as hard as possible
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🌀 GENERAL TIPS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   TAUNTERS    --> Lock a skill before using Taunt
 
   VIGIL       --> Use Vigil 2–3 seconds after "YOU WILL NOT RESIST" text appears
@@ -37,20 +36,20 @@
   LOCKING     --> Go to /join ultraezrajal or /join binky (member) to lock ManaVamp
                   and swap to a needed weapon enhancement before the fight
                   This preserves all skills and enhancements
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🔄 CLASS SUBSTITUTES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   CSS          --> Great Thief · Guardian
   AF           --> Light Caster · Arachnomancer
   Legendary Hero --> Stone Crusher · Frostval Barbarian ·
                      Dark Master of Moglins · Glaceran Warlord
 
   ⚠️ Do NOT play Chrono classes other than CSS and PhCM Rav build
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ CLASS GUIDES
-╭──────── CHRONO SHADOWSLAYER (CSS) ────────╮
+╭────────────────────── CHRONO SHADOWSLAYER (CSS) ───────────────────────╮
   Lock: 3 or 5 (or pre-lock)
   LUK class · Base Forge helm · Penitence / Vainglory
   Weapon: Arcana Concerto (good ping) / Valiance (bad/mid ping)
@@ -66,7 +65,7 @@
     LR will likely die from the Warden HP drop as BLEEECH decay is still on them
   ④ If using Feli Pot, try to Gunslinger just as the Kathool Haste debuff hits
     so you can still deal damage while debuffed
-╰──────── ARCHFIEND (AF) ────────╮
+╰──────────────────────────── ARCHFIEND (AF) ────────────────────────────╮
   Pre-lock weapon enhancement
   LUK class · Base Forge helm · Penitence · Ravenous
   Potions: Fate Tonic · Potent Battle · Vigil
@@ -74,7 +73,7 @@
   Tips:
   Use 4 and 5 at 15M HP and spam off cooldown
   Pray CSS can nuke Binky below 5M HP during "You will not Resist" text
-╰──────── LEGENDARY HERO (LH) ────────╮
+╰───────────────────────── LEGENDARY HERO (LH) ──────────────────────────╮
   Lock: 2
   LUK class · Base Forge helm · Absolution · Valiance
   Potions: Fate Tonic · Divine Elixir · Vigil
@@ -86,7 +85,7 @@
     pressing 5 at the Kathool mechanic
   ③ DO NOT use skill 5 at 45M HP — your HoT will kill the taunter
   ④ Latest you can use skill 5 is 15M HP
-╰──────── LORD OF ORDER (LOO) ────────╮
+╰───────────────────────── LORD OF ORDER (LOO) ──────────────────────────╮
   Lock weapon enhancement
   LUK class · Base Forge helm · Penitence · Mana Vamp
   Potions: Fate Tonic · Divine Elixir · Vigil
@@ -98,7 +97,7 @@
   ④ Try to use Quix at 30M HP (Warden Mechanic) in case healer
     cooldowns are not ready
   ⚠️ STOP skill 5 at 20M HP · Use Quix → skill 5 at 8M HP
-╰──────── ARCHPALADIN (AP) ────────╮
+╰─────────────────────────── ARCHPALADIN (AP) ───────────────────────────╮
   Lock weapon enhancement
   LUK class · Base Forge helm · Lament · Mana Vamp
   Potions: Unstable Fate Tonic · Unstable Battle · Vigil
@@ -112,7 +111,7 @@
     Quix (LoO skill 5) aura is 75% complete
   ⑤ Use AP Seal at 15M HP — your Seal functions as a Decay at this point
   ⚠️ Use skill 4 at 25M HP
-╰──────── VERUS DOOMKNIGHT (VDK) ────────╮
+╰──────────────────────── VERUS DOOMKNIGHT (VDK) ────────────────────────╮
   Lock: skill 4
   LUK class · Base Forge helm · Vainglory · Ravenous / Dauntless
   Potions: Fate Tonic · Potent Battle · Scroll of Enrage
@@ -123,7 +122,7 @@
   ② On Dauntless: save Lifesteal skill (skill 3) for the 30M HP mechanic
   ③ On Dauntless: stop spamming 2 during "YOU WILL NOT RESIST"
     so the party can heal you
-╰──────── LEGION REVENANT (LR) ────────╮
+╰───────────────────────── LEGION REVENANT (LR) ─────────────────────────╮
   Lock: skill 5 (if it locks Arcana Concerto, cry a little inside)
   WIZ class · Healer / Hearty helm · Penitence · Arcana Concerto
   Potions: Sage Tonic · Potent Malevolence · Scroll of Enrage
@@ -132,15 +131,15 @@
   ① Stop spamming skill 4 at 47M HP in case you take the Heal Invert
     taunt at 45M HP — resume all skills after Invert fades
   ② Spam skill 2 at 15M HP
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 🔄 TAUNTING CLASSES & ENHANCEMENTS
-╭──────── USE ENRAGE (TAUNTERS) ────────╮
+╭──────────────────────── USE ENRAGE (TAUNTERS) ─────────────────────────╮
   Legion Revenant --> WIZ class · Arcana weapon · WIZ helm · Peni cape
                       LOCK skill 5
   Verus DoomKnight --> LUK class · Rav weapon · Anima helm · Peni cape
                        LOCK skill 4
-╰──────── USE VIGIL ────────╮
+╰────────────────────────────── USE VIGIL ───────────────────────────────╮
   Lord of Order     --> LUK class · ManaV weapon · LUK helm · Peni cape
                         LOCK ManaV weapon
   Legendary Hero    --> LUK class · Valiance weapon · LUK helm · Absolution cape
@@ -151,4 +150,4 @@
                         LOCK skill 5
   Shaman            --> WIZ class · Elysium weapon · WIZ helm · Vainglory cape
                         LOCK skill 4
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,38 +1,62 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-     CHAMPION DRAKATH
+                     C H A M P I O N    D R A K A T H
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚠️ BOSS MECHANICS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Every 2,000,000 damage dealt, Drakath screams at your team
   --> Designated taunter MUST taunt JUST BEFORE the 000,000 mark
   --> Each scream grants Drakath +20% Dodge (stacks indefinitely)
-  --> Taunting should be done slightly before the 2m cap (2.1m or 6.1m for example
-╰──────────────────────────────────╯
+  --> Taunting should be done slightly before the 2m cap (2.1m or 6.1m for example)
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚙️ GEAR SETUPS
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Probably slightly longer ultra on this list without a proper comp.
+  Requires strict timing and some mana reduction classes.
+  Every 2 million HP the boss sends out a nuke and gets stronger,
+  it is recommended to taunt this so it hits 1 player instead of all 4 in the party.
+  He also gets stronger each time he does the nuke so if a taunt is missed it is recommended to reset.
 
-📖 DIFFERENT COMPS
-╭──────── SAFE COMP ────────╮
-Probably slightly longer ultra on this list without a proper comp. 
-Requires strict timing and some mana reduction classes. 
-Every 2 million HP the boss sends out a nuke and gets stronger, 
-it is recommended to taunt this so it hits 1 player instead of all 4 in the party. 
-He also gets stronger each time he does the nuke so if a taunt is missed it is recommended to reset. 
-It is not required to taunt on 10 million hp.
+  💡 It is not required to taunt on 10 million hp.
+╰────────────────────────────────────────────────────────────────────────╯
 
-Class	Enhancements	                         Consumables	                              Extra Information
-LOO	     Awe Blast/Forge/Vainglory	             Body/Divine Elixir + Potent Honor	
-AP	     Valiance/Forge/Vainglory	             Fate/Destruction Elixir + Potent honor	
-CaV	     Ravenous or Dauntless/Anima/Vainglory	 Fate/Destruction Elixir + Scroll of Enrage	 Taunt every 2 million hp with "3" skill
-SC   	Arcana's Conerto/Anima/Absolution	     Fate/Destruction Elixir + Potent honor	
-╰──────────────────────────────────╯
-╭──────────── MID SPEED COMP ───────────╮
-Class	Enhancements	                         Consumables	                              Extra Information
-LOO	     Awe Blast/Forge/Vainglory	             Body/Divine Elixir + Potent Honor	
-AP	     Valiance/Forge/Vainglory	             Fate/Destruction Elixir + Potent honor
-K.E       Ravenous/Forge/Lament                  Fate/Battle Elixir + Felicitous Philtre      Taunt every 2.000.000 HP with "4" skill (press "5" inbetween to get taunt form of "4")
-SC   	Arcana's Conerto/Anima/Absolution	     Fate/Destruction Elixir + Potent honor	
-╰───────────────────────────────────────╯
+👥 COMPOSITION
+╭────────────────────────────── SAFE COMP ───────────────────────────────╮
+  [ LOO ]
+    Enhancements --> Awe Blast / Forge / Vainglory
+    Consumables  --> Body/Divine Elixir + Potent Honor
+
+  [ AP ]
+    Enhancements --> Valiance / Forge / Vainglory
+    Consumables  --> Fate/Destruction Elixir + Potent honor
+
+  [ CaV ]
+    Enhancements --> Ravenous or Dauntless / Anima / Vainglory
+    Consumables  --> Fate/Destruction Elixir + Scroll of Enrage
+    Role         --> Taunt every 2 million hp with "3" skill
+
+  [ SC ]
+    Enhancements --> Arcana's Concerto / Anima / Absolution
+    Consumables  --> Fate/Destruction Elixir + Potent honor
+╰──────────────────────────── MID SPEED COMP ────────────────────────────╮
+  [ LOO ]
+    Enhancements --> Awe Blast / Forge / Vainglory
+    Consumables  --> Body/Divine Elixir + Potent Honor
+
+  [ AP ]
+    Enhancements --> Valiance / Forge / Vainglory
+    Consumables  --> Fate/Destruction Elixir + Potent honor
+
+  [ K.E ]
+    Enhancements --> Ravenous / Forge / Lament
+    Consumables  --> Fate/Battle Elixir + Felicitous Philtre
+    Role         --> Taunt every 2.000.000 HP with "4" skill
+                     (press "5" inbetween to get taunt form of "4")
+
+  [ SC ]
+    Enhancements --> Arcana's Concerto / Anima / Absolution
+    Consumables  --> Fate/Destruction Elixir + Potent honor
+╰────────────────────────────────────────────────────────────────────────╯
