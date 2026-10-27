@@ -1,19 +1,19 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   RADIANT GODDESS OF WAR
+              R A D I A N T    G O D D E S S    O F    W A R
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 🛡️ 50% ALL-RACE DAMAGE BOOST ARMOR
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Provides 50% damage boost to every race + resource boosts
   Only 10% below the maximum possible boost in the game (75% × 35%)
   The grind is lighter than it looks — many requirements are things
   most endgame players already have
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 RECOMMENDED PREREQUISITES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   (Most endgame players already have these)
   Fire Champion's Armor
   Drakath Armour               (Empowered Version required for quest)
@@ -21,16 +21,15 @@
   Blinding Light of Destiny
   Rank 10 Good
   Malgor the ShadowLord        (assuming Dauntless is complete)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-  CLASSIC HOLLOWBORN PALADIN
-╚════════════════════════════════╝
+📘 CLASSIC HOLLOWBORN PALADIN
+╭────────────────────────────────────────────────────────────────────────╮
+  ⚠️ Requires Lae's Hardcore Contract — see Classic Hollowborn guide
+╰────────────────────────────────────────────────────────────────────────╯
 
-⚠️ Requires Lae's Hardcore Contract — see Classic Hollowborn guide
-
-📜 Quest 1 — "Let's Get You a Suit"
-╭──────── MERGE REQUIREMENTS ────────╮
+📜 QUEST 1 — "Let's Get You a Suit"
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Sparrow's Blood        ×1      --> Complete Reens' quest at /join arcangrove
   Brilliant Aura         ×1      --> From Mace of Destiny quest (see BLoD guide)
   Dark Arts Scholar               --> Buy from /join lightguard DoomWood Rep shop
@@ -45,10 +44,10 @@
   Human Soul             ×200    --> /join noxustower
   Lae's Hardcore Contract ×1
   Hollowborn Paladin     ×1      --> (Reward from Quest 1)
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-📜 Quest 2 — "I Got Your Back (and Your Top)"
-╭──────── MERGE REQUIREMENTS ────────╮
+📜 QUEST 2 — "I Got Your Back (and Your Top)"
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Templar's Helm of Light         --> Drop: Red Dragon
                                      OR buy from Artix at /join necropolis
   Destiny Cloak                   --> /join necropolis DoomWood Rep shop
@@ -61,10 +60,10 @@
   Ascended Light of Destiny ×1   --> Merge at /join mountdoomskull
   Hollowborn Paladin     ×1
   Hollowborn Paladin Helmet ×1
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-📜 Quest 3 — "The Dark Sacrifice"
-╭──────── MERGE REQUIREMENTS ────────╮
+📜 QUEST 3 — "The Dark Sacrifice"
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Unidentified 25        ×1      --> Merge using Unmoulded Fiend Essence
   Gold                   15,000,000
   Seal of Light          ×1      --> /join alteonbattle quest
@@ -78,10 +77,10 @@
   --> Chickencow Claw · Cysero's Doom Sock · Death's Cursed Hourglass
   --> Dragon Khan's Corrupt Scepter · Sir Ver's Broken Power Button
   --> Unholy Wasabi · Zorbak's Staff Skull
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-📜 Quest 4 — "The Post Summoning"
-╭──────── MERGE REQUIREMENTS ────────╮
+📜 QUEST 4 — "The Post Summoning"
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Shadow Seal             ×1     --> /join shadowblast (Kill any of the following)
                                      CaesarIsTheDark · Carnage · Crag & Bamboozle
                                      Grimlord Boss · Minotaurofwar · Void Beetle Warlord
@@ -100,13 +99,10 @@
   2. Farm Metamorphosis quest
   3. Obtain Beetle Warlord Pet
   4. Complete Beetle Warlord quests --> Rewards the armor
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-    GODDESS OF WAR REQUIREMENTS
-╚════════════════════════════════╝
-
-╭──────── MERGE REQUIREMENTS ────────╮
+📦 GODDESS OF WAR REQUIREMENTS
+╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   Purified Undead Dragon
    Essence               ×3      --> Complete "I'm Gonna Let It Shine" quest
     Purification Orb     ×10     --> /join doomwood (Kill Undead Paladin)
@@ -118,4 +114,4 @@
   Hollowborn Doomblade   ×1
   Goddess of War Prestige Cloak ×1  --> See Goddess of War Prestige Cloak guide
   Dragon's Tear          ×1
-╰────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
