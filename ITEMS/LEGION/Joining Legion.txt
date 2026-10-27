@@ -1,14 +1,11 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-        JOINING LEGION
+                       J O I N I N G    L E G I O N
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-╔════════════════════════════════╗
-              STEP 1
-╚════════════════════════════════╝
-
-╭──────── Pre-farm these before joining ────────╮
+⚔️ STEP 1
+╭──────────────────── Pre-farm these before joining ─────────────────────╮
   "Hardly Suiting Armour"
   --> Go to Black Knight NPC at /join greenguardwest
       (quick access: go down from /join arcangrove)
@@ -21,13 +18,10 @@
   --> Complete quests at /join willowcreek
 
   Combat Trophies         ×200    --> See Reagent Library
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-              STEP 2
-╚════════════════════════════════╝
-
-╭──────────────────────────────────╮
+⚔️ STEP 2
+╭────────────────────────────────────────────────────────────────────────╮
   ⚠️ Complete all quests within 24 hours to sell Undead Warrior armour
      for 1,080 ACs — making the net cost of joining Legion only 120 ACs
 
@@ -57,4 +51,4 @@
 
   ✅ Once in the Legion, sell the Undead Warrior armour to any shop
   💡 See the Legion Tokens guide to see what you can get now
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

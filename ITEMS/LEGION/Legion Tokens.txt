@@ -1,28 +1,31 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-        LEGION TOKENS
+                        L E G I O N    T O K E N S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-💡 Legion Tokens stack to 25,000
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  💡 Legion Tokens stack to 25,000
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ FARMING METHODS
-╭──────── BRIGHT PARAGON — Fastest ────────╮
+╭─────────────────────── BRIGHT PARAGON — Fastest ───────────────────────╮
   Complete its quests by defeating enemies at /join brightfortress
   Best room: Commander Yulgar + 2 BrightScythe Reavers
   ⚠️ Bright Paragon pet is no longer available — only relevant if you already own it
-╰──────── SHOGUN PARAGON — Fast (Best for most players) ────────╮
+╰──────────── SHOGUN PARAGON — Fast (Best for most players) ─────────────╮
   Purchase Shogun Paragon pet during Dage's Birthday event (March–April)
   for 2,000 LTs from /join futurewardage
 
   Farm its "Time for Some Spring Cleaning" quest
   --> Kill Fotia Spirits and Elementals at /join fotia
   --> Drops stack to 50
-╰──────── DREADROCK — Slow ────────╮
+╰─────────────────────────── DREADROCK — Slow ───────────────────────────╮
   Purchase Undead Champion armour from Dage's Legion shop at /join underworld
   --> Accept "Undead Champion Recruitment" from quest board (2nd screen at /join dreadrock)
   --> Kill enemies left of the quest board
-╰──────── LEGION ARENA — Slowest ────────╮
+╰──────────────────────── LEGION ARENA — Slowest ────────────────────────╮
   Complete "First Class Entertainment" from /join legionarena
   --> Kill Legion Fiend Rider (4% drop rate)
   💡 Can be more efficient than Dreadrock with a group of Chrono classes + supports
@@ -34,13 +37,13 @@
   Regular · Infernal Caladbolg
   ⚠️ Hardcore Paragon is not viable to farm
   Only Bright Paragon is worth prioritising over Shogun
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 💸 SPENDING PRIORITY
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   ★ = Most Important   ☆ = Important
 
-  ─── SEASONAL (March / April) ────────────────────────────────────────────
+  [ SEASONAL (March / April) ]
 
   ★ Shogun Paragon Pet          2,000 LTs  --> /join futurewardage
     Get this before everything else
@@ -59,7 +62,7 @@
 
     Cosmetics from /join darkbirthday and /join futurewardage
 
-  ─── PERMANENT ────────────────────────────────────────────────────────────
+  [ PERMANENT ]
 
   ★ Legion Infinite Dark Caster  2,000 LTs  --> Solid farming class
     Cheap · Required to unlock Legion Revenant · Get after Shogun Paragon
@@ -77,4 +80,4 @@
     Cosmetics available at:
     /join underworld · /join envy · /join frozenlair · /join shadowblast
     /join dagefortress · /join sevencircles · /join sevencircleswar
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

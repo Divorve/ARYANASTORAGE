@@ -1,30 +1,30 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   HEAD OF THE LEGION BEAST
+           H E A D    O F    T H E    L E G I O N    B E A S T
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Legion Membership (required)
 
   Storyline Completion:
   --> /join sevencircles > /join sevencircleswar
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 📦 TOTAL MERGE REQUIREMENTS
-╭──────── Merged at /join sevencircleswar ────────╮
+╭─────────────────── Merged at /join sevencircleswar ────────────────────╮
   Legion Token           ×24,000 --> See Legion Token guide
   Indulgence             ×60     --> /join sevencircles (see below)
   Penance                ×60     --> /join sevencircleswar (see below)
   Beast Soul             ×15     --> /join sevencircleswar (Kill The Beast — group recommended)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ FARMING
-╭──────── INDULGENCE ────────╮
+╭────────────────────────────── INDULGENCE ──────────────────────────────╮
   Complete "Circles of Fate" at /join sevencircles
   --> Defeat each type of Guard: Limbo · Avarice · Gluttony · Luxuria
-╰──────── PENANCE ────────╮
+╰─────────────────────────────── PENANCE ────────────────────────────────╮
   Merge at /join sevencircleswar
   --> Click on Virgil at the top-right to open the shop
 
@@ -45,13 +45,13 @@
   Souls of Heresy        ×900    --> Kill Wrath Guards and turn in War and Mega War Medals
     (stacks to 300)                  at the top-right
                                      💡 One of the best Gold farming methods in the game
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ✅ FINAL STEPS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   1. Purchase the 3 Helms (cost: Indulgence) from /join sevencircles merge shop
   2. Purchase the 3 Helms (cost: Penance) from /join sevencircleswar merge shop
   3. Merge the 6 Helms into "Helms of the Seven Circles" misc item
      (same shop at /join sevencircleswar)
   4. Merge the Head of the Legion Beast
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
