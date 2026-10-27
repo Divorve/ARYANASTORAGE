@@ -1,73 +1,73 @@
-╔════════════════════════════════╗
-      SHADOW ORB
-╚════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           S H A D O W    O R B
+
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
-⚠️ Membership REQUIRED
+╭────────────────────────────────────────────────────────────────────────╮
+  ⚠️ Membership REQUIRED
 
-Merge Evolved Shadow Orb Pet
---> /join archportal (Dirtlicker’s shop)
+  Merge Evolved Shadow Orb Pet
+  --> /join archportal (Dirtlicker’s shop)
 
-Required Reagents:
-Nulgath's Approval ×200
-Totem of Nulgath ×10
-Voucher of Nulgath
-Gem of Nulgath ×20
-Voucher of Nulgath (non-mem)
-Unidentified 13 ×3
-╰──────────────────────────────────╯
+  Required Reagents:
+  Nulgath's Approval ×200
+  Totem of Nulgath ×10
+  Voucher of Nulgath
+  Gem of Nulgath ×20
+  Voucher of Nulgath (non-mem)
+  Unidentified 13 ×3
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── From Evolved Shadow Orb Pet ────────╮
+╭───────────────────── From Evolved Shadow Orb Pet ──────────────────────╮
+  1. "REBORN IN THE DARK SIDE" (Armour)
+    ╭────────────────────────────────────────────────────────────────────╮
+  ⚠️ Requirements:
+  Bard (Rank 10)
+  --> /join mythsong (Rank 4 required)
 
-1. "REBORN IN THE DARK SIDE" (Armour)
-╭──────────────────────────────────╮
-⚠️ Requirements:
-Bard (Rank 10)
---> /join mythsong (Rank 4 required)
+  Platinum Coin of Nulgath ×2500
+  💡 Buy AFTER farming all reagents
+  💡 Can reuse for Quest 3
 
-Platinum Coin of Nulgath ×2500
-💡 Buy AFTER farming all reagents
-💡 Can reuse for Quest 3
+  Required Items:
+  Unidentified 13 ×3
+  Unidentified 25
+  Voucher of Nulgath
+  Behemoth Blade of Shadow
+  Nulgath's Approval
+  Fiend Token ×30
+  Azure Starblade
+    ╰────────────────────────────────────────────────────────────────────╯
 
-Required Items:
-Unidentified 13 ×3
-Unidentified 25
-Voucher of Nulgath
-Behemoth Blade of Shadow
-Nulgath's Approval
-Fiend Token ×30
-Azure Starblade
-╰──────────────────────────────────╯
+  2. "VOID EMOTIONS" (Helm)
+    ╭────────────────────────────────────────────────────────────────────╮
+  Platinum Coin of Nulgath ×300
+  💡 Buy last for efficiency
 
-2. "VOID EMOTIONS" (Helm)
-╭──────────────────────────────────╮
-Platinum Coin of Nulgath ×300
-💡 Buy last for efficiency
+  Required Items:
+  Dark Crystal Shard ×10
+  Diamond of Nulgath ×50
+  Voucher of Nulgath (non-mem)
+  Blood Gem of the ArchFiend ×5
+  There is no Myself
+    ╰────────────────────────────────────────────────────────────────────╯
 
-Required Items:
-Dark Crystal Shard ×10
-Diamond of Nulgath ×50
-Voucher of Nulgath (non-mem)
-Blood Gem of the ArchFiend ×5
-There is no Myself
-╰──────────────────────────────────╯
+  3. "SHAPE YOUR NOTHINGNESS" (Spear)
+    ╭────────────────────────────────────────────────────────────────────╮
+  Platinum Coin of Nulgath ×2500
+  💡 Can reuse with Quest 1
 
-3. "SHAPE YOUR NOTHINGNESS" (Spear)
-╭──────────────────────────────────╮
-Platinum Coin of Nulgath ×2500
-💡 Can reuse with Quest 1
-
-Required Items:
-Unidentified 10 ×30
-Tainted Gem ×30
-Dark Crystal Shard ×30
-Unidentified 29
-Voucher of Nulgath (non-mem)
-Random Weapon of Nulgath
-Totem of Nulgath ×10
-Destruction Elixir ×15
-╰──────────────────────────────────╯
-
-╰──────────────────────────────────╯
+  Required Items:
+  Unidentified 10 ×30
+  Tainted Gem ×30
+  Dark Crystal Shard ×30
+  Unidentified 29
+  Voucher of Nulgath (non-mem)
+  Random Weapon of Nulgath
+  Totem of Nulgath ×10
+  Destruction Elixir ×15
+    ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

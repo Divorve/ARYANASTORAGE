@@ -1,54 +1,54 @@
-╔════════════════════════════════╗
-      BLOOD ORB
-╚════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+
+                            B L O O D    O R B
+
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
-Merge Evolved Blood Orb Pet
---> /join archportal (Dirtlicker’s shop)
+╭────────────────────────────────────────────────────────────────────────╮
+  Merge Evolved Blood Orb Pet
+  --> /join archportal (Dirtlicker’s shop)
 
-Required Reagents:
-Nulgath's Approval ×200
-Totem of Nulgath ×10
-Diamond of Nulgath ×30
-Voucher of Nulgath (non-mem)
-Unidentified 13 ×3
-╰──────────────────────────────────╯
+  Required Reagents:
+  Nulgath's Approval ×200
+  Totem of Nulgath ×10
+  Diamond of Nulgath ×30
+  Voucher of Nulgath (non-mem)
+  Unidentified 13 ×3
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── From Evolved Blood Orb Pet ────────╮
+╭────────────────────── From Evolved Blood Orb Pet ──────────────────────╮
+  1. "FLOW LIKE BLOOD" (Armour)
+    ╭────────────────────────────────────────────────────────────────────╮
+  ⚠️ Requirements:
+  Rustbucket (Rank 10)
+  --> /join crashsite
+  Complete "ProtoSartorium Parts" (Taravya)
+  Kill ProtoSartorium
 
-1. "FLOW LIKE BLOOD" (Armour)
-╭──────────────────────────────────╮
-⚠️ Requirements:
-Rustbucket (Rank 10)
---> /join crashsite
-Complete "ProtoSartorium Parts" (Taravya)
-Kill ProtoSartorium
+  Platinum Coin of Nulgath ×2500
+  💡 Only buy AFTER farming all reagents
 
-Platinum Coin of Nulgath ×2500
-💡 Only buy AFTER farming all reagents
+  Required Items:
+  Crimson Plate of Nulgath
+  Unidentified 13 ×3
+  Unidentified 23
+  Dimensional Champion of Nulgath
+  1v1 PvP Trophy ×10
+  Blood Gem of the ArchFiend ×20
+    ╰────────────────────────────────────────────────────────────────────╯
 
-Required Items:
-Crimson Plate of Nulgath
-Unidentified 13 ×3
-Unidentified 23
-Dimensional Champion of Nulgath
-1v1 PvP Trophy ×10
-Blood Gem of the ArchFiend ×20
-╰──────────────────────────────────╯
+  2. "BLOOD TEARS" (Helm)
+    ╭────────────────────────────────────────────────────────────────────╮
+  Platinum Coin of Nulgath ×300
+  💡 Buy last (shared use optimization)
 
-2. "BLOOD TEARS" (Helm)
-╭──────────────────────────────────╮
-Platinum Coin of Nulgath ×300
-💡 Buy last (shared use optimization)
-
-Required Items:
-Diamond of Nulgath ×10
-Voucher of Nulgath (non-mem)
-Faust Face
-Totem of Nulgath
-Blood Gem of the ArchFiend ×5
-╰──────────────────────────────────╯
-
-╰──────────────────────────────────╯
+  Required Items:
+  Diamond of Nulgath ×10
+  Voucher of Nulgath (non-mem)
+  Faust Face
+  Totem of Nulgath
+  Blood Gem of the ArchFiend ×5
+    ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
