@@ -1,22 +1,25 @@
-╔════════════════════════════════════════╗
-               1v1 PvP TROPHY
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-DAILY (ONLY METHOD)
-──────────────────────────────────────────
-"Victory Most Honourable" — Dumoose
-/join doomarena
+                      1 V 1    P V P    T R O P H Y
 
-Requirement:
-• Win 10 matches in the arena
-• Can queue from Dumoose or duel a player
-• You can duel an alt account for guaranteed wins
+╚════════════════════════════════════════════════════════════════════════╝
 
-Notes:
-• Quest can only be completed once per day
-• Stack daily for slow but guaranteed progress
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  [ DAILY (ONLY METHOD) ]
+  "Victory Most Honourable" — Dumoose
+  /join doomarena
 
-TIPS
-──────────────────────────────────────────
-• Fastest method is dueling an alt account
-• Do this daily — no reason to grind arena normally
+  Requirement:
+  - Win 10 matches in the arena
+  - Can queue from Dumoose or duel a player
+  - You can duel an alt account for guaranteed wins
+
+  Notes:
+  - Quest can only be completed once per day
+  - Stack daily for slow but guaranteed progress
+
+  [ TIPS ]
+  - Fastest method is dueling an alt account
+  - Do this daily — no reason to grind arena normally
+╰────────────────────────────────────────────────────────────────────────╯

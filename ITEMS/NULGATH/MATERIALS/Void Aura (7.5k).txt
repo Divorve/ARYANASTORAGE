@@ -1,35 +1,35 @@
-╔════════════════════════════════════════╗
-                 VOID AURA
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST (MEMBER)
-──────────────────────────────────────────
-"Commanding Shadow Essences" — Braeus
-/join shadowfall
+                            V O I D    A U R A
 
-Turn in:
-• Empowered Essence x50 — Shadowrealmpast
-• Malignant Essence x3 — Shadow Lord
+╚════════════════════════════════════════════════════════════════════════╝
 
-FREE PLAYER METHOD
-──────────────────────────────────────────
-"Retrieve Void Auras" — Braeus
-Requires Rank 10 Evil + Story completion
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST (MEMBER) ]
+  "Commanding Shadow Essences" — Braeus
+  /join shadowfall
 
-DAILY (MEMBER)
-──────────────────────────────────────────
-"Glimpse Into The Dark"
+  Turn in:
+  - Empowered Essence x50 — Shadowrealmpast
+  - Malignant Essence x3 — Shadow Lord
 
-DAILY (GROUP)
-──────────────────────────────────────────
-"The Encroaching Shadows"
+  [ FREE PLAYER METHOD ]
+  "Retrieve Void Auras" — Braeus
+  Requires Rank 10 Evil + Story completion
 
-Bosses:
-• Warlord Icewing
-• Hydra Head 90
-• Flibbitigibbet
+  [ DAILY (MEMBER) ]
+  "Glimpse Into The Dark"
 
-TIPS
-──────────────────────────────────────────
-• Member quest is MUCH faster
-• Free player method is very slow
+  [ DAILY (GROUP) ]
+  "The Encroaching Shadows"
+
+  Bosses:
+  - Warlord Icewing
+  - Hydra Head 90
+  - Flibbitigibbet
+
+  [ TIPS ]
+  - Member quest is MUCH faster
+  - Free player method is very slow
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,21 +1,23 @@
-╔════════════════════════════════════════╗
-               UNIDENTIFIED 13
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-"Diamond Exchange" — Crag & Bamboozle
+                      U N I D E N T I F I E D    1 3
 
-Requirements:
-• 15 Diamonds of Nulgath
-• Dark Makai Rune
+╚════════════════════════════════════════════════════════════════════════╝
 
-PASSIVE
-──────────────────────────────────────────
-15% — New Worlds, New Opportunities
-5% — Nulgath Larvae
-1% — Wheel of Chance quests
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  "Diamond Exchange" — Crag & Bamboozle
 
-TIPS
-──────────────────────────────────────────
-• Best farmed while farming Diamonds
+  Requirements:
+  - 15 Diamonds of Nulgath
+  - Dark Makai Rune
+
+  [ PASSIVE ]
+  15% — New Worlds, New Opportunities
+  5% — Nulgath Larvae
+  1% — Wheel of Chance quests
+
+  [ TIPS ]
+  - Best farmed while farming Diamonds
+╰────────────────────────────────────────────────────────────────────────╯

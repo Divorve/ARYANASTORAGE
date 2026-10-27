@@ -1,24 +1,25 @@
-╔════════════════════════════════════════╗
-                 BONE DUST
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST (GROUP)
-──────────────────────────────────────────
-/join necroproject
-• Kill boss in last room with a party
+                            B O N E    D U S T
 
-AFK
-──────────────────────────────────────────
-/join battleunderb
-• Farm enemies
+╚════════════════════════════════════════════════════════════════════════╝
 
-PASSIVE
-──────────────────────────────────────────
-Do this while farming BLoD:
-• Undead Energy drops at the same time
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST (GROUP) ]
+  /join necroproject
+  - Kill boss in last room with a party
 
-TIPS
-──────────────────────────────────────────
-• Necroproject is much faster with a group
-• Battleunderb is best AFK method
-• Use farming class
+  [ AFK ]
+  /join battleunderb
+  - Farm enemies
+
+  [ PASSIVE ]
+  Do this while farming BLoD:
+  - Undead Energy drops at the same time
+
+  [ TIPS ]
+  - Necroproject is much faster with a group
+  - Battleunderb is best AFK method
+  - Use farming class
+╰────────────────────────────────────────────────────────────────────────╯

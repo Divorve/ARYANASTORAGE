@@ -1,34 +1,36 @@
-╔════════════════════════════════════════╗
-                ELDERS' BLOOD
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-DAILY (MAIN METHOD)
-──────────────────────────────────────────
-"Experiment 107: Elders' Blood Potion" — Reens
-/join arcangrove
+                        E L D E R S '    B L O O D
 
-How to reach:
-• Go up the tower
-• Enter the blue portal at bottom-right
+╚════════════════════════════════════════════════════════════════════════╝
 
-To complete quest:
-• Defeat Gorillaphants
-Best location:
-• Bottom-right of the map (2 Gorillaphants on same screen)
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ DAILY (MAIN METHOD) ]
+  "Experiment 107: Elders' Blood Potion" — Reens
+  /join arcangrove
 
-PASSIVE / EXTRA DAILY
-──────────────────────────────────────────
-"Assisting Crag & Bamboozle" — Tendurrr (Daily)
+  How to reach:
+  - Go up the tower
+  - Enter the blue portal at bottom-right
 
-Requirements:
-• Must own Crag & Bamboozle
+  To complete quest:
+  - Defeat Gorillaphants
+  Best location:
+  - Bottom-right of the map (2 Gorillaphants on same screen)
 
-Notes:
-• Useful for Void Highlord because Elders' Blood is daily-gated
-• This method allows you to get 2 per day instead of 1
-• Max-stack other rewards so Elders' Blood is guaranteed
+  [ PASSIVE / EXTRA DAILY ]
+  "Assisting Crag & Bamboozle" — Tendurrr (Daily)
 
-TIPS
-──────────────────────────────────────────
-• Do this daily — this item is time-gated
-• Combine with Sparrow's Blood and other Reens potion quests
+  Requirements:
+  - Must own Crag & Bamboozle
+
+  Notes:
+  - Useful for Void Highlord because Elders' Blood is daily-gated
+  - This method allows you to get 2 per day instead of 1
+  - Max-stack other rewards so Elders' Blood is guaranteed
+
+  [ TIPS ]
+  - Do this daily — this item is time-gated
+  - Combine with Sparrow's Blood and other Reens potion quests
+╰────────────────────────────────────────────────────────────────────────╯

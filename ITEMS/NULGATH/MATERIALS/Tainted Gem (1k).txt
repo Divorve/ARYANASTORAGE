@@ -1,40 +1,40 @@
-╔════════════════════════════════════════╗
-                TAINTED GEM
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-Swindle Bulk / Cube Reagent
-/join boxes → /join mountfrost
+                          T A I N T E D    G E M
 
-Farm:
-• Box Guardians
-• Grizzlespit → Cubes
-• Snow Golems → Ice Cubes
+╚════════════════════════════════════════════════════════════════════════╝
 
-Reward:
-• Tainted Gems
-• Receipts of Swindle
-• Other reagents
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  Swindle Bulk / Cube Reagent
+  /join boxes → /join mountfrost
 
-PASSIVE
-──────────────────────────────────────────
-40% — New Worlds, New Opportunities
-40% — Nulgath Larvae
-30% — Wheel of Chance quests
+  Farm:
+  - Box Guardians
+  - Grizzlespit → Cubes
+  - Snow Golems → Ice Cubes
 
-ALTERNATIVE
-──────────────────────────────────────────
-"The Poisonous Deal" — Crag & Bamboozle
-Use spare Uni 10 + Blood Gems
+  Reward:
+  - Tainted Gems
+  - Receipts of Swindle
+  - Other reagents
 
-REQUIREMENTS
-──────────────────────────────────────────
-Some methods require:
-• Crag & Bamboozle
-• Drudgen
-• Oblivion Blade
+  [ PASSIVE ]
+  40% — New Worlds, New Opportunities
+  40% — Nulgath Larvae
+  30% — Wheel of Chance quests
 
-TIPS
-──────────────────────────────────────────
-• Swindle Bulk is best because it gives multiple reagents
+  [ ALTERNATIVE ]
+  "The Poisonous Deal" — Crag & Bamboozle
+  Use spare Uni 10 + Blood Gems
+
+  [ REQUIREMENTS ]
+  Some methods require:
+  - Crag & Bamboozle
+  - Drudgen
+  - Oblivion Blade
+
+  [ TIPS ]
+  - Swindle Bulk is best because it gives multiple reagents
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,41 +1,41 @@
-╔════════════════════════════════════════╗
-               UNIDENTIFIED 10
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-100% — Supplies to Spin the Wheel of Chance
-(With Crag & Bamboozle + Oblivion Blade)
+                      U N I D E N T I F I E D    1 0
 
-100% — Nulgath Larvae
+╚════════════════════════════════════════════════════════════════════════╝
 
-100% — Dirt-y Deeds Done Dirt Cheap — Swindle
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  100% — Supplies to Spin the Wheel of Chance
+  (With Crag & Bamboozle + Oblivion Blade)
 
-ALTERNATIVE
-──────────────────────────────────────────
-Void Highlord Challenge
-/join tercessuinotlim
+  100% — Nulgath Larvae
 
-"Kiss the Void" — Nulgath
+  100% — Dirt-y Deeds Done Dirt Cheap — Swindle
 
-REQUIREMENTS
-──────────────────────────────────────────
-To access Dirt-y Deeds:
-You must obtain:
-• Emerald Axe — Escherion
-• Seraphic Grave Digger Spade — Legioncrypt
-• Slugbutter Digging Advice — Tower of Doom 10
-• Chaotic Tunneling Techniques — Crownsreach
-• Crystallised Corporate Digging Secrets — Downward
+  [ ALTERNATIVE ]
+  Void Highlord Challenge
+  /join tercessuinotlim
 
-PASSIVE
-──────────────────────────────────────────
-You will get:
-• Blood Gems
-• Receipts of Swindle
-• Other reagents
+  "Kiss the Void" — Nulgath
 
-TIPS
-──────────────────────────────────────────
-• One of the most important stacking items
-• Always stack Uni 10 before turn-ins
+  [ REQUIREMENTS ]
+  To access Dirt-y Deeds:
+  You must obtain:
+  - Emerald Axe — Escherion
+  - Seraphic Grave Digger Spade — Legioncrypt
+  - Slugbutter Digging Advice — Tower of Doom 10
+  - Chaotic Tunneling Techniques — Crownsreach
+  - Crystallised Corporate Digging Secrets — Downward
+
+  [ PASSIVE ]
+  You will get:
+  - Blood Gems
+  - Receipts of Swindle
+  - Other reagents
+
+  [ TIPS ]
+  - One of the most important stacking items
+  - Always stack Uni 10 before turn-ins
+╰────────────────────────────────────────────────────────────────────────╯

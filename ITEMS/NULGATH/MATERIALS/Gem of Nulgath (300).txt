@@ -1,33 +1,33 @@
-╔════════════════════════════════════════╗
-                GEM OF NULGATH
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-"Voucher Item: Totem of Nulgath" — Drudgen
-Requires:
-• 60 Essence of Nulgath
+                      G E M    O F    N U L G A T H
 
-PASSIVE
-──────────────────────────────────────────
-20% — Supplies to Spin the Wheel of Chance
-Drudgen / Swindle
+╚════════════════════════════════════════════════════════════════════════╝
 
-50% — New Worlds, New Opportunities
-Birthday Gift
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  "Voucher Item: Totem of Nulgath" — Drudgen
+  Requires:
+  - 60 Essence of Nulgath
 
-40% — Nulgath (Larvae)
+  [ PASSIVE ]
+  20% — Supplies to Spin the Wheel of Chance
+  Drudgen / Swindle
 
-MERGE
-──────────────────────────────────────────
-Swindle's Ripoff Emporium
-/join tercessuinotlim
+  50% — New Worlds, New Opportunities
+  Birthday Gift
 
-ALTERNATIVE
-──────────────────────────────────────────
-"The Refreshing Deal" — Crag & Bamboozle
-Use spare Uni 10 + Blood Gems
+  40% — Nulgath (Larvae)
 
-TIPS
-──────────────────────────────────────────
-• Farm Essence and Gems at the same time
+  [ MERGE ]
+  Swindle's Ripoff Emporium
+  /join tercessuinotlim
+
+  [ ALTERNATIVE ]
+  "The Refreshing Deal" — Crag & Bamboozle
+  Use spare Uni 10 + Blood Gems
+
+  [ TIPS ]
+  - Farm Essence and Gems at the same time
+╰────────────────────────────────────────────────────────────────────────╯

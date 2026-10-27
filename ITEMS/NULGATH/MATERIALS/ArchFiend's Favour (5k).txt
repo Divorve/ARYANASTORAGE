@@ -1,33 +1,35 @@
-╔════════════════════════════════════════╗
-             ARCHFIEND'S FAVOUR
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-Farm enemies at:
-/join evilwarnul
+                   A R C H F I E N D ' S    F A V O U R
 
-Best Room:
-• First room with grass near end of map (4 enemies)
+╚════════════════════════════════════════════════════════════════════════╝
 
-PASSIVE
-──────────────────────────────────────────
-While doing Diligas quests:
-/join evilwarnul
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  Farm enemies at:
+  /join evilwarnul
 
-Quests:
-• "Crush the Weak" (Member)
-• "Only The Strong Survive Today" (Non-member)
+  Best Room:
+  - First room with grass near end of map (4 enemies)
 
-Requirements:
-• Must have Unidentified 13 to accept quests
-• Must complete Galanoth quests at /join lair
-  up to "Dragonslayer Reward"
+  [ PASSIVE ]
+  While doing Diligas quests:
+  /join evilwarnul
 
-Also Drops:
-• Diamonds of Nulgath
+  Quests:
+  - "Crush the Weak" (Member)
+  - "Only The Strong Survive Today" (Non-member)
 
-TIPS
-──────────────────────────────────────────
-• This is the best place to farm Diamonds + Favour together
-• Use a farming class — high respawn map
+  Requirements:
+  - Must have Unidentified 13 to accept quests
+  - Must complete Galanoth quests at /join lair
+    up to "Dragonslayer Reward"
+
+  Also Drops:
+  - Diamonds of Nulgath
+
+  [ TIPS ]
+  - This is the best place to farm Diamonds + Favour together
+  - Use a farming class — high respawn map
+╰────────────────────────────────────────────────────────────────────────╯

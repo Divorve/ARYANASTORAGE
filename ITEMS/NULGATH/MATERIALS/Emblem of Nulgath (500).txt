@@ -1,34 +1,36 @@
-╔════════════════════════════════════════╗
-              EMBLEM OF NULGATH
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-Complete Nation Recruits quest:
-/join shadowblast
+                   E M B L E M    O F    N U L G A T H
 
-Quest:
-"Nation Recruits: Seal Your Fate" — Tharanak Hrii
+╚════════════════════════════════════════════════════════════════════════╝
 
-How to farm:
-• From starting screen → up → left → up
-• Defeat enemies in this area
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  Complete Nation Recruits quest:
+  /join shadowblast
 
-Stacks:
-• Fiend Seals stack to 500
-• Gem of Domination stacks to 25
+  Quest:
+  "Nation Recruits: Seal Your Fate" — Tharanak Hrii
 
-Requirement:
-• Must have Nation Round 4 Medal to accept quest
-• Medal obtained from earlier quests in same map
+  How to farm:
+  - From starting screen → up → left → up
+  - Defeat enemies in this area
 
-PASSIVE
-──────────────────────────────────────────
-Farm while getting:
-• Fiend Seals
-• Gems of Domination
+  Stacks:
+  - Fiend Seals stack to 500
+  - Gem of Domination stacks to 25
 
-TIPS
-──────────────────────────────────────────
-• Stay in the same room — fast respawn
-• Use farming class
+  Requirement:
+  - Must have Nation Round 4 Medal to accept quest
+  - Medal obtained from earlier quests in same map
+
+  [ PASSIVE ]
+  Farm while getting:
+  - Fiend Seals
+  - Gems of Domination
+
+  [ TIPS ]
+  - Stay in the same room — fast respawn
+  - Use farming class
+╰────────────────────────────────────────────────────────────────────────╯

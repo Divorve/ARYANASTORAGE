@@ -1,25 +1,26 @@
-╔════════════════════════════════════════╗
-                   NECROT
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-Swindle Receipt Trade
-/join tercessuinotlim
+                               N E C R O T
 
-Trade:
-• Receipt of Swindle → 10 Necrot
+╚════════════════════════════════════════════════════════════════════════╝
 
-FARM (MEMBER)
-──────────────────────────────────────────
-Undead Temple Mage
-/join templeb
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  Swindle Receipt Trade
+  /join tercessuinotlim
 
-FARM (NON-MEMBER)
-──────────────────────────────────────────
-Skeleton Fighters
-/join deathsrealm
+  Trade:
+  - Receipt of Swindle → 10 Necrot
 
-TIPS
-──────────────────────────────────────────
-• Temple Mage drops more often than Fighters
+  [ FARM (MEMBER) ]
+  Undead Temple Mage
+  /join templeb
+
+  [ FARM (NON-MEMBER) ]
+  Skeleton Fighters
+  /join deathsrealm
+
+  [ TIPS ]
+  - Temple Mage drops more often than Fighters
+╰────────────────────────────────────────────────────────────────────────╯

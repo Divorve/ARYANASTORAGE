@@ -1,29 +1,30 @@
-╔════════════════════════════════════════╗
-             NULGATH'S APPROVAL
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-Defeat enemies at:
-/join evilwarnul
+                   N U L G A T H ' S    A P P R O V A L
 
-Best room:
-• First grassy room near end of map (4 enemies)
+╚════════════════════════════════════════════════════════════════════════╝
 
-PASSIVE
-──────────────────────────────────────────
-While doing Diligas quests:
-• Crush the Weak
-• Only The Strong Survive Today
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  Defeat enemies at:
+  /join evilwarnul
 
-Also gives:
-• Diamonds of Nulgath
+  Best room:
+  - First grassy room near end of map (4 enemies)
 
-REQUIREMENTS
-──────────────────────────────────────────
-• Requires Unidentified 13 for Diligas quests
-• Must complete Galanoth storyline at /join lair
+  [ PASSIVE ]
+  While doing Diligas quests:
+  - Crush the Weak
+  - Only The Strong Survive Today
 
-TIPS
-──────────────────────────────────────────
-• Farm Diamonds + Approval together
+  Also gives:
+  - Diamonds of Nulgath
+
+  [ REQUIREMENTS ]
+  - Requires Unidentified 13 for Diligas quests
+  - Must complete Galanoth storyline at /join lair
+
+  [ TIPS ]
+  - Farm Diamonds + Approval together
+╰────────────────────────────────────────────────────────────────────────╯

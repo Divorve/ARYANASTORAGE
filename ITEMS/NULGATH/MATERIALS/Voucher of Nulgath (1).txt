@@ -1,58 +1,57 @@
-╔════════════════════════════════════════╗
-          VOUCHER OF NULGATH (MEMBER)
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-"Supplies to spin The Wheel of Chance"
-Do BOTH:
-• "Bamboozle vs Drudgen"
-• "The Dark Deal"
+         V O U C H E R    O F    N U L G A T H    ( M E M B E R )
 
-Requires:
-• Crag & Bamboozle
-• Oblivion Blade of Nulgath
+╚════════════════════════════════════════════════════════════════════════╝
 
-This version has the highest chance at Member Voucher.
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  "Supplies to spin The Wheel of Chance"
+  Do BOTH:
+  - "Bamboozle vs Drudgen"
+  - "The Dark Deal"
 
-LOWER REQUIREMENT METHOD
-──────────────────────────────────────────
-Do only ONE:
-• "Bamboozle vs Drudgen"
-• "The Dark Deal"
+  Requires:
+  - Crag & Bamboozle
+  - Oblivion Blade of Nulgath
 
-Requires:
-• Crag & Bamboozle OR Oblivion Blade of Nulgath
+  This version has the highest chance at Member Voucher.
 
-PASSIVE
-──────────────────────────────────────────
-• "New Worlds, New Opportunities"
-• "Nulgath (Larvae)"
-• Wheel of Chance turn-ins
+  [ LOWER REQUIREMENT METHOD ]
+  Do only ONE:
+  - "Bamboozle vs Drudgen"
+  - "The Dark Deal"
 
-MERGE
-──────────────────────────────────────────
-Swindle's Ripoff Emporium
-/join tercessuinotlim
+  Requires:
+  - Crag & Bamboozle OR Oblivion Blade of Nulgath
 
-Only recommended if Voucher is the only item you need.
+  [ PASSIVE ]
+  - "New Worlds, New Opportunities"
+  - "Nulgath (Larvae)"
+  - Wheel of Chance turn-ins
 
-FORCED DROP METHOD
-──────────────────────────────────────────
-"Assisting Crag & Bamboozle / Drudgen" — Tendurrr
+  [ MERGE ]
+  Swindle's Ripoff Emporium
+  /join tercessuinotlim
 
-Requirements:
-• Must own Crag & Bamboozle or Drudgen
-• Must max-stack all other rewards
+  Only recommended if Voucher is the only item you need.
 
-This can force Voucher (Member).
+  [ FORCED DROP METHOD ]
+  "Assisting Crag & Bamboozle / Drudgen" — Tendurrr
 
-TIPS
-──────────────────────────────────────────
-• Best farm is Wheel of Chance while farming:
-  - Blood Gems
-  - Tainted Gems
-  - Diamonds
-  - Dark Crystal Shards
-  - Uni 10
-• Hydras are best for Relics of Chaos → Wheel turn-ins
+  Requirements:
+  - Must own Crag & Bamboozle or Drudgen
+  - Must max-stack all other rewards
+
+  This can force Voucher (Member).
+
+  [ TIPS ]
+  - Best farm is Wheel of Chance while farming:
+    - Blood Gems
+    - Tainted Gems
+    - Diamonds
+    - Dark Crystal Shards
+    - Uni 10
+  - Hydras are best for Relics of Chaos → Wheel turn-ins
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,15 +1,12 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   NULGATH SHAPED CHOCOLATE (1)   
+        N U L G A T H    S H A P E D    C H O C O L A T E    ( 1 )
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📜 METHODS
-╭──────────────────────────────────╮
-  1.
-    Purchase for 2m Gold from the
-    Hologram of Polish's shop at
-    /citadel. You'll need to have
-    completed Murry's quests here
-    first if you haven't done those.
-╰──────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+  1. Purchase for 2m Gold from the Hologram of Polish's shop at /citadel.
+     You'll need to have completed Murry's quests here first if you
+     haven't done those.
+╰────────────────────────────────────────────────────────────────────────╯

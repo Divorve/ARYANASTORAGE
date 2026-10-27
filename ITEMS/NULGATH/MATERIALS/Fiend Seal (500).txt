@@ -1,27 +1,29 @@
-╔════════════════════════════════════════╗
-                 FIEND SEAL
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-"Nation Recruits: Seal Your Fate" — Tharanak Hrii
-/join shadowblast
+                           F I E N D    S E A L
 
-Farm Route:
-• From start → up → left → up
-• Farm enemies in this room
+╚════════════════════════════════════════════════════════════════════════╝
 
-Requirement:
-• Must have Nation Round 4 Medal
-• Medal obtained from earlier quests in same map
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  "Nation Recruits: Seal Your Fate" — Tharanak Hrii
+  /join shadowblast
 
-PASSIVE
-──────────────────────────────────────────
-Farm together with:
-• Emblems of Nulgath
-• Gems of Domination
+  Farm Route:
+  - From start → up → left → up
+  - Farm enemies in this room
 
-TIPS
-──────────────────────────────────────────
-• Fast respawn room
-• Use farming class
+  Requirement:
+  - Must have Nation Round 4 Medal
+  - Medal obtained from earlier quests in same map
+
+  [ PASSIVE ]
+  Farm together with:
+  - Emblems of Nulgath
+  - Gems of Domination
+
+  [ TIPS ]
+  - Fast respawn room
+  - Use farming class
+╰────────────────────────────────────────────────────────────────────────╯

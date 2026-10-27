@@ -1,26 +1,28 @@
-╔════════════════════════════════════════╗
-               UNDEAD ESSENCE
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-"Soul Searching" — Yara
-/join battleunderc
+                       U N D E A D    E S S E N C E
 
-Targets:
-• Undead Champion
-• Bone Terror
-• Crystalised Jellyfish (Member)
-• Enemies at /battleunderb
+╚════════════════════════════════════════════════════════════════════════╝
 
-Requirements:
-• Must complete Yara quests at /battleundera/b/c
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  "Soul Searching" — Yara
+  /join battleunderc
 
-AFK
-──────────────────────────────────────────
-Farm enemies at:
-/join battleunderb
+  Targets:
+  - Undead Champion
+  - Bone Terror
+  - Crystalised Jellyfish (Member)
+  - Enemies at /battleunderb
 
-TIPS
-──────────────────────────────────────────
-• Battleunderb is easiest AFK method
+  Requirements:
+  - Must complete Yara quests at /battleundera/b/c
+
+  [ AFK ]
+  Farm enemies at:
+  /join battleunderb
+
+  [ TIPS ]
+  - Battleunderb is easiest AFK method
+╰────────────────────────────────────────────────────────────────────────╯

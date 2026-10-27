@@ -1,31 +1,33 @@
-╔════════════════════════════════════════╗
-               SPARROW'S BLOOD
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-"Experiment 231: Sparrow Blood Potion" — Reens
-/join arcangrove
+                      S P A R R O W ' S    B L O O D
 
-How to reach:
-• Go up tower
-• Enter blue portal at bottom-right
+╚════════════════════════════════════════════════════════════════════════╝
 
-To complete quest:
-• Defeat Gorillaphants
-• Defeat Seed Spitters
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  "Experiment 231: Sparrow Blood Potion" — Reens
+  /join arcangrove
 
-Best locations:
-• Bottom and bottom-right of the map
-• 2–3 of each monster per screen
+  How to reach:
+  - Go up tower
+  - Enter blue portal at bottom-right
 
-PASSIVE
-──────────────────────────────────────────
-Do this while farming:
-• Elders' Blood
-• Arcangrove reputation
-• Other Reens potion quests
+  To complete quest:
+  - Defeat Gorillaphants
+  - Defeat Seed Spitters
 
-TIPS
-──────────────────────────────────────────
-• Combine with other Reens potion quests
+  Best locations:
+  - Bottom and bottom-right of the map
+  - 2–3 of each monster per screen
+
+  [ PASSIVE ]
+  Do this while farming:
+  - Elders' Blood
+  - Arcangrove reputation
+  - Other Reens potion quests
+
+  [ TIPS ]
+  - Combine with other Reens potion quests
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,41 +1,41 @@
-╔════════════════════════════════════════╗
-              TOTEM OF NULGATH
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-"Voucher Item: Totem of Nulgath" — Drudgen
+                    T O T E M    O F    N U L G A T H
 
-Requirements:
-• 60 Essence of Nulgath
-• Farm Dark Makai at /join tercessuinotlim
+╚════════════════════════════════════════════════════════════════════════╝
 
-ALTERNATIVE
-──────────────────────────────────────────
-"Nulgath" quest version:
-• Requires only 25 Essence
-• Must defeat Taro Manslayer
-• Taro drops Taro's Manslayer weapon
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  "Voucher Item: Totem of Nulgath" — Drudgen
 
-AFK
-──────────────────────────────────────────
-15% — New Worlds, New Opportunities
+  Requirements:
+  - 60 Essence of Nulgath
+  - Farm Dark Makai at /join tercessuinotlim
 
-11% — Assisting Oblivion Blade
+  [ ALTERNATIVE ]
+  "Nulgath" quest version:
+  - Requires only 25 Essence
+  - Must defeat Taro Manslayer
+  - Taro drops Taro's Manslayer weapon
 
-1% — Nulgath Larvae (not recommended)
+  [ AFK ]
+  15% — New Worlds, New Opportunities
 
-ALTERNATIVE QUEST
-──────────────────────────────────────────
-"The Refreshing Deal" — Crag & Bamboozle
+  11% — Assisting Oblivion Blade
 
-Requirements:
-• Purified Claymore of Destiny
-• Uni 10
-• Blood Gems
-• Undead Plague Spear
+  1% — Nulgath Larvae (not recommended)
 
-TIPS
-──────────────────────────────────────────
-• Essence farming is the main bottleneck
-• AFK Dark Makai while doing other things
+  [ ALTERNATIVE QUEST ]
+  "The Refreshing Deal" — Crag & Bamboozle
+
+  Requirements:
+  - Purified Claymore of Destiny
+  - Uni 10
+  - Blood Gems
+  - Undead Plague Spear
+
+  [ TIPS ]
+  - Essence farming is the main bottleneck
+  - AFK Dark Makai while doing other things
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,53 +1,52 @@
-╔════════════════════════════════════════╗
-        VOUCHER OF NULGATH (NON-MEMBER)
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-11% — "Assisting Oblivion Blade" — Tendurrr
-Requires:
-• Oblivion Blade of Nulgath
+     V O U C H E R    O F    N U L G A T H    ( N O N - M E M B E R )
 
-WHEEL OF CHANCE METHODS
-──────────────────────────────────────────
-3% — "Supplies to spin The Wheel of Chance"
-     + "Bamboozle vs Drudgen"
-     + "The Dark Deal"
-Requires:
-• Crag & Bamboozle AND Oblivion Blade of Nulgath
+╚════════════════════════════════════════════════════════════════════════╝
 
-3% — Same quests but only one active
-Requires:
-• Crag & Bamboozle OR Oblivion Blade of Nulgath
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  11% — "Assisting Oblivion Blade" — Tendurrr
+  Requires:
+  - Oblivion Blade of Nulgath
 
-3% — "Supplies to spin The Wheel of Chance"
-Requires:
-• Drudgen or Swindle
+  [ WHEEL OF CHANCE METHODS ]
+  3% — "Supplies to spin The Wheel of Chance"
+       + "Bamboozle vs Drudgen"
+       + "The Dark Deal"
+  Requires:
+  - Crag & Bamboozle AND Oblivion Blade of Nulgath
 
-PASSIVE
-──────────────────────────────────────────
-3% — "New Worlds, New Opportunities"
-3% — "Nulgath (Larvae)"
+  3% — Same quests but only one active
+  Requires:
+  - Crag & Bamboozle OR Oblivion Blade of Nulgath
 
-MERGE
-──────────────────────────────────────────
-Swindle's Ripoff Emporium
-/join tercessuinotlim
+  3% — "Supplies to spin The Wheel of Chance"
+  Requires:
+  - Drudgen or Swindle
 
-Do this only if Voucher is the only item you still need.
+  [ PASSIVE ]
+  3% — "New Worlds, New Opportunities"
+  3% — "Nulgath (Larvae)"
 
-FORCED DROP METHOD
-──────────────────────────────────────────
-100% — "Assisting Crag & Bamboozle / Drudgen"
-Tendurrr
+  [ MERGE ]
+  Swindle's Ripoff Emporium
+  /join tercessuinotlim
 
-Requirements:
-• Must own Crag & Bamboozle or Drudgen
-• Must max-stack ALL other possible rewards
+  Do this only if Voucher is the only item you still need.
 
-This forces a NON-MEMBER Voucher to drop.
+  [ FORCED DROP METHOD ]
+  100% — "Assisting Crag & Bamboozle / Drudgen"
+  Tendurrr
 
-TIPS
-──────────────────────────────────────────
-• Only use forced drop if Voucher is last item needed
-• Otherwise Wheel of Chance is better because it gives other reagents
+  Requirements:
+  - Must own Crag & Bamboozle or Drudgen
+  - Must max-stack ALL other possible rewards
+
+  This forces a NON-MEMBER Voucher to drop.
+
+  [ TIPS ]
+  - Only use forced drop if Voucher is last item needed
+  - Otherwise Wheel of Chance is better because it gives other reagents
+╰────────────────────────────────────────────────────────────────────────╯

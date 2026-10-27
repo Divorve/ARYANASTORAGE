@@ -1,28 +1,30 @@
-╔════════════════════════════════════════╗
-                  ALUMINIUM
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
 
-FASTEST
-──────────────────────────────────────────
-"Mine Crafting" — Artix
-/join necropolis
+                            A L U M I N I U M
 
-Requirement:
-• Must have completed Step 1 of BLoD
+╚════════════════════════════════════════════════════════════════════════╝
 
-Farm Item:
-• Defeat Balboa — /join stalagbite
+⚔️ HOW TO
+╭────────────────────────────────────────────────────────────────────────╮
+  [ FASTEST ]
+  "Mine Crafting" — Artix
+  /join necropolis
 
-Notes:
-• This quest also progresses BLoD materials
+  Requirement:
+  - Must have completed Step 1 of BLoD
 
-PASSIVE
-──────────────────────────────────────────
-Do this while farming:
-• BLoD
-• Spirit Orbs
-• Bone Dust
+  Farm Item:
+  - Defeat Balboa — /join stalagbite
 
-TIPS
-──────────────────────────────────────────
-• Combine this with BLoD farming to save time
+  Notes:
+  - This quest also progresses BLoD materials
+
+  [ PASSIVE ]
+  Do this while farming:
+  - BLoD
+  - Spirit Orbs
+  - Bone Dust
+
+  [ TIPS ]
+  - Combine this with BLoD farming to save time
+╰────────────────────────────────────────────────────────────────────────╯
