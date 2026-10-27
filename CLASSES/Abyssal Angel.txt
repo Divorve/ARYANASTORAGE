@@ -19,7 +19,8 @@
 ╭────────────────────────────────────────────────────────────────────────╮
   Class  --> Luck
   Weapon --> Valiance / Acheron / Dauntless / Spiral Carve
-  Helm   --> Examen / Anima         Cape   --> Lament / Vainglory
+  Helm   --> Examen / Anima         
+  Cape   --> Lament / Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
