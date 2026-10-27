@@ -1,0 +1,1323 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+                       I N F E R N A L    A R E N A
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📍 LOCATION
+╭────────────────────────────────────────────────────────────────────────╮
+  Map --> Infernal Arena      Quest NPC --> Aranx
+╰────────────────────────────────────────────────────────────────────────╯
+
+📌 GENERAL
+╭────────────────────────────────────────────────────────────────────────╮
+  Every boss is SOLO --> 1 vs 1
+  Built for end-game classes + Forge enh
+  Top picks --> AP · VHL · DoT · LR · Shaman
+  Final boss --> AP strongly recommended
+  Potions --> see the Potions box below
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧪 POTIONS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ Damage ]                          [ Heals over Time ]
+  Elixir  --> Potent Battle Elixir    Elixir  --> Divine Elixir
+  Tonic   --> Fate / Might Tonic      Tonic   --> Might / Sage Tonic
+  Potion  --> Felicitous Philtre      Potion  --> Potent Honor Potion
+  
+  Emergency heals --> Health Potions (Reens · /arcangrove)
+╰────────────────────────────────────────────────────────────────────────╯
+
+📋 BOSS INDEX
+╭────────────────────────────────────────────────────────────────────────╮
+  01   Infernal Mage         ·   Maligned Magus
+  02   Infernal Revenger     ·   Reverent Revenger
+  03   Infernal Harbinger    ·   Infernal Harbinger
+  04   First Fallen          ·   First of the Fallen
+  05   Fallen Warlord        ·   Infernal Warlord
+  06   Malicious Maw         ·   Abhorrent Aperitif
+  07   Wicked Rotfinger      ·   Touch of Death
+  08   Dark Devourax         ·   Dire Dreams
+  09   Corrupt Terror        ·   Festering Forest
+  10   Infernal Abominator   ·   Abominable Butchery
+  11   Twisted Harpy         ·   Infernal Screech
+  12   Infernal Izotz        ·   Frosty Burns
+  13   Infernal Krampus      ·   Kramping Your Style
+  14   Destructive Defiler   ·   Defiled Destiny
+  15   Infernal Naga         ·   Searing Snake Oil
+  16   Accursed Agape        ·   Ambivalent Affection
+  17   Accursed Apephyrx     ·   From the Crux of Shadows
+  18   Deadly Duo            ·   Reviled Returner
+  19   Cervus Malus          ·   Reign of the Deer
+  20   Key of Sholemoh       ·   Ars Infernum
+  21   Azalith's Scythe      ·   Unrepentant Culler
+  22   Na'al                 ·   Lord of the Scarred Barrens
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           C L A S S    K I T S
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+
+📖 ARCHPALADIN  ·  AP
+
+ℹ️ INFO
+╭────────────────────────────────────────────────────────────────────────╮
+  Stat Model --> Full Hybrid      Recommended Enh --> Hybrid
+  Mana --> gained from hits, especially crits
+  Weapon Dmg --> 110% · 2.0 speed      Shop --> Throne of Darkness Hub
+╰────────────────────────────────────────────────────────────────────────╯
+
+🔢 SKILLS
+╭────────────────────────────────────────────────────────────────────────╮
+  1  Auto Attack         --> 2s CD · basic weapon hit
+  2  Commandment         --> 10 MP · 5s CD · hits 3 targets
+                             Per stack: enemy -5% dmg / crit / hit
+                             -10% dodge / defense (max 6 stacks, 10s)
+  3  Hymn of Light       --> 40 MP · 10s CD · heals 380% · always crits
+                             +20% END & Defense for 15s
+  4  Righteous Seal      --> 20 MP · 25s CD
+                             enemy deals -90% dmg for 7s
+  5  Sacred Magic: Eden  --> 40 MP · 25s CD · 550% spell dmg
+                             Seal active --> 1100% dmg
+                             consumes the Seal
+                             Applies Broken Seal (enemy -15% dmg, 25s, x2)
+╰────────────────────────────────────────────────────────────────────────╯
+
+💠 PASSIVES
+╭────────────────────────────────────────────────────────────────────────╮
+  Restitution                --> -20% incoming dmg
+  Blessed by Light           --> +100% END · +10% hit
+  Righteous Judgement (R10)  --> +20% outgoing dmg · +15% haste
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+📖 VOID HIGHLORD  ·  VHL
+
+ℹ️ INFO
+╭────────────────────────────────────────────────────────────────────────╮
+  Stat Model --> Tank Melee      Recommended Enh --> Fighter
+  Weapon Dmg --> 125% · 2.3 speed      Merge Shop --> /tercessuinotlim
+  Mana --> gained from hits, especially crits
+╰────────────────────────────────────────────────────────────────────────╯
+
+🔢 SKILLS
+╭────────────────────────────────────────────────────────────────────────╮
+  1  Contract         --> 0 MP · 2.3s CD
+                          Shackled --> Soul Fend HoT on you (5s, x5)
+                          Unshackled --> Soul Breach DoT on enemy (5s, x5)
+  2  Shackle          --> 0 MP · 4s CD · costs 20% max HP
+                          -50% incoming dmg 15s
+                          Soul Void (+30% haste / HoT / DoT 12s)
+  3  Highlord's Gaze  --> 20 MP · 5s CD · heals you
+                          30% stun 3s
+                          Congealed: enemy -20% hit / haste / dodge 6s
+  4  Unshackle        --> 0 MP · 4s CD · costs 20% max HP
+                          +50% outgoing dmg 15s · Soul Void
+                          replaces Shackled
+  5  Armageddon       --> 50 MP · 15s CD · 420% dmg
+                          +75% crit dmg 12s
+                          Kneel: +50% dmg & -50% dmg taken 12s
+                          R10 --> enemy takes +5% dmg for 20s (x10)
+╰────────────────────────────────────────────────────────────────────────╯
+
+💠 PASSIVES
+╭────────────────────────────────────────────────────────────────────────╮
+  Relentless Onslaught    --> +20% hit · +20% crit
+  Tremble in Fear         --> -20% incoming dmg
+  Undying Highlord (R10)  --> +50% END
+                              skills 20% chance: Insolent Fools
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+📖 KING'S ECHO  ·  KE
+
+ℹ️ INFO
+╭────────────────────────────────────────────────────────────────────────╮
+  Dmg --> Spell Power based · 1 grows with Infused Energy
+  Loop --> 3 builds Residual Energy (x8) --> 5 infuses it into 1
+  4 (King's Shield) locks until you use 5 (CORVAK!)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🔢 SKILLS
+╭────────────────────────────────────────────────────────────────────────╮
+  1  Dragon Sword       --> 0 MP · 2.5s CD
+                            55%-715% magic dmg dealt as physical
+                            Scales with Infused Energy
+  2  Liberation Mace    --> 0 MP · 3s CD · 250% magic as physical
+                            Censure: enemy -20% dmg res / crit / dodge 10s
+                            Royal Resolve up --> Overthrown
+                            enemy -8% dmg 10s (x4)
+  3  Bolt of Authority  --> 25 MP · 3s CD · 110% magic dmg
+                            Leaves Residual Energy (x8, 10s)
+  4  King's Shield      --> 50 MP · 5s CD
+                            Barrier nullifies most dmg for 2s
+                            Focus 4s --> enemy can only hit you
+                            Royal Resolve: +50% dmg res + HoT 6s
+                            Can't recast until CORVAK! is used
+  5  CORVAK!            --> 0 MP · 16s CD · 300%-1350% magic dmg
+                            Unavoidable crit
+                            more dmg the less mana you have
+                            Refills mana (+200 MP)
+                            Infuses Residual Energy into 1 for 20s
+╰────────────────────────────────────────────────────────────────────────╯
+
+💠 PASSIVES
+╭────────────────────────────────────────────────────────────────────────╮
+  Royal Armor            --> +200% END · +20% physical res
+  Energy Attuned         --> +25% haste · +25% crit
+  My Four Dearest (R10)  --> -20% mana costs
+                             +10% hit / magic dmg / healing
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           01  ·  INFERNAL MAGE
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Maligned Magus
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 20      DIFF --> ★★★      HP --> 6,000      DMG --> 74-92
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Hand Slash · Magical Throw
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                         02  ·  INFERNAL REVENGER
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Reverent Revenger
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 23      DIFF --> ★★★      HP --> 6,500      DMG --> 79-97
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Red Mist · Sword Slash
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                        03  ·  INFERNAL HARBINGER
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Infernal Harbinger
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 25      DIFF --> ★★★      HP --> 7,000      DMG --> 81-98
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Spectral Dash · Sword Stab
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           04  ·  FIRST FALLEN
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> First of the Fallen
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 27      DIFF --> ★★★      HP --> 7,500      DMG --> 83-103
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Inferno Fury · Flameburst
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                          05  ·  FALLEN WARLORD
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Infernal Warlord
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 30      DIFF --> ★★★      HP --> 8,500      DMG --> 88-107
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Sword Slash · Sword Strike
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           06  ·  MALICIOUS MAW
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Abhorrent Aperitif
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 33      DIFF --> ★★★      HP --> 9,000      DMG --> 94-112
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Crunch
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                         07  ·  WICKED ROTFINGER
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Touch of Death
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 36      DIFF --> ★★★      HP --> 9,000      DMG --> 94-115
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Jump Scratch · Scratch
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           08  ·  DARK DEVOURAX
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Dire Dreams
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 40      DIFF --> ★★★★      HP --> 10,000      DMG --> 152-207
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Dive Into Portal · Uprise Bite
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                          09  ·  CORRUPT TERROR
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Festering Forest
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 36      DIFF --> ★★★      HP --> 9,000      DMG --> 188-228
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Purple Gas · Stomp
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                        10  ·  INFERNAL ABOMINATOR
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Abominable Butchery
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 50      DIFF --> ★★★★      HP --> 30,000      DMG --> 223-272
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Cauldron Blast · Slash
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           11  ·  TWISTED HARPY
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Infernal Screech
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 55      DIFF --> ★★★★      HP --> 40,000      DMG --> 260-316
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Claw Blast · Claw Swipe
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                          12  ·  INFERNAL IZOTZ
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Frosty Burns
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 57      DIFF --> ★★★★      HP --> 50,000      DMG --> 287-350
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Claw Slash · Stomp
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                         13  ·  INFERNAL KRAMPUS
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Kramping Your Style
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 60      DIFF --> ★★★★      HP --> 100,000      DMG --> 368-447
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Shadow Burst · Shadow Grasp
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                        14  ·  DESTRUCTIVE DEFILER
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Defiled Destiny
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 62      DIFF --> ★★★★      HP --> 125,000      DMG --> 406-493
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Axe Strike · Brutal Chop
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Heal when low · any end-game class works
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           15  ·  INFERNAL NAGA
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Searing Snake Oil
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 65      DIFF --> ★★★★★      HP --> 150,000      DMG --> 525-622
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Scratch · Scream
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Hits harder (500-700) --> keep heals / DR up
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                          16  ·  ACCURSED AGAPE
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Ambivalent Affection
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 67      DIFF --> ★★★★★      HP --> 175,000      DMG --> 522-636
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Photosynthesis · Pink Fumes
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Hits harder (500-700) --> keep heals / DR up
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                         17  ·  ACCURSED APEPHYRX
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> From the Crux of Shadows
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 70      DIFF --> ★★★★★      HP --> 200,000      DMG --> 602-730
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Heavy Dose of Water · Plant Uprising
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman                                KE · King's Echo
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Lucky                     Weapon  --> Valiance
+    Helm    --> Base Forge                Cape    --> Vainglory
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  No special mechanics --> straight DPS
+  Hits harder (500-700) --> keep heals / DR up
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                            18  ·  DEADLY DUO
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Reviled Returner
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 75      DIFF --> ★★★★★      HP --> 350,000
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Body Slam    --> 1,150-1,250 · 6s CD
+                   Applies Double Attack (DoT · 1s)
+  Meal Prep    --> Charges 3s · 15s CD · Then casts Dinner Time
+  Dinner Time  --> 70% of current HP · Heals itself 33% max HP over 2s
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚠️ MECHANICS
+╭────────────────────────────────────────────────────────────────────────╮
+  Boss Shield · dmg over 50k reduced   ·   Cannot be stunned
+  0% Dodge · 130% Hit
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VHL · Void Highlord                   AP · ArchPaladin
+  DoT · Dragon of Time                  LR · Legion Revenant
+  Shaman
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Hybrid                    Weapon  --> Praxis
+    Helm    --> Base Forge                Cape    --> Penitence
+  
+  [ King's Echo ]
+    Class   --> Lucky
+    Weapon  --> Ravenous
+    Helm    --> Examen
+    Cape    --> Absolution / Lament
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Body Slam --> 1.2k hit + Double Attack DoT
+  Meal Prep (3s charge) --> brace for Dinner Time
+  Dinner Time --> 70% current HP · heal right after
+  It heals 33% max HP --> keep DPS steady
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                           19  ·  CERVUS MALUS
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Reign of the Deer
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 80      DIFF --> ★★★★★      HP --> 400,000
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Bite        --> 760-860 · 2s CD · Applies Sanguis (DoT · 6s)
+  Contrarium  --> 60% of current HP · 10s CD
+                  Healing intake -200% for 4s
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚠️ MECHANICS
+╭────────────────────────────────────────────────────────────────────────╮
+  Attacks can't miss or crit   ·   Boss Shield · dmg over 50k reduced
+  Cannot be stunned   ·   0% Dodge
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  AP · main pick · huge heals + DR      VHL
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis  ·  no Dauntless yet? --> Health Vamp
+    Helm    --> Anima / Forge / Fighter
+    Cape    --> Penitence / Lament
+  
+  [ AP ]
+    Class   --> Hybrid                    Weapon  --> Praxis
+    Helm    --> Base Forge                Cape    --> Penitence
+  
+  [ King's Echo ]
+    Class   --> Lucky
+    Weapon  --> Ravenous
+    Helm    --> Examen / Base Forge
+    Cape    --> Lament / Penitence / Absolution
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  AP --> barely a threat with its heals + DR
+  Contrarium --> healing becomes -200% for 4s
+  DON'T heal during Contrarium --> hold 3 (Hymn of Light)
+  Contrarium over --> heal again
+  KE --> time 4 so it's ready for the big nukes
+  Turn on monster animations (Settings) --> see nukes coming
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                          20  ·  KEY OF SHOLEMOH
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Ars Infernum
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 85      DIFF --> ★★★★★      HP --> 500,000
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Laser Beam         --> 1,000 true dmg · 2.5s CD
+  Hyper Beam Charge  --> Charges 4s · 18s CD
+                         Warns: "Prepare for your undoing!"
+  Hyper Beam         --> 3,000 true dmg
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚠️ MECHANICS
+╭────────────────────────────────────────────────────────────────────────╮
+  Attacks can't miss or crit   ·   Boss Shield · dmg over 50k reduced
+  Cannot be stunned   ·   0% Dodge
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  AP · needs Praxis                     KE · needs Absolution
+  VHL · needs Dauntless / Health Vamp
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ AP ]
+    Class   --> Healer (aim for 4k+ HP)   Weapon  --> Praxis
+    Helm    --> Base Forge                Cape    --> Penitence
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Absolution
+  
+  [ VHL ]
+    Class   --> Fighter
+    Weapon  --> Dauntless / Praxis
+    Helm    --> Base Forge
+    Cape    --> Penitence / Lament
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Laser Beam --> fixed 1,000 dmg every 2.5s
+  "Prepare for your undoing!" --> Hyper Beam in 4s
+  AP --> last 2s of charge --> 2 (Commandment) · Praxis
+  --> nullifies the 3k Hyper Beam
+  KE --> time 4 so it's ready for the Hyper Beam
+  Turn on monster animations (Settings) --> see it coming
+  KE --> don't spam 4 just because you're low · be patient
+  Emergency --> Health Potions (Reens · /arcangrove)
+  Slow fight · stay patient
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                         21  ·  AZALITH'S SCYTHE
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Unrepentant Culler
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 90      DIFF --> ★★★★★      HP --> 400,000
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Eviscerate  --> 300-350 (before crit) · 1s CD
+  Decapitate  --> 70% of current HP · 10s CD · True damage
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚠️ MECHANICS
+╭────────────────────────────────────────────────────────────────────────╮
+  Boss Shield · dmg over 50k reduced   ·   Cannot be stunned
+  100% Dodge · 100% Crit   ·   300% Crit Damage
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  LoO · Rank 10 --> guaranteed hit + crit
+  Any class with dodge negation + self heal
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ LoO ]
+    Class   --> Lucky
+    Weapon  --> Awe Blast / Health Vamp
+    Helm    --> Base Forge
+    Cape    --> Penitence
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Absolution
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  100% Dodge --> LoO R10 ignores it
+  Decapitate --> 70% current HP every 10s
+  Heal right after every Decapitate
+  HoT class --> Potent Honor Potion boosts it
+  Burst / crit heals --> time them · HoT doesn't need it
+  KE --> time 4 for every Decapitate · use it generously
+  Be at full HP before the nuke --> the auto attack after
+      can land fast depending on ping
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                               22  ·  NA'AL
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📜 QUEST   --> Lord of the Scarred Barrens
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 95      DIFF --> ★★★★★      HP --> 1,500,000
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Idle   --> Restrained for first 12s of combat
+             Stunned · Dmg Resistance -500%
+  Quake  --> 20% of max HP · 2s CD · True damage
+  Veni   --> 15s CD · DoT · 200% max HP over 1s
+             Followed by Vidi after 3s
+  Vidi   --> DoT · 200% max HP over 1s · Followed by Vici after 4s
+  Vici   --> 70% of max HP · True damage
+             Self: Dmg Resistance -500% for 4s
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚠️ MECHANICS
+╭────────────────────────────────────────────────────────────────────────╮
+  Attacks can't miss or crit   ·   Boss Shield · dmg over 75k reduced
+  Cannot be stunned (except Restrained)   ·   0% Dodge
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  AP · strongly recommended
+  VHL · doable with careful skill timing
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ AP ]
+    Class   --> Lucky / Fighter
+    Weapon  --> Praxis
+    Helm    --> Base Forge
+    Cape    --> Lament / Penitence
+  
+  [ King's Echo ]
+    Class   --> Lucky                     Weapon  --> Ravenous
+    Helm    --> Examen                    Cape    --> Vainglory
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Dmg is % of max HP --> HP pool doesn't matter
+  Opener --> Restrained 12s · takes boosted dmg
+  --> hit it with 5 (Eden)
+  "Veni" --> 4 (Righteous Seal) right away · -90% dmg
+  "Vidi" --> wait 2s --> 2 (Commandment) · Praxis
+  "VICI!" --> nullified · boss now vulnerable
+  --> 5 (Eden) while Seal is still up = 1100% dmg
+  --> Broken Seal: boss deals -15% dmg for 25s
+  Emergency --> Health Potions
+  Alt --> burst it before Vici (Forge + potions)
+  Alt --> stack defense (Penitence · AP Sealing)
+  
+  [ King's Echo ]
+  Full pots --> Potent Battle Elixir · Fate Tonic · Felicitous Philtre
+  Prestack 5 --> /join classhall · 3 on the training dummy x8
+  Join /infernalarena --> open with 5 --> then 4
+  Rotation --> (2 + 3) x8 --> 5 --> repeat
+╰────────────────────────────────────────────────────────────────────────╯
