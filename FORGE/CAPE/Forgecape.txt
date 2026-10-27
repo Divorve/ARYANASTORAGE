@@ -1,20 +1,20 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   FORGE (CAPE)
+                         F O R G E    ( C A P E )
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📋 REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Must be Level 30               --> Refer to XP Guide
   Must have Rank 4 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
   Must have completed the "Defeat Kitsune" quest
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-✅ STEP 1 — Obtain Items
-╭──────────────────────────────────╮
+✅ STEP 1 — OBTAIN ITEMS
+╭────────────────────────────────────────────────────────────────────────╮
   Prismatic Celestial Wings  --> /join lostruinswar  --> Kill Diabolical Warlord (drop item)
   Broken Wings               --> /join lostruins     --> Kill Infernal Warlord (drop item)
   Shadow's Wings             --> /join infernalspire --> Kill Azkorath (drop item)
   Wings of Destruction       --> /join infernalspire --> Kill Malxas (drop item)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
