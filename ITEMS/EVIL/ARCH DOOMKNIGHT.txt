@@ -1,12 +1,11 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-       ARCH DOOMKNIGHT
-            (ADK)
+               A R C H    D O O M K N I G H T    ( A D K )
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Rank 7 Evil
   14+ Inventory Slots            --> Buy for 200 ACs each
 
@@ -15,29 +14,28 @@
   --> Step 1 of BLoD
   --> /join noxustower
   --> 13LoC (Map > Story)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── Complete Ancient DoomKnight's quests at /join shadowvault ────────╮
-
+╭────── Complete Ancient DoomKnight's quests at /join shadowvault ───────╮
   1. "Gathering Power"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Undead Energy          ×1,800  --> /join battleunderb (Kill enemies)
     Human Souls            ×500    --> /join noxustower (Kill Lightguard Paladins
                                        and Casters — 2 rooms near end with 3 each)
     Dragon Energy          ×600    --> /join lair (exit left from /join underlair)
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   2. "Death's Door"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Death's Power &
     Souls of the Dead      ×400    --> /join shadowattack (Kill Death at end of map)
                                        💡 If you've done the /join shadowrise storyline:
                                        click "Battle Death Again" on the NPC for a teleport
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   3. "Chaotic Lords"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Chaotic Power          ×13     --> Earned automatically as you collect the items below
 
     Escherion's Helm               --> /join escherion (Kill Escherion)
@@ -60,10 +58,10 @@
     Chaorrupted Hourglass          --> /join timespace (Kill Iadoa)
                                        💡 Get Dragonoid of Hours from Dragonoid at /join mqlesson
                                        — disables Iadoa's Astral Shift (inventory only, no equip needed)
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   4. "A Means to an End"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Ultimate Darkness Gem  ×50     --> /join shadowfallwar (walk up > right)
                                        Kill 2 Ghouls and 2 Undead War Mages
     Undead Energy          ×2,000  --> /join battleunderb (Kill enemies)
@@ -75,5 +73,5 @@
                                        💡 Select "Fight Me!" from The Reaper NPC at start of map
     Desolich's Undead Eye  ×2      --> /join desolich (Kill Desolich)
                                        👥 Group strongly recommended — very high HP
-  ╰──────────────────────────────────╯
-╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,12 +1,11 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-  EMPOWERED VORDRED'S ARMOR
-           (EVA)
+     E M P O W E R E D    V O R D R E D ' S    A R M O R    ( E V A )
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 📦 PRE-REQUIREMENTS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Level 60
   Rank 10 DoomWood
   Rank 10 Evil
@@ -17,18 +16,17 @@
   --> /join maul > /join necrotower
       (including Necro Tower Elevator minigame —
       if already done, press Exit at top-right)
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
-╭──────── Complete Vordred's quests at /join stonewood ────────╮
-
+╭───────────── Complete Vordred's quests at /join stonewood ─────────────╮
   1. "SKULLS"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Defeat enemies at /join warundead
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   2. "MORE SKULLS"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Bone Axe                       --> /join graveyard (Kill Big Jack Sprat)
     Spine Gripper                  --> /join battleundera (walk left then up)
                                        Kill Angry Undead Giant (~1% drop)
@@ -44,10 +42,10 @@
     Boneblade of Gorgorath         --> /join wrath or /join dragonbone (Kill Gorgorath)
                                        ⚠️ If no Seven Deadly Dragons story done:
                                        complete quests at /join dragonbone to access Gorgorath
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   3. "MORE SKULLS ON THE SKULLS"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Shadow Lich                    --> Purchase from Gravelyn's Evil Rep shop at /join shadowfall
                                        (quick access: exit left from /join shadowvoid)
     Escherion's Robe               --> /join escherion (Kill Escherion)
@@ -66,10 +64,10 @@
                                               3 rooms left of Revontheus)
                                        Step 3: Merge all items in Rogath's Favour shop
                                               (faster to rejoin /join underworld than walk back)
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   4. "MORE SKULLS ON THOSE SKULLS"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     👥 GROUP strongly recommended for all bosses in this quest
 
     Desolich's Skull       ×5      --> /join desolich (Kill Desolich — 8M+ HP)
@@ -88,10 +86,10 @@
                                        (Yami no Ronin, Chrono Assassin, Horc Evader, etc.)
     Reaper's Skull         ×20     --> /join thevoid (Kill Reaper)
                                        💡 Select "Fight Me!" from The Reaper NPC at start of map
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   5. "VOIDUMINANCE"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     (Necro) Scroll of
      Dark Arts             ×1      --> /join epicvordred (Kill Ultra Vordred ~1% drop)
     Noxus Runes                    --> /join lightguardwar (Kill Extreme Noxus)
@@ -105,12 +103,12 @@
                                        walk right > next elevator > right door > walk right
                                        > next elevator > doom crawler > up into train > walk right
                                        > next elevator > right door > continue right
-  ╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
 
   6. "Empower Vordred's Armour"
-  ╭──────────────────────────────────╮
+  ╭────────────────────────────────────────────────────────────────────╮
     Have SDKA in your inventory
     --> Purchase Vordred's Armour from /join stonewood to accept the quest
     --> Defeat Ultra Vordred at /join epicvordred
-  ╰──────────────────────────────────╯
-╰──────────────────────────────────╯
+  ╰────────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
