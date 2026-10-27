@@ -1,11 +1,11 @@
-╔════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-   ORIGINUL
+                             O R I G I N U L
 
-╚════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 ⚔️ VOID FLIBBI
-╭──────── /join voidflibbi ────────╮
+╭─────────────────────────── /join voidflibbi ───────────────────────────╮
   SOLO
   Class: Dragon Knight (WIZ)
 
@@ -16,17 +16,17 @@
   Cape     Forge Cape
 
   Combo:   3 → 4 → 2 → 5 → repeat
-  · Add extra 2s between 3 and 4 cooldowns
-  · ⚠️ Always use 2 before 5 to activate HoT
+  - Add extra 2s between 3 and 4 cooldowns
+  - ⚠️ Always use 2 before 5 to activate HoT
 
-  ──────────────────────────────────
+  [ ─ ]
   GROUP
   Recommended: CSS · VDK · LR · LoO · GT · DoT · SC · LH
-  · Heal when HP drops using a HoT class
-╰──────────────────────────────────╯
+  - Heal when HP drops using a HoT class
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ VOID NIGHTBANE
-╭──────── /join voidnightbane ────────╮
+╭───────────────────────── /join voidnightbane ──────────────────────────╮
   SOLO
   Class: Gunslinger
 
@@ -37,22 +37,22 @@
   Enhancements:  Health Vamp · Vim · Lament
 
   Consumables:
-  · Unstable Fate Tonic
-  · Potent Battle Elixir
-  · Felicitous Philtre
+  - Unstable Fate Tonic
+  - Potent Battle Elixir
+  - Felicitous Philtre
 
   Combo:   4 → 1 → 4 → 4 → 4 → 2
 
-  ──────────────────────────────────
+  [ ─ ]
   GROUP
   Recommended: CSS · VDK · LR · LoO · GT · DoT · SC · LH
-  · ⚠️ Do NOT use Vainglory
-  · ⚠️ A decay class is REQUIRED
-╰──────────────────────────────────╯
+  - ⚠️ Do NOT use Vainglory
+  - ⚠️ A decay class is REQUIRED
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ VOID XYFRAG
-╭──────── /join voidxyrag ────────╮
+╭─────────────────────────── /join voidxyrag ────────────────────────────╮
   GROUP
   Recommended: CSS · VDK · LR · LoO · GT · DoT · SC · LH
-  · ⚠️ LR must taunt when the prompt appears: "BLEEEEEECH"
-╰──────────────────────────────────╯
+  - ⚠️ LR must taunt when the prompt appears: "BLEEEEEECH"
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,22 +1,22 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-      KATHOOL DEPTHS
+                       K A T H O O L    D E P T H S
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
 👥 COMPOSITION
-╭──────────────────────────────────╮
-  SC
-  LoO
-  LR
-  VDK
-  DPS
-  AF
-  Arach
-╰──────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────╮
+  - SC
+  - LoO
+  - LR
+  - VDK
+  - DPS
+  - AF
+  - Arach
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ MECHANICS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Press Vigil when Kathool says "You cannot Resist"
 
   Kill tentacles as they respawn
@@ -26,14 +26,14 @@
   💡 SC > LH because some classes won't be at max Haste
      If everyone reaches max Haste with an extra 10% Haste bonus,
      replace SC with LH
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ GEAR SETUPS
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   SC    --> Fighter class · Anima helm · Absolution · Valiance · Vigil
   LoO   --> LUK class · Base Forge helm · Absolution · LUK Aweblast · Vigil
   LR    --> WIZ class · Pneuma helm · Lament · Arcana's Concerto · Vigil
   VDK   --> LUK class · Anima helm · Vainglory · Ravenous · Vigil
   Arach --> LUK class · Vim helm · Vainglory · Ravenous · Vigil
   AF    --> LUK class · Base Forge helm · Vainglory · Ravenous · Vigil
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯

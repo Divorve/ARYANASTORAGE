@@ -1,76 +1,64 @@
-╔════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 
-          TIME INN
+                             T I M E    I N N
 
-╚════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 
-╔════════════════════════════════╗
-       ULTRA EZRAJAL
-╚════════════════════════════════╝
-
-👥 COMPOSITION
-╭──────────────────────────────────╮
+👥 ULTRA EZRAJAL  ·  COMPOSITION
+╭────────────────────────────────────────────────────────────────────────╮
   DPS
   LoO
   LR
   AP / VDK
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚙️ PREP — ABILITY LOCKING
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   Before the fight, pre-lock any useless abilities in your kit:
   --> Attack Ezrajal and leave the room before dying
   --> An ability is locked when it becomes unclickable OR the screen
       shows yellow text: "[ability] has been locked"
 
   💡 You can also lock your weapon enhancement by auto-attacking ONLY
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚠️ BOSS MECHANIC — COUNTER PHASE
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   At some point the boss will begin countering ALL abilities
   --> Watch for the text prompt on screen
   --> STOP attacking immediately during this phase
   --> Focus on healing and surviving until the counter aura fades
   --> Resume attacking once it clears
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-       ULTRA WARDEN
-╚════════════════════════════════╝
-
-👥 COMPOSITION
-╭──────────────────────────────────╮
+👥 ULTRA WARDEN  ·  COMPOSITION
+╭────────────────────────────────────────────────────────────────────────╮
   DPS   (best: CSS)
   LoO
   LR
   VDK
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ ROLES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   LR    --> Taunt at the start of the fight
   VDK   --> Spam 5 · Cycle into 10 stacks · Repeat 5
   LoO   --> Focus healing at nukes to keep everyone alive
   DPS   --> Kill as fast as possible · Use any sustain in your kit
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
-╔════════════════════════════════╗
-       ULTRA ENGINEER
-╚════════════════════════════════╝
-
-👥 COMPOSITION
-╭──────────────────────────────────╮
+👥 ULTRA ENGINEER  ·  COMPOSITION
+╭────────────────────────────────────────────────────────────────────────╮
   DPS
   LoO
   LR
   AP
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ ROLES
-╭──────────────────────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
   AP          --> Use 4 on Attack Drone · Use 5 on Defense Drone at fight start
   LoO / LR / DPS --> Focus Attack Drone --> then Defense Drone
                      --> then melt Boss together before drones respawn
   If drones respawn: Focus Attack Drone first, then Defense Drone again
-╰──────────────────────────────────╯
+╰────────────────────────────────────────────────────────────────────────╯
