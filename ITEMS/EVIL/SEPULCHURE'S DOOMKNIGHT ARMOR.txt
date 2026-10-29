@@ -65,7 +65,7 @@
 
   "A Penny for your Foughts"
   ╭────────────────────────────────────────────────────────────────────╮
-    Defeat enemies at /join maul · DoomCoins stack to 100
+    Defeat enemies at /join maul · DoomCoins stack to 1000
   ╰────────────────────────────────────────────────────────────────────╯
 
   "Dark Spirit Donation"
