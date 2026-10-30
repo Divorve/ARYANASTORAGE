@@ -18,8 +18,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Fighter                Weapon --> Ravenous / Valiance
-  Helm   --> Forge / Examen         Cape   --> Vainglory
+  Class  --> Fighter      
+  Weapon --> Ravenous / Valiance
+  Helm   --> Forge / Examen         
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
