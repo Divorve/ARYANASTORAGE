@@ -6,8 +6,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Wizard                 Weapon --> Ravenous
-  Helm   --> Base Forge             Cape   --> Vainglory
+  Class  --> Wizard                
+  Weapon --> Ravenous
+  Helm   --> Base Forge            
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
