@@ -22,7 +22,8 @@
   Class  --> Luck
   Weapon --> Ravenous (Group + Ultras + Solo)
              Spiral Carve (if no Ravenous)
-  Helm   --> Vim                    Cape   --> Vainglory / Penitence
+  Helm   --> Vim                   
+  Cape   --> Vainglory / Penitence
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
