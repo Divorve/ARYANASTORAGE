@@ -17,8 +17,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Smite
-  Helm   --> Forge                  Cape   --> Vainglory
+  Class  --> Luck                  
+  Weapon --> Smite
+  Helm   --> Forge                  
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
