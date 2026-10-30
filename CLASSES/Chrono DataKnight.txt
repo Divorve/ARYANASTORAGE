@@ -18,7 +18,8 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Ravenous / Valiance
+  Class  --> Luck                   
+  Weapon --> Ravenous / Valiance
   Helm   --> Vim / Examen (mana problems)
   Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
