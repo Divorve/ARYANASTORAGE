@@ -18,7 +18,9 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Weapon --> Valiance / Dauntless   Helm   --> Anima
+  Class: Fighter / Luck
+  Weapon --> Valiance / Dauntless  
+  Helm   --> Anima
   Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
