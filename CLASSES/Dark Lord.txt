@@ -36,7 +36,8 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Valiance
+  Class  --> Luck                 
+  Weapon --> Valiance
   Helm   --> Pneuma / Vim / Base Forge
   Cape   --> Lament / Avarice (glass cannon)
 ╰────────────────────────────────────────────────────────────────────────╯
