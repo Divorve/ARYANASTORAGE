@@ -19,8 +19,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
+  Class --> Luck
   Weapon --> Valiance / Arcana's Concerto
-  Helm   --> Forge                  Cape   --> Absolution
+  Helm   --> Forge                  
+  Cape   --> Absolution
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
