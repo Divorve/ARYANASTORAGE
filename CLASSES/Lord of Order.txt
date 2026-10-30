@@ -35,7 +35,8 @@
 ╭────────────────────────────────────────────────────────────────────────╮
   Class  --> Luck
   Weapon --> Awe Blast / Health Vamp (Ultradage)
-  Helm   --> Base Forge             Cape   --> Penitence / Absolution
+  Helm   --> Base Forge             
+  Cape   --> Penitence / Absolution
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
