@@ -19,8 +19,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Ravenous
-  Helm   --> Examen                 Cape   --> Vainglory / Lament
+  Class  --> Luck                   
+  Weapon --> Ravenous
+  Helm   --> Examen                 
+  Cape   --> Vainglory / Lament
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
