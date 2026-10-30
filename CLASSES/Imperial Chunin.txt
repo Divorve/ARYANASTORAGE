@@ -29,5 +29,4 @@
   Weapon --> Ravenous / Dauntless / Lacerate / Spiral Carve
   Helm --> Vim
   Cape --> Lament / Vainglory
-  
 ╰────────────────────────────────────────────────────────────────────────╯
