@@ -18,8 +18,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Dauntless / Valiance
-  Helm   --> Base Forge / Anima     Cape   --> Vainglory / Penitence
+  Class  --> Luck                  
+  Weapon --> Dauntless / Valiance
+  Helm   --> Base Forge / Anima    
+  Cape   --> Vainglory / Penitence
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 SKILL BREAKDOWN & COMBOS
