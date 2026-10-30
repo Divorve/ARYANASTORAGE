@@ -18,8 +18,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Dauntless / Lacerate
-  Helm   --> Vim                    Cape   --> Lament
+  Class  --> Luck                   
+  Weapon --> Dauntless / Lacerate
+  Helm   --> Vim                    
+  Cape   --> Lament
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
