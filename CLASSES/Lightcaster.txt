@@ -38,7 +38,8 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Valiance / Praxis
+  Class  --> Luck                   
+  Weapon --> Valiance / Praxis
   Helm   --> Base Forge / Pneuma / Wizard
   Cape   --> Vainglory / Lament
 ╰────────────────────────────────────────────────────────────────────────╯
