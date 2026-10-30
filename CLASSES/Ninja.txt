@@ -18,6 +18,8 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Mana Vamp
-  Helm   --> Base Forge             Cape   --> Vainglory / Lament
+  Class  --> Luck                   
+  Weapon --> Mana Vamp
+  Helm   --> Base Forge             
+  Cape   --> Vainglory / Lament
 ╰────────────────────────────────────────────────────────────────────────╯
