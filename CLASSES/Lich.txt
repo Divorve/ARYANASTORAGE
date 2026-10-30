@@ -37,8 +37,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Ravenous
-  Helm   --> Examen                 Cape   --> Vainglory
+  Class  --> Luck                   
+  Weapon --> Ravenous
+  Helm   --> Examen                
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
