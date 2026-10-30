@@ -25,7 +25,8 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Healer                 Weapon --> Elysium / Valiance
+  Class  --> Healer                 
+  Weapon --> Elysium / Valiance
   Helm   --> Healer / Pneuma / Wizard
   Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
