@@ -32,6 +32,8 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Health Vamp
-  Helm   --> Luck / Base Forge      Cape   --> Lament / Absolution
+  Class  --> Luck                   
+  Weapon --> Health Vamp
+  Helm   --> Luck / Base Forge      
+  Cape   --> Lament / Absolution
 ╰────────────────────────────────────────────────────────────────────────╯
