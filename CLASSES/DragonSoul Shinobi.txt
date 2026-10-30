@@ -38,7 +38,9 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Weapon --> Valiance / Dauntless   Helm   --> Vim / Anima
+  Ckass: --> Luck
+  Weapon --> Valiance / Dauntless   
+  Helm   --> Vim / Anima
   Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
