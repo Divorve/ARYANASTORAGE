@@ -36,7 +36,8 @@
 ╭────────────────────────────────────────────────────────────────────────╮
   Class  --> Fighter
   Weapon --> Arcana's Concerto / Awe Blast
-  Helm   --> Fighter                Cape   --> Absolution / Penitence
+  Helm   --> Fighter                
+  Cape   --> Absolution / Penitence
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 SKILL BREAKDOWN & COMBOS
