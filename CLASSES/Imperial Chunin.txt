@@ -25,5 +25,9 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Spiral Carve
+  Class  --> Luck                   
+  Weapon --> Ravenous / Dauntless / Lacerate / Spiral Carve
+  Helm --> Vim
+  Cape --> Lament / Vainglory
+  
 ╰────────────────────────────────────────────────────────────────────────╯
