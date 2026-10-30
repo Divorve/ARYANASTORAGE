@@ -18,8 +18,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Dauntless / Smite
-  Helm   --> Vim                    Cape   --> Vainglory
+  Class  --> Luck                   
+  Weapon --> Dauntless / Smite
+  Helm   --> Vim                   
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
