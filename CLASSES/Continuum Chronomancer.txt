@@ -18,8 +18,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Ravenous / Dauntless
-  Helm   --> Forge                  Cape   --> Vainglory
+  Class  --> Luck             
+  Weapon --> Ravenous / Dauntless
+  Helm   --> Forge               
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
