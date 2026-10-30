@@ -19,8 +19,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Ravenous / Smite
-  Helm   --> Anima                  Cape   --> Lament
+  Class  --> Luck                   
+  Weapon --> Ravenous / Smite
+  Helm   --> Anima                  
+  Cape   --> Lament
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
