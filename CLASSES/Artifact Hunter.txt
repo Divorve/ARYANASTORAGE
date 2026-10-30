@@ -18,8 +18,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Valiance / Dauntless
-  Helm   --> Anima                  Cape   --> Vainglory
+  Class  --> Luck                   
+  Weapon --> Valiance / Dauntless
+  Helm   --> Anima                
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
