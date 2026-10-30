@@ -84,7 +84,8 @@
 ╭────────────────────────────────────────────────────────────────────────╮
   Class  --> Lucky
   Weapon --> Ravenous / Valiance (Solo) / Praxis (Group)
-  Helm   --> Vim                    Cape   --> Vainglory / Lament
+  Helm   --> Vim                    
+  Cape   --> Vainglory / Lament
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUESTS
