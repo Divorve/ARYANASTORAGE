@@ -27,13 +27,15 @@
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
   ✅ Party DPS  (9/10)
-  Weapon --> Valiance               Helm   --> Anima
+  Weapon --> Valiance               
+  Helm   --> Anima
   Cape   --> Vainglory
              --> Best in parties. No haste worries,
              just go all in on nukes
 
   🔁 Solo DPS  (8/10)
-  Weapon --> Dauntless              Helm   --> Anima
+  Weapon --> Dauntless              
+  Helm   --> Anima
   Cape   --> Lament or Vainglory
              --> Fast cooldowns and steady crits,
              even when using The Fourth Dimension
