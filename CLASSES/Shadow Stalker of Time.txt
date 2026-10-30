@@ -25,19 +25,25 @@
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
   ✅ DPS soloing  (10/10)
-  Weapon --> Dauntless              Helm   --> Vim
+  Class --> Luck
+  Weapon --> Dauntless              
+  Helm   --> Vim
   Cape   --> Vainglory
              --> Probably best DPS. The haste buff
              helps keep nukes high
 
   🔁 DPS soloing, alternative  (9/10)
-  Weapon --> Smite                  Helm   --> Vim
+  Class --> Luck
+  Weapon --> Smite                  
+  Helm   --> Vim
   Cape   --> Vainglory
              --> 2nd best DPS, but mana runs out.
              Suffers in long fights
 
   🔁 Sustain soloing  (8/10)
-  Weapon --> Elysium or Mana Vamp   Helm   --> Vim
+  Class --> Luck
+  Weapon --> Elysium or Mana Vamp   
+  Helm   --> Vim
   Cape   --> Vainglory / → Steadier DPS with mana regeneration
 ╰────────────────────────────────────────────────────────────────────────╯
 
