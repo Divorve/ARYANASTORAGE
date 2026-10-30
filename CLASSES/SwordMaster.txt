@@ -23,6 +23,7 @@
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
   Class  --> Luck (Offensive) / Thief (Defensive)
-  Weapon --> Spiral Carve           Helm   --> Base Forge
+  Weapon --> Spiral Carve          
+  Helm   --> Base Forge
   Cape   --> Lament / Absolution
 ╰────────────────────────────────────────────────────────────────────────╯
