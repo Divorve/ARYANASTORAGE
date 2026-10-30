@@ -7,14 +7,27 @@
 📋 REQUIREMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
   Must be Level 30               --> Refer to XP Guide
-  Must have Rank 4 Blacksmithing  --> Refer to Blacksmithing Reputation Guide
-  Must have completed "Escherion" quest
+  Must have Rank 4 Blacksmithing  --> 📖 Blacksmithing
+╰────────────────────────────────────────────────────────────────────────╯
+
+📍 QUEST
+╭────────────────────────────────────────────────────────────────────────╮
+  Quest     --> "Forge Helmet Enhancement"
+  Location  --> /join forge --> Cysero's Forge
+  Reward    --> Unlocks the Forge helmet enhancements
+                (Vim, Examen, Anima, Pneuma) · 30,000 Exp
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ✅ STEP 1 — OBTAIN ITEMS
 ╭────────────────────────────────────────────────────────────────────────╮
-  1st Lord of Chaos Helm   --> /join escherion --> Kill Escherion
-  Chaos Dragonlord Helm    --> /join stalagbite --> Kill Wath
-  Chaos Shogun Helmet      --> /join kitsune    --> Kill Kitsune
-  Wolfwing Mask            --> /join wolfwing   --> Kill Wolfwing
+  1st Lord of Chaos Staff    --> /join escherion  · Staff of Inversion
+  Chaos Dragonlord Axe       --> /join stalagbite · Vath
+  Hanzamune Dragon Koi Blade --> /join kitsune    · Kitsune
+  Wrath of the Werepyre      --> /join wolfwing   · Wolfwing
+╰────────────────────────────────────────────────────────────────────────╯
+
+✅ STEP 2 — TURN IN
+╭────────────────────────────────────────────────────────────────────────╮
+  1. /join forge and talk to Cysero
+  2. Complete "Forge Helmet Enhancement" with all four weapons
 ╰────────────────────────────────────────────────────────────────────────╯
