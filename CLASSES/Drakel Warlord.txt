@@ -19,7 +19,9 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Weapon --> Dauntless / Valiance   Helm   --> Vim / Forge
+  Class --> Fighter / Luck
+  Weapon --> Dauntless / Valiance  
+  Helm   --> Vim / Forge
   Cape   --> Vainglory / Penitence
 ╰────────────────────────────────────────────────────────────────────────╯
 
