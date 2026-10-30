@@ -15,14 +15,16 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  ✅ Damage  (9/10)
-  Weapon --> Dauntless              Helm   --> Anima
+  Class --> Luck
+  Weapon --> Dauntless              
+  Helm   --> Anima
   Cape   --> Vainglory
              --> Fast haste. Use 5 so you don't miss,
              drop 3 (haste buff is already big)
 
-  🔁 Damage, alternative  (8/10)
-  Weapon --> Lacerate               Helm   --> Anima
+  Class --> Luck
+  Weapon --> Lacerate               
+  Helm   --> Anima
   Cape   --> Vainglory
              --> Lacerate lowers enemy dodge, so 5 is
              optional. Use 3 for the haste buff
