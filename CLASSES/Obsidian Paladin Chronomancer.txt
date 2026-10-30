@@ -19,8 +19,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Fighter                Weapon --> Mana Vamp / Valiance
-  Helm   --> Healer / Hearty        Cape   --> Vainglory
+  Class  --> Fighter                
+  Weapon --> Mana Vamp / Valiance
+  Helm   --> Healer / Hearty        
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
