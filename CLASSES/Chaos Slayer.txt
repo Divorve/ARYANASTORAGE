@@ -22,7 +22,8 @@
 ╭────────────────────────────────────────────────────────────────────────╮
   Class  --> Luck
   Weapon --> Valiance / Dauntless / Elysium
-  Helm   --> Anima                  Cape   --> Vainglory / Avarice
+  Helm   --> Anima                  
+  Cape   --> Vainglory / Avarice
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
