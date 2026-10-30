@@ -29,7 +29,8 @@
 
   Class  --> Luck
   Weapon --> Lucky Health Vamp (solo) / Lucky Spiral Carve (group)
-  Helm   --> Luck                   Cape   --> Luck
+  Helm   --> Luck                 
+  Cape   --> Luck
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
