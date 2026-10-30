@@ -20,8 +20,10 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck                   Weapon --> Valiance
-  Helm   --> Forge                  Cape   --> Vainglory
+  Class  --> Luck                   
+  Weapon --> Valiance
+  Helm   --> Forge 
+  Cape   --> Vainglory
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
