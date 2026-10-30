@@ -27,6 +27,7 @@
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
   ✅ Party DPS  (9/10)
+  Class --> Luck
   Weapon --> Valiance               
   Helm   --> Anima
   Cape   --> Vainglory
@@ -34,6 +35,7 @@
              just go all in on nukes
 
   🔁 Solo DPS  (8/10)
+  Class --> Luck
   Weapon --> Dauntless              
   Helm   --> Anima
   Cape   --> Lament or Vainglory
