@@ -20,7 +20,8 @@
 ╭────────────────────────────────────────────────────────────────────────╮
   Class  --> Wizard · Luck
   Weapon --> Elysium / Valiance / Ravenous
-  Helm   --> Pneuma / Luck          Cape   --> Vainglory / Luck
+  Helm   --> Pneuma / Luck          
+  Cape   --> Vainglory / Luck
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
