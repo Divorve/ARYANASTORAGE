@@ -1,0 +1,39 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+                      C A R C O S S A    C O U R T
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📍 LOCATION
+╭────────────────────────────────────────────────────────────────────────╮
+  Map --> Temple of Doom (/join templeofdoom)
+  Faction leader --> Bryn
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚔️ QUESTS
+╭───────────────────────────────── SOLO ─────────────────────────────────╮
+  Complete Sigrid's "Weapon of Choice" quest
+  ⚠️ Requires: the "There's an Order to These Things" quest
+
+  Aegis Shard                   ×6     --> Aegis of Order
+  Sentinal Shard                ×1     --> Sentinel of Order
+
+  Rewards --> 2,500 Gold + 5,000 XP + Doomed Victory ×1
+              150 Rep (free version)
+              200 Rep + Doomed Victory ×2 (Legend version)
+
+  💡 Best if you're farming alone with a good farming class:
+     both drops come from regular monsters, so you can kill them
+     in bulk and turn in over and over.
+╰──────────────────────────────── GROUP ─────────────────────────────────╮
+  Complete Dahlia's "Downfall of Empires" quest
+  ⚠️ Requires: the "Three of Kind" quest
+
+  Dahlia's Hairpin              ×1     --> Downfall of Empires (boss)
+
+  Rewards --> 3,000 Gold + 10,000 XP + Doom Lily ×1
+              200 Rep
+
+  💡 Best with a group of friends who can nuke the boss instantly:
+     one kill = one turn-in.
+╰────────────────────────────────────────────────────────────────────────╯
