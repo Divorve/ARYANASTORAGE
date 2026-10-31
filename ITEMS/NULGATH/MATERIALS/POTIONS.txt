@@ -1,0 +1,133 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+       P O T I O N S ,   T O N I C S   A N D   E L I X I R S
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Golden rule --> Don't buy potions. Brew them.
+
+  Potions matter a lot for Ultra fights (like Ultra Darkon), and people
+  waste 40-60 million gold buying them. Brewing them yourself costs a
+  fraction of that.
+
+  ✅ Only buy the non-alchemy potions, like Endurance Draught,
+     Felicitous Philtre and Vigor Potion.
+
+  Credit --> Brewing Potions 101 by u/Epicious (r/AQW)
+             https://www.reddit.com/r/AQW/comments/vy0ggh/brewing_potions_101_mainly_offensive_potions/
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧪 HOW POTIONS WORK
+╭────────────────────────────────────────────────────────────────────────╮
+  You can triple buff yourself: use a Tonic, an Elixir and a Potion
+  at the same time.
+
+  [ TONIC ]
+  --> Raises a base stat (Luck, Wisdom, etc.)
+  --> Lasts about 15-20 minutes
+  --> Has an Unstable version
+
+  [ ELIXIR ]
+  --> Raises a secondary stat (Haste, Physical Damage, etc.)
+  --> Lasts about 15-20 minutes
+  --> Has an Unstable and a Potent version
+
+  [ POTION ]
+  --> A short boost, e.g. more damage for 35 seconds
+  --> Equip it for the fight; it may loop depending on your class
+
+  💡 Drink your Tonic and Elixir first, then switch to your potions.
+  ⚠️ Potent and Unstable are stronger versions, but Unstable ones have
+     drawbacks. Unstable Fate Tonic lowers your Endurance (less HP),
+     so it's bad for Ultras.
+╰────────────────────────────────────────────────────────────────────────╯
+
+🐉 DRAGON RUNESTONES
+╭────────────────────────────────────────────────────────────────────────╮
+  Dragon Runestones can be bought for gold, and they make brewing easy:
+
+  --> Skip the brewing mini-game
+  --> Give you the Potent version (mostly), some of which can't be bought
+  --> Give you ×8 potions (normally 6-10, depending on the potion)
+
+  Example --> Buying Potent Battle Elixir ×8 costs 2 million gold.
+              Brewing it takes 1 Dragon Runestone (100k) + 2 reagents.
+
+  💡 Brewing is a bit random, but you could brew 20 times before it
+     costs the same as buying, and you get other potions along the way.
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚗️ HOW BREWING WORKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Each alchemy reagent has a higher chance of giving certain potions.
+  Mix 2 reagents and you can get potions from either reagent's pool.
+
+  ⚠️ The wiki lists which potions are possible, but isn't always accurate
+     about which reagents give the best chances. The tables below are
+     from u/Epicious's own testing.
+
+  See: 📖 Alchemy (reputation guide)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎯 BEST REAGENTS (DAMAGE POTIONS)
+╭────────────────────────────────────────────────────────────────────────╮
+  Arashtite Ore + Dried Slime --> Fate / Sage Tonic
+                                  Mobs in Room 2 of /join orecavern
+  Doomatter                   --> Battle / Malevolence Elixir
+                                  Buy from Swindle (10 = 300k Gold)
+  Chaoroot                    --> Honor / Malice Potion
+                                  Buy from Swindle (10 = 300k Gold)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧮 COST EXAMPLE (MAX STACKS)
+╭────────────────────────────────────────────────────────────────────────╮
+  Dragon Runestone          ×60 --> 6 million Gold
+  Arashtite Ore + Dried Slime ×30 --> free (farmed)
+  Doomatter                 ×30 --> 300k Gold
+  Chaoroot                  ×30 --> 300k Gold
+
+  Total --> 6.6 million Gold for 60 × 8 = 480 potions
+
+  💡 Even if only ~50% are the ones you want (it's usually more), that's
+     200+ normal / Potent potions that will last you a long time.
+╰────────────────────────────────────────────────────────────────────────╯
+
+🔬 OTHER REAGENTS (LESS TESTED)
+╭────────────────────────────────────────────────────────────────────────╮
+  Nimblestem       --> Velocity Elixir
+                       /join cloister
+  Lemurphant Tears --> Revitalize Elixir / Life Potion
+                       /join bloodtuskwar
+  Roc Tongue       --> Body Tonic
+                       /join roc or /join mountainpath
+╰────────────────────────────────────────────────────────────────────────╯
+
+✅ TL;DR
+╭────────────────────────────────────────────────────────────────────────╮
+  1. Buying potions is a scam. Brew them instead.
+  2. Buy Dragon Runestones: Potent potions and no mini-game.
+  3. Use the right reagents:
+     Arashtite Ore + Dried Slime = Fate / Sage   (/join orecavern, Room 2)
+     Doomatter                   = Battle / Malevolence   (Swindle)
+     Chaoroot                    = Honor / Malice   (Swindle)
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ UNIQUE ELIXIR · DIVINE ELIXIR
+╭────────────────────────────────────────────────────────────────────────╮
+  Effect --> +35% healing potential for 15 minutes
+  Stacks --> up to 99
+
+  [ HOW TO GET IT ]
+  --> Farm: /join poisonforest  ·  Kill Xavier Lionfang
+      Level 40 · 4,920 HP
+  --> Brew: Chaoroot + Dragon Scale
+            Dragon Scale + Ice Vapor
+            Dragon Scale + Moglin Tears
+  --> Merge (Legend): Exchanging Mixtures (Gebo) at Alchemy Academy
+      Basic Wise Tonic ×3 / Wise Tonic ×2 / Life Potion ×2 + 1,500 Gold
+
+  💡 Also needed for the "Hymn of Light" quest and to merge
+     5 - The Hierophant's Servitude and Academic Merit.
+╰────────────────────────────────────────────────────────────────────────╯
