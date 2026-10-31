@@ -10,7 +10,7 @@
   for Super-Fan Swag Token A. Each turn-in gives a big chunk of rep,
   making this one of the fastest ways to rank up reputations.
 
-  Quest giver --> Malorie @ /join collection
+  Quest giver --> Malorie @ /join collector
   Needs       --> Super-Fan Swag Token A ×1 per turn-in
   Reward      --> 500 Gold + 500 XP + Reputation
 ╰────────────────────────────────────────────────────────────────────────╯
@@ -26,11 +26,18 @@
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🪙 THE TOKEN CHAIN
-╭───────────── Super Fan Token Shop @ /join collection ──────────────────╮
+╭────────────────────────────────────────────────────────────────────────╮
+  Tokens can't be used straight away: each one has to be merged into
+  the next level, one step at a time, until you have Token A.
+
+  Where --> Super Fan Token Shop @ /join collector
+            (open it by talking to the Malorie NPC)
+
+  Super-Fan Swag Token D        ×10    --> Merges into Token C ×1
   Super-Fan Swag Token C        ×10    --> Merges into Token B ×1
   Super-Fan Swag Token B        ×20    --> Merges into Token A ×1
 
-  --> 1 Token A = 20 Token B = 200 Token C
+  --> 1 Token A = 20 Token B = 200 Token C = 2,000 Token D
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ✅ STEP 1 — FARM TOKEN C · "FOR SCIENCE!" (MEMBERS ONLY)
@@ -49,13 +56,14 @@
 
 ✅ STEP 2 — MERGE YOUR TOKENS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Exchange in Super Fan Token Shop @ /join collection:
+  Talk to Malorie @ /join collector --> Super Fan Token Shop
+  Merge each level into the next, in order:
   Super-Fan Swag Token C        ×10    --> Token B ×1
   Super-Fan Swag Token B        ×20    --> Token A ×1
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ✅ STEP 3 — TURN IN WITH MALORIE
-╭──────────────── Malorie's Quests @ /join collection ───────────────────╮
+╭──────────────── Malorie's Quests @ /join collector ────────────────────╮
   Accept the "<Faction> Membership Dues" quest you want
   Super-Fan Swag Token A        ×1     --> Reward from Step 2
   --> Gives 5,000 Rep (or 15,000 for the five factions above)
@@ -78,7 +86,7 @@
   --> Rewards: 500 Gold + 500 XP + Super-Fan Swag Token D ×40
   --> Chance at Super-Fan Swag Token C ×8
 
-  Merge in Super Fan Token Shop @ /join collection:
+  Merge in Super Fan Token Shop (Malorie @ /join collector):
   Super-Fan Swag Token D        ×10    --> Token C ×1
   --> Then follow Step 2 and Step 3 as normal
 
