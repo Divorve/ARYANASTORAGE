@@ -54,6 +54,80 @@
       See: 📖 Arcane Blade of Glory
 ╰────────────────────────────────────────────────────────────────────────╯
 
+🏋️ MASTER TRAINER SET (ANY LEVEL)
+╭────────────────────────────────────────────────────────────────────────╮
+  You can get these at ANY point of the game, so grab them early.
+  The armor alone is worth it: +25% Gold, XP, Rep and Class Points.
+
+  Map    --> /join chchallenge  (or the button in Class Hall)
+  Quest  --> "Master of Your Craft" from Psiae
+  Needs  --> Rounds Won ×1 (dropped by the Training Golem)
+  Reward --> 40,000 XP + 1 Gold every turn-in, plus ONE random item:
+
+  --> Master Trainer                · +25% Gold / XP / Rep / CP
+  --> Master Trainer's Helm         · +10% damage to all monsters
+  --> Master Trainer's Helm + Locks · +10% damage to all monsters
+  --> Master Trainer's Sword        · +30% damage to all monsters
+  --> Master Trainer's Minion (Legend) · +30% damage to Dragon,
+      Human, Undead, Chaos and Elemental monsters
+  --> GrandMaster Trainer (Legend)
+
+  💡 Drops are random, so keep turning in until you have the
+     pieces you want. The 40k XP per run helps you level too.
+╰────────────────────────────────────────────────────────────────────────╯
+
+📊 HOW DAMAGE BOOSTS WORK (AND STACK)
+╭────────────────────────────────────────────────────────────────────────╮
+  There are two kinds of damage boosts:
+
+  --> % to ALL monsters   · works against ANY monster, tagged or not
+  --> % to a RACE         · only works on monsters with that tag
+                            (e.g. Undead, Dragonkin, Human...)
+
+  ✅ A % ALL boost CAN be combined with a % race boost.
+
+  ⚠️ The game only counts 2 boost items at once: the LAST item you
+     put on, plus the one you put on right before it.
+
+  Example with the Master Trainer set:
+  [ 1 ] Put on Master Trainer's Helm    (+10% ALL)
+  [ 2 ] Put on Master Trainer's Sword   (+30% ALL)
+  [ 3 ] Put on Master Trainer's Minion  (+30% race)
+  --> The Helm no longer counts. You get +30% to ALL monsters
+      AND +30% to Dragon, Human, Undead, Chaos and Elemental.
+
+  💡 Sword + Minion is the strongest Master Trainer combo. It's
+     best against race-tagged monsters (like Undead or Dragonkin),
+     and the Sword's 30% ALL still works on everything else.
+╰────────────────────────────────────────────────────────────────────────╯
+
+🗿 BOSS GUIDE · TRAINING GOLEM
+╭────────────────────────────────────────────────────────────────────────╮
+  Level 255 · 600,000 HP · 5 stars
+  --> Cannot be stunned
+  --> Most damage dealt to it is heavily reduced
+  --> 25% dodge chance · 200% hit chance
+
+  [ ATTACKS ]
+  --> Auto Attack      603–737 True Damage · hits up to 10 targets
+                       Heals the Golem a little for every target hit
+  --> Curse of Blades  603–737 Physical · every 6s · up to 4 targets
+                       For 7s your CRITS heal the Golem instead of
+                       hurting it, and your crit heals damage YOU
+  --> Brutal Strike    115% of your HP · every 30s · up to 10 targets
+                       You survive it, but get Maladaptive:
+                       +10% mana cost for 45s (stacks up to 5)
+  --> Evasion          201–246 Magical · every 45s
+                       Golem gets +50% dodge and +200% hit for 20s
+
+  [ HOW TO BEAT IT ]
+  --> Use any solo DPS class, OR get an end-game friend to help you
+  --> Avoid crit-heavy classes: Curse of Blades turns crits against you
+  --> Watch your mana: Maladaptive stacks make skills cost more
+
+  💡 Every win gives you Rounds Won for the quest above.
+╰────────────────────────────────────────────────────────────────────────╯
+
 ⚔️ LEVELING ROUTE
 ╭────────────────────────────────────────────────────────────────────────╮
   Lv 1–50   --> /join underlair
@@ -194,6 +268,20 @@
   ⚠️ Binky is tough: bring a group.
 
   See: 📖 Armor of Awe (both are covered in this guide)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🔥 MID-GAME WEAPON · BURNING BLADE OF ABEZETH
+╭────────────────────────────────────────────────────────────────────────╮
+  A great mid-game weapon to pick up:
+
+  --> +30% damage to all monsters when equipped
+  --> Needed for the LightCaster Class quest
+  --> 20× Champion Sash (Aranx @ /join celestialarena)
+      + 3× Gold Voucher 500k
+  --> Dual version available too (8-year accounts only)
+
+  See: 📖 Burning Blade of Abezeth
+  --> https://solarisaqw.lol/guides/honorable-mentions/burning-blade-of-abezeth
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🎯 LV 85+ · BECOMING A MID-GAME PLAYER
