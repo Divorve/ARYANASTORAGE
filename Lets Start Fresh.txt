@@ -6,7 +6,7 @@
 
 📌 OVERVIEW
 ╭────────────────────────────────────────────────────────────────────────╮
-  Main goal --> Reach Level 75 so you can farm Warlord Icewing,
+  Main goal --> Reach Level 75 so you can farm 📖 Warlord Icewing,
                 the fastest XP in the game once you get there.
 
   Golden rule --> Only farm XP and Gold during server boosts.
@@ -74,7 +74,7 @@
 
                 --- OR ---
 
-                Farm Warlord Icewing (see below)
+                Farm 📖 Warlord Icewing (see below)
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🛡️ RECOMMENDED CLASSES · LV 1–50
@@ -147,6 +147,8 @@
   Solo?      --> Use a high-DPS class with great dodge, like
                  Timekeeper, CSS, or any Chrono class with strong
                  nukes and high dodge chance.
+
+  See: 📖 Warlord Icewing
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🏆 RANK 10 ALL REPUTATIONS
