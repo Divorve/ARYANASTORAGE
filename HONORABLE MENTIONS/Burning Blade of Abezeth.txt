@@ -1,0 +1,67 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+           B U R N I N G    B L A D E    O F    A B E Z E T H
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+⚔️ ITEM INFO
+╭────────────────────────────────────────────────────────────────────────╮
+  Rarity: Awesome Rarity (AC-tagged)      Base Level: 80
+  🔥 +30% damage to all monsters when equipped
+  --> Also required to accept the "LightCaster Class" quest
+      (see the LightCaster Class guide for the full walkthrough)
+╰────────────────────────────────────────────────────────────────────────╯
+
+📦 HOW TO ACCESS
+╭────────────────────────────────────────────────────────────────────────╮
+  /join celestialarena --> Celestial Champion Shop
+╰────────────────────────────────────────────────────────────────────────╯
+
+✅ STEP 1 — FARM THE CHAMPION SASHES
+╭──────────────── "FINAL FIGHT!" quest @ /join celestialarena ───────────╮
+  Champion Sash                 ×20    --> Dropped by Aranx (100% drop)
+  --> Accept the "FINAL FIGHT!" quest
+  --> Walk through the blue portal and defeat Aranx
+  --> Repeat 20 times (Champion Sash stacks up to 20)
+╰────────────────────────────────────────────────────────────────────────╯
+
+✅ STEP 2 — BUY THE GOLD VOUCHERS
+╭────────────────────────────────────────────────────────────────────────╮
+  Purchase in Celestial Champion Shop:
+  Gold Voucher 500k             ×3     --> 1,500,000 Gold total
+╰────────────────────────────────────────────────────────────────────────╯
+
+✅ STEP 3 — MERGE THE BLADE
+╭────────────────────────────────────────────────────────────────────────╮
+  Exchange in Celestial Champion Shop:
+  Champion Sash                 ×20    --> Reward from Step 1
+  Gold Voucher 500k             ×3     --> Purchased in Step 2
+  --> Produces the Burning Blade of Abezeth
+╰────────────────────────────────────────────────────────────────────────╯
+
+⭐ OPTIONAL — DUAL BURNING BLADES OF ABEZETH
+╭───────────── Yulgar's Dual Wield Drop Off @ /join nostalgiaquest ──────╮
+  ⚠️ Requires an account with 8 years played
+
+  Unlock the map:
+  Book of Lore --> Achievement Badges --> Get the Golden 8th Birthday Candle
+  --> This unlocks the /join nostalgiaquest command
+
+  Exchange in Yulgar's Dual Wield Drop Off:
+  Burning Blade of Abezeth      ×1     --> Reward from Step 3
+  --> Produces the Dual Burning Blades of Abezeth
+  --> Same 30% boost as the single blade
+
+  ⚠️ This merge CONSUMES your Burning Blade of Abezeth!
+╰────────────────────────────────────────────────────────────────────────╯
+
+♻️ GET THE SINGLE BLADE BACK — GEAR BUY BACK
+╭────────────────────────────────────────────────────────────────────────╮
+  Log in to your Account Manager @ account.aqw.com
+  --> Open the "Gear Buy Back" tab
+  --> Select the Burning Blade of Abezeth to get it back
+
+  💡 This works for ANY item in the game tagged with AC!
+  Learning this trick saves a lot of time on future farms, since you
+  can recover consumed AC merge items instead of farming them again.
+╰────────────────────────────────────────────────────────────────────────╯
