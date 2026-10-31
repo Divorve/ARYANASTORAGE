@@ -1,0 +1,87 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+                      W A R L O R D    I C E W I N G
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+👥 COMPOSITION
+╭────────────────────────────────────────────────────────────────────────╮
+  - AP          (Seal)
+  - LoO         (buffs + Quix)
+  - DPS         (fill the rest of the room)
+
+  - DPS:          CSS · K.E · Arcana Invoker · TimeKeeper
+  - Support:      AP · LoO
+
+  - Best: AP + LoO in the group, everyone else DPS
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚔️ ROLES
+╭────────────────────────────────────────────────────────────────────────╮
+  AP          --> Support · use the 4th skill (Seal)
+  LoO         --> Support · keep the buff skills up
+                  and use the 5th skill (Quix)
+  DPS         --> Focus the boss
+
+  💡 Having an AP and a LoO in the group makes farming it
+      a lot easier: AP's Seal plus LoO's buffs and Quix.
+  💡 Very easy with a group of friends.
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧍 SOLO
+╭────────────────────────────────────────────────────────────────────────╮
+  Very hard alone: Icewing hits extremely hard.
+
+  --> Use a high-DPS class with great dodge, like TimeKeeper,
+      CSS or any other Chrono class with strong nukes and
+      a high dodge chance.
+╰────────────────────────────────────────────────────────────────────────╯
+
+📍 LOCATION
+╭────────────────────────────────────────────────────────────────────────╮
+  /join icewing
+  Also: /join icestormarena · east of Screen 22 · "Warlord Icewing"
+        button from the Warlord Icewing NPC
+  Player limit: 7
+  ⚠️ Locked zone: Level 75+ only
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎯 USED FOR
+╭────────────────────────────────────────────────────────────────────────╮
+  XP farming from Level 75 to 100
+  Quest: "Warlord Icewing!" from King Rimescar
+  Requires: Warlord Icewing Defeated ×1 (dropped by the boss)
+
+  Rewards --> Free:   75,000 XP  + 300 Gold  (+ server boost)
+              Member: 100,000 XP + 300 Gold  (+ server boost)
+
+  💡 Farm it during server boosts for the most XP.
+  See: 📖 Lets Start Fresh
+╰────────────────────────────────────────────────────────────────────────╯
+
+📊 STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  Level: 100
+  HP: 978 350
+  Tagged: Human
+  💡 Use a Human damage-boosting item
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Icy Slash  --> 16 072 - 19 644 dmg
+  Screech    --> 16 072 - 19 644 dmg
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎁 DROPS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ AC drops ]
+  Boreal Cavalier Bardiche · Dual Boreal Blades
+  Frost Medal · Ice Needle · Treasure Chest
+
+  [ Quest drops ]
+  Glacial Pinion  --> "The Encroaching Shadows (Daily)"
+  Icewing's Laurel --> "Hero's Heartbeat"
+  Rimeblossom · Starlit Frost · Temporal Floe
+                  --> "Book of Ice: Glacial Impact"
+╰────────────────────────────────────────────────────────────────────────╯
