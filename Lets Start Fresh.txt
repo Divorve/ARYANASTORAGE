@@ -1,0 +1,244 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+               L E V E L I N G   G U I D E   ·   1 → 1 0 0
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Main goal --> Reach Level 75 so you can farm Warlord Icewing,
+                the fastest XP in the game once you get there.
+
+  Golden rule --> Only farm XP and Gold during server boosts.
+                  Same effort, far more reward.
+╰────────────────────────────────────────────────────────────────────────╯
+
+📦 WHAT YOU NEED
+╭────────────────────────────────────────────────────────────────────────╮
+  --> Optional: a friend (ideally end-game) to help you kill monsters
+  --> A class with AoE skills (a good farming class)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧭 THE ORDER TO DO THINGS
+╭────────────────────────────────────────────────────────────────────────╮
+  1. XP
+  2. Chaos Saga
+  3. General storyline
+  4. Questlines (complete them all)
+     ⏳ Some can't be finished right away: their maps are locked to
+     seasons of the year (e.g. Frostval in winter / Christmas).
+     Skip them for now, but don't forget them. Come back when the
+     seasonal event comes around.
+  5. Classes / 51% boost weapon
+  6. Reputations
+  7. End-game content
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧭 WHERE TO START
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 1 ] Complete the Tutorial
+  [ 2 ] Complete the Chaos Saga FIRST
+        Open your Map --> click "Story" --> start with the Prologue
+        and work through each Chaos Lord in order.
+  [ 3 ] At Level 50: start the Lord of Order dailies
+        See: 📖 Lord of Order
+╰────────────────────────────────────────────────────────────────────────╯
+
+🗡️ YOUR FIRST BOOST WEAPON (LV 1)
+╭────────────────────────────────────────────────────────────────────────╮
+  Every AQW player needs some kind of boosting weapon. Get this one
+  as soon as you start:
+
+  --> Arcane Blade of Glory · +20% XP when equipped
+      Helps A LOT in your early levels.
+      See: 📖 Arcane Blade of Glory
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚔️ LEVELING ROUTE
+╭────────────────────────────────────────────────────────────────────────╮
+  Lv 1–50   --> /join underlair
+                Kill Void Draconian (Lv 65) · 4k HP
+                625 XP + server boost per kill
+
+  Lv 50–55  --> /join icestormarena
+                Kill Icy Wind · 3k HP
+                728 XP + server boost per kill
+
+  Lv 55–75  --> /join icestormarena
+                Kill Frostspawn Horror · 3k HP
+                807 XP + server boost per kill
+
+  Lv 75–100 --> /join icestormarena
+                Kill Frost Spirit · 4k HP
+                997 XP + server boost per kill
+
+                --- OR ---
+
+                Farm Warlord Icewing (see below)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ RECOMMENDED CLASSES · LV 1–50
+╭────────────────────────────────────────────────────────────────────────╮
+  You want a class with MULTI-HITS. That lets others jump in and
+  help you farm the mobs in /underlair. If you have an end-game
+  friend they can carry you, but you still need a solid solo class.
+
+  [ FARMING ]
+  --> Vampire Lord  (seasonal: Mogloween)
+      See: 📖 Vampire Lord
+  --> Blaze Binder  (needs Pyromancer first, then upgrade)
+      See: 📖 Pyromancer
+  --> Shaman
+      See: 📖 Shaman
+  --> Eternal Inversionist
+      See: 📖 Eternal Inversionist
+  --> ShadowScythe General
+      See: 📖 ShadowScythe General
+
+  [ SOLO ]
+  There aren't many great solo classes this early. Honestly, just
+  grind it out slowly with Mage or Healer. It doesn't matter much,
+  because you'll be replacing it almost immediately with:
+
+  --> Blood Sorceress --> upgrades into Scarlet Sorceress
+      Get it: /join towerofmirrors · kill Scarletta
+      See: 📖 Scarlet Sorceress
+
+      ✅ All-rounder: great solo thanks to its self-sustain,
+         and a strong multi-hit AoE farmer
+      ⚖️ Very average in every other part of the game
+      💡 Multi-hit, so it ranks up quickly
+╰────────────────────────────────────────────────────────────────────────╯
+
+⭐ RANKING UP CLASSES FAST
+╭────────────────────────────────────────────────────────────────────────╮
+  The fastest way to rank a class is a map with lots of mobs:
+
+  --> /join streamwar
+  --> /join icestormarena
+  --> /join icestormunder  (Level 75+ only)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎃 SEASONAL CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  Some great classes are only available during seasonal events,
+  so grab them every time the event comes around.
+
+  --> Mogloween --> Vampire Lord
+      See: 📖 Vampire Lord
+  --> Frostval  --> Frostval Barbarian
+      See: 📖 Frostval Barbarian
+╰────────────────────────────────────────────────────────────────────────╯
+
+❄️ WARLORD ICEWING (LV 75+)
+╭────────────────────────────────────────────────────────────────────────╮
+  Map        --> /join icewing  (locked zone · Level 75+ · room limit 7)
+                 Also reachable from Icestorm Arena: east of Screen 22,
+                 "Warlord Icewing" button from the Warlord Icewing NPC
+  Quest      --> "Warlord Icewing!" from King Rimescar
+  Requires   --> Warlord Icewing Defeated ×1 (dropped by the boss)
+
+  Rewards    --> Free:   75,000 XP  + 300 Gold  (+ server boost)
+                 Member: 100,000 XP + 300 Gold  (+ server boost)
+
+  Difficulty --> VERY easy with a group of friends.
+                 Very hard solo: Icewing hits extremely hard.
+
+  Solo?      --> Use a high-DPS class with great dodge, like
+                 Timekeeper, CSS, or any Chrono class with strong
+                 nukes and high dodge chance.
+╰────────────────────────────────────────────────────────────────────────╯
+
+🏆 RANK 10 ALL REPUTATIONS
+╭────────────────────────────────────────────────────────────────────────╮
+  As you go along in the game, work on getting EVERY reputation to
+  Rank 10. Most of them are needed for grinds, farms or questlines
+  later on.
+
+  See: Reputation guides
+  --> https://solarisaqw.lol/guides?cat=reputations
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ MID-GAME MUST-HAVES · BLADE + CAPE OF AWE
+╭────────────────────────────────────────────────────────────────────────╮
+  At some point in the mid-game levels, get these two. Blade first,
+  then go straight for the Cape.
+
+  [ 1 · BLADE OF AWE ]
+  --> +10% damage to Chaos, Dragon, Elemental, Human and Undead
+  --> Unlocks the Awe enhancements shop
+  --> Needs Rank 6 Blade of Awe rep (Valencia's quests at /join museum)
+
+  [ 2 · CAPE OF AWE ]
+  --> +25% Rep, Gold, XP and Class Points when equipped
+  --> Merged from a Cape Relic (Binky at /join doomvault)
+  ⚠️ Binky is tough: bring a group.
+
+  See: 📖 Armor of Awe (both are covered in this guide)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎯 LV 85+ · BECOMING A MID-GAME PLAYER
+╭────────────────────────────────────────────────────────────────────────╮
+  At Level 85+ you're ready to start farming for end-game content.
+
+  💡 Wath's take (yes, me, the guy writing this, talking to you,
+     the reader): don't consider end-game content until Level 95+,
+     because you'll want proper enhancements on your gear first.
+     Not obligatory, just my advice.
+
+  [ MUST-HAVE CLASSES ]
+  You need ALL four to even be considered a mid-game player. Each
+  one works in its base form for Ultra fights, which give access to
+  most, if not all, of the game's end-game rewards.
+
+  --> ArchPaladin
+      See: 📖 ArchPaladin
+  --> Lord of Order
+      See: 📖 Lord of Order
+  --> StoneCrusher
+      See: 📖 StoneCrusher
+  --> Legion Revenant
+      See: 📖 Legion Revenant
+
+  [ A GOOD 51% WEAPON ]
+  --> Exalted Apotheosis + Dual
+      The easiest 51% weapon to get, but also the most boring:
+      it's time-locked. Log in every day and do 3 bosses for 4 weeks.
+      See: 📖 Exalted Apotheosis + Dual
+╰────────────────────────────────────────────────────────────────────────╯
+
+🔨 LV 100 · FORGE ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  Got all the classes above? Reach Level 100 if you haven't already.
+  NOW you're ready to farm what's important...
+
+  FORGE enhancements. *cackles like an evil scientist*
+  (Professor Doofenshmirtz? Perry the Platypus?)
+
+  These are incredibly cancer-inducing to get (joke, ofc), but
+  only the Forge weapons. Follow the guides and it's really easy.
+
+  --> Weapons --> FORGE / WEAPON
+  --> Helmets --> FORGE / HELMET
+  --> Capes   --> FORGE / CAPE
+╰────────────────────────────────────────────────────────────────────────╯
+
+🗺️ ON THE SIDE · COMPLETE THE STORY
+╭────────────────────────────────────────────────────────────────────────╮
+  Most mid-game and end-game content is LOCKED behind finishing
+  earlier maps, so story progress matters as much as your level.
+
+  Track your progress in two places:
+  --> Book of Lore: shows how many adventures you've completed
+      (goal: e.g. "You have completed 56 of 56 adventures!")
+  --> Map --> "Story" tab: every saga, its quest count
+      (e.g. Prologue 3/3) and its recommended level range
+
+  💡 Bored of Icewing? Swap to questlines between runs.
+
+  ⏳ Seasonal questlines (like Frostval) only open during their event.
+     Skip them until then, but don't forget to come back for them.
+
+  ⚠️ Recommendation: complete ALL of these before worrying
+     about anything else.
+╰────────────────────────────────────────────────────────────────────────╯
