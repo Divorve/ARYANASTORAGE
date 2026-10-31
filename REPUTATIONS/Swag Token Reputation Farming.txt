@@ -1,0 +1,87 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+          S W A G   T O K E N   R E P U T A T I O N   F A R M I N G
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📌 OVERVIEW
+╭────────────────────────────────────────────────────────────────────────╮
+  Malorie will "pay your membership dues" to 21 factions in exchange
+  for Super-Fan Swag Token A. Each turn-in gives a big chunk of rep,
+  making this one of the fastest ways to rank up reputations.
+
+  Quest giver --> Malorie @ /join collection
+  Needs       --> Super-Fan Swag Token A ×1 per turn-in
+  Reward      --> 500 Gold + 500 XP + Reputation
+╰────────────────────────────────────────────────────────────────────────╯
+
+🏆 REPUTATION PER TURN-IN
+╭────────────────────────────────────────────────────────────────────────╮
+  15,000 Rep  --> ChronoSpan, Horc, Troll, Sandsea, Yokai
+
+  5,000 Rep   --> Dwarfhold, Good, Evil, Vampire, Lycan, Mythsong,
+                  Arcangrove, Skyguard, Doomwood, Etherstorm,
+                  ThunderForge, Swordhaven, Chaos, Northpointe,
+                  Embersea, Ravenloss
+╰────────────────────────────────────────────────────────────────────────╯
+
+🪙 THE TOKEN CHAIN
+╭───────────── Super Fan Token Shop @ /join collection ──────────────────╮
+  Super-Fan Swag Token C        ×10    --> Merges into Token B ×1
+  Super-Fan Swag Token B        ×20    --> Merges into Token A ×1
+
+  --> 1 Token A = 20 Token B = 200 Token C
+╰────────────────────────────────────────────────────────────────────────╯
+
+✅ STEP 1 — FARM TOKEN C · "FOR SCIENCE!" (MEMBERS ONLY)
+╭──────────────── "For Science!" from Drakath @ /join terrarium ─────────╮
+  The most efficient way to farm Swag Tokens.
+
+  Doppelganger Documents        ×1     --> Monsters in /join collectorlab
+                                           (kill them in the FIRST room)
+  --> Accept "For Science!" from Drakath @ /join terrarium
+  --> Head to /join collectorlab and kill the first-room monsters
+  --> Turn in for a chance at Super-Fan Swag Token C ×30
+
+  💡 You need 200 Token C per Token A, so roughly 7 successful
+     drops of 30 for each turn-in with Malorie.
+╰────────────────────────────────────────────────────────────────────────╯
+
+✅ STEP 2 — MERGE YOUR TOKENS
+╭────────────────────────────────────────────────────────────────────────╮
+  Exchange in Super Fan Token Shop @ /join collection:
+  Super-Fan Swag Token C        ×10    --> Token B ×1
+  Super-Fan Swag Token B        ×20    --> Token A ×1
+╰────────────────────────────────────────────────────────────────────────╯
+
+✅ STEP 3 — TURN IN WITH MALORIE
+╭──────────────── Malorie's Quests @ /join collection ───────────────────╮
+  Accept the "<Faction> Membership Dues" quest you want
+  Super-Fan Swag Token A        ×1     --> Reward from Step 2
+  --> Gives 5,000 Rep (or 15,000 for the five factions above)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🆓 NON-MEMBER OPTION · HIDDEN QUESTS
+╭────────────────────────────────────────────────────────────────────────╮
+  "For Science!" is members only, but free players have their own
+  quest. It's "hidden": you open it by clicking an object on the
+  map instead of an NPC.
+
+  --> Click the Mouse Trap @ /join terrarium
+      Go to the room furthest to the LEFT. The trap is a big wooden
+      mouse trap lying on the dirt path, with a red bottle cap on
+      one end. The Dustbunnies of Doom roam right next to it.
+
+  "Flying... and Falling"
+  Dust Bunny Blown Apart!       ×10    --> Dustbunny of Doom
+  Ball of Fluff                 ×10    --> Dustbunny of Doom
+  --> Rewards: 500 Gold + 500 XP + Super-Fan Swag Token D ×40
+  --> Chance at Super-Fan Swag Token C ×8
+
+  Merge in Super Fan Token Shop @ /join collection:
+  Super-Fan Swag Token D        ×10    --> Token C ×1
+  --> Then follow Step 2 and Step 3 as normal
+
+  💡 Slower than "For Science!", but still a fast way to grind rep
+     in factions like Yokai as a free player.
+╰────────────────────────────────────────────────────────────────────────╯
