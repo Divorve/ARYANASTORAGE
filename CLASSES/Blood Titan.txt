@@ -9,29 +9,97 @@
   Worth getting? --> Yes.
 
   Best for --> ⚔️ Soloing · 🛡️ Taunting · 🏋️ Tanking
-╰────────────────────────────────────────────────────────────────────────╯
 
-📦 REQUIREMENTS
-╭────────────────────────────────────────────────────────────────────────╮
-  How to Get --> 200 Blood Titan Tokens → merge at /join classhallc
+  Stat Model --> Tank Melee
+  Resource   --> 💡 No mana — every skill is paid for with your own HP
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck
-  Weapon --> Valiance / Praxis (Solo Taunting)
-  Helm   --> Healer / Hearty        
-  Cape   --> Penitence
+  Class     --> Fighter
+  Weapon    --> Valiance
+  Helm      --> Anima
+  Cape      --> Absolution (Soloing) / Vainglory (Teamfighting)
+  💊 Potions --> Might Tonic / Battle Elixir / Honor Potion
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚔️ SKILLS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ 1 · Gilded Crusher ]     Rank 0 · 3s CD · Physical
+  --> Auto attack. Damage scales with your current HP.
+
+  [ 2 · Titanic Smash ]      Rank 1 · 4s CD · Physical · 💉 20% max HP
+  --> Crippling Smash on target: -60% outgoing damage,
+      -30% Crit Chance for 8s. 25% chance to stun for 1s.
+
+  [ 3 · Titan's Fury ]       Rank 2 · 12s CD · Physical · 💉 20% max HP
+  --> You: +20% Haste. Target (Disemboweled): +30% damage taken.
+      Both last 15s.
+
+  [ 4 · Titan's Curse ]      Rank 3 · 16s CD · Physical · 💉 10% max HP
+  --> Taunt (Focus) for 4s. Titan's Curse on target:
+      +5,000% Crit Chance but -300% Crit Damage for 2s.
+
+  [ 5 · Blood Rage ]         Rank 5 · 20s CD · Magical · 💉 30% max HP
+  --> Massive hit. +100% outgoing physical damage but
+      -50% Heal Power for 5s.
+
+  PASSIVES
+  Crimson Shield    (Rank 4)  --> Damage taken -80%
+  Blood Volume      (Rank 4)  --> Endurance +300%, Dodge -50%
+  Titanic Bloodline (Rank 10) --> Skills can't miss or crit
+                                  Skills 2–5 heal 20% max HP over 1s
+                                  Gilded Crusher applies Life Drinker
+                                  (5% max HP every 2s)
 ╰────────────────────────────────────────────────────────────────────────╯
 
 🔢 COMBOS
 ╭────────────────────────────────────────────────────────────────────────╮
-  💡 Most attacks cost HP — Skill 2 heals it back
+  💡 Every skill costs HP, but each one also heals 20% max HP back
+     (Titanic Bloodline) — Skill 2 is the cheapest refill on a 4s CD
 
-  Skill 2     --> 💡 Your primary heal — use to recover HP between attacks
-  Skill 5 & 4 --> 💡 When both are active simultaneously,
-                  enemy attacks actually heal you
+  Skill 2 --> 💡 Your sustain button — near-free heal that also
+              cuts enemy damage by 60%
+
+  Skill 4 --> 💡 Forces the enemy to crit with -300% Crit Damage,
+              so their hits heal you instead (2s window)
+
+  Skill 5 --> 💡 Burst — but halves Heal Power for 5s,
+              make sure HP is high before using it
 
   Main Rotation --> ✅ Spam 2 until ready → then 5 → 4 → 3 → 2
                     --> repeat cycle
+╰────────────────────────────────────────────────────────────────────────╯
+
+📦 PRE-REQUIREMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  🔒 Legend membership (class, tokens and quests are all Legend)
+  Level 50
+
+  How to Get --> 200 Blood Titan Tokens → merge at Blood Titan Merge
+                 /join classhallc  or  /join greenguardeast
+
+  Token Rate --> 25 tokens per 'Blood Titan's Challenge' turn-in
+                 --> 8 full runs for 200 tokens
+╰────────────────────────────────────────────────────────────────────────╯
+
+⚔️ TOKEN FARM
+╭────────────────────────────────────────────────────────────────────────╮
+  (Both quests from Shi Mar → /join greenguardeast)
+
+  [ 1 · Blood Titan's Tribute ]
+  --> /join bloodtitan         ·  Kill Blood Titan → Blood Titan's Phial
+  --> /join titandrakath       ·  Kill Titan Drakath → Titanic Drakath's Blood
+                                  Requires: 'Topple some Titans!' quest
+                                  Solo room — Heroic Titan (temp) equipped on Screen 1
+  --> /join desoloth           ·  Kill Desoloth → Desoloth's Blood
+  --> /join ultracarnax        ·  Kill Ultra Carnax → Ultra Carnax's Blood
+
+  [ 2 · Blood Titan's Challenge ]
+  --> /join bloodtitan         ·  Kill Ultra Blood Titan ('Ultra Fight')
+                                  → Ultra Blood Titan Defeated
+  --> Turn in with Blood Titan's Tribute → Blood Titan Token ×25
+
+  💡 Ultra Carnax & Ultra Blood Titan are much easier in a full room
+     (limit 6) — bring a group
 ╰────────────────────────────────────────────────────────────────────────╯
