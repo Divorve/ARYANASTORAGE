@@ -27,20 +27,20 @@
 ╭────────────────────────────── SAFE COMP ───────────────────────────────╮
   [ LOO ]
     Enhancements --> Awe Blast / Forge / Vainglory
-    Consumables  --> Fate/Battle Elixir + Darkgrip
+    Consumables  --> Fate Tonic / Potent Battle Elixir + Scroll of Dark grip
 
   [ CS ]
     Enhancements --> Rav / Forge / Lament
-    Consumables  --> Fate/Battle + Fele
+    Consumables  --> Fate Tonic / Potent Battle Elixir + Felicitious Philtre
 
   [ LR ]
-    Enhancements --> AC / Hearty / Peni
-    Consumables  --> Fate/Mal + Scroll of Enrage
+    Enhancements --> Arcana's Concerto / Hearty / Penitence
+    Consumables  --> Fate Tonic / Malevolance Elixir + Scroll of Enrage
     Role         --> Solo Taunting
 
   [ SC ]
     Enhancements --> Valiance / Anima / Absolution / fighter class
-    Consumables  --> might, divine + Potent honor
+    Consumables  --> Might Tonic, Divine Elixir + Potent Honor Potion
 ╰──────────────────────────── MID SPEED COMP ────────────────────────────╮
   [ LOO ]
     Enhancements --> Awe Blast / Forge / Vainglory
