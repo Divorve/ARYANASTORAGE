@@ -12,7 +12,6 @@
 
 📌 GENERAL
 ╭────────────────────────────────────────────────────────────────────────╮
-  SOLO boss --> 1 vs 1
   Every attack ignores Focus --> she can't be taunted
   Cannot be stunned --> stun skills do nothing here
   Best class --> Verus DoomKnight
