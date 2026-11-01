@@ -27,20 +27,20 @@
 ╭────────────────────────────── SAFE COMP ───────────────────────────────╮
   [ LOO ]
     Enhancements --> Awe Blast / Forge / Vainglory
-    Consumables  --> Body/Divine Elixir + Potent Honor
+    Consumables  --> Fate/Battle Elixir + Darkgrip
 
-  [ AP ]
-    Enhancements --> Valiance / Forge / Vainglory
-    Consumables  --> Fate/Destruction Elixir + Potent honor
+  [ CS ]
+    Enhancements --> Rav / Forge / Lament
+    Consumables  --> Fate/Battle + Fele
 
-  [ CaV ]
-    Enhancements --> Ravenous or Dauntless / Anima / Vainglory
-    Consumables  --> Fate/Destruction Elixir + Scroll of Enrage
-    Role         --> Taunt every 2 million hp with "3" skill
+  [ LR ]
+    Enhancements --> AC / Hearty / Peni
+    Consumables  --> Fate/Mal + Scroll of Enrage
+    Role         --> Solo Taunting
 
   [ SC ]
-    Enhancements --> Arcana's Concerto / Anima / Absolution
-    Consumables  --> Fate/Destruction Elixir + Potent honor
+    Enhancements --> Valiance / Anima / Absolution / fighter class
+    Consumables  --> might, divine + Potent honor
 ╰──────────────────────────── MID SPEED COMP ────────────────────────────╮
   [ LOO ]
     Enhancements --> Awe Blast / Forge / Vainglory
