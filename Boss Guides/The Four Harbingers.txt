@@ -1,0 +1,334 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+                 T H E    F O U R    H A R B I N G E R S
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📍 LOCATION
+╭────────────────────────────────────────────────────────────────────────╮
+  Map --> /join FourHarbingers
+  NPC --> Aranx (Aranx's Quests)
+  Shops --> Aranx 2026 Rares shop · Four Harbingers Trove · Where are you?
+╰────────────────────────────────────────────────────────────────────────╯
+
+📌 GENERAL
+╭────────────────────────────────────────────────────────────────────────╮
+  5 SOLO bosses in the same map --> room limit 1
+  Halosis --> Bello --> Fames --> Mors --> Anethyx'o's Absolution
+
+  How to reach a boss --> accept that boss's quest first
+  --> then take the portal in Screen 1
+  /join or respawning sends you back to Screen 1
+
+  Every boss --> Boss Shield (dmg over 50,000 is reduced)
+             --> cannot be stunned
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                              1 · HALOSIS
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 75      DIFF --> ★★★★★      HP --> 350,000
+  Crit Chance --> 0%      Dodge --> 0%
+  Outgoing Dmg --> +20%   Hit Chance --> +20%
+  Attacks can't miss
+  Quest --> Intro Halosis Iter (Signet of Inner Conflict)
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Commanding Force --> 20% of max HP · True Damage · 2.25s CD
+
+  Heal Me          --> 10s CD · Ignores Focus · also used at the start
+                       Applies Crits Inverted 5s
+                       --> -1,000% crit dmg
+
+  Die Now          --> at 30% HP · charges for 3s
+  └─ Last Words    --> 100% of max HP · True Damage
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ CLASS & ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ DoT · Dragon of Time ]
+    Class   --> Wizard
+    Weapon  --> Elysium
+    Helm    --> Pneuma
+    Cape    --> Vainglory
+
+  Pots --> U/Sage Tonic · U/Malevolence Elixir · Potent Honor Potion
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Nothing really from this boss --> just burst it!
+  At 30% HP she charges Die Now --> Last Words = 100% of your max HP
+  --> save your burst and push her from 30% to 0 as fast as you can
+  Heal Me makes your crits almost useless for 5s
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎁 DROPS
+╭────────────────────────────────────────────────────────────────────────╮
+  Celestial Winged Manticore (AC)     Manticore of Light (AC)
+  Scroll of the Quartet               Scroll of the Wanderer
+  Treasure Chest (Misc) (AC)
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                               2 · BELLO
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 80      DIFF --> ★★★★★      HP --> 450,000
+  Crit Chance --> 0%      Dodge --> 0%      Crit Dmg --> 1,000%
+  Quest --> Intus Bello Pugna (Signet of the Endless Journey)
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Bludgeon    --> 450-550 dmg · Physical · 2.25s CD
+                  Applies Warpath to self --> +5% outgoing dmg per stack
+
+  Blade Rain  --> 1,800-2,200 dmg · Physical · 10s CD
+                  Can't miss · also used at the start
+                  Applies Declaration to self 5s
+                  --> +400% outgoing physical dmg
+
+  Warfury     --> at 50% HP --> +25% crit chance
+                  (with 1,000% crit dmg --> crits hurt A LOT)
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ CLASS & ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ LR · Legion Revenant ]
+    Class   --> Wizard
+    Weapon  --> Elysium
+    Helm    --> Pneuma
+    Cape    --> Penitence
+
+  Pots --> U/Sage Tonic · Potent Revitalize Elixir · Potent Honor Potion
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Keep your HP at max or else you will get nuked
+  Spam skill 4 whenever it's available
+  Below 50% HP he can crit --> be extra careful from here
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎁 DROPS
+╭────────────────────────────────────────────────────────────────────────╮
+  Infernal Winged Manticore (AC)      Manticore of Malice (AC)
+  Scroll of the Preacher              Scroll of the Quartet
+  Treasure Chest (Misc) (AC)
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                               3 · FAMES
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 85      DIFF --> ★★★★★      HP --> 500,000
+  Crit Chance --> 0%      Dodge --> 0%
+  Attacks can't miss
+  Quest --> Intra Fames Abundantia (Signet of the Filled Chalice)
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Scale Slam  --> 1,000 dmg · True Damage · 2.25s CD
+                  Steals your Safeguard (Shield Stolen)
+                  --> Fames gets a 50,000 dmg Safeguard for 10s
+
+  Starvation  --> 1,000 dmg · True Damage · 8s CD · also used at start
+                  Applies Starvation 10s
+                  --> END set to 0 · -5% haste per stack
+                  Applies Decay 10s --> no healing except lifesteal
+                  Steals your Safeguard (Shield Stolen)
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ CLASS & ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VDK · Verus DoomKnight ]
+    Class   --> Lucky
+    Weapon  --> Dauntless
+    Helm    --> Anima
+    Cape    --> Penitence
+
+  Pots --> Fate Tonic · Potent Battle Elixir · Potent Honor Potion
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Nothing really from this boss --> just BURST IT
+  Don't use Safeguard skills --> she steals them and gets a shield
+  Decay blocks normal healing --> only lifesteal heals you
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎁 DROPS
+╭────────────────────────────────────────────────────────────────────────╮
+  Scroll of the Benevolent            Scroll of the Quartet
+  Treasure Chest (Misc) (AC)
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                                4 · MORS
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 90      DIFF --> ★★★★★      HP --> 600,000
+  Crit Chance --> 0%      Dodge --> 0%
+  Quest --> Introsus Quietus Mors (Signet of the Long Quiet)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ ABILITIES
+╭────────────────────────────────────────────────────────────────────────╮
+  Aura of Death --> attacks instantly kill you if you are
+                    below 100% of your max HP
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Slash            --> 450-550 dmg · Physical · 2.25s CD
+                       Steals your Safeguard (Shield Stolen)
+                       --> Mors gets a 50,000 dmg Safeguard for 10s
+
+  Life Shaver      --> your current HP minus 1 · True Damage · 8s CD
+                       Can't miss · heals Mors
+
+  Counter Cast     --> 20s CD · charges for 2s
+  └─ Counter Attack --> 6s · all dmg Mors takes is reflected to you
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ CLASS & ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ LR · Legion Revenant ]
+    Class   --> Wizard
+    Weapon  --> Elysium
+    Helm    --> Pneuma
+    Cape    --> Penitence
+
+  Pots --> U/Sage Tonic · Potent Revitalize Elixir · Potent Honor Potion
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Watch for the counter! --> STOP attacking
+    "Mors prepares a counter attack!!"
+    "Mors is countering all attacks!"
+  --> press ESC when the counter text appears
+  --> click the boss again to see his Counter Attack icon
+  --> attack again when the icon is gone (lasts 6s)
+
+  Life Shaver leaves you at 1 HP --> heal back up right away
+  Don't use Safeguard skills --> he steals them and gets a shield
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎁 DROPS
+╭────────────────────────────────────────────────────────────────────────╮
+  Manticore of Darkness (AC)          Scroll of the Innocent
+  Scroll of the Quartet               Treasure Chest (Misc) (AC)
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                      5 · ANETHYX'O'S ABSOLUTION
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 95      DIFF --> ★★★★★      HP --> 1,000,000
+  Crit Chance --> 0%      Dodge --> 0%
+  Attacks can't miss
+  Quest --> Penitus Absolution (Signet of the Broken Bond)
+  Temp Item --> Anethyx'o's Absolution Orbs (Yoshino's Heroic Quest)
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ ABILITIES
+╭────────────────────────────────────────────────────────────────────────╮
+  Every 10s uses ONE of --> Heal Me · Blade Rain · Famished · Execute
+  (a mix of the other four Harbingers' skills)
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Infernal Arms    --> 600 dmg · Physical · 2.25s CD
+                       Steals your Safeguard (Shield Stolen)
+                       --> boss gets a 50,000 dmg Safeguard for 10s
+
+  Heal Me          --> Ignores Focus
+                       Applies Crits Inverted 5s --> -1,000% crit dmg
+
+  Blade Rain       --> 2,400 dmg · Physical
+                       Applies Declaration to self 5s
+                       --> +400% outgoing physical dmg
+
+  Famished         --> 1,000 dmg · True Damage
+                       Applies Starvation 5s
+                       --> END set to 0 · -5% haste per stack
+                       Applies Decay 5s --> no healing except lifesteal
+                       Steals your Safeguard (Shield Stolen)
+
+  Execute          --> self buff 5s
+                       --> attacks instantly kill you if you are
+                           below 100% of your max HP
+
+  Life Shaver      --> your current HP minus 1 · True Damage · 8s CD
+                       Used at the start · heals the boss
+
+  Die Now          --> at 20% HP · charges for 3s
+  └─ Last Words    --> 100% of max HP · True Damage
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ CLASS & ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ KE · King's Echo ]
+    Class   --> Lucky / Wizard
+    Weapon  --> Ravenous
+    Helm    --> Examen
+    Cape    --> Lament
+
+  Pots --> Fate Tonic · Potent Battle Elixir · Felicitous Philtre
+╰────────────────────────────────────────────────────────────────────────╯
+
+🔁 ROTATION
+╭────────────────────────────────────────────────────────────────────────╮
+  Start --> 4
+  Then  --> (2 3) x4 --> 5 --> 4
+  Repeat --> (2 3) x4 --> 5 --> 4 ... until the boss is dead
+
+  Full loop --> 4 · 2 3 · 2 3 · 2 3 · 2 3 · 5 · 4 · 2 3 · ...
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Stick to the rotation --> it keeps your damage and survival up
+  Life Shaver leaves you at 1 HP --> heal back up right away
+  Execute active (5s) --> any hit kills you if you're not at full HP
+  At 20% HP she charges Die Now --> Last Words = 100% of your max HP
+  --> push her from 20% to 0 as fast as you can
+  Don't use Safeguard skills --> she steals them and gets a shield
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎁 DROPS
+╭────────────────────────────────────────────────────────────────────────╮
+  Manticore of Infinity (AC)          Scroll of the Heretic
+╰────────────────────────────────────────────────────────────────────────╯

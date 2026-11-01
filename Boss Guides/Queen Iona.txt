@@ -1,0 +1,124 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+                          Q U E E N    I O N A
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📍 LOCATION
+╭────────────────────────────────────────────────────────────────────────╮
+  Map --> /join QueenIona
+  Temp Item --> Lightning Diadem
+               --> Eye of the Storm · Generational Tyranny (Legend)
+               --> Iona the Isolated
+  Temp Item --> Queen Iona's hair strands (Yoshino's Heroic Quest)
+╰────────────────────────────────────────────────────────────────────────╯
+
+📌 GENERAL
+╭────────────────────────────────────────────────────────────────────────╮
+  SOLO boss --> 1 vs 1
+  Cannot be stunned --> stun skills do nothing here
+  Boss Shield --> big hits over 25,000 get reduced
+  Removes Event Horizon auras from players
+  Best class --> Verus DoomKnight
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                              QUEEN IONA
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 80      DIFF --> ★★★★★      HP --> 1,000,000
+  Outgoing Dmg --> 50%      Dmg Resist --> 50%      Dodge --> 0%
+  DoT Resist --> 80%        Crit Dmg --> 100%
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ ABILITIES
+╭────────────────────────────────────────────────────────────────────────╮
+  Boss Shield       --> dmg over 25,000 is reduced
+                        (extra dmg ^0.85 · never below 50,000)
+  Eye of the Storm  --> every skill (except Sky Splitter)
+                        can't miss and always crits
+  Cannot be stunned
+  Removes Event Horizon auras on players
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Storm Surge      --> 225-275 dmg · Magical · 2s CD
+
+  Fulminate        --> 500-575 dmg · Magical · 10s CD
+                       Applies Electrocuted 20s
+                       --> -10% haste · -15% dmg resist · -25% magic resist
+                       Supercell active --> 30% chance of Ion Shift
+                       --> next Charge has the opposite effect
+
+  Roaring Thunder  --> Charge · 14s CD
+                       "There is no escape from my gaze!"
+                       Applies Positive OR Negative Charge
+                       Negative --> -5000% dmg + magic resist
+                       Positive --> nothing on its own
+                       Ion Shift active --> Charge is reversed
+
+  Sky Splitter     --> 250-350 dmg · True Damage
+                       Used 4s after Roaring Thunder
+                       Only hits players standing in the green zone
+                       Charged + green zone --> Neutralized (Charge removed)
+                                            or Overcharged
+                                            (-5000% dmg + magic resist)
+
+  Supercell        --> at 70% HP · self buff
+                       "Lowly vermin! Have you forgotten your place?"
+                       --> +100% crit dmg · +50% outgoing dmg
+
+  Queen of Skye    --> at 40% HP · self buff
+                       "I will squash you like the insect you are!"
+                       --> +200% crit dmg · +10% outgoing magic dmg
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  VDK · Verus DoomKnight
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ VDK ]
+    Class   --> Lucky
+    Weapon  --> Ravenous  ·  Spiral Carve also works
+    Helm    --> Base Forge
+    Cape    --> Penitence
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧪 POTIONS
+╭────────────────────────────────────────────────────────────────────────╮
+  Fate Tonic
+  Potent Battle Elixir
+  Felicitous Philtre
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  🔴 Red zone   = NEGATIVE
+  🟢 Green zone = POSITIVE
+
+  NORMAL --> stand in the OPPOSITE zone of your symbol
+    ➕ over your head --> go to the 🔴 RED (negative) zone
+    ➖ over your head --> go to the 🟢 GREEN (positive) zone
+
+  REVERSED --> boss says everything is reversed / inversed
+    --> MATCH your symbol with the zone
+    ➕ over your head --> go to the 🟢 GREEN (positive) zone
+    ➖ over your head --> go to the 🔴 RED (negative) zone
+
+  You have 4 seconds after Roaring Thunder to get to the right zone
+  Wrong zone --> -5000% dmg + magic resist --> you die to the next hit
+
+  70% HP --> Supercell · Ion Shift (reversed) can start happening
+  40% HP --> Queen of Skye · she hits much harder from here
+
+  💡 Every hit always crits --> keep your HP high at all times.
+╰────────────────────────────────────────────────────────────────────────╯

@@ -1,0 +1,96 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+                             N E R I T E S
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📍 LOCATION
+╭────────────────────────────────────────────────────────────────────────╮
+  Map --> /join Nerites
+╰────────────────────────────────────────────────────────────────────────╯
+
+📌 GENERAL
+╭────────────────────────────────────────────────────────────────────────╮
+  NOT a solo boss --> bring friends to help you
+  Every hit is True Damage --> dmg resist / defense does nothing
+  Hydro Slam and Water Breath ignore Focus --> she can't be taunted
+  Heals 500,000 HP after every Water Breath --> you need Decay
+  Cannot be stunned --> stun skills do nothing here
+  Best class --> Legion Revenant
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                                NERITES
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 70      DIFF --> ★★★★★      HP --> 3,000,000
+  Race --> Dragon      Dodge --> 0%      Crit Chance --> -10,000%
+  Physical Resist --> 25%      Magic Resist --> 75%
+  DoT Resist --> 50%           Crit Dmg --> 200%
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ ABILITIES
+╭────────────────────────────────────────────────────────────────────────╮
+  Attacks can't miss
+  Boss Shield  --> dmg over 200,000 is reduced
+                   (extra dmg ^0.8 · never below 200,000)
+  Cannot be stunned
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Hydro Slam    --> 25% of max HP · True Damage · 2.5s CD
+                    AoE 7 · Ignores Focus
+
+  Water Breath  --> 70% of max HP · True Damage · 10s CD
+                    AoE 7 · Ignores Focus
+                    Applies Torrential Terror 4s
+                    --> -50% hit chance · -50% outgoing dmg
+                    Always followed by Regenerate
+
+  Regenerate    --> Nerites heals 500,000 HP
+                    Used right after Water Breath
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  LR · Legion Revenant
+  Other classes with Decay --> LDK · VDK · most Dark Caster classes
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ LR ]
+    Class   --> Wizard
+    Weapon  --> Valiance
+    Helm    --> Pneuma
+    Cape    --> Vainglory  ·  Avarice is also great here
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧪 POTIONS
+╭────────────────────────────────────────────────────────────────────────╮
+  Sage Tonic
+  Potent Malevolence Elixir
+  Potent Honor Potion
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Regenerate heals her 500,000 HP --> keep Decay on her at all times
+  No Decay class? --> Decay scroll works, but uptime is far from 100%
+
+  All hits are True Damage --> damage resist / defense means nothing
+  --> that's why Avarice works so well here
+
+  Water Breath = 70% max HP + Hydro Slam = 25% max HP
+  --> be close to full HP when Water Breath comes (every 10s)
+
+  Forge helms --> only use them if you stay above 3k HP
+
+  💡 Dragon-tagged --> damage boosts vs Dragons work here.
+╰────────────────────────────────────────────────────────────────────────╯
