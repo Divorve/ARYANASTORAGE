@@ -1,0 +1,80 @@
+╔════════════════════════════════════════════════════════════════════════╗
+
+                    W I T C H    Q U E E N    T A L I A
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+📍 LOCATION
+╭────────────────────────────────────────────────────────────────────────╮
+  Map --> Birgitta Spire
+  Temp Quest --> Sun, Moon, and Talia (Original Darkovian Tear)
+╰────────────────────────────────────────────────────────────────────────╯
+
+📌 GENERAL
+╭────────────────────────────────────────────────────────────────────────╮
+  SOLO boss --> 1 vs 1
+  Every attack ignores Focus --> she can't be taunted
+  Cannot be stunned --> stun skills do nothing here
+  Best class --> Verus DoomKnight
+╰────────────────────────────────────────────────────────────────────────╯
+
+
+╔════════════════════════════════════════════════════════════════════════╗
+
+                          WITCH QUEEN TALIA
+
+╚════════════════════════════════════════════════════════════════════════╝
+
+❤️ STATS
+╭────────────────────────────────────────────────────────────────────────╮
+  LVL --> 70      DIFF --> ★★★★★      HP --> 700,000
+  Race --> Undead      Outgoing Dmg --> 100%      Dodge --> 0%
+╰────────────────────────────────────────────────────────────────────────╯
+
+💥 ATTACKS
+╭────────────────────────────────────────────────────────────────────────╮
+  Eternal Night  --> 398-487 dmg · Magical · 2.25s CD
+                     Can't miss · Ignores Focus
+                     Applies Eternal Night 60s
+                     --> -5000% hit chance · -100% outgoing dmg
+
+  Sunrise        --> 35% of max HP · True Damage · 6s CD
+                     Can't miss · Ignores Focus
+                     Applies Time Passed 12s (stacks to 3)
+                     3 stacks --> consumed into Sunrise 8s
+                     --> +5000% hit · +300% outgoing dmg · +100% crit
+╰────────────────────────────────────────────────────────────────────────╯
+
+🛡️ CLASSES
+╭────────────────────────────────────────────────────────────────────────╮
+  Verus DK · Verus DoomKnight
+╰────────────────────────────────────────────────────────────────────────╯
+
+✨ ENHANCEMENTS
+╭────────────────────────────────────────────────────────────────────────╮
+  [ Verus DK ]
+    Weapon  --> Dauntless / Ravenous
+    Helm    --> Anima / Base Forge
+    Cape    --> Penitence
+╰────────────────────────────────────────────────────────────────────────╯
+
+🧠 STRATEGY
+╭────────────────────────────────────────────────────────────────────────╮
+  Eternal Night shuts your damage off --> you can't hurt her normally
+  Sunrise is your window --> every 3rd stack gives 8s of
+  +5000% hit · +300% dmg · +100% crit --> dump all burst here
+
+  Sunrise hits for 35% max HP every 6s --> heal between hits
+  2 Sunrises unhealed = 70% HP gone · Eternal Night stacks on top
+
+  Long fight (700,000 HP) --> bring potions, keep buffs up
+
+  💡 Undead-tagged --> damage boosts vs Undead work here.
+╰────────────────────────────────────────────────────────────────────────╯
+
+🎁 DROPS
+╭────────────────────────────────────────────────────────────────────────╮
+  Crystalized Darkovian Tear (AC)     Witch Princess' Astrolabe (AC)
+  Amelianesa (AC)                     Witch Queen's Astrolabe (AC)
+  Treasure Chest (Misc) (AC)
+╰────────────────────────────────────────────────────────────────────────╯
