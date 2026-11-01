@@ -33,7 +33,7 @@
 
 ✨ ENHANCEMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Class  --> Luck
+  Class  --> Wizard / Luck
   Weapon --> Arcana's Concerto
              Valiance (Farming)
              Praxis
