@@ -21,5 +21,5 @@
   Teeth                    ×22 --> /join eridani (Reward from "Sweet Dreams Are Made of Teeth" quest)
   La's Gratitude           ×22 --> /join astravia (Reward from "Let Sleeping Dogs Lie" quest)
   Astravian Medal          ×22 --> /join astraviacastle (Reward from "Vanity Project" quest)
-  A Melody                 ×22 --> /join astraviajudgement (Reward from "A Storied Vow" quest)
+  A Melody                 ×22 --> /join astraviajudge (Reward from "A Storied Vow" quest)
 ╰────────────────────────────────────────────────────────────────────────╯
