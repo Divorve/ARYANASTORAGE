@@ -13,6 +13,7 @@
   AH      Artifact Hunter
   AM      Archmage
   AO      Alpha Omega
+  AI      Arcana Invoker
   AP      ArchPaladin
   Arach   Arachnomancer
   BB      Blaze Binder
@@ -29,6 +30,7 @@
   CMD     Chrono Commandant
   CMP     Chronomancer Prime
   CS      Chaos Slayer
+  CSS/CSH     Chrono ShadowSlayer / Chrono ShadowHunter
   CSP     Chaos Shaper
   Cryo    Cryomancer
   Dai     Daimon
