@@ -29,9 +29,6 @@
   💡 TIP: Enable Quest Log Turn-Ins and Reaccept Quest After Turn-In
      from Advanced Options (press L to open Quest Log)
 ╰─────────────────────────────── NON-MEM ────────────────────────────────╮
-  If "Where There's Smoke..." is still available (Blazebalm's quests not finished):
-  --> /join feverfew > walk left > up from Blazebalm and repeatedly farm it
-
   If Blazebalm's quests are done:
   👥 GROUP: Complete Pyralis' "Defeat Mega Tyndarius" quest from /join lavarun
             Requires completing the entire Embersea storyline
