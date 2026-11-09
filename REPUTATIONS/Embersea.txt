@@ -13,8 +13,6 @@
 ╭─────────────────────────────── EVERYONE ───────────────────────────────╮
   Complete the Embersea storyline:
   --> /join embersea > /join pyrewatch > /join feverfew
-      ⚠️ NOTE: Non-members farming "Where There's Smoke..." should NOT
-      complete all of Blazebalm's quests yet
   --> /join phoenixrise > /join fireforge > /join lavarun
 ╰──────────────────────────────── MEMBER ────────────────────────────────╮
   1. Complete the storyline from /join brimestone > /join nightmare
