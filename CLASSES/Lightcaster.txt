@@ -14,8 +14,9 @@
 
 📦 REQUIREMENTS
 ╭────────────────────────────────────────────────────────────────────────╮
-  Requirements --> Level 80 · 1,000 AC
+  Requirements --> Level 80 · 1,000 AC · 1,500,000 Gold
                    Storyline: /celestialrealm > /lostruins > /lostruinswar > /celestialarena
+                   Complete "Celestial Realm at War" (unlocks Aranx's weapon quests)
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ⚔️ QUEST
@@ -27,13 +28,20 @@
 
   [ Step 2 — LightCaster ]
   --> Accept "LightCaster Class" quest from Aranx at /join celestialrealm
+  --> Keep in your inventory: LightMage + the 5 weapons below
+  --> Turn in: Aranx's Pure Light
 
   Burning Blade               ×1   → /join lostruinswar  ·  Kill Diabolical Warlord  (~1%)
-  Burning Blade of Azebeth    ×1   → /join celestialarena  ·  Kill Aranx  (~5%)
-  Guardian of Spirits' Blade  ×1   → Complete Aranx's quest  ·  Kill 500 Fallen Knights
-  Avatar of Death's Scythe    ×1   → Complete Aranx's quest  ·  Kill 500 Underworld Hounds
-  Spear of Time               ×1   → Complete Aranx's quest  ·  Kill 500 Infernal Imps
+  Burning Blade of Abezeth    ×1   → Merge at Ramiel (NPC, outside the boss room)  ·  /join celestialarena
+                                     • 20× Champion Sash: accept "Final Fight", go through the middle portal, kill Aranx (100% drop)
+                                     • 3× Gold Voucher 500k: Ramiel's merge shop, 500,000 Gold each
+  Guardian of Spirits' Blade  ×1   → Aranx's quest  ·  500 Trapped Spirits from Fallen Knights (/join lostruins or /join lostruinswar)
+  Avatar of Death's Scythe    ×1   → Aranx's quest  ·  500 Energy of Death from Underworld Hounds (/join lostruins or /join lostruinswar)
+  Lance of Time               ×1   → Aranx's "Spear of Time" quest  ·  500 Captured Time from Infernal Imps (/join lostruins or /join lostruinswar)
   Aranx's Pure Light          ×1   → /join celestialarena  ·  Kill Aranx  (~10%)
+
+  💡 Farm Aranx once for both: the 20 Champion Sashes and Aranx's Pure Light
+     drop from the same fight.
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ✨ ENHANCEMENTS
