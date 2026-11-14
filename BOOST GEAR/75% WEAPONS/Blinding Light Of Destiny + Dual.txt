@@ -43,6 +43,24 @@
   Non-member: Walk to it from /join battleunderc
 ╰────────────────────────────────────────────────────────────────────────╯
 
+🏅 HONORABLE MENTION  ·  BONE DUST GROUP FARM
+╭────────────────────────────────────────────────────────────────────────╮
+  Bone Dust ×40 per kill --> /join necroproject (Kill Imperial Noxus)
+  Imperial Noxus is Level 70 with 1,000,000 HP, so farm it with a group
+  Use it for "Bust some Dust" instead of /join battleunderb
+
+  Recommended DPS (for one-hit kills):
+  📖 King's Echo
+  📖 Chrono ShadowHunter
+  📖 TimeKeeper
+
+  Recommended supports:
+  Lord of Order
+  Legion Revenant
+  Verus DoomKnight
+  ArchFiend
+╰────────────────────────────────────────────────────────────────────────╯
+
 ⚒️ DAILY METAL QUEST (COMPLETE EACH DAY WHILE FARMING)
 ╭────────────────────────── MERGE REQUIREMENTS ──────────────────────────╮
   --> /join necropolis --> Artix's "Mine Crafting" daily quest
