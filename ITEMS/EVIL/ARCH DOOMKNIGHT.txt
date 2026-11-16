@@ -64,7 +64,8 @@
   ╭────────────────────────────────────────────────────────────────────╮
     Ultimate Darkness Gem  ×50     --> /join shadowfallwar (walk up > right)
                                        Kill 2 Ghouls and 2 Undead War Mages
-    Undead Energy          ×2,000  --> /join battleunderb (Kill enemies)
+    Undead Energy          ×2,000  --> Drops from the same /join shadowfallwar mobs while
+                                       farming the gems (top up at /join battleunderb if short)
     (Necro) Scroll of
      Dark Arts             ×2      --> /join epicvordred (Kill Ultra Vordred ~1% drop)
     Doom Heart             ×1      --> /join sepulchurebattle (Kill Ultra Sepulchure ~0.5% drop)
