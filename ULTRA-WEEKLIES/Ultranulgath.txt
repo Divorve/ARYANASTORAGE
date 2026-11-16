@@ -47,18 +47,13 @@
 
 ⚠️ BOSS MECHANICS
 ╭────────────────────────────────────────────────────────────────────────╮
-  LR + AP loop taunt Nulgath — if untaunted he will nuke the party
-
-  DoT damage will hit the Blade without targeting it
-  --> Everyone focus Nulgath · Blade will die on its own
-
-  LoO: Occasionally press 5 on the Blade
+  Everyone focus Nulgath only
+  DPS + Sub DPS --> Full DPS potions
 
   [ TAUNTING ]
-  Artix server  --> LR and LoO loop taunt freely
+  LoO  --> Taunts non-Behold (red orb animation on Nulgath)
+           From fight start: count 6 seconds → taunt · Repeat
 
-  Non-Artix server --> Assign one player to taunt Behold text
-                       Assign one player to taunt non-Behold text:
-                       --> Wait 5 seconds from fight start, then taunt
-                       --> Taunt again 1 second after the contract aura fades
+  LR   --> Taunts Behold (blue orb animation)
+           Yellow "Behold" text appears on screen → taunt
 ╰────────────────────────────────────────────────────────────────────────╯
