@@ -42,6 +42,28 @@
   --> /join shadowfall --> Accept quest from Braeus
   --> Use Fast Travel to reach each boss and collect 20 Essences
   NOTE: Very tedious - consider getting Exalted Apotheosis instead
+
+  OPTIONAL DAILY METHODS (stack these on top of Method 1 or 2)
+
+  METHOD 3: "The Encroaching Shadows" daily quest (Level 75+, no membership)
+  --> Once per day - item list is in VOID AURA DAILIES below
+  --> Reward: Void Aura ×50 per day (350 per week)
+  --> Bonus: chance of (Necro) Scroll of Dark Arts ×1 (also needed in Step 1)
+  --> Daily only: 7,500 ÷ 50 = 150 days for the full amount
+
+  METHOD 4: Gravelyn friendship gifting (once per day)
+  --> Gift Gravelyn something she likes - friendship grows 1/4 heart per day
+    Under 1 full heart   ×0 per day   --> Days 1-3
+    1-2 full hearts      ×5 per day   --> Days 4-11   (8 days  = 40)
+    3-5 full hearts      ×10 per day  --> Days 12-23  (12 days = 120)
+    6 full hearts (max)  ×20 per day  --> Day 24 onward (140 per week)
+  --> First 23 days give 160 in total, then 20 per day
+  --> Gifting only: 390 days for the full amount
+
+  METHODS 3 + 4 TOGETHER
+  --> 70 per day once Gravelyn is at 6 hearts (490 per week)
+  --> First 30 days: 1,500 + 300 = 1,800 Void Auras (24% of the total)
+  --> Dailies only: about 112 days for the full amount (starting at 0 hearts)
 ╰────────────────────────────────────────────────────────────────────────╯
 
 ⚡ VOID AURA DAILIES (LEVEL 75+ REQUIRED)
@@ -52,6 +74,8 @@
     Graveclaw's Broken Axe    ×1  --> /join gravechallenge (Kill Graveclaw the Destroyer)
 
   "The Encroaching Shadows" (No membership, Group required) --> /join shadowfall (Braeus NPC)
+  --> Also available from the Daily Quest Board in Yulgar's Inn
+  --> Reward: Void Aura ×50 + chance of (Necro) Scroll of Dark Arts ×1
     Glacial Pinion    ×1  --> /join icestormarena (Kill Warlord Icewing)
     Hydra Eyeball     ×3  --> /join hydrachallenge (Select Hydra Head 90s from Dew Drop fairy)
     Flibbitigiblets   ×1  --> /join thevoid (Kill Flibbitiestgibbet)
