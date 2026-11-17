@@ -94,7 +94,7 @@
   --> Divine Elixir             ·  /join poisonforest  ·  Kill Xavier Lionfang
   --> Prayer of Salvation       ·  /join ultraalteon  ·  Kill Ultra Alteon
                                 ⚠️ Group recommended — Do NOT attack during damage meter phase
-  --> Acolyte's Braille         ·  /join newfinale  ·  Kill Chaos Healer (select Willow Creek from War Map)
+  --> Acolyte's Braille         ·  /join newfinale  ·  Kill Alliance Healer (select Willow Creek from War Map)
   --> Innocence ×25             ·  /join skytower  ·  Kill Doves
 
   [ 7 · Righteous Seal ]
